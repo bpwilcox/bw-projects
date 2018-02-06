@@ -368,7 +368,7 @@ In this project, we used a biLSTM  recurrent neural network to perform character
 ![image](https://user-images.githubusercontent.com/22353511/35858752-76d5c872-0af2-11e8-8ec2-7da7d1f0875d.png)
 
 For the validation set, we achieved around 95% accuracy per character. The number of characters per line of our validation
-set is 38.99. So we achieved around 13% per line accuracy. The weights with the lowest validation loss performed poorly in trying to predict the output of the given poem, it did not even have the correct amount of lines. Thus we decided to not trust our validation loss as a correct indicator of how well the weights would do in metrical analysis. Without being able to use the validation loss as valid information, we had to instead use the weights with the lowest training loss which was the last epoch we ran. As we can see from the below results, these weights performed very well when predicting the output of the given poem with only a few errors.
+set is 38.99. So we achieved around 13% per line accuracy. The weights with the lowest validation loss performed poorly in trying to predict the output of the given poem, it did not even have the correct amount of lines. We tried instead to use the weights with the lowest training loss which was the last epoch we ran. As we can see from the below results, these weights performed very well when predicting the output of the given poem with only a few errors.
 
 ![image](https://user-images.githubusercontent.com/22353511/35858780-8e2bc01c-0af2-11e8-8d34-433f4ffb9dde.png)
 
