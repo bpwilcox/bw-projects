@@ -11,7 +11,7 @@ This repository is a collection of robotics, control, and machine learning relev
 * [Orientation Tracking and Panoramic Image Stitching with IMU](#orientation-tracking-and-panoramic-image-stitching-with-imu) 
 * [Color Segmentation and Barrel Detection](#color-segmentation-and-barrel-detection)
 * [SLAM and Texture Mapping of mobile robot](#slam-and-texture-mapping-of-mobile-robot)
-* [Kinematic and Dynamic Simulation of simple 3 DOF Robot Arm](#kinematic-and-dynamic-simulation-of-3-dof-robot-arm)
+* [Kinematic and Dynamic Simulation of simple 3 DOF Robot Arm](#kinematic-and-dynamic-simulation-of-simple-3-dof-robot-arm)
 * [2D Planar RRT motion planner](#2d-planar-rrt-motion-planner)
 * [Support Vector Machines](#support-vector-machines)
 * [Pixel Classification via EM for Gaussian Mixtures](#pixel-classification-via-em-for-gaussian-mixtures) 
