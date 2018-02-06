@@ -27,7 +27,7 @@ This repository is a collection of robotics, control, and machine learning relev
 ### Description:
 This project is from my MIT MechE bachelor's thesis. The aim is to investigate human motor control strategies. Curved constraints offer a unique opportunity to exploit forces of contact. A circular crank experiment using the MIT MANUS
 robot was designed in order to test how well subjects can follow a set of simple instructions to
-rotate the crank at various constant speeds.
+rotate the crank at various constant speeds. In addition to velocity measurements read at the end effector of teh MIT MANUS, force and EMG measurements are also taken and qualitatively analyzed.
 ### Methods:
 * Velocity, force, and EMG data were collected during four tasks: 
   * turning the crank at the subject’s preferred or comfortable speed 
@@ -36,6 +36,9 @@ rotate the crank at various constant speeds.
   * rotating the crank at three instructed speeds (slow, medium, and fast) with visual feedback. 
 * The coefficient of variation (CV) of the velocity for each trial was computed as a measure of performance.
 ### Results
+![pref](https://user-images.githubusercontent.com/22353511/35853880-9ce051c2-0ae3-11e8-9601-4f820cd91725.jpg)
+![cvspeed](https://user-images.githubusercontent.com/22353511/35853901-af42be2c-0ae3-11e8-9325-59e630351f63.jpg)
+
 Statistical analysis showed that speed significantly affected CV but the direction of turning the
 crank, clockwise or counterclockwise, did not. The observation that CV increased as speed
 decreased, despite visual feedback, confirms previous studies showing that human motor control
@@ -49,6 +52,10 @@ This project followed my thesis work in the MIT graduate course 2.152: Nonlinear
 * Admittance control: simulate virtual crank constraint and inertia
 * Adaptive control: compensate for innacuracy of model 
 ### Results
+![circlefast](https://user-images.githubusercontent.com/22353511/35853224-ce1b093c-0ae1-11e8-948f-39fe4c2e75bd.jpg)
+![circlefastr](https://user-images.githubusercontent.com/22353511/35853284-f47b6c48-0ae1-11e8-8e76-f810c9c4a22f.jpg)
+![params](https://user-images.githubusercontent.com/22353511/35853299-fc924924-0ae1-11e8-8f5f-a053e339775d.jpg)
+
 Simulations showed convergence of the end effector to the radius and maintenance of desired velocity yet not convergence to the theoretical parameters.
 
 ## Impedance Control for Use in Autonomous Decommissioning
@@ -74,6 +81,11 @@ This project was undertaken during my internship abroad in the UPC Biomechanical
 * Port-Hamiltonian dynamics modeling and control design
 
 ### Results
+Below is the forward dynamics simulation with no control 
+![forwardsim](https://user-images.githubusercontent.com/22353511/35853989-e554474c-0ae3-11e8-9c4e-6b3bb31320b7.jpg)
+Using the PH control design, we obtain:
+![phcontrolsim](https://user-images.githubusercontent.com/22353511/35854013-fcf68374-0ae3-11e8-8699-b0ccbb392d85.jpg)
+
 While PD control is a common, and successful, method for reducing the tracking error, we find that the control design described by Dirksz and Scherpen to offer the advantage of transforming the Port-Hamiltonian formulation of the system into a new form that is easily implemented without having to perform inverse dynamics directly.
 
 ## Model-Less Control using local Jacobian updates
@@ -106,6 +118,9 @@ In this project, we use an unscented Kalman filter to track the orientation of a
 * Unscented Kalman Filter (UKF)
 * Panoramic Image Stitching
 ### Results
+![o2](https://user-images.githubusercontent.com/22353511/35855249-81f33e48-0ae7-11e8-8b69-2ac742751644.png)
+![a2](https://user-images.githubusercontent.com/22353511/35855258-876ac01c-0ae7-11e8-9fa7-a1fe9060eb92.png)
+![p2](https://user-images.githubusercontent.com/22353511/35855273-92235cd0-0ae7-11e8-9552-3675821315ac.png)
 
 ## Color Segmentation and Barrel Detection 
 ### Description:
@@ -137,6 +152,8 @@ In this project, kinematic and dynamic models are built and used to simulate a t
 * Forward/Inverse dynamics
 * P-control
 ### Results
+![q1traj](https://user-images.githubusercontent.com/22353511/35854721-f33f3e5a-0ae5-11e8-9515-e5c91194c8ff.gif)
+![q2f_rect](https://user-images.githubusercontent.com/22353511/35854737-fd6300ba-0ae5-11e8-9820-d4ca1dcd4fbf.gif)
 
 ## 2D Planar RRT motion planner
 ### Description:
@@ -146,6 +163,8 @@ Given a 2 dof planar robot arm model and physical obstacles in a task space, thi
 * Rapidly exploring random trees (RRT)
 * Spline trajectory smoothing
 ### Results
+![0229](https://user-images.githubusercontent.com/22353511/35854551-794796b0-0ae5-11e8-8e86-b1e462c8c1f5.png)
+![ezgif com-optimize](https://user-images.githubusercontent.com/22353511/35854425-2e981e5a-0ae5-11e8-8bd4-ab2d64d3d92f.gif)
 
 ## Support Vector Machines
 ### Description:
@@ -156,6 +175,9 @@ The objective of this project was to review the Support Vector Machine algorithm
 * Soft-Margin
 * Kernel Trick
 ### Results
+![soft1](https://user-images.githubusercontent.com/22353511/35854595-9d7c29b0-0ae5-11e8-9f9c-51cdcba0ca27.png)
+![rbf1](https://user-images.githubusercontent.com/22353511/35854607-a597fc6e-0ae5-11e8-88f2-becebada522b.png)
+![poly](https://user-images.githubusercontent.com/22353511/35854621-ade5bf3c-0ae5-11e8-8219-b763056726c8.png)
 
 ## Pixel Classification via EM for Gaussian Mixtures 
 ### Description:
@@ -174,7 +196,12 @@ In this work, a
 * Regularized Discriminant Analysis (RDA)
 * PCA + LDA
 ### Results
+![5a](https://user-images.githubusercontent.com/22353511/35854890-81db4a3c-0ae6-11e8-8e1e-cddd1fed35d0.jpg)
+![5b](https://user-images.githubusercontent.com/22353511/35854909-8c3735c2-0ae6-11e8-9648-85bbc3291fae.jpg)
 
+PCA Results: 33.33% error;
+LDA Results: 18.33% error;
+PCA + LDA Results: 30% error
 ## Multi-Layer Perceptron for MNIST digit classification
 ### Description:
 In this pair project, we built (from scratch) a small neural network to classify handwritten digits, obtained from the MNIST  database. We experimented with 1 and 2 hidden layers between the inputs (785 image pixels) and the outputs (10 classication probabilities) -  the hidden layers used hyperbolic tangent and sigmoid activation functions, while the output layer used softmax activation to discern classes. To increase speed of convergence, we employed some standard techniques such as momentum, stochastic gradient descent, and preprocessing on input data. 
