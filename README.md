@@ -124,16 +124,19 @@ While PD control is a common, and successful, method for reducing the tracking e
 ## Model-Less Control using local Jacobian updates
 [back to top](#list-of-projects)
 
-[see project files]
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Model-Less%20Control)
 ### Description:
 This was the beginning of my current MS research project where I began by trying to extend my advisor, Professor Yip's, previous work on model-less control of continuum manipulators. This work is a simple example using parts of his basic methodology on a simpler planar robot model.
 ### Methods:
 * Local Jacobian update optimization
+* Kalman filter (commented out)
 ### Results
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/22353511/35856921-4c22506a-0aec-11e8-8af6-611512fb2a18.gif)
 
 ## Online Learning and Control using Sparse Local Gaussian Processes for Teleoperation
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bwprojects/tree/master/MS%20Research%20Sparse%20Online%20Local%20Gaussian%20Process%20Regression)
 ### Description:
 This project is a work-in-progress for my MS Thesis work in the ARClab at UC San Diego. This work aims to achieve the goal of online model-learning and control for a teleoperation task by using Sparse Online Local Gaussian Process Regression (SOLGPR) to infer a local function mapping of robot sensor states to joint states and perform a prediction of the teleoperation command for joint control. In this iteration (not current), local Gaussian process models are learned and sparsified via Variational Inference with user-tuned bounds on model size and complexity. An optimization scheme involving periodic optimization of a drifting Gaussian process helps to reduce computation time in conjunction with the sparse local models. This framework provides a basis for a tradeoff between model complexity and performance.   
 
@@ -158,6 +161,8 @@ My current progress on this work is looking into ways to reduce computation time
 
 ## Orientation Tracking and Panoramic Image Stitching with IMU 
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Orientation%20Tracking%20%26%20Panorama)
 ### Description: 
 In this project, we use an unscented Kalman filter to track the orientation of a rotating camera. A panorama is generated using these filtered 3-D orientation states by stitching together rotated images.
 
@@ -172,6 +177,8 @@ In this project, we use an unscented Kalman filter to track the orientation of a
 
 ## Color Segmentation and Barrel Detection 
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Color%20Segmentation%20and%20Barrel%20Detection)
 ### Description:
 In this project, a multivariate Gaussian model is trained to classify the pixels of images containing a red barrel into several color
 classes. The red barrels are detected by grouping the regions of the barrel’s red labeled pixels into bounded boxes and determining whether these boxes satisfy a ”barrellness” threshold. The distance to the barrel from the camera was learned by training a linear regressor on the training data of known distances and the width and height of the detected barrels. This method was evaluated on a validation and test set.
@@ -188,6 +195,8 @@ classes. The red barrels are detected by grouping the regions of the barrel’s 
 
 ## SLAM and Texture Mapping of mobile robot
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/SLAM%20and%20Texture%20Mapping)
 ### Description:
 In this project, we use grid-based SLAM with particle filters to predict and update the state of the robot and an occupancy grid of the environment map. Observations from a lidar senso, odometry information, and configurations of the lidar relative to the robot center of mass are given. Given localized robot poses and updated grid map from SLAM, RGB-D camera images are used to generate a color texture map of the ground plane in the grid map. 
 ### Methods:
@@ -203,6 +212,8 @@ In this project, we use grid-based SLAM with particle filters to predict and upd
 
 ## Kinematic and Dynamic Simulation of simple 3 DOF Robot Arm
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/3DOF%20Kinematics%20%26%20Dynamics%20Sim)
 ### Description:
 In this project, kinematic and dynamic models are built and used to simulate a trajectory profile, compensate for gravity, and track control to a reference position 
 ### Methods:
@@ -215,6 +226,8 @@ In this project, kinematic and dynamic models are built and used to simulate a t
 
 ## 2D Planar RRT motion planner
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/2D%20Planar%20RRT)
 ### Description:
 Given a 2 dof planar robot arm model and physical obstacles in a task space, this project entailed creating an RRT motion planner with collision detection in the robot's c-space. The final trajectory was smoothed with a spline. 
 ### Methods:
@@ -227,6 +240,8 @@ Given a 2 dof planar robot arm model and physical obstacles in a task space, thi
 
 ## Support Vector Machines
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/SVM)
 ### Description:
 The objective of this project was to review the Support Vector Machine algorithm as a convex optimization problem and show how its dual formulation solves for the optimal decision boundary. The use of soft-margin version and the kernel trick are shown to form a strong dual form and their strengths are verified through an algorithm in MATLAB to classify datasets.
 ### Methods:
@@ -241,6 +256,8 @@ The objective of this project was to review the Support Vector Machine algorithm
 
 ## Pixel Classification via EM for Gaussian Mixtures
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/EM%20for%20Gaussian%20Mixture)
 ### Description:
 In this work, a cheetah image was classified into foreground and background via Gaussian mixtures trained with Expectation maximization (EM). Different combinations of randomly initialized mixtures are compared as well as the dimension of the features (1 to 64) and number of mixtures (1 to 32). 
 ### Methods:
@@ -254,6 +271,8 @@ In this work, a cheetah image was classified into foreground and background via 
 
 ## Principal Component Analysis vs Linear Discriminant Analysis for Face Recognition
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/PCA%20and%20LDA%20Face%20Recognition)
 ### Description:
 In this work, PCA was conducted using SVD for dimensionality reduction of face images. The transformed features were used for gaussian classification. Likewise, LDA was conducted using regulation (RDA) and tested for face recognition. A combination of PCA and then LDA was also tested.  
 ### Methods:
@@ -271,6 +290,8 @@ LDA Results: 18.33% error;
 PCA + LDA Results: 30% error
 ## Multi-Layer Perceptron for MNIST digit classification
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Multi-Layer%20Perceptron%20MNIST)
 ### Description:
 In this pair project, we built (from scratch) a small neural network to classify handwritten digits, obtained from the MNIST  database. We experimented with 1 and 2 hidden layers between the inputs (785 image pixels) and the outputs (10 classication probabilities) -  the hidden layers used hyperbolic tangent and sigmoid activation functions, while the output layer used softmax activation to discern classes. To increase speed of convergence, we employed some standard techniques such as momentum, stochastic gradient descent, and preprocessing on input data. 
 ### Methods:
@@ -289,6 +310,8 @@ we managed to achieve a classification accuracy of 96.14% on the test dataset.
 
 ## Convolutional Neural Network Transfer Learning
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/CNN%20Transfer%20Learning)
 ### Description:
 This group project in a Neural Networks course was focused on doing Transfer Learning with VGG16. We utilized Keras which is a Deep Learning Library which includes the VGG16 ConvNet. VGG16 was trained on ImageNet, we worked with the CalTech256 and UrbanTibes dataset. To perform the transfer learning, we replaced the Softmax Layer of the VGG16 pre-trained model by our own Softmax Layer which will predict classes of our datasets. After replacing, we attempted to train it and observe its performance. Lastly, we explored the use of a temperature-based softmax regression on the last output layer of the VGG16 model as input to a softmax layer for the Caltech256.
 ### Methods:
@@ -304,6 +327,8 @@ This group project in a Neural Networks course was focused on doing Transfer Lea
 
 ## Character Level Recurrent Neural Network for music generation
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Character%20Level%20RNN%20for%20music%20generation)
 ### Description:
 For this project, we explored recurrent neural networks. This was done through training a basic RNN model using characters extracted from a music dataset that was provided in ABC format. Varying hidden units, temperature-based softmax regression, and dropout regularization were methods used to improve validation loss. After training, we ran the network in generative mode in order to "compose" music. 
 
@@ -325,6 +350,8 @@ Music score for the above format
 
 ## Bidirectional LSTM RNN for Metrical Analysis of Poetry
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/biLSTM%20RNN%20for%20Poetry%20Metrical%20Analysis)
 ### Description:
 In this project, we used a biLSTM  recurrent neural network to perform character-level supervised learning on English metrical poetry. Scansion is the process of parsing out the stressed and unstressed syllables in each line. Using For Better For Verse, a project by the University of Virginia’s Department of English, we obtained a training dataset in the form of English language poems together with their metrical scansion. After formatting the syllabication into a character-level form, we trained 64 poems and validated the network on 16 poems. 
 
