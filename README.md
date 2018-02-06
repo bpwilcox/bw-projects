@@ -52,6 +52,7 @@ This project followed my thesis work in the MIT graduate course 2.152: Nonlinear
 * Admittance control: simulate virtual crank constraint and inertia
 * Adaptive control: compensate for innacuracy of model 
 ### Results
+![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/22353511/35856960-6d03333a-0aec-11e8-9f70-5001c3b86fc6.gif)
 ![circlefast](https://user-images.githubusercontent.com/22353511/35853224-ce1b093c-0ae1-11e8-948f-39fe4c2e75bd.jpg)
 ![circlefastr](https://user-images.githubusercontent.com/22353511/35853284-f47b6c48-0ae1-11e8-8e76-f810c9c4a22f.jpg)
 ![params](https://user-images.githubusercontent.com/22353511/35853299-fc924924-0ae1-11e8-8f5f-a053e339775d.jpg)
@@ -61,6 +62,8 @@ Simulations showed convergence of the end effector to the radius and maintenance
 ## Impedance Control for Use in Autonomous Decommissioning
 ### Description:
 This project was a group project in the MIT graduate course: 2.151: Advanced System Dyamics & Control The goal of this project is to determine the feasibility of achieving desirable endpoint impedances to promote stable and robust interactions from a free-floating vehicle equipped with a backdrivable manipulator, such as in the task of autonomous decommissioning of underwater structures. Because such a vehicle does not exist yet, analyses are drawn from two similar systems that together encapsulate the desired system: a fixed-base anthropomorphic robot with a redundant backdrivable manipulator (Baxter), and a free-floating raft with a non-backdrivable manipulator (Dexter), both constrained to planar motion. An LQR controller design is also compared to address the mechanical and control effort constraints for the given robots and tasks.  
+![impedance](https://user-images.githubusercontent.com/22353511/35857176-2d46274c-0aed-11e8-9abf-790a24c69b06.jpg)
+
 
 ### Methods:
 * Impedance control design
@@ -69,6 +72,19 @@ This project was a group project in the MIT graduate course: 2.151: Advanced Sys
 * LQR control
 
 ### Results
+Some selected figures:
+
+The experimental set up of Dexter underwater robot
+
+![image](https://user-images.githubusercontent.com/22353511/35857511-40c46d0a-0aee-11e8-9d88-2ec55954f64d.png)
+
+Response of Dexter with impedance control
+![image](https://user-images.githubusercontent.com/22353511/35857466-19960cb6-0aee-11e8-93bd-79fade81ca05.png)
+
+LQR deisign initial condition response with varying expense levels p
+![irall](https://user-images.githubusercontent.com/22353511/35857624-8a4312b0-0aee-11e8-8331-41da03274f15.jpg)
+
+
 Through experimentation, Dexter provides a concrete example of achievable manipulator impedance characteristics for a desirable interaction response, creating the performance parameters that are then matched by Baxter’s more complex manipulator. Physical experimentation is complemented by simulations of the two impedance systems, using the physical parameters determined for both Dexter and Baxter. LQR design is suitable for considering limitations on the actuators and geometry of the manipulators, with future work possible to include impedance into the cost function. 
 
 ## Port-Hamiltonian Modeling and Control for Multi-Body Simulation
@@ -92,13 +108,13 @@ While PD control is a common, and successful, method for reducing the tracking e
 ### Description:
 This was the beginning of my current MS research project where I began by trying to extend my advisor, Professor Yip's, previous work on model-less control of continuum manipulators. This work is a simple example using parts of his basic methodology on a simpler planar robot model.
 ### Methods:
-* PD Control
 * Local Jacobian update optimization
 ### Results
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/22353511/35856921-4c22506a-0aec-11e8-8af6-611512fb2a18.gif)
 
 ## Online Learning and Control using Sparse Local Gaussian Processes for Teleoperation
 ### Description:
-This project is a work-in-progress for my MS Thesis work in the ARClab at UC San Diego. This work aims to achieve the goal of online model-learning and control for a teleoperation task by using Sparse Online Local Gaussian Process Regression (SOLGPR) to infer a local function mapping of robot sensor states to joint states and perform a prediction of the teleoperation command for joint control. In this iteration (not most recent), local Gaussian process models are learned and sparsified via Variational Inference with user-tuned bounds on model size and complexity. An optimization scheme involving periodic optimization of a drifting Gaussian process helps to reduce computation time in conjunction with the sparse local models. This framework provides a basis for a tradeoff between model complexity and performance.   
+This project is a work-in-progress for my MS Thesis work in the ARClab at UC San Diego. This work aims to achieve the goal of online model-learning and control for a teleoperation task by using Sparse Online Local Gaussian Process Regression (SOLGPR) to infer a local function mapping of robot sensor states to joint states and perform a prediction of the teleoperation command for joint control. In this iteration (not current), local Gaussian process models are learned and sparsified via Variational Inference with user-tuned bounds on model size and complexity. An optimization scheme involving periodic optimization of a drifting Gaussian process helps to reduce computation time in conjunction with the sparse local models. This framework provides a basis for a tradeoff between model complexity and performance.   
 
 ### Methods:
 * Gaussian Process Regression
@@ -108,6 +124,16 @@ This project is a work-in-progress for my MS Thesis work in the ARClab at UC San
 * ROS platform
 
 ### Results
+![gc](https://user-images.githubusercontent.com/22353511/35856389-bc0fffb4-0aea-11e8-9bff-7ab219c3deb2.png)
+![time](https://user-images.githubusercontent.com/22353511/35856394-bf98ec86-0aea-11e8-803f-440d372c8616.png)
+![screenshot from 2017-06-08 06-01-25](https://user-images.githubusercontent.com/22353511/35856406-c6a7a1d4-0aea-11e8-8999-6f185fe463b5.png)
+
+My current progress on this work is looking into ways to reduce computation time and increase accuracy. Methods being researched/implemented now are:
+* Incremental Variational Inference 
+* Temporally-biased local Partitioning
+* Model complexity tuning
+* Guided intermittent sampling for sharp discontinuities
+* Re-partitioning for optimal spatiotemporal correlation 
 
 ## Orientation Tracking and Panoramic Image Stitching with IMU 
 ### Description: 
@@ -129,9 +155,13 @@ classes. The red barrels are detected by grouping the regions of the barrel’s 
 ### Methods:
 * Multivariate Gaussian Classification
 * OpenCV Bounded-Box detection
+* Joining covered or split contours which are close by a distance threshold
 * Linear Regression
-
 ### Results
+![divided](https://user-images.githubusercontent.com/22353511/35855611-9ec4f826-0ae8-11e8-931c-ba0d8e1fb6e3.png)
+![008](https://user-images.githubusercontent.com/22353511/35855618-a3071ad6-0ae8-11e8-99e7-cf5daf9cc9b8.png)
+![004](https://user-images.githubusercontent.com/22353511/35855424-096ecefa-0ae8-11e8-94a2-ba58519651b4.png)
+![valresults](https://user-images.githubusercontent.com/22353511/35855625-a5999288-0ae8-11e8-8657-599251eb5126.png)
 
 ## SLAM and Texture Mapping of mobile robot
 ### Description:
@@ -143,6 +173,9 @@ In this project, we use grid-based SLAM with particle filters to predict and upd
 * Stratified Resampling
 * RGB-D Texture Mapping
 ### Results
+![map_0_6](https://user-images.githubusercontent.com/22353511/35856012-8f9efa4e-0ae9-11e8-88e8-a1a1be683e63.png)
+![map_test](https://user-images.githubusercontent.com/22353511/35856016-9118a12c-0ae9-11e8-8364-da897aaa4afa.png)
+
 
 ## Kinematic and Dynamic Simulation of simple 3 DOF Robot Arm
 ### Description:
@@ -186,6 +219,10 @@ In this work, a cheetah image was classified into foreground and background via 
 * Multivariate Gaussian Mixtures
 * Expectation Maximization
 ### Results
+![cheetah](https://user-images.githubusercontent.com/22353511/35856245-4a364aba-0aea-11e8-845e-302cf1c6493f.jpg)
+![1](https://user-images.githubusercontent.com/22353511/35856246-4ce2f2d6-0aea-11e8-8d86-16a6c76a1e4f.jpg)
+![6b](https://user-images.githubusercontent.com/22353511/35856251-4e45d102-0aea-11e8-8873-33d39d6c29b0.jpg)
+
 
 ## Principal Component Analysis vs Linear Discriminant Analysis for Face Recognition
 ### Description:
@@ -214,8 +251,10 @@ In this pair project, we built (from scratch) a small neural network to classify
 * l1/l2 regulatization
 
 ### Results
+![twohidlayers_f](https://user-images.githubusercontent.com/22353511/35856109-d2889a68-0ae9-11e8-8b5e-f4e6344d9385.jpg)
+
 We observed that with momentum, stochastic descent, and two relatively small hidden layers,
-we managed to achieve a classification accuracy of 95% on the test dataset.
+we managed to achieve a classification accuracy of 96.14% on the test dataset.
 
 ## Convolutional Neural Network Transfer Learning
 ### Description:
