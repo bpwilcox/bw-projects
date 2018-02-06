@@ -73,7 +73,7 @@ Simulations showed convergence of the end effector to the radius and maintenance
 ## Impedance Control for Use in Autonomous Decommissioning
 [back to top](#list-of-projects)
 
-[see project files](https://github.com/bpwilcox/bwprojects/tree/master/Impedance%20and%20LQR%20Control%20in%20Autonomous%20Decomissioning) 
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Impedance%20and%20LQR%20Control%20in%20Autonomous%20Decomissioning)
 ### Description:
 This project was a group project in the MIT graduate course: 2.151: Advanced System Dyamics & Control The goal of this project is to determine the feasibility of achieving desirable endpoint impedances to promote stable and robust interactions from a free-floating vehicle equipped with a backdrivable manipulator, such as in the task of autonomous decommissioning of underwater structures. Because such a vehicle does not exist yet, analyses are drawn from two similar systems that together encapsulate the desired system: a fixed-base anthropomorphic robot with a redundant backdrivable manipulator (Baxter), and a free-floating raft with a non-backdrivable manipulator (Dexter), both constrained to planar motion. An LQR controller design is also compared to address the mechanical and control effort constraints for the given robots and tasks.  
 ![impedance](https://user-images.githubusercontent.com/22353511/35857176-2d46274c-0aed-11e8-9abf-790a24c69b06.jpg)
