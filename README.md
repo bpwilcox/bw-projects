@@ -30,9 +30,9 @@ This repository is a collection of robotics, control, and machine learning relev
 ## Model-Less Control using local Jacobian updates
 ## Online Learning and Control using Sparse Local Gaussian Processes for Teleoperation
 ## Orientation Tracking and Panoramic Image Stitching with IMU 
-## Color Segmentation & Barrel Detection 
-## SLAM & Texture Mapping of mobile robot
-## Kinematic & Dynamic Simulation of simple 3 DOF Robot Arm
+## Color Segmentation and Barrel Detection 
+## SLAM and Texture Mapping of mobile robot
+## Kinematic and Dynamic Simulation of simple 3 DOF Robot Arm
 ## 2D Planar RRT motion planner
 ## Support Vector Machines
 ## Pixel Classification via EM for Gaussian Mixtures 
