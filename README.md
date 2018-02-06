@@ -30,6 +30,8 @@ This repository is a collection of robotics, control, and machine learning relev
 # Project Overviews:
 ## Study of Human Motor Control and Task Performance with Circular Constraints
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Human%20Motor%20Control%20under%20Constraints)
 ### Description:
 This project is from my MIT MechE bachelor's thesis. The aim is to investigate human motor control strategies. Curved constraints offer a unique opportunity to exploit forces of contact. A circular crank experiment using the MIT MANUS
 robot was designed in order to test how well subjects can follow a set of simple instructions to
