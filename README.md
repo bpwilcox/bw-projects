@@ -226,12 +226,13 @@ In this work, a cheetah image was classified into foreground and background via 
 
 ## Principal Component Analysis vs Linear Discriminant Analysis for Face Recognition
 ### Description:
-In this work, a 
+In this work, PCA was conducted using SVD for dimensionality reduction of face images. The transformed features were used for gaussian classification. Likewise, LDA was conducted using regulation (RDA) and tested for face recognition. A combination of PCA and then LDA was also tested.  
 ### Methods:
 * PCA by SVD
 * Linear Discriminant Analysis (LDA)
 * Regularized Discriminant Analysis (RDA)
 * PCA + LDA
+* Multivariate Gaussian Classification
 ### Results
 ![5a](https://user-images.githubusercontent.com/22353511/35854890-81db4a3c-0ae6-11e8-8e1e-cddd1fed35d0.jpg)
 ![5b](https://user-images.githubusercontent.com/22353511/35854909-8c3735c2-0ae6-11e8-9648-85bbc3291fae.jpg)
