@@ -136,7 +136,7 @@ This was the beginning of my current MS research project where I began by trying
 ## Online Learning and Control using Sparse Local Gaussian Processes for Teleoperation
 [back to top](#list-of-projects)
 
-[see project files](https://github.com/bpwilcox/bwprojects/tree/master/MS%20Research%20Sparse%20Online%20Local%20Gaussian%20Process%20Regression)
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/MS%20Research%20Sparse%20Online%20Local%20Gaussian%20Process%20Regression)
 ### Description:
 This project is a work-in-progress for my MS Thesis work in the ARClab at UC San Diego. This work aims to achieve the goal of online model-learning and control for a teleoperation task by using Sparse Online Local Gaussian Process Regression (SOLGPR) to infer a local function mapping of robot sensor states to joint states and perform a prediction of the teleoperation command for joint control. In this iteration (not current), local Gaussian process models are learned and sparsified via Variational Inference with user-tuned bounds on model size and complexity. An optimization scheme involving periodic optimization of a drifting Gaussian process helps to reduce computation time in conjunction with the sparse local models. This framework provides a basis for a tradeoff between model complexity and performance.   
 
