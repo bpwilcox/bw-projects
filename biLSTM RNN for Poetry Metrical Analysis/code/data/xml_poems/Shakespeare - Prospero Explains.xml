@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Prospero Explains (from The Tempest IV.i.148-63) </title>
+                    <author>William Shakespeare</author>
+                </titleStmt>
+                <publicationStmt><date>1611</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="blank verse" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/3)" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+-" real="-+-+-+-+-+-">
+                   <seg>Our rev<sb/></seg>
+                   <seg>els now </seg>
+                   <seg>are end<sb/></seg>
+                   <seg>ed. <caesura/>These </seg>
+                   <seg met="-+" real="-+-">our ac<sb/>tors,</seg>
+               </l><l n="2" met="-+-+-+-+-+" real="-+-+--++-+|-+-+-+++--">
+                   <seg>As I </seg>
+                   <seg>fore<sb/>told </seg>
+                   <seg>you, <caesura/>were </seg>
+                   <seg met="-+" real="++">all spir<sb/></seg>
+                   <seg>its and</seg>
+                    <note anchored="true"> Finding a fifth stress in this line reveals interesting
+                        options for the actor, of which 4B4V envisions two. First, an impresario
+                        Prospero can summon a bit of a drum roll in the last foot, suspending the
+                        audience's attention by dramatically stressing the very seldom stressed
+                        conjunction "and" -- before blowing the spirits off in the following line.
+                        Even better, perhaps, is to leave that last foot the pyrrhic it appears to
+                        be, and put the stress instead on an iambic third foot. Stress on "were"
+                        lets Prospero say I-told-you-so (a role he's fond of elsewhere in the play)
+                        and twit the audience for having believed in his magic despite their advance
+                        knowledge that it was all a trick. A sensible actor, limiting himself to
+                        five stresses, will attempt either of these options but not both at
+                        once.</note>
+                </l><l n="3" met="-+-+-+-+-+" real="-+-+-+--++">
+                    <seg>Are melt<sb/></seg>
+                    <seg met="-+" real="--">ed in<sb/></seg>
+                    <seg>to air, <caesura/></seg>
+                    <seg>in<sb/>to </seg>
+                    <seg met="-+" real="++">thin air;</seg>
+                </l><l n="4" met="-+-+-+-+-+-" real="-+-+-+-+-+-">
+                    <seg>And, like </seg>
+                    <seg>the base<sb/></seg>
+                    <seg>less fab<sb/></seg>
+                    <seg>ric of </seg>
+                    <seg met="-+" real="-+-">this vi<sb/>sion,</seg>
+                </l><l n="5" met="-+-+-+-+-+" real="-+++--+-+-+">
+                    <seg>The cloud-<sb/></seg>
+                    <seg met="-+" real="++">capped tow<sb/></seg>
+                    <seg met="-+" real="--+">ers, <caesura/>the gor<sb/></seg>
+                    <seg>geous pal<sb/></seg>
+                    <seg>ac<sb/>es</seg>
+                </l><l n="6" met="-+-+-+-+-+" real="-+-+--++-+">
+                    <seg>The sol<sb/></seg>
+                    <seg>emn tem<sb/></seg>
+                    <seg met="-+" real="--">ples, <caesura/>the </seg>
+                    <seg met="-+" real="++">great globe </seg>
+                    <seg>it<sb/>self,</seg>
+                </l><l n="7" met="-+-+-+-+-+" real="++-+-+---+|++---+-+-+">
+                    <seg met="-+" real="++">Yea, all </seg>
+                    <seg met="-+" real="-+|--">which it </seg>
+                    <seg>in<sb/>her<sb/></seg>
+                    <seg met="-+" real="--|-+">it, <caesura/>shall </seg>
+                    <seg>dis<sb/>solve,</seg>
+                    <note anchored="true"> As in line 2 above (see former note), either "it" in the
+                        second foot or "shall" in the fourth foot might draw stress, but probably
+                        not both syllables at once. The latter option lets Prospero wave again
+                        the wand of his believe-it-or-not clairvoyance -- secured now, to be sure,
+                        by that other magic book, Revelation in the Bible.</note>
+                </l><l n="8" met="-+-+-+-+-+-" real="-+-+-+-+-+-">
+                    <seg>And, like </seg>
+                    <seg>this in<sb/></seg>
+                    <seg>sub<sb/>stan<sb/></seg>
+                    <seg>tial pag<sb/></seg>
+                    <seg met="-+" real="-+-">eant fad<sb/>ed,</seg>
+                </l><l n="9" met="-+-+-+-+-+" real="+--+-++--+|+--+-++-++">
+                    <seg met="-+" real="+-">Leave not </seg>
+                    <seg>a rack </seg>
+                    <seg>be<sb/>hind. </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-">We are </seg>
+                    <seg met="-+" real="++|-+">such stuff</seg>
+                </l><l n="10" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>As dreams </seg>
+                    <seg>are made </seg>
+                    <seg>on, <caesura/>and </seg>
+                    <seg>our lit<sb/></seg>
+                    <seg>tle life</seg>
+                </l>
+                    <l n="11" met="-+-+-+-+-+" real="-+-+-++--+">
+                        <seg>Is round<sb/></seg>
+                        <seg>ed with </seg>
+                        <seg>a sleep. </seg>
+                        <caesura/>
+                        <seg met="-+" real="+-">Sir, I </seg>
+                        <seg>am vexed.</seg>
+                    </l>
+                    <l n="12" met="-+-+-+-+-+-" real="+--+--++-+-">
+                        <seg met="-+" real="+-">Bear with </seg>
+                        <seg>my weak<sb/></seg>
+                        <seg met="-+" real="--">ness: <caesura/>my </seg>
+                        <seg met="-+" real="++">old brain </seg>
+                        <seg met="-+" real="-+-">is trou<sb/>bled.</seg>
+                    </l>
+                    <l n="13" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>Be not </seg>
+                        <seg>dis<sb/>turbed </seg>
+                        <seg>with my </seg>
+                        <seg>in<sb/>fir<sb/></seg>
+                        <seg>mi<sb/>ty.</seg>
+                    </l>
+                    <l n="14" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>If you </seg>
+                        <seg>be pleased, </seg>
+                        <caesura/>
+                        <seg>re<sb/>tire </seg>
+                        <seg>in<sb/>to </seg>
+                        <seg>my cell</seg>
+                    </l>
+                    <l n="15" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>And there </seg>
+                        <seg>re<sb/>pose. </seg>
+                        <caesura/>
+                        <seg>A turn </seg>
+                        <seg>or two </seg>
+                        <seg>I'll walk</seg>
+                    </l>
+                    <l n="16" met="-+-+-+" real="-+-+-+">
+                        <seg>To still </seg>
+                        <seg>my beat<sb/></seg>
+                        <seg>ing mind.</seg>
+                    </l>
+                    
+                   </lg></body></text></TEI>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>The Wood-Pile</title>
+                    <author>Robert Frost</author>
+                </titleStmt>
+                <publicationStmt><date>1914</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="blank verse" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5)" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+---+-+--+">
+                        <seg met="-+" part="N">Out walk<sb/></seg>
+                        <seg met="-+" real="--" part="N">ing in </seg>
+                        <seg met="-+" part="N">the fro<sb/></seg>
+                        <seg met="-+" part="N">zen swamp </seg>
+                        <seg met="-+" real="--+" part="N">one gray day,</seg>
+                    </l><l n="2" met="-+-+-+-+-+" real="-+-++--+-+">
+                        <seg met="-+" part="N">I paused </seg>
+                        <seg met="-+" part="N">and said, <caesura/></seg>
+                        <seg met="-+" real="+-" part="N">"I will </seg>
+                        <seg met="-+" part="N">turn back </seg>
+                        <seg met="-+" part="N">from here.</seg>
+                    </l><l n="3" met="-+-+-+-+-+" real="+--+-+--+-+">
+                        <seg met="-+" real="+-" part="N">No, I </seg>
+                        <seg met="-+" part="N">will go </seg>
+                        <seg met="-+" part="N">on far<sb/></seg>
+                        <seg met="-+" real="--+" part="N">ther--<caesura/>and we </seg>
+                        <seg met="-+" part="N">shall see."</seg>
+                    </l><l n="4" met="-+-+-+-+-+" real="-+++-+-+-+">
+                        <seg met="-+" part="N">The hard </seg>
+                        <seg met="-+" real="++" part="N">snow held </seg>
+                        <seg met="-+" part="N">me, save </seg>
+                        <seg met="-+" part="N">where now </seg>
+                        <seg met="-+" part="N">and then</seg>
+                    </l><l n="5" met="-+-+-+-+-+" real="++---+-+-+">
+                        <seg met="-+" real="++" part="N">One foot </seg>
+                        <seg met="-+" real="--" part="N">went through. <caesura/></seg>
+                        <seg met="-+" part="N">The view </seg>
+                        <seg met="-+" part="N">was all </seg>
+                        <seg met="-+" part="N">in lines</seg>
+                    </l><l n="6" met="-+-+-+-+-+" real="++-+-+++">
+                        <seg met="-+" real="++" part="N">Straight up </seg>
+                        <seg met="-+" part="N">and down </seg>
+                        <seg met="-+" part="N">of tall </seg>
+                        <seg met="-+" real="+" part="N">slim </seg>
+                        <seg met="-+" real="+" part="N">trees</seg>
+                    </l><l n="7" met="-+-+-+-+-+" real="-+-+-+-+-+-|+--+-+-+-+-">
+                        <seg met="-+" real="--" part="N">Too much </seg>
+                        <seg met="-+" real="--|+-" part="N">a<sb/>like </seg>
+                        <seg met="-+" part="N">to mark </seg>
+                        <seg met="-+" part="N">or name </seg>
+                        <seg met="-+" real="-+-" part="N">a place by</seg>
+                    </l><l n="8" met="-+-+-+-+-+" real="+--+-+-+-+">
+                        <seg met="-+" real="+-" part="N">So as </seg>
+                        <seg met="-+" part="N">to say </seg>
+                        <seg met="-+" part="N">for cer<sb/></seg>
+                        <seg met="-+" part="N">tain I </seg>
+                        <seg met="-+" part="N">was here</seg>
+                    </l><l n="9" met="-+-+-+-+-+" real="-+-++--+-+|-+-+--++-+">
+                        <seg met="-+" part="N">Or some<sb/></seg>
+                        <seg met="-+" part="N">where else: <caesura/></seg>
+                        <seg met="-+" real="+-" part="N">I was </seg>
+                        <seg met="-+" part="N">just far </seg>
+                        <seg met="-+" part="N">from home.</seg>
+                    </l><l n="10" met="-+-+-+-+-+" real="-+++-+---+-">
+                        <seg met="-+" part="N">A small </seg>
+                        <seg met="-+" real="++" part="N">bird flew </seg>
+                        <seg met="-+" part="N">be<sb/>fore </seg>
+                        <seg met="-+" real="--" part="N">me. <caesura/>He </seg>
+                        <seg met="-+" real="-+-" part="N">was care<sb/>ful</seg>
+                    </l><l n="11" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                        <seg met="-+" part="N">To put </seg>
+                        <seg met="-+" part="N">a tree </seg>
+                        <seg met="-+" part="N">be<sb/>tween </seg>
+                        <seg met="-+" part="N">us when </seg>
+                        <seg met="-+" real="-+-" part="N">he ligh<sb/>ted,</seg>
+                    </l><l n="12" met="-+-+-+-+-+" real="-+++-+---+|-+++-+-+-+">
+                        <seg met="-+" part="N">And say </seg>
+                        <seg met="-+" real="++" part="N">no word </seg>
+                        <seg met="-+" part="N">to tell </seg>
+                        <seg met="-+" real="--" part="N">me who </seg>
+                        <seg met="-+" part="N">he was</seg>
+                    </l><l n="13" met="-+-+-+-+-+" real="--++-+-+-+-|+-++---+-+-">
+                        <seg met="-+" real="--|+-" part="N">Who was </seg>
+                        <seg met="-+" real="++" part="N">so foo<sb/></seg>
+                        <seg met="-+" real="-+|--" part="N">lish as </seg>
+                        <seg met="-+" part="N">to think </seg>
+                        <seg met="-+" real="-+-" part="N">what he thought.</seg>
+                    </l><l n="14" met="-+-+-+-+-+" real="+--+-+--+-+-|-+-+-+--+-+-">
+                        <seg met="-+" real="+-" part="N">He thought </seg>
+                        <seg met="-+" part="N">that I </seg>
+                        <seg met="-+" part="N">was af<sb/></seg>
+                        <seg met="-+" real="--+" part="N">ter him for </seg>
+                        <seg met="-+" real="-+-" part="N">a feath<sb/>er--</seg>
+                    </l><l n="15" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">The white </seg>
+                        <seg met="-+" part="N">one in </seg>
+                        <seg met="-+" part="N">his tail; <caesura/></seg>
+                        <seg met="-+" part="N">like one </seg>
+                        <seg met="-+" part="N">who takes</seg>
+                    </l><l n="16" met="-+-+-+-+-+" real="+--+-+--+-+">
+                        <seg met="-+" real="+-" part="N">Ever<sb/>y<sb/></seg>
+                        <seg met="-+" part="N">thing said </seg>
+                        <seg met="-+" part="N">as per<sb/></seg>
+                        <seg met="-+" real="--+" part="N">son<sb/>al to </seg>
+                        <seg met="-+" part="N">him<sb/>self.</seg>
+                    </l><l n="17" met="-+-+-+-+-+" real="++-+---+-+-">
+                        <seg met="-+" real="++" part="N">One flight </seg>
+                        <seg met="-+" part="N">out side<sb/></seg>
+                        <seg met="-+" real="--" part="N">ways would </seg>
+                        <seg met="-+" part="N">have un<sb/></seg>
+                        <seg met="-+" real="-+-" part="N">de<sb/>ceived him.</seg>
+                    </l><l n="18" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">And then </seg>
+                        <seg met="-+" part="N">there was </seg>
+                        <seg met="-+" part="N">a pile </seg>
+                        <seg met="-+" part="N">of wood </seg>
+                        <seg met="-+" part="N">for which</seg>
+                    </l><l n="19" met="-+-+-+-+-+" real="+-+--+-+-+">
+                        <seg met="-+" real="+-" part="N">I for<sb/></seg>
+                        <seg met="-+" real="+-" part="N">got him </seg>
+                        <seg met="-+" part="N">and let </seg>
+                        <seg met="-+" part="N">his lit<sb/></seg>
+                        <seg met="-+" part="N">tle fear</seg>
+                    </l><l n="20" met="-+-+-+-+-+" real="+--+-+-+-+">
+                        <seg met="-+" real="+-" part="N">Car<sb/>ry </seg>
+                        <seg met="-+" part="N">him off </seg>
+                        <seg met="-+" part="N">the way </seg>
+                        <seg met="-+" part="N">I might </seg>
+                        <seg met="-+" part="N">have gone,</seg>
+                    </l><l n="21" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">With<sb/>out </seg>
+                        <seg met="-+" part="N">so much </seg>
+                        <seg met="-+" part="N">as wish<sb/></seg>
+                        <seg met="-+" part="N">ing him </seg>
+                        <seg met="-+" part="N">good-<sb/>night.</seg>
+                    </l><l n="22" met="-+-+-+-+-+" real="-+-+--+-++">
+                        <seg met="-+" part="N">He went </seg>
+                        <seg met="-+" part="N">be<sb/>hind </seg>
+                        <seg met="-+" real="--" part="N">it to </seg>
+                        <seg met="-+" real="+-" part="N">make his </seg>
+                        <seg met="-+" real="++" part="N">last stand.</seg>
+                    </l><l n="23" met="-+-+-+-+-+" real="+--+-+-+-+">
+                        <seg met="-+" real="+-" part="N">It was </seg>
+                        <seg met="-+" part="N">a cord </seg>
+                        <seg met="-+" part="N">of ma<sb/></seg>
+                        <seg met="-+" part="N">ple, <caesura/>cut </seg>
+                        <seg met="-+" part="N">and split</seg>
+                    </l><l n="24" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">And piled--<caesura/></seg>
+                        <seg met="-+" part="N">and mea<sb/></seg>
+                        <seg met="-+" part="N">sured, <caesura/>four </seg>
+                        <seg met="-+" part="N">by four </seg>
+                        <seg met="-+" part="N">by eight.</seg>
+                    </l><l n="25" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">And not </seg>
+                        <seg met="-+" part="N">a<sb/>noth<sb/></seg>
+                        <seg met="-+" part="N">er like </seg>
+                        <seg met="-+" part="N">it could </seg>
+                        <seg met="-+" part="N">I see.</seg>
+                    </l><l n="26" met="-+-+-+-+-+" real="-+-+-+-+++-">
+                        <seg met="-+" part="N">No run<sb/></seg>
+                        <seg met="-+" part="N">ner tracks </seg>
+                        <seg met="-+" part="N">in this </seg>
+                        <seg met="-+" part="N">year's snow </seg>
+                        <seg met="-+" real="++-" part="N">looped near it.</seg>
+                    </l><l n="27" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                        <seg met="-+" part="N">And it </seg>
+                        <seg met="-+" part="N">was ol<sb/></seg>
+                        <seg met="-+" part="N">der sure </seg>
+                        <seg met="-+" part="N">than this </seg>
+                        <seg met="-+" real="-+-" part="N">year's cut<sb/>ting,</seg>
+                    </l><l n="28" met="-+-+-+-+-+" real="-+-++--+-+">
+                        <seg met="-+" part="N">Or e<sb/></seg>
+                        <seg met="-+" part="N">ven last </seg>
+                        <seg met="-+" real="+-" part="N">year's or </seg>
+                        <seg met="-+" part="N">the year's </seg>
+                        <seg met="-+" part="N">be<sb/>fore.</seg>
+                    </l><l n="29" met="-+-+-+-+-+" real="-+-+--++-+-">
+                        <seg met="-+" part="N">The wood </seg>
+                        <seg met="-+" part="N">was gray </seg>
+                        <seg met="-+" real="--" part="N">and the </seg>
+                        <seg met="-+" real="++" part="N">bark warp<sb/></seg>
+                        <seg met="-+" real="-+-" part="N">ing off it</seg>
+                    </l><l n="30" met="-+-+-+-+-+" real="--++-+-+-+">
+                        <seg met="-+" real="--" part="N">And the </seg>
+                        <seg met="-+" real="++" part="N">pile some<sb/></seg>
+                        <seg met="-+" part="N">what sun<sb/></seg>
+                        <seg met="-+" part="N">ken. <caesura/>Cle<sb/></seg>
+                        <seg met="-+" part="N">ma<sb/>tis</seg>
+                    </l><l n="31" met="-+-+-+-+-+" real="-+++-+---+-">
+                        <seg met="-+" part="N">Had wound </seg>
+                        <seg met="-+" real="++" part="N">strings round </seg>
+                        <seg met="-+" part="N">and round </seg>
+                        <seg met="-+" real="--" part="N">it like </seg>
+                        <seg met="-+" real="-+-" part="N">a bun<sb/>dle.</seg>
+                    </l><l n="32" met="-+-+-+-+-+" real="-+-+-++--+">
+                        <seg met="-+" part="N">What held </seg>
+                        <seg met="-+" part="N">it though </seg>
+                        <seg met="-+" part="N">on one </seg>
+                        <seg met="-+" real="+-" part="N">side was </seg>
+                        <seg met="-+" part="N">a tree</seg>
+                    </l><l n="33" met="-+-+-+-+-+" real="++---+-+-+">
+                        <seg met="-+" real="++" part="N">Still grow<sb/></seg>
+                        <seg met="-+" real="--" part="N">ing, <caesura/>and </seg>
+                        <seg met="-+" part="N">on one </seg>
+                        <seg met="-+" part="N">a stake </seg>
+                        <seg met="-+" part="N">and prop,</seg>
+                    </l><l n="34" met="-+-+-+-+-+" real="-+--+-+-+-+-">
+                        <seg met="-+" part="N">These la<sb/></seg>
+                        <seg met="-+" real="--+" part="N">tter a<sb/>bout </seg>
+                        <seg met="-+" part="N">to fall. <caesura/></seg>
+                        <seg met="-+" part="N">I thought </seg>
+                        <seg met="-+" real="-+-" part="N">that on<sb/>ly</seg>
+                    </l><l n="35" met="-+-+-+-+-+" real="+--+-+--++">
+                        <seg met="-+" real="+-" part="N">Some<sb/>one </seg>
+                        <seg met="-+" part="N">who lived </seg>
+                        <seg met="-+" part="N">in turn<sb/></seg>
+                        <seg met="-+" real="--" part="N">ing to </seg>
+                        <seg met="-+" real="++" part="N">fresh tasks</seg>
+                    </l><l n="36" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">Could so </seg>
+                        <seg met="-+" part="N">for<sb/>get </seg>
+                        <seg met="-+" part="N">his han<sb/></seg>
+                        <seg met="-+" part="N">di<sb/>work </seg>
+                        <seg met="-+" part="N">on which</seg>
+                    </l><l n="37" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">He spent </seg>
+                        <seg met="-+" part="N">him<sb/>self, <caesura/></seg>
+                        <seg met="-+" part="N">the la<sb/></seg>
+                        <seg met="-+" part="N">bor of </seg>
+                        <seg met="-+" part="N">his ax,</seg>
+                    </l><l n="38" met="-+-+-+-+-+" real="-+-++--+-+--">
+                        <seg met="-+" part="N">And leave </seg>
+                        <seg met="-+" part="N">it there </seg>
+                        <seg met="-+" real="+-" part="N">far from </seg>
+                        <seg met="-+" part="N">a use<sb/></seg>
+                        <seg met="-+" real="-+--" part="N">ful fi<sb/>re<sb/>place</seg>
+                    </l><l n="39" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">To warm </seg>
+                        <seg met="-+" part="N">the fro<sb/></seg>
+                        <seg met="-+" part="N">zen swamp </seg>
+                        <seg met="-+" part="N">as best </seg>
+                        <seg met="-+" part="N">it could</seg>
+                    </l><l n="40" met="-+-+-+-+-+" real="--++-+-+-+">
+                        <seg met="-+" real="--" part="N">With the </seg>
+                        <seg met="-+" real="++" part="N">slow smoke<sb/></seg>
+                        <seg met="-+" part="N">less burn<sb/></seg>
+                        <seg met="-+" part="N">ing of </seg>
+                        <seg met="-+" part="N">de<sb/>cay.</seg>
+                    </l></lg></body></text></TEI>

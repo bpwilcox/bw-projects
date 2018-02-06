@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Slow, Slow, Fresh Fount</title>
+                    <author>Ben Jonson</author>
+                </titleStmt>
+                <publicationStmt><date>1601</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="???" met="-+(5/5/5/5/2/2/5/5/2/6)" rhyme="ababccddxd" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="++++++--++" part="N">
+                   <seg met="-+" real="++">Slow, slow, </seg>
+                        <seg met="-+" real="++">fresh fount, </seg>
+                        <caesura/>
+                        <seg met="-+" real="++">keep time </seg>
+                        <seg met="-+">with my </seg>
+                        <seg met="-+" real="++">salt <rhyme label="a">tears;</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+-+-+" real="-+-+++-+-+" part="N">
+                        <seg met="-+">Yet slow<sb/></seg>
+                        <seg met="-+">er, yet, </seg>
+                        <caesura/>
+                        <seg met="-+" real="++">O faint<sb/></seg>
+                        <seg met="-+">ly, gen<sb/></seg>
+                        <seg met="-+">tle <rhyme label="b">springs!</rhyme></seg>
+                    </l>
+                    <l n="3" met="-+-+-+-+-+" real="+--+-+-+-+" part="N">
+                        <seg met="-+" real="+-">List to </seg>
+                        <seg met="-+">the heav<sb/></seg>
+                        <seg met="-+">y part </seg>
+                        <seg met="-+">the mu<sb/></seg>
+                        <seg met="-+">sic <rhyme label="a">bears,</rhyme></seg>
+                    </l>
+                    <l n="4" met="-+-+-+-+-+" real="+++--+-+-+|+++--+---+" part="N">
+                        <seg met="-+" real="++">Woe weeps </seg>
+                        <seg met="-+" real="+-">out her </seg>
+                        <seg met="-+">di<sb/>vi<sb/></seg>
+                        <seg met="-+">sion when </seg>
+                        <seg met="-+">she <rhyme label="b">sings.</rhyme></seg>
+                    </l>
+                    <l n="5" met="-+-+" real="++-+-" part="N" rend="indent2">
+                        <seg met="-+" real="++">Droop herbs </seg>                        
+                        <seg>and flow<sb/><rhyme label="c">ers;</rhyme></seg>
+                    </l>
+                    <l n="6" met="-+-+" real="++-+-" part="N" rend="indent2">
+                        <seg met="-+" real="++">Fall grief </seg>                        
+                        <seg met="-+" real="-+-">in show<sb/><rhyme label="c">ers;</rhyme></seg>
+                    </l>
+                    <l n="7" met="-+-+-+-+-+" real="--+--++-+--+" part="N" rend="indent2">
+                        <seg met="-+" real="--+">O<sb/>ur beau<sb/></seg>
+                        <seg met="-+" real="--">ties are </seg>
+                        <seg met="-+" real="++">not o<sb/></seg>
+                        <seg met="-+">urs. <caesura/>O, </seg>
+                        <seg met="-+" real="--+">I could <rhyme label="d">still,</rhyme></seg>
+                    <note anchored="true"> Once the stresses and slacks are in place for this
+                        admittedly stubborn line, it seems an open question how to divide them into
+                        feet. Two anapests, two trochees, and a closing iamb would do it. But 4B4V
+                        prefers rising feet where they are available, and they are available here to
+                        form a pattern of anapest, pyrrhic, spondee, iamb, anapest. This pattern has
+                        the further advantage of bringing out the pathos with which at mid-line "not
+                        ours" concedes an existential defeat: You don't know what you have until you
+                        lose it.</note>
+                    </l>
+                    <l n="8" met="-+-+-+-+-+" real="-+-+-+-+-+|-+-+--++-+" part="N" rend="indent3">
+                        <seg met="-+">Like melt<sb/></seg>
+                        <seg met="-+">ing snow </seg>
+                        <seg met="-+" real="--">up<sb/>on </seg>
+                        <seg met="-+" real="++">some crag<sb/></seg>
+                        <seg met="-+">gy <rhyme label="d">hill,</rhyme></seg>
+                    </l>
+                    <l n="9" met="-+-+" real="++++" part="N" rend="indent2">
+                        <seg met="-+" real="++">Drop, drop, </seg>
+                        <seg met="-+" real="++">drop, <rhyme label="x">drop,</rhyme></seg>
+                    <note anchored="true"> This line has no place in the rhyme scheme, so we mark it
+                        "x." In fact it rhymes only, and obsessively, with itself. The line's
+                        refusal to chime interactively with others seems an emblem of the perfect
+                        involution -- and perverse self-delight? -- of sheer grief. </note>
+                    </l>
+                    <l n="10" met="-+-+-+-+-+-+" real="-+-+-+-+-+-+" part="N">
+                        <seg>Since na<sb/></seg>
+                        <seg>ture's pride </seg>
+                        <seg>is now </seg>
+                        <caesura/>
+                        <seg>a with<sb/></seg>
+                        <seg>ered daf<sb/></seg>
+                        <seg>fo<sb/><rhyme label="d">dil.</rhyme></seg>
+                    </l>
+                    
+                </lg></body></text></TEI>

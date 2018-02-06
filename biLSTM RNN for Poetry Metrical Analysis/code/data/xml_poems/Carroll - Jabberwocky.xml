@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>Jabberwocky</title>
+        <author>Lewis Carroll</author></titleStmt><publicationStmt><date>1855</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body>
+      <lg n="1" type="stanza" met="-+(4/4/4/3)" rhyme="abab" org="uniform" sample="complete" part="N">
+        <l n="1" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>'Twas bril<sb/></seg>
+          <seg>lig, <caesura/>and </seg>
+          <seg>the slith<sb/></seg>
+          <seg>y <rhyme label="a">toves</rhyme></seg>
+        </l>
+        <l n="2" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>Did gyre </seg>
+          <seg>and gim<sb/></seg>
+          <seg>ble in </seg>
+          <seg>the <rhyme label="b">wabe;</rhyme></seg>
+          </l><l n="3" part="N" met="-+-+-+-+" real="++-+-+-+">
+          <seg met="-+" real="++">All mim<sb/></seg>
+          <seg>sy were </seg>
+          <seg>the bo<sb/></seg>
+          <seg>ro<sb/><rhyme label="a">goves,</rhyme></seg>
+          </l><l n="4" part="N" met="-+-+-+" real="--++-+">
+          <seg met="-+" real="--">And the </seg>
+          <seg met="-+" real="++">mome raths </seg>
+          <seg>out<sb/><rhyme label="b">grabe.</rhyme></seg>
+          <note anchored="true"> Ten of the words in this stanza never existed until
+            Carroll coined them right here -- all the important ones, in fact, since the
+            only dictionary words are the uninformative 'twas, and, the, did, in, all,
+            were. We know how to pronounce the coinages by analogy to familiar English
+            words they look like, but also by virtue of their metrical place in the
+            equally familiar ballad stanza. In other words, sheer prosodic structure
+            tells us to read "brillig" with a stressed first syllable, and "borogoves"
+            with a slack in the middle between two stresses. We're so good at picking
+            this up that Carroll even counts on us to understand that "mome raths" in
+            line 4 is an adjective-noun pair to be scanned as a spondee. The result is a
+            nice closing thump that he likes so well he brings it back for a reprise in
+            the poem's last line, where we hail it as an old friend. </note>
+      </l></lg>
+      <lg n="2" type="stanza" met="-+(4/4/4/3)" rhyme="abab" org="uniform" sample="complete" part="N">
+        <l n="5" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>"Be<sb/>ware </seg>
+          <seg>the Jab<sb/></seg>
+          <seg>ber<sb/>wock, </seg>
+          <seg>my <rhyme label="a">son!</rhyme></seg>
+          </l><l n="6" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>The jaws </seg>
+          <seg>that bite, </seg>
+          <caesura/>
+          <seg>the claws </seg>
+          <seg>that <rhyme label="b">catch!</rhyme></seg>
+          </l><l n="7" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>Be<sb/>ware </seg>
+          <seg>the Jub<sb/></seg>
+          <seg>jub bird, </seg>
+          <seg>and <rhyme label="a">shun</rhyme></seg>
+          </l><l n="8" part="N" met="-+-+-+" real="-+--+-+">
+          <seg>The fru<sb/></seg>
+          <seg met="-+" real="--+">mi<sb/>ous Ban<sb/></seg>
+          <seg>der<sb/><rhyme label="b">snatch!"</rhyme></seg>
+      </l></lg>
+      <lg n="3" type="stanza" met="-+(4/4/4/3)" rhyme="abxb" org="uniform" sample="complete" part="N"><l n="9" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>He took </seg>
+          <seg>his vor<sb/></seg>
+          <seg>pal sword </seg>
+          <seg>in <rhyme label="a">hand:</rhyme></seg>
+          </l><l n="10" part="N" met="-+-+-+-+" real="++-+-+-+">
+          <seg met="-+" real="++">Long time </seg>
+          <seg>the man<sb/></seg>
+          <seg>xome foe </seg>
+          <seg>he <rhyme label="b">sought-</rhyme></seg>
+          </l><l n="11" part="N" met="-+-+-+-+" real="-+-+--+-+">
+          <seg>So rest<sb/></seg>
+          <seg>ed he </seg>                  
+          <seg>by the Tum<sb/></seg>
+          <seg>tum <rhyme label="x">tree,</rhyme></seg>
+          <note anchored="true"> It's easy to miss what happens at this point to the abab
+            balladic rhyme scheme. Line 3 of this stanza does not rhyme, as it should,
+            with line 1. (It's therefore marked x in our Rhyme column on the left.) The
+            reason one tends not to notice is that the line rhymes internally with
+            itself, "he" with "tree." Carroll indulges this effect in several ensuing
+            stanzas, only to snap out of his mock-heroic rapture with the reprise of
+            abab at the close of the poem.</note>
+          </l><l n="12" part="N" met="-+-+-+" real="-+-+-+">
+          <seg>And stood </seg>
+          <seg>a<sb/>while </seg>
+          <seg>in <rhyme label="b">thought.</rhyme></seg>
+      </l></lg>
+      <lg n="4" type="stanza" met="-+(4/4/4/3)" rhyme="abab" org="uniform" sample="complete" part="N"><l n="13" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>And as </seg>
+          <seg>in uf<sb/></seg>
+          <seg>fish thought </seg>
+          <seg>he <rhyme label="a">stood,</rhyme></seg>
+          </l><l n="14" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>The Jab<sb/></seg>
+          <seg>ber<sb/>wock, </seg>
+          <caesura/>
+          <seg>with eyes </seg>
+          <seg>of <rhyme label="b">flame,</rhyme></seg>
+          </l><l n="15" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>Came whif<sb/></seg>
+          <seg>fling through </seg>
+          <seg>the tul<sb/></seg>
+          <seg>gey <rhyme label="a">wood,</rhyme></seg>
+          </l><l n="16" part="N" met="-+-+-+" real="-+-+-+">
+          <seg>And bur<sb/></seg>
+          <seg>bled as </seg>
+          <seg>it <rhyme label="b">came!</rhyme></seg>
+      </l></lg>
+      <lg n="5" type="stanza" met="-+(4/4/4/3)" rhyme="abxb" org="uniform" sample="complete" part="N"><l n="17" part="N" met="-+-+-+-+" real="-+-+-+-+|++++-+-+">
+          <seg>One, two! </seg>
+          <seg>One, two! </seg>
+          <caesura/>
+          <seg>And through </seg>
+          <seg>and <rhyme label="a">through</rhyme></seg>
+          <note anchored="true"> If slaying the Jabberwock seems like hard work to you, go
+            ahead and use spondees in the first two feet. 4B4V prefers iambs here, to
+            make the deed feel easy. It's all in the wrist. And in the internal rhyming
+            of "two" with "through." </note>
+          </l><l n="18" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>The vor<sb/></seg>
+          <seg>pal blade </seg>
+          <seg>went snick<sb/></seg>
+          <seg>er-<sb/><rhyme label="b">snack!</rhyme></seg>
+          </l><l n="19" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>He left </seg>
+          <seg>it dead, </seg>
+          <caesura/>
+          <seg>and with </seg>
+          <seg>its <rhyme label="x">head</rhyme></seg>                    
+          </l><l n="20" part="N" met="-+-+-+" real="-+-+-+">
+          <seg>He went </seg>
+          <seg>ga<sb/>lumph<sb/></seg>
+          <seg>ing <rhyme label="b">back.</rhyme></seg>
+      </l></lg>
+      <lg n="5" type="stanza" real="-+(4/4/4/3)" rhyme="abxb" org="uniform" sample="complete" part="N"><l n="21" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>"And hast </seg>
+          <seg>thou slain </seg>
+          <seg>the Jab<sb/></seg>
+          <seg>ber<sb/><rhyme label="a">wock?</rhyme></seg>
+          </l><l n="22" part="N" met="-+-+-+-+" real="+--+-+-+">
+          <seg met="-+" real="+-">Come to </seg>
+          <seg>my arms, </seg>                   
+          <seg>my beam<sb/></seg>
+          <seg>ish <rhyme label="b">boy!</rhyme></seg>
+          </l><l n="23" part="N" met="-+-+-+-+" real="-+-+-+-+|++-+-+-+">
+          <seg>O frab<sb/></seg>
+          <seg>jous day! </seg>
+          <caesura/>
+          <seg>Cal<sb/>looh! </seg>
+          <caesura/>
+          <seg>Cal<sb/><rhyme label="x">lay!"</rhyme></seg>
+          <note anchored="true"> Although a spondee is permissible in the first foot of
+            this line, the iamb is much to be preferred. Why not stress the oh-so
+            eligible "O"? Because the quality of cartoonish, pantomime emotion it
+            expresses can't stand up to the gait of the ballad meter galumphing its way
+            along. It's as if the quoted speaker knows s/he is being quoted and is
+            performing the emotion to the hilt, with a vivid sense of how rote the whole
+            scene is. </note>                    
+          </l><l n="24" part="N" met="-+-+-+" real="-+-+-+">
+          <seg>He chor<sb/></seg>
+          <seg>tled in </seg>
+          <seg>his <rhyme label="b">joy.</rhyme></seg>
+      </l></lg>
+      <lg n="6" type="stanza" met="-+(4/4/4/3)" rhyme="abab" org="uniform" sample="complete" part="N"><l n="25" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          '<seg>'Twas bril<sb/></seg>
+          <seg>lig, <caesura/>and </seg>
+          <seg>the slith<sb/></seg>
+          <seg>y <rhyme label="a">toves</rhyme></seg>
+          </l><l n="26" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>Did gyre </seg>
+          <seg>and gim<sb/></seg>
+          <seg>ble in </seg>
+          <seg>the <rhyme label="b">wabe;</rhyme></seg>
+          </l><l n="27" part="N" met="-+-+-+-+" real="++-+-+-+">
+          <seg met="-+" real="++">All mim<sb/></seg>
+          <seg>sy were </seg>
+          <seg>the bo<sb/></seg>
+          <seg>ro<sb/><rhyme label="a">goves,</rhyme></seg>
+          </l><l n="28" part="N" met="-+-+-+" real="--++-+">
+          <seg met="-+" real="--">And the </seg>
+          <seg met="-+" real="++">mome raths </seg>
+          <seg>out<sb/><rhyme label="b">grabe.</rhyme></seg>
+</l></lg></body></text></TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Holy Sonnet 1</title>
+                    <author>John Donne</author>
+                </titleStmt>
+                <publicationStmt><date>1609</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="sonnet" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="abbaabbacdcdee" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="+-+---++-+">
+                   <seg met="-+" real="+-">Thou hast </seg>
+                   <seg met="-+" real="+-">made me, </seg>
+                        <caesura/>
+                   <seg met="-+" real="--">and shall </seg>
+                   <seg met="-+" real="++">thy work </seg>
+                   <seg>de<sb/><rhyme label="a">cay?</rhyme></seg>
+                    <note anchored="true"> Ordinarily pronouns don't take much stress, but from the
+                        first this holy sonnet fixes on the "Thou" it prays to, even to the extent
+                        of stressing "thy" in the second half of line 1. Donne knows very well that
+                        he himself is quite a piece of work. He also knows, however, that nothing
+                        can save him from himself (or his enemy the devil) but the fact that the
+                        workmanship in him is God's. Hence the urgency of the stress on
+                        second-person pronouns here and throughout this sonnet. </note>
+               </l><l n="2" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Re<sb/>pair </seg>
+                    <seg>me now, </seg>
+                    <seg>for now </seg>
+                    <seg>mine end </seg>
+                    <seg>doth <rhyme label="b">haste;</rhyme></seg>
+                </l><l n="3" met="-+-+-+-+-+" real="-+-+-+++-+">
+                    <seg>I run </seg>
+                    <seg>to death, </seg>
+                    <seg>and death </seg>
+                    <seg met="-+" real="++">meets me </seg>
+                    <seg>as <rhyme label="b">fast,</rhyme></seg>
+                </l><l n="4" met="-+-+-+-+-+" real="-+-+--++-+">
+                    <seg>And all </seg>
+                    <seg>my pleas<sb/></seg>
+                    <seg met="-+" real="--">ures are </seg>
+                    <seg met="-+" real="++">like yes<sb/></seg>
+                    <seg>ter<sb/><rhyme label="a">day.</rhyme></seg>
+                </l><l n="5" met="-+-+-+-+-+" real="-+++-+++-+|-+-+-+++-+">
+                    <seg>I dare </seg>
+                    <seg met="-+" real="++|-+">not move </seg>
+                    <seg>my dim </seg>
+                    <seg met="-+" real="++">eyes a<sb/></seg>
+                    <seg>ny <rhyme label="a">way,</rhyme></seg>
+                </l><l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>De<sb/>spair </seg>
+                    <seg>be<sb/>hind </seg>
+                    <seg>and death </seg>
+                    <seg>be<sb/>fore </seg>
+                    <seg>doth <rhyme label="b">cast</rhyme></seg>
+                </l><l n="7" met="-+-+-+-+-+" real="++---+-+-+">
+                    <seg met="-+" real="++">Such ter<sb/></seg>
+                    <seg met="-+" real="--">ror, <caesura/>and </seg>
+                    <seg>my fee<sb/></seg>
+                    <seg>ble flesh </seg>
+                    <seg>doth <rhyme label="b">waste</rhyme></seg>
+                </l><l n="8" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>By sin </seg>
+                    <seg>in it, </seg>
+                    <caesura/>
+                    <seg>which it </seg>
+                    <seg>towards hell </seg>
+                    <seg>doth <rhyme label="a">weigh.</rhyme></seg>
+                </l>
+                <note anchored="true"> Making "towards" a monosyllable in this and the next line
+                    saves a lot of trouble. But if that rubs you the wrong way, claim prosodic
+                    license and scan it as a double slack (as may be done at need, throughout 4B4V,
+                    with a handful of prepositional disyllables including "into" and "over").
+                </note>
+                    <l n="9" met="-+-+-+-+-+" real="+-+--+-+-+">
+                    <seg met="-+" real="+-">On<sb/>ly </seg>
+                    <seg met="-+" real="+-">thou art </seg>
+                    <seg>a<sb/>bove, </seg>
+                    <caesura/>
+                    <seg>and when </seg>
+                    <seg>towards <rhyme label="c">thee</rhyme></seg>
+                </l>
+                <l n="10" met="-+-+-+-+-+" real="-++--+-+-+">
+                    <seg>By thy </seg>
+                    <seg met="-+" real="+-">leave I </seg>
+                    <seg>can look, </seg>
+                    <caesura/>
+                    <seg>I rise </seg>
+                    <seg>a<sb/><rhyme label="d">gain;</rhyme></seg>
+                </l><l n="11" met="-+-+-+-+-+" real="--++-+-+-+|--++-+++-+">
+                    <seg met="-+" real="--">But our </seg>
+                    <seg met="-+" real="++">old sub<sb/></seg>
+                    <seg>tle foe </seg>
+                    <seg met="-+" real="-+|++">so tempt<sb/></seg>
+                    <seg>eth <rhyme label="c">me</rhyme></seg>
+                </l><l n="12" met="-+-+-+-+-+" real="-+++-+---+">
+                    <seg>That not </seg>
+                    <seg met="-+" real="++">one hour </seg>
+                    <seg>my<sb/>self </seg>
+                    <seg met="-+" real="--">I can </seg>
+                    <seg>sus<sb/><rhyme label="d">tain.</rhyme></seg>
+                </l><l n="13" met="-+-+-+-+-+" real="++-+---+-+">
+                    <seg met="-+" real="++">Thy grace </seg>
+                    <seg>may wing </seg>
+                    <seg met="-+" real="--">me to </seg>
+                    <seg>pre<sb/>vent </seg>
+                    <seg>his <rhyme label="e">art,</rhyme></seg>
+                    <note anchored="true"> Again, exceptional stress on the second-person pronoun
+                        "Thy," to contrast God's power to the feebler wiles of Satan in the last
+                        foot of this line, and the total helplessness of the human "I" in the line
+                        above. </note>
+                </l><l n="14" met="-+-+-+-+-+" real="-+-+--+-+-+">
+                    <seg>And thou </seg>
+                    <seg>like ad<sb/></seg>
+                    <seg met="-+" real="--+">a<sb/>mant draw </seg>
+                    <seg>mine i<sb/></seg>
+                    <seg>ron <rhyme label="e">heart.</rhyme></seg>
+                </l></lg></body></text></TEI>

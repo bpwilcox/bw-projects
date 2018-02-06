@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>God's Grandeur</title>
+                <author>Gerard Manley Hopkins</author>
+            </titleStmt>
+            <publicationStmt>
+                <date>1918</date>
+            </publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="octave" met="-+(5)" rhyme="abbaabba">
+               <l n="1">
+                   <seg met="-+">The world </seg>
+                   <seg met="-+">is charged </seg>
+                   <seg met="-+" real="--">with the </seg>
+                   <seg met="-+" real="++">gran<sb/>deur </seg>
+                   <seg met="-+">of <rhyme label="a">God.</rhyme></seg>
+               </l>
+                <l n="2">
+                    <seg met="-+" real="--">It will </seg>
+                    <seg met="-+" real="++">flame out, </seg>
+                    <caesura/>
+                    <seg met="-+">like shin<sb/></seg>
+                    <seg met="-+" real="--">ing from </seg>
+                    <seg met="-+" real="++">shook <rhyme label="b">foil;</rhyme></seg>
+                </l>
+                <l n="3">
+                    <seg met="-+">It gath<sb/></seg>
+                    <seg met="-+" real="---+">ers to a great<sb/></seg>
+                    <seg met="-+">ness, <caesura/> like </seg>
+                    <seg met="-+">the ooze </seg>
+                    <seg met="-+">of <rhyme label="b">oil</rhyme></seg>
+                </l>
+                <l n="4">
+                    <seg met="-+" real="++">Crushed. <caesura/> Why </seg>
+                    <seg met="-+">do men </seg>
+                    <seg met="-+">then now </seg>
+                    <seg met="-+">not reck </seg>
+                    <seg met="-+">his <rhyme label="a">rod?</rhyme></seg>
+                </l>
+                <l n="5">
+                    <seg met="-+" real="+-">Gen<sb/>er<sb/></seg>
+                    <seg met="-+" real="+-">a<sb/>tions </seg>
+                    <seg met="-+">have trod, </seg>
+                    <caesura/>
+                    <seg met="-+">have trod, </seg>
+                    <caesura/>
+                    <seg met="-+">have <rhyme label="a">trod;</rhyme></seg>
+                </l>
+                <l n="6">
+                    <seg met="-+">And all </seg>
+                    <seg met="-+">is seared </seg>
+                    <seg met="-+">with trade; </seg>
+                    <caesura/>
+                    <seg met="-+" real="++">bleared, smeared </seg>
+                    <seg met="-+">with <rhyme label="b">toil;</rhyme></seg>
+                </l>
+                <l n="7">
+                    <seg met="-+">And wears </seg>
+                    <seg met="-+" real="++">man's smudge </seg>
+                    <seg met="-+">and share's </seg>
+                    <seg met="-+" real="++">man's smell: </seg>
+                    <caesura/>
+                    <seg met="-+">the <rhyme label="b">soil</rhyme></seg>
+                </l>
+                <l n="8">
+                    <seg met="-+">Is bare </seg>
+                    <seg met="-+">now, <caesura/> nor </seg>
+                    <seg met="-+">can foot </seg>
+                    <seg met="-+" real="++">feel, be<sb/></seg>
+                    <seg met="-+">ing <rhyme label="a">shod.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="2" type="sestet" met="-+(5)" rhyme="cdcdcd">
+                <l n="9">
+                    <seg met="-+" real="--">And for </seg>
+                    <seg met="-+" real="++">all this, </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-">na<sb/>ture </seg>
+                    <seg met="-+">is nev<sb/></seg>
+                    <seg met="-+">er <rhyme label="c">spent;</rhyme></seg>
+                </l>
+                <l n="10">
+                    <seg met="-+">There lives </seg>
+                    <seg met="-+">the dear<sb/></seg>
+                    <seg met="-+">est fresh<sb/></seg>
+                    <seg met="-+">ness deep </seg>
+                    <seg met="-+" real="++">down <rhyme label="d">things;</rhyme></seg>
+                </l>
+                <l n="11">
+                    <seg met="-+">And though </seg>
+                    <seg met="-+">the last </seg>
+                    <seg met="-+" real="+-">lights off </seg>
+                    <seg met="-+">the black </seg>
+                    <seg met="-+" real="++">West <rhyme label="c">went</rhyme></seg>
+                </l>
+                <l n="12">
+                    <seg met="-+" real="++">Oh, morn<sb/></seg>
+                    <seg met="-+" real="--">ing, <caesura/> at </seg>
+                    <seg met="-+">the brown </seg>
+                    <seg met="-+" real="++">brink east<sb/></seg>
+                    <seg met="-+">ward, <rhyme label="d">springs</rhyme> -- </seg>
+                </l>
+                <l n="13">
+                    <seg met="-+">Be<sb/>cause </seg>
+                    <seg met="-+">the Ho<sb/></seg>
+                    <seg met="-+">ly Ghost </seg>
+                    <seg met="-+" real="+-">o<sb/>ver </seg>
+                    <seg met="-+">the <rhyme label="c">bent</rhyme></seg>
+                </l>
+                <l n="14">
+                    <seg met="-+" real="++">World broods </seg>
+                    <seg met="-+">with warm </seg>
+                    <seg met="-+" real="+-">breast and </seg>
+                    <seg met="-+">with ah! </seg>
+                    <caesura/>
+                    <seg met="-+" real="++">bright <rhyme label="d">wings.</rhyme></seg>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>

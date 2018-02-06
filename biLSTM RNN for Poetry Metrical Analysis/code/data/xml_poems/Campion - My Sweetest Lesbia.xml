@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>My Sweetest Lesbia</title>
+                    <author>Thomas Campion</author>
+                </titleStmt>
+                <publicationStmt><date>1601</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="sestet" met="-+(5/5/5/5/5/5)" rhyme="aabbcc" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+--+-+-+" part="N">
+                   <seg>My sweet<sb/></seg>
+                   <seg>est Les<sb/></seg>
+                   <seg met="-+" real="--+">bi<sb/>a, let </seg>
+                   <seg>us live </seg>
+                   <seg>and <rhyme label="a">love,</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>And though </seg>
+                        <seg>the sag<sb/></seg>
+                        <seg>er sort </seg>
+                        <seg>our deeds </seg>
+                        <seg>re<sb/><rhyme label="a">prove,</rhyme></seg>
+                    </l>
+                    <l n="3" met="-+-+-+-+-+" real="+--+-+++-+|-+-+-+++-+" part="N">
+                        <seg met="-+" real="+-|-+">Let us </seg>
+                        <seg>not weigh </seg>
+                        <seg>them. <caesura/>Heaven's </seg>
+                        <seg met="-+" real="++">great lamps </seg>
+                        <seg>do <rhyme label="b">dive</rhyme></seg>                    
+                <note anchored="true"> Getting this line to scan requires treating "Heaven's" as a
+                    monosyllable (as in the poetically elided "Heav'n" so dear to hymn writers).
+                    Ordinarily 4B4V dislikes elision, but we have Campion's warrant for it here in
+                    the superfluous "do" he inserted before the final syllable. Remove that "do,"
+                    and the revised line will scan quite nicely with a disyllabic "Heaven's" and an
+                    iamb-spondee pair for the last two feet. That effect was fully available to the
+                    poet, but evidently it's not what he wanted. </note>
+                    </l><l n="4" met="-+-+-+-+-+" real="+--+-+-+-+" part="N">
+                        <seg met="-+" real="+-">In<sb/>to </seg>
+                        <seg>their west, </seg>
+                        <seg>and straight </seg>
+                        <seg>a<sb/>gain </seg>
+                        <seg>re<sb/><rhyme label="b">vive,</rhyme></seg>
+                    </l>
+                    <l n="5" met="-+-+-+-+-+" real="-+-++-++-+" part="N">
+                        <seg>But soon </seg>
+                        <seg>as once </seg>
+                        <seg met="-+" real="+-">set is </seg>
+                        <seg met="-+" real="++|+-">our lit<sb/></seg>
+                        <seg>tle <rhyme label="c">light,</rhyme></seg>
+                    <note anchored="true"> A hard line to scan, and deliberately so it seems.
+                        Rewrite it by transposing the words in the 3rd foot to read "is set," and
+                        all will come out smoothly iambic. In this carpe-diem poem, however, Campion
+                        seems to have wanted to jump-stop the clock of the individual mortal life,
+                        so as to jump-start the compensatory flow of eros. This rhythmic nudge to
+                        the metrical system then gets reinforced by stressed contrast between "our"
+                        puny energies and those of the celestial bodies from line 3. If you hit that
+                        stress hard enough you may even override our rule about the stressing of
+                        adjectives, and let "little" scurry in under the metrical radar as a couple
+                        of slacks. The word will get its own back with subsequent iterations of the
+                        refrain in stanzas to come.</note>
+                    </l>
+                    <l n="6" met="-+-+-+-+-+" real="+--+++-+-+|+-++++-+-+" part="N">
+                        <seg met="-+" real="+-">Then must </seg>
+                        <seg met="-+" real="-+|++">we sleep </seg>
+                        <seg met="-+" real="++">one e<sb/></seg>
+                        <seg>ver-<sb/>dur<sb/></seg>
+                        <seg>ing <rhyme label="c">night.</rhyme></seg>
+                    </l>
+                          
+                </lg>
+                <lg n="2" type="sestet" met="-+(5/5/5/5/5/5)" rhyme="aabbcc" org="uniform" sample="complete" part="N">
+                    <l n="7" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>If all </seg>
+                        <seg>would lead </seg>
+                        <seg>their lives </seg>
+                        <seg>in love </seg>
+                        <seg>like <rhyme label="a">me,</rhyme></seg>
+                    </l>
+                    <l n="8" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>Then blood<sb/></seg>
+                        <seg>y swords </seg>
+                        <seg>and ar<sb/></seg>
+                        <seg>mor should </seg>
+                        <seg>not <rhyme label="a">be;</rhyme></seg>
+                    </l>
+                    <l n="9" met="-+-+-+-+-+" real="-+-+-+-+-+|++-+-+-+-+" part="N">
+                        <seg met="-+" real="-+|++">No drum </seg>
+                        <seg>nor trum<sb/></seg>
+                        <seg>pet peace<sb/></seg>
+                        <seg>ful sleeps </seg>
+                        <seg>should <rhyme label="b">move,</rhyme></seg>
+                    </l>
+                    <l n="10" met="-+-+-+-+-+" real="-+-++--+-+" part="N">
+                        <seg>Un<sb/>less </seg>
+                        <seg>a<sb/>larm </seg>
+                        <seg met="-+" real="+-">came from </seg>
+                        <seg>the camp </seg>
+                        <seg>of <rhyme label="b">love.</rhyme></seg>
+                    </l>
+                    <l n="11" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>But fools </seg>
+                        <seg>do live </seg>
+                        <seg>and waste </seg>
+                        <seg>their lit<sb/></seg>
+                        <seg>tle <rhyme label="c">light,</rhyme></seg>
+                    </l>
+                    <l n="12" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>And seek </seg>
+                        <seg>with pain </seg>
+                        <seg>their e<sb/></seg>
+                        <seg>ver-<sb/>dur<sb/></seg>
+                        <seg>ing <rhyme label="c">night.</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="3" type="sestet" met="-+(5/5/5/5/5/5)" rhyme="aabbcc" org="uniform" sample="complete" part="N">
+                    <l n="13" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>When time<sb/></seg>
+                        <seg>ly death </seg>
+                        <seg>my life </seg>
+                        <seg>and for<sb/></seg>
+                        <seg>tune <rhyme label="a">ends,</rhyme></seg>
+                    </l>
+                    <l n="14" met="-+-+-+-+-+" real="-+-+-+-+-+|+--+-+-+-+" part="N">
+                        <seg met="-+" real="+-">Let not </seg>
+                        <seg>my hearse </seg>
+                        <seg>be vexed </seg>
+                        <seg>with mourn<sb/></seg>
+                        <seg>ing <rhyme label="a">friends,</rhyme></seg>
+                    </l>
+                    <l n="15" met="-+-+-+-+-+" real="-+++-+-+-+" part="N">
+                        <seg>But let </seg>
+                        <seg met="-+" real="++">all lov<sb/></seg>
+                        <seg>ers, rich </seg>
+                        <seg>in tri<sb/></seg>
+                        <seg>umph, <rhyme label="b">come</rhyme></seg>
+                    </l>
+                    <l n="16" met="-+-+-+-+-+" real="--++-+-+-+" part="N">
+                        <seg met="-+" real="--">And with </seg>
+                        <seg met="-+" real="++">sweet pas<sb/></seg>
+                        <seg>times grace </seg>
+                        <seg>my hap<sb/></seg>
+                        <seg>py <rhyme label="b">tomb;</rhyme></seg>
+                    </l>
+                    <l n="17" met="-+-+-+-+-+" real="-+--+-+-+-+" part="N">
+                        <seg>And Les<sb/></seg>
+                        <seg met="-+" real="--+">bi<sb/>a, close </seg>
+                        <seg>up thou </seg>
+                        <seg>my lit<sb/></seg>
+                        <seg>tle <rhyme label="c">light,</rhyme></seg>
+                    </l>
+                    <l n="18" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>And crown </seg>
+                        <seg>with love </seg>
+                        <seg>my e<sb/></seg>
+                        <seg>ver-<sb/>dur<sb/></seg>
+                        <seg>ing <rhyme label="c">night.</rhyme></seg>
+                    </l>
+                </lg></body></text></TEI>

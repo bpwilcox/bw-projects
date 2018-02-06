@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Upon Julia's Clothes</title>
+                <author>Robert Herrick</author>
+            </titleStmt>
+            <publicationStmt><date>1648</date></publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="tercet" met="-+(4/4/4)" rhyme="aaa">
+                <l n="1" real="-+-+-+-+">
+                    <seg met="-+">When<sb/>as </seg>
+                    <seg met="-+">in silks </seg>
+                    <seg met="-+">my Ju<sb/></seg>
+                    <seg met="-+">lia <rhyme label="a">goes,</rhyme></seg>
+                </l>
+                <l n="2" met="-+-+-+-+" real="++-+-+-+">
+                    <seg met="-+" real="++">Then, then </seg>
+                    <seg met="-+">(me<sb/>thinks) </seg>
+                    <caesura/>
+                    <seg met="-+">how sweet<sb/></seg>
+                    <seg met="-+">ly <rhyme label="a">flows</rhyme></seg>
+                </l>
+                <l n="3" real="-+-+-+-+">
+                    <seg met="-+">That li<sb/></seg>
+                    <seg met="-+">que<sb/>fac<sb/></seg>
+                    <seg met="-+">tion of </seg>
+                    <seg met="-+">her <rhyme label="a">clothes.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="2" type="tercet" met="-+(4/4/4)" rhyme="bbb">
+                <l n="4" met="-+-+-+-+" real="+--+-+-+">
+                    <seg met="-+" real="+-">Next, when </seg>
+                    <seg met="-+">I cast </seg>
+                    <seg met="-+">mine eyes </seg>
+                    <seg met="-+">and <rhyme label="b">see </rhyme></seg>
+                </l>
+                <l n="5" met="-+-+-+-+" real="-+-+-+++">
+                    <seg met="-+">That brave </seg>
+                    <seg met="-+">vi<sb/>bra<sb/></seg>
+                    <seg met="-+">tion each </seg>
+                    <seg met="-+" real="++">way <rhyme label="b">free,</rhyme></seg>
+                </l>
+                <l n="6" met="-+-+-+-+" real="+--+--+-+">
+                    <seg met="-+" real="+-">O how </seg>
+                    <seg met="-+">that glit<sb/></seg>
+                    <seg met="-+" real="--+">ter<sb/>ing tak<sb/></seg>
+                    <seg met="-+">eth <rhyme label="b">me!</rhyme></seg>
+                </l>
+             </lg>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0"><teiHeader type="text"><fileDesc><titleStmt><title>The Lowest Place</title><author>Christina Rossetti</author></titleStmt><publicationStmt><date>1866</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body><lg n="1" type="quatrain" met="-+(5/5/3/3)" rhyme="abab" org="uniform" sample="complete" part="N"><l n="1" part="N" met="-+-+-+-+-+" real="+--+-++--+">
+                    <seg met="-+" real="+-|-+" part="N">Give me </seg>
+                    <seg met="-+" part="N">the low<sb part="N"/></seg>
+                    <seg met="-+" part="N">est place: </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-" part="N">not that </seg>
+                    <seg met="-+" part="N">I <rhyme label="a">dare</rhyme></seg>
+                </l><l n="2" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-" part="N">Ask for </seg>
+                    <seg met="-+" part="N">that low<sb part="N"/></seg>
+                    <seg met="-+" part="N">est place, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">but Thou </seg>
+                    <seg met="-+" part="N">hast <rhyme label="b">died</rhyme></seg>
+                </l><l n="3" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">That I </seg>
+                    <seg met="-+" part="N">might live </seg>
+                    <seg met="-+" part="N">and <rhyme label="a">share</rhyme></seg>
+                </l><l n="4" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">Thy glo<sb part="N"/></seg>
+                    <seg met="-+" part="N">ry by </seg>
+                    <seg met="-+" part="N">Thy <rhyme label="b">side.</rhyme></seg>
+                </l></lg><lg n="2" type="quatrain" met="-+(5/5/3/3)" rhyme="abab" org="uniform" sample="complete" part="N"><l n="5" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-" part="N">Give me </seg>
+                    <seg met="-+" part="N">the low<sb part="N"/></seg>
+                    <seg met="-+" part="N">est place: </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">or if </seg>
+                    <seg met="-+" part="N">for <rhyme label="a">me</rhyme></seg>
+                </l><l n="6" part="N" met="-+-+-+-+-+" real="-+-+-++--+|-+-+-++-++">
+                    <seg met="-+" part="N">That low<sb part="N"/></seg>
+                    <seg met="-+" part="N">est place </seg>
+                    <seg met="-+" part="N">too high, </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-" part="N">make one </seg>
+                    <seg met="-+" real="++" part="N">more <rhyme label="b">low</rhyme></seg>
+                </l><l n="7" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">Where I </seg>
+                    <seg met="-+" part="N">may sit </seg>
+                    <seg met="-+" part="N">and <rhyme label="a">see</rhyme></seg>
+                </l><l n="8" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">My God </seg>
+                    <seg met="-+" part="N">and love </seg>
+                    <seg met="-+" part="N">Thee <rhyme label="b">so.</rhyme></seg>
+                    <note anchored="true"> In this lucid poem the paradox of petitionary prayer --
+                        where after all the speaker is, notwithstanding her undoubted humility,
+                        telling God how to arrange things -- may be figured in the peculiarity of
+                        its stanzaic shape. Rossetti might have grouped exactly the same order of
+                        words into tetrameter quatrains of the common measure typical in hymns. (Try
+                        it, and see how readily that more ordinary pattern appears.) But that's not
+                        what Rossetti was after. Instead she lengthened some lines into deliberative
+                        pentameter and crowded the others into intimate trimeter. It is a bonus of
+                        this configuration -- a triumph of positioning, in a poem about "place" --
+                        to enjamb every single line, expressing an urgency of speculation that
+                        wouldn't be there in the foursquare scheme. </note>
+                </l></lg></body></text></TEI>

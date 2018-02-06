@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>An Essay on Criticism (excerpt: ll. 362-73)</title>
+                <author>Alexander Pope</author>
+            </titleStmt>
+                    <publicationStmt><date>1711</date></publicationStmt>
+            <sourceDesc default="false"><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+    <lg met="-+(5/5/5/5/5/5/5/5/5/5/5/6)" rhyme="aabbccddeeff" org="uniform" sample="complete" part="N">
+         <l n="362" part="N" met="-+-+-+-+-+" real="++-+-+-+-+|++-+-+-+++">
+                    <seg met="-+" real="++" part="N">True Ease </seg> 
+                    <seg met="-+" part="N">in Writ<sb part="N"/></seg>
+                    <seg met="-+" part="N">ing comes </seg> 
+                    <seg met="-+" part="N">from Art, </seg>
+                    <caesura/>
+                     <seg met="-+" real="++" part="N">not <rhyme label="a">Chance,</rhyme></seg>
+                </l>
+         <l n="363" part="N" met="-+-+-+-+-+" real="-+++--+-+-+">
+                    <seg met="-+" part="N">As those </seg> 
+                    <seg  met="-+" real="++" part="N">move eas<sb part="N"/></seg>
+                    <seg met="-+" real="--+" part="N">i<sb part="N"/>est <caesura/>who </seg> 
+                    <seg met="-+" part="N">have learn'd </seg> 
+                    <seg met="-+" part="N">to <rhyme label="a">dance.</rhyme></seg>                    
+                </l>
+        <l n="364" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+|-+-+++-+-+">
+                    <seg met="-+" part="N">'Tis not </seg>
+                    <seg met="-+" part="N">e<sb part="N"/>nough </seg>
+                    <seg met="-+" part="N">no Harsh<sb part="N"/></seg>
+                    <seg met="-+" part="N">ness gives </seg> 
+                    <seg met="-+" part="N"><rhyme label="b">Of<sb part="N"/>fence,</rhyme></seg>
+                </l>
+        <l n="365" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">The Sound </seg>
+                    <seg met="-+" part="N">must seem </seg>
+                    <seg met="-+" part="N">an Ech</seg>
+                    <seg met="-+" part="N">o to </seg>
+                    <seg met="-+" part="N"><rhyme label="b">the Sense.</rhyme></seg>
+        </l>
+        <l n="366" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-" part="N">Soft is </seg>
+                    <seg met="-+" part="N">the Strain </seg>
+                    <seg met="-+" part="N">when Zeph<sb part="N"/></seg>
+                    <seg met="-+" part="N">yr gen<sb part="N"/></seg>
+                    <seg met="-+" part="N">tly <rhyme label="c">blows,</rhyme></seg>
+        </l>
+        <l n="367" part="N" met="-+-+-+-+-+" real="--++-+-+-+">
+                    <seg met="-+" real="--" part="N">And the </seg>
+                    <seg met="-+" real="++" part="N">smooth Stream </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">in smooth<sb part="N"/></seg>
+                    <seg met="-+" part="N">er Num<sb part="N"/></seg>
+                    <seg met="-+" part="N">bers <rhyme label="c">flows;</rhyme></seg>
+        </l>
+        <l n="368" part="N" met="-+-+-+-+-+" real="--++-+-+-+">
+                    <seg met="-+" real="--" part="N">But when </seg>
+                    <seg met="-+" real="++" part="N">loud Surg<sb part="N"/></seg>
+                    <seg met="-+" part="N">es lash </seg>
+                    <seg met="-+" part="N">the sound<sb part="N"/></seg>
+                    <seg met="-+" part="N">ing <rhyme label="d">Shore,</rhyme></seg>
+        </l>
+        <l n="369" part="N" met="-+-+-+-+-+" real="-+++-+-+-+">
+                    <seg met="-+" part="N">The hoarse, </seg>
+                    <seg met="-+" part="N">rough Verse </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">shou'd like </seg>
+                    <seg met="-+" part="N">the Tor<sb part="N"/></seg>
+                    <seg met="-+" part="N">rent <rhyme label="d">roar.</rhyme></seg>
+        </l>
+        <l n="370" part="N" met="-+-+-+-+-+" real="-+-+++++-+">
+                    <seg met="-+" part="N">When A<sb part="N"/></seg>
+                    <seg met="-+" part="N">jax strives </seg>
+                    <seg met="-+" part="N">some Rock's </seg>
+                    <seg met="-+" real="++" part="N">vast Weight </seg>
+                    <seg met="-+" part="N">to <rhyme label="e">throw,</rhyme></seg>
+        </l>
+        <l n="371" part="N" met="-+-+-+-+-+" real="-+++---+++">
+                    <seg met="-+" part="N">The Line </seg>
+                    <seg met="-+" real="++" part="N">too la<sb part="N"/></seg>
+                    <seg met="-+" real="--" part="N">bours, <caesura/>and </seg>
+                    <seg met="-+" part="N">the Words </seg>
+                    <seg met="-+" real="++" part="N">move <rhyme label="e">slow;</rhyme></seg>
+        </l>
+        <l n="372" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Not so, </seg>
+                    <seg met="-+" part="N">when swift </seg>
+                    <seg met="-+" part="N">Ca<sb part="N"/>mil<sb part="N"/></seg>
+                    <seg met="-+" part="N">la scours </seg>
+                    <seg met="-+" part="N">the <rhyme label="f">Plain,</rhyme></seg>
+        </l>
+        <l n="373" part="N" met="-+-+-+-+-+-+" real="+--+-+-+-+-+">
+                    <seg met="-+" real="+-" part="N">Flies o'er </seg>
+                    <seg met="-+" real="`-+" part="N">th'un<sb part="N"/>bend<sb part="N"/></seg>
+                    <seg met="-+" part="N">ing Corn, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">and skims </seg>
+                    <seg met="-+" part="N">a<sb part="N"/>long </seg>
+                    <seg met="-+" part="N">the <rhyme label="f">Main.</rhyme></seg> 
+                                                  <note anchored="true"> By now you have seen for
+                                                  yourself what pains Pope took, in this passage
+                                                  about prosody, to make his own versification
+                                                  practice what he was preaching. The spondees in
+                                                  line 9 speak for themselves. Did you notice,
+                                                  though, the nice wiggle in line 2, or the way the
+                                                  initial trochee in this last line impels swift
+                                                  Camilla across the alexandrine? </note>
+                </l></lg></body></text></TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0"><teiHeader type="text"><fileDesc><titleStmt><title>Mont Blanc ll. 1-11</title><author>Percy Bysshe Shelley</author></titleStmt><publicationStmt><date>1817</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body><lg met="-+(5/5/5/5/5/5/5/5/5/5/5)" rhyme="abcaadcdeeb" org="uniform" sample="complete" part="N"><l n="1" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>The ev<sb/></seg>
+                    <seg>er<sb/>last<sb/></seg>
+                    <seg>ing u<sb/></seg>
+                    <seg>ni<sb/>verse </seg>
+                    <seg>of <rhyme label="a">things</rhyme></seg>
+                </l><l n="2" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Flows through </seg>
+                    <seg>the mind, </seg>
+                    <caesura/>
+                    <seg>and rolls </seg>
+                    <seg>its rap<sb/></seg>
+                    <seg>id <rhyme label="b">waves,</rhyme></seg>
+                </l><l n="3" part="N" met="-+-+-+-+-+" real="-+-+--+-+-+">
+                    <seg>Now dark--</seg>
+                    <caesura/>
+                    <seg>now glit<sb/></seg>
+                    <seg>ter<sb/>ing--<caesura/>now </seg>
+                    <seg>re<sb/>flect<sb/></seg>
+                    <seg>ing <rhyme label="c">gloom--</rhyme></seg>
+                    <note anchored="true"> The word "now" occurs three times in this line, and again
+                        at the head of the next. You might stress it each time, and not just the once
+                        it acquires stress from the underlying iambic meter. But doing so would
+                        slow up with increasingly tired spondees a passage whose great wealth of
+                        sound is borne on a swiftness of motion that mimics the watercourse it describes.</note>
+                </l><l n="4" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Now lend<sb part="N"/></seg>
+                    <seg>ing splen<sb part="N"/></seg>
+                    <seg>dour, <caesura/>where </seg>
+                    <seg>from se<sb part="N"/></seg>
+                    <seg>cret <rhyme label="a">springs</rhyme></seg>
+                </l><l n="5" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>The source </seg>
+                    <seg>of hu<sb part="N"/></seg>
+                    <seg>man thought </seg>
+                    <seg>its trib<sb part="N"/></seg>
+                    <seg>ute <rhyme label="a">brings</rhyme></seg>
+                </l><l n="6" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Of wa<sb part="N"/></seg>
+                    <seg>ters,--<caesura/>with </seg>
+                    <seg>a sound </seg>
+                    <seg>but half </seg>
+                    <seg>its <rhyme label="d">own,</rhyme></seg>
+                </l><l n="7" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Such as </seg>
+                    <seg>a fee<sb part="N"/></seg>
+                    <seg>ble brook </seg>
+                    <seg>will oft </seg>
+                    <seg>as<sb part="N"/><rhyme label="c">sume</rhyme></seg>
+                </l><l n="8" part="N" met="-+-+-+-+-+" real="--++-+-+-+">
+                    <seg met="-+" real="--">In the </seg>
+                    <seg met="-+" real="++">wild woods, </seg>
+                    <caesura/>
+                    <seg>a<sb part="N"/>mong </seg>
+                    <seg>the moun<sb part="N"/></seg>
+                    <seg>tains <rhyme label="d">lone,</rhyme></seg>
+                </l><l n="9" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                    <seg>Where wa<sb part="N"/></seg>
+                    <seg>ter<sb part="N"/>falls </seg>
+                    <seg>a<sb part="N"/>round </seg>
+                    <seg>it leap </seg>
+                    <seg met="-+" real="-+-">for <rhyme label="e">ev<sb part="N"/>er,</rhyme></seg>
+                </l><l n="10" part="N" met="-+-+-+-+-+" real="-+-+-+--++-">
+                    <seg>Where woods </seg>
+                    <seg>and winds </seg>
+                    <seg>con<sb part="N"/>tend, </seg>
+                    <seg met="-+" real="--">and a </seg>
+                    <seg met="-+" real="++-">vast <rhyme label="e">riv<sb part="N"/>er</rhyme></seg>
+                </l>
+                <note anchored="true"> It seems a shame to intrude at this magnificent enjambment
+                    with a bookkeeping question, but such is the prosodist's lot. Here's the
+                    question: Why bother with the admittedly awkward feminine-ended spondee in this
+                    last foot, when the stress pattern of the line might just as well fall into
+                    three iambs, an anapest, and a trochee? That plausible terminal trochee is the
+                    problem: it simply won't do, when scanning a passage in rising meter like this
+                    one, to give a falling foot the last word. The line's real metrical logic mounts
+                    through the iambs to a pyrrhic-spondee pair, with the final slack an
+                    afterthought, off the books -- and, in truth, breathlessly rushing off to join
+                    the entirely legitimate trochee that starts the superb following line.</note>    
+                <l n="11" part="N" met="-+-+-+-+-+" real="+--++--+-+">
+                    <seg met="-+" real="+-">O<sb part="N"/>ver </seg>
+                    <seg>its rocks </seg>
+                    <seg met="-+" real="+-">cease<sb part="N"/>less<sb part="N"/></seg>
+                    <seg>ly bursts </seg>
+                    <seg>and <rhyme label="b">raves.</rhyme></seg>
+                    <note anchored="true"> This line, as splashy as anything in English poetry, gets
+                        terrific mileage out of just two trochaic substitutions. Among Shelley's
+                        secrets are the comparatively tame rhythm of the foregoing lines, the
+                        toboganning double bump he gets by spacing his trochees out with an iambic
+                        foot in between, and the reinforcement effected by all the slippage of s and
+                        v sounds in stressed positions, where they deflect the stream of a reader's
+                        breath yet make it feel unstoppable. </note>
+                </l></lg></body></text></TEI>

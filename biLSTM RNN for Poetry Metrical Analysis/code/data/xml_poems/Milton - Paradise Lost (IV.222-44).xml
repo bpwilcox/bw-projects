@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>from Paradise Lost (IV.222-44)</title>
+                    <author>John Milton</author>
+                </titleStmt>
+                <publicationStmt><date>1667</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="blank verse" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5)" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">South<sb/>ward </seg>
+                   <seg >through E<sb/></seg>
+                   <seg>den went </seg>
+                   <seg>a riv<sb/></seg>
+                   <seg>er large,</seg>
+               </l><l n="2" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Nor chang'd </seg>
+                    <seg>his course, </seg>                   
+                    <seg>but through </seg>
+                    <seg>the shag<sb/></seg>
+                    <seg>gy hill</seg>
+                </l><l n="3" met="-+-+-+-+-+" real="+--+-+-+-+|++-+-+-+-+">
+                    <seg met="-+" real="+-|++">Pass'd un<sb/></seg>
+                    <seg>der<sb/>neath </seg>
+                    <seg>in<sb/>gulft, </seg>
+                    <caesura/>
+                    <seg>for God </seg>
+                    <seg>had thrown</seg>
+                </l><l n="4" met="-+-+-+-+-+" real="-+---+-+++">
+                    <seg>That moun<sb/></seg>
+                    <seg met="-+" real="--">tain as </seg>
+                    <seg>his gar<sb/></seg>
+                    <seg>den mould </seg>
+                    <seg met="-+" real="++" >high rais'd</seg>
+                </l><l n="5" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Up<sb/>on </seg>
+                    <seg>the rap<sb/></seg>
+                    <seg>id cur<sb/></seg>
+                    <seg>rent, which </seg>
+                    <seg>through veins</seg>
+                </l><l n="6" met="-+-+-+-+-+" real="-+-+-+-+++">
+                    <seg>Of por<sb/></seg>
+                    <seg>ous Earth </seg>
+                    <seg>with kind<sb/></seg>
+                    <seg>ly thirst </seg>
+                    <seg met="-+" real="++" >up-<sb/>drawn,</seg>
+                </l><l n="7" met="-+-+-+-+-+" real="+-++-+-+--+|+-++---+--+">
+                    <seg met="-+" real="+-" >Rose a </seg>
+                    <seg met="-+" real="++">fresh foun<sb/></seg>
+                    <seg met="-+" real="-+|--">tain, <caesura/>and </seg>
+                    <seg>with man<sb/></seg>
+                    <seg met="-+" real="--+" >y a rill</seg>
+                    <note anchored="true"> Anyone who has gotten this far in 4B4V will take the
+                        trochaic and spondaic substitutions of feet 1 and 2 in stride, and will find
+                        feet 4 and 5 unproblematic. The third foot, though, should prompt
+                        hesitation: iamb (reinforced by the comma before "and") or pyrrhic (holding
+                        the line to 5 stresses, and taking it easy after the thump of the spondee
+                        just before)? It depends how you visualize, or with the blind Milton feel,
+                        the hydraulic flow of the waters the line describes. Regular like a pump, or
+                        scattered like a cascade? (Coleridge wondered about this too, when dreaming
+                        up his own sacred river in "Kubla Khan.") This passage will confront you
+                        with similar choices later, e.g. in line 11. </note>
+                </l><l n="8" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Wa<sb/>ter'd </seg>
+                    <seg>the Gar<sb/></seg>
+                    <seg>den; <caesura/>thence </seg>
+                    <seg>u<sb/>nit<sb/></seg>
+                    <seg>ed fell</seg>
+                </l><l n="9" met="-+-+-+-+-+" real="+-++-+-+-+">
+                    <seg met="-+" real="+-">Down the </seg>
+                    <seg met="-+" real="++" >steep glade, </seg>
+                    <seg>and met </seg>
+                    <seg>the neth<sb/></seg>
+                    <seg>er Flood,</seg>
+                </l><l n="10" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Which from </seg>
+                    <seg>his dark<sb/></seg>
+                    <seg>some pas<sb/></seg>
+                    <seg>sage now </seg>
+                    <seg>ap<sb/>pears,</seg>
+                </l><l n="11" met="-+-+-+-+-+" real="-+-+---+++|-+-+-+-+++">
+                    <seg>And now </seg>
+                    <seg>div<sb/>id<sb/></seg>
+                    <seg met="-+" real="--|-+" >ed in<sb/></seg>
+                    <seg>to four </seg>
+                    <seg met="-+" real="++">main Streams,</seg>
+                </l><l n="12" met="-+-+-+-+-+" real="+-++-+--+-+|++-+-+--+-+">
+                    <seg met="-+" real="+-|++">Runs di<sb/></seg>
+                    <seg met="-+" real="++|-+">verse, <caesura/>wan<sb/></seg>
+                    <seg>d'ring man<sb/></seg>
+                    <seg met="-+" real="--+">y a fa<sb/></seg>
+                    <seg>mous Realm</seg>
+                    <note anchored="true"> "Diverse": Milton probably stressed the first syllable;
+                        you probably stress the second. This seems a good spot to admit some
+                        diversity, so long as we all agree the iambic pentameter runs into a little
+                        dam just here. (If you haven't done so already, try clicking on the Caesura
+                        button below, to get a graphic sense of the variable rapids and sloughs
+                        through which Milton runs the current of his blank verse.)</note>
+                </l><l n="13" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And coun<sb/></seg>
+                    <seg>try where<sb/></seg>
+                    <seg>of here </seg>
+                    <seg>needs no </seg>
+                    <seg>ac<sb/>count,</seg>
+                    <note anchored="true"> Alternative scansions are certainly possible here. Our
+                        rules after all say to stress "needs," a monosyllabic verb; and in deference
+                        to that stress "no" might be a slack and the shadowy term "whereof" might go
+                        unstressed entirely. But then the resulting scansion, with its pyrrhic
+                        second foot and trochaic fourth foot, would be so irregular as to call
+                        attention to just what Milton means to dismiss. 4B4V proposes straight
+                        iambics instead, which serenely bypass those unnamed "famous Realms" and
+                        fasten the imagination instead on Paradise, a realm made by God not man, and
+                        infinitely more beautiful. </note>
+                </l><l n="14" met="-+-+-+-+-+" real="-+--++-+-+">
+                    <seg>But rath<sb/></seg>
+                    <seg met="-+" real="--">er to </seg>
+                    <seg met="-+" real="++">tell how, </seg>
+                    <caesura/>
+                    <seg>if Art </seg>
+                    <seg>could tell,</seg>
+                </l>
+                    <l n="15" met="-+-+-+-+-+" real="+--+-+-+-+">
+                        <seg met="-+" real="+-">How from </seg>
+                        <seg>that Sap<sb/></seg>
+                        <seg>phire Fount </seg>
+                        <seg>the crisp<sb/></seg>
+                        <seg>ed Brooks,</seg>
+                    </l><l n="16" met="-+-+-+-+-+" real="+--+--+-+-+">
+                        <seg met="-+" real="+-">Roll<sb/>ing </seg>
+                        <seg>on O<sb/></seg>
+                        <seg met="-+" real="--+">ri<sb/>ent Pearl </seg>
+                        <seg>and sands </seg>
+                        <seg>of Gold,</seg>
+                    </l><l n="17" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>With maz<sb/></seg>
+                        <seg>y er<sb/></seg>
+                        <seg>ror un<sb/></seg>
+                        <seg>der pen<sb/></seg>
+                        <seg>dant shades</seg>
+                    </l><l n="18" met="-+-+-+-+-+" real="++-+--++-+">
+                        <seg met="-+" real="++">Ran nec<sb/></seg>
+                        <seg>tar, <caesura/>vis<sb/></seg>
+                        <seg met="-+" real="--">it<sb/>ing </seg>
+                        <seg met="-+" real="++">each plant, </seg>
+                        <caesura/>
+                        <seg>and fed</seg>
+                    <note anchored="true"> The double caesura assigned to this line is admittedly
+                        debatable, especially where the clearly punctuated lines 2 and 9 get no
+                        caesura at all. As with most subtleties of metrical calibration, these all
+                        bespeak a reader's judgment as to how a given line should sound, which is
+                        entwined with judgment as to what a line is saying and doing. Line 18 here
+                        is (like the river) paying visits, taking its sweet attentive time. In
+                        contrast lines 2 and 9 are (like the river) moving right along: their commas
+                        mark a syntactic division rather than a pause in the flow, so there 4B4V
+                        prefers to skip the caesura and step it up. </note>
+                    </l><l n="19" met="-+-+-+-+-+" real="++--+---+++|++--+-+-+++">
+                        <seg met="-+" real="++">Flow'rs worth<sb/></seg>
+                        <seg met="-+" real="--+">y of Par<sb/></seg>
+                        <seg met="-+" real="--|-+">a<sb/>dise, </seg>
+                        <caesura/>
+                        <seg>which not </seg>
+                        <seg met="-+" real="++">nice Art</seg>
+                    </l><l n="20" met="-+-+-+-+-+" real="-+-+--+-+-+">
+                        <seg>In Beds </seg>
+                        <seg>and cur<sb/></seg>
+                        <seg met="-+" real="--+">i<sb/>ous Knots, </seg>
+                        <caesura/>
+                        <seg>but Na<sb/></seg>
+                        <seg>ture boon</seg>
+                    </l><l n="21" met="-+-+-+-+-+" real="++-+-+-+-+">
+                        <seg met="-+" real="++" >Pour'd forth </seg>
+                        <seg>pro<sb/>fuse </seg>
+                        <seg>on Hill </seg>
+                        <seg>and Dale </seg>
+                        <seg>and Plain.</seg>
+                    </l></lg></body></text></TEI>

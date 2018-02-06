@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Hyperion I.1-14</title>
+                    <author>John Keats</author>
+                </titleStmt>
+                <publicationStmt><date>1820</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="blank verse" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="+--+-+-+-+">
+                   <seg met="-+" real= "+-">Deep in </seg>
+                   <seg>the shad<sb/></seg>
+                   <seg>y sad<sb/></seg>
+                   <seg>ness of </seg>
+                   <seg>a vale</seg>
+               </l><l n="2" met="-+-+-+-+-+" real="++---+-+-+">
+                   <seg met="-+" real= "++">Far sunk<sb/></seg>
+                   <seg met="-+" real="--">en from </seg>
+                    <seg>the health<sb/></seg>
+                   <seg>y breath </seg>
+                    <seg>of morn,</seg>
+                </l><l n="3" met="-+-+-+-+-+" real="+--+--+-+++">
+                    <seg met="-+" real= "+-">Far from </seg>
+                    <seg>the fi<sb/></seg>
+                    <seg met="-+" real= "--+">e<sb/>ry noon, </seg>
+                    <caesura/>
+                    <seg>and eve's </seg>
+                    <seg met="-+" real= "++">one star,</seg>
+                    <note anchored="true"> In this proem to his unfinished epic about superhumanly
+                        huge Titans, Keats treats his lines by and large like architectural slabs,
+                        weight-bearing members sustaining an immensity.  Caesuras -- cracks in the
+                        slab -- are rare, and when they occur they have special work to do.  Here
+                        that work is to herald the entrance of the Titan king Saturn.  The caesura
+                        isolates the strong spondaic final foot of line 3, whose emphatic consonants
+                        n, s, and t will rumble through Saturn's name and right across the rest of
+                        line 4.  Thus, while assonance and consonance are the real stars of this
+                        show, metrical effects play a key supporting role. </note>
+                </l><l n="4" met="-+-+-+-+-+" real="++++-+---+">
+                    <seg met="-+" real= "++">Sat gray-<sb/></seg>
+                    <seg met="-+" real= "++">hair'd Sat<sb/></seg>
+                    <seg>urn qui<sb/></seg>
+                    <seg met="-+" real= "--">et as </seg>
+                    <seg>a stone,</seg>
+                </l><l n="5" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real= "+-">Still as </seg>
+                    <seg>the si<sb/></seg>
+                    <seg>lence round </seg>
+                    <seg>a<sb/>bout </seg>
+                    <seg>his lair;</seg>
+                </l><l n="6" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real= "+-">For<sb/>est </seg>
+                    <seg>on for<sb/></seg>
+                    <seg>est hung </seg>
+                    <seg>a<sb/>bove </seg>
+                    <seg>his head</seg>
+                </l><l n="7" met="-+-+-+-+-+" real="-+-+++-+-+">
+                    <seg>Like cloud </seg>
+                    <seg>on cloud. </seg>
+                    <caesura/>
+                    <seg met="-+" real= "++">No stir </seg>
+                    <seg>of air </seg>
+                    <seg>was there,</seg>
+                </l><l n="8" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Not so </seg>
+                    <seg>much life </seg>
+                    <seg>as on </seg>
+                    <seg>a sum<sb/></seg>
+                    <seg>mer's day</seg>
+                </l><l n="9" met="-+-+-+-+-+" real="+++++--+-+">
+                    <seg met="-+" real= "++">Robs not </seg>
+                    <seg met="-+" real= "++">one light </seg>
+                    <seg met="-+" real= "+-">seed from </seg>
+                    <seg>the fea<sb/></seg>
+                    <seg>ther'd grass,</seg>
+                    <note>The run of five consecutive stresses -- engrossing fully half the
+                        decasyllabic line -- seems unlikely, yet this is not the only line in Keats
+                        that pulls the trick off.  There has to be a slack in that series somewhere,
+                        we say; but where?  It's impossible to say.  Remarkably, here the effect is
+                        not ponderous, as spondee-jams like the one in lines 3-4 above tend to be.
+                        It's the reverse: weightless, suspended; indeed suspenseful, yet without a
+                        hint of resolution.  This may be the place to note Keats's care to show by
+                        typography how many syllables an ambiguous participle like "feather'd"
+                        should have. When he wants the opposite effect in a later line of this same
+                        poem and writes, "Tall oaks, branch-charmed by the earnest stars," we know
+                        from the absence of apostrophe to give "charmed" two syllables and so fill
+                        the pentameter out.</note>
+                </l><l n="10" met="-+-+-+-+-+" real="-+-++++--+">
+                    <seg>But where </seg>
+                    <seg>the dead </seg>
+                    <seg met="-+" real= "++">leaf fell, </seg>
+                    <caesura/>
+                    <seg met="-+" real= "+-">there did </seg>
+                    <seg>it rest.</seg>
+                </l><l n="11" met="-+-+-+-+-+" real="-+-+-+++-+">
+                    <seg>A stream </seg>
+                    <seg>went voice<sb/></seg>
+                    <seg>less by, </seg>
+                    <caesura/>
+                    <seg>still dead<sb/></seg>
+                    <seg>en'd more</seg>
+                </l><l n="12" met="-+-+-+-+-+" real="-+-+-+--+-+">
+                    <seg>By rea<sb/></seg>
+                    <seg>son of </seg>
+                    <seg>his fall<sb/></seg>
+                    <seg met="-+" real= "--+">en div<sb/>in<sb/></seg>
+                    <seg>i<sb/>ty</seg>
+                </l><l n="13" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real= "+-">Spread<sb/>ing </seg>
+                    <seg>a shade: </seg>
+                    <caesura/>
+                    <seg>the Nai<sb/></seg>
+                    <seg>ad mid </seg>
+                    <seg>her reeds</seg>
+                </l><l n="14" met="-+-+-+-+-+" real="+-++-+-+-+|+-++-+---+">
+                    <seg met="-+" real= "+-">Press'd her </seg>
+                    <seg met="-+" real= "++">cold fin<sb/></seg>
+                    <seg>ger clos<sb/></seg>
+                    <seg met="-+" real="--">er to </seg>
+                    <seg>her lips.</seg>
+                    <note anchored="true"> A final point about this stunning passage concerns verse
+                        beginnings.  A majority of the lines begin with a stressed syllable and not
+                        the iambically normal slack.  Toggle the Syncopation button once your
+                        complete scansion is correct, and see for yourself how often it happens
+                        here. This habit of descriptive impetus Keats learned from his master in
+                        epic versification Milton. Compare the two poets' practice by going to our 4B4V
+                        sample from Paradise Lost (titled Eden First Seen). </note>
+                </l>
+                    </lg></body></text></TEI>

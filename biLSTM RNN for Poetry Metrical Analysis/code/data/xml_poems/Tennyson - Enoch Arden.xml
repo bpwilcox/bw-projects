@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Enoch Arden</title>
+                    <author>Alfred Tennyson</author>
+                </titleStmt>
+                <publicationStmt><date>1859</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="blank verse" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5)" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="++-++--+-+-">
+                        <seg met="-+" real="++" part="N">Long lines <sb/></seg>
+                        <seg met="-+" part="N">of cliff </seg>
+                        <seg met="-+" real="+-" part="N">break<sb/>ing </seg>
+                        <seg met="-+" part="N">have left </seg>
+                        <seg met="-+" real="-+-" part="N">a chas<sb/>m;</seg>
+                    </l><l n="2" met="-+-+-+-+-+" real="-+-+--+-+-+">
+                        <seg met="-+" part="N">And in </seg>
+                        <seg met="-+" part="N">the chas<sb/></seg>
+                        <seg met="-+" real="--+" part="N">m are foam </seg>
+                        <seg met="-+" part="N">and yel<sb/></seg>
+                        <seg met="-+" part="N">low sands;</seg>
+                    </l><l n="3" met="-+-+-+-+-+" real="-+++-+-+-+">
+                        <seg met="-+" part="N">Be<sb/>yond </seg>
+                        <seg met="-+" real="++" part="N">red roofs </seg>
+                        <seg met="-+" part="N">a<sb/>bout </seg>
+                        <seg met="-+" part="N">a nar<sb/></seg>
+                        <seg met="-+" part="N">row wharf</seg>
+                    </l><l n="4" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                        <seg met="-+" part="N">In clus<sb/></seg>
+                        <seg met="-+" part="N">ter; <caesura/>then </seg>
+                        <seg met="-+" part="N">a moul<sb/></seg>
+                        <seg met="-+" part="N">dered church; </seg>
+                        <seg  met="-+" real="-+-" part="N">and high<sb/>er</seg>
+                    </l><l n="5" met="-+-+-+-+-+" real="-+++-+++-+">
+                        <seg met="-+" part="N">A long </seg>
+                        <seg met="-+" real="++" part="N">street climbs </seg>
+                        <seg met="-+" part="N">to one </seg>
+                        <seg met="-+" real="++" part="N">tall-<sb/>tow<sb/></seg>
+                        <seg met="-+" part="N">ered mill;</seg>
+                    </l><l n="6" met="-+-+-+-+-+" real="-+-+--+--++">
+                        <seg met="-+" part="N">And high </seg>
+                        <seg met="-+" part="N">in hea<sb/></seg>
+                        <seg met="-+" real="--+" part="N">ven be<sb/>hind </seg>
+                        <seg met="-+" real="--" part="N">it a </seg>
+                        <seg met="-+" real="++" part="N">gray down</seg>
+                    </l><l n="7" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">With Dan<sb/></seg>
+                        <seg met="-+" part="N">ish bar<sb/></seg>
+                        <seg met="-+" part="N">rows; <caesura/> and </seg>
+                        <seg met="-+" part="N">a haz<sb/></seg>
+                        <seg met="-+" part="N">el<sb/> wood,</seg>
+                    </l><l n="8" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg met="-+" part="N">By aut<sb/></seg>
+                        <seg met="-+" part="N">umn nut<sb/></seg>
+                        <seg met="-+" part="N">ters haun<sb/></seg>
+                        <seg met="-+" part="N">ted, flour<sb/></seg>
+                        <seg met="-+" part="N">ish<sb/>es</seg>
+                    </l><l n="9" met="-+-+-+-+-+" real="+--+++---+|+--+-+-+-+">
+                        <seg met="-+" real="+-" part="N">Green in </seg>
+                        <seg met="-+" part="N">a cup<sb/></seg>
+                        <seg met="-+" real="++|-+" part="N">like hol<sb/></seg>
+                        <seg met="-+" real="--|-+" part="N">low of </seg>
+                        <seg met="-+" part="N">the down.</seg>
+                    </l></lg></body></text></TEI>

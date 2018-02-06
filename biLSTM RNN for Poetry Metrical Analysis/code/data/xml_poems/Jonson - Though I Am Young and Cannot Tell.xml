@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Though I Am Young and Cannot Tell</title>
+                    <author>Ben Jonson</author>
+                </titleStmt>
+                <publicationStmt><date>1640</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="octave" met="-+(4/4/4/4/4/4/4/4)" rhyme="aabbccdd" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                   <seg>Though I </seg>
+                   <seg>am young, </seg>
+                   <seg>and can<sb/></seg>
+                   <seg>not <rhyme label="a">tell</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+-+" real="+--+-+-+" part="N">
+                        <seg met="-+" real="+-">Ei<sb/>ther </seg>
+                        <seg>what Death </seg>
+                        <seg>or Love </seg>
+                        <seg>is <rhyme label="a">well,</rhyme></seg>
+                    </l>
+                    <l n="3" met="-+-+-+-+" real="-+-+-+++" part="N">
+                        <seg>Yet I </seg>
+                        <seg>have heard </seg>
+                        <seg>they both </seg>
+                        <seg met="-+" real="++">bear <rhyme label="b">darts,</rhyme></seg>
+                    </l>
+                    <l n="4" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                        <seg>And both </seg>
+                        <seg>do aim </seg>
+                        <seg>at hu<sb/></seg>
+                        <seg>man <rhyme label="b">hearts.</rhyme></seg>
+                    </l>
+                    <l n="5" met="-+-+-+-+" real="-+-++--+" part="N">
+                        <seg>And then </seg>
+                        <seg>a<sb/>gain, </seg>
+                        <seg met="-+" real="+-">I have </seg>
+                        <seg>been <rhyme label="c">told</rhyme></seg>
+                    </l>
+                    <l n="6" met="-+-+-+-+" real="++-+-+-+" part="N">
+                        <seg met="-+" real="++">Love wounds </seg>
+                        <seg>with heat, </seg>
+                        <seg>as Death </seg>
+                        <seg>with <rhyme label="c">cold;</rhyme></seg>
+                    </l>
+                    <l n="7" met="-+-+-+-+" real="+--+-+-+" part="N">
+                        <seg met="-+" real="+-">So that </seg>
+                        <seg>I fear </seg>
+                        <seg>they do </seg>
+                        <seg>but <rhyme label="d">bring</rhyme></seg>
+                    </l>
+                    <l n="8" met="-+-+-+-+" real="-+-+-+++" part="N">
+                        <seg>Ex<sb/>tremes </seg>
+                        <seg>to touch, </seg>
+                        <seg>and mean </seg>
+                        <seg met="-+" real="++">one <rhyme label="d">thing.</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="1" type="octave" met="-+(4/4/4/4/4/4/4/4)" rhyme="aabbccdd" org="uniform" sample="complete" part="N">
+                    <l n="9" met="-+-+-+-+" real="-+-+-+-+|+--+-+-+" part="N">
+                        <seg met="-+" real="+-">As in </seg>
+                        <seg>a ru<sb/></seg>
+                        <seg>in we </seg>
+                        <seg>it <rhyme label="a">call</rhyme></seg>
+                    </l>
+                    <l n="10" met="-+-+-+-+" real="++--++-+" part="N">
+                        <seg met="-+" real="++">One thing </seg>
+                        <seg met="-+" real="--">to be </seg>
+                        <seg>blown up, </seg>
+                        <seg>or <rhyme label="a">fall;</rhyme></seg>
+                    </l>
+                    <l n="11" met="-+-+-+-+" real="-+--+++-+" part="N">
+                        <seg>Or to </seg>
+                        <seg met="-+" real="--+">o<sb/>ur end </seg>
+                        <seg met="-+" real="++">like way </seg>
+                        <seg>may <rhyme label="b">have</rhyme></seg>
+                    </l>
+                    <l n="12" met="-+-+-+-+" real="--+-+-+-+" part="N">
+                        <seg met="-+" real="--+">By a flash </seg>
+                        <seg>of light<sb/></seg>
+                        <seg>ning, or </seg>
+                        <seg>a <rhyme label="b">wave;</rhyme></seg>
+                    </l>
+                    <l n="13" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                        <seg>So Love's </seg>
+                        <seg>in<sb/>flam<sb/></seg>
+                        <seg>&#232;d shaft </seg>
+                        <seg>or <rhyme label="c">brand</rhyme></seg>
+                    </l>
+                    <l n="14" met="-+-+-+-+" real="-+-+-+++" part="N">
+                        <seg>May kill </seg>
+                        <seg>as soon </seg>
+                        <seg>as Death's </seg>
+                        <seg met="-+" real="++">cold <rhyme label="c">hand;</rhyme></seg>
+                    </l>
+                    <l n="15" met="-+-+-+-+" real="-+++--+-+" part="N">
+                        <seg>Ex<sb/>cept </seg>
+                        <seg met="-+" real="++">Love's fi<sb/></seg>
+                        <seg met="-+" real="--+">res the vir<sb/></seg>
+                        <seg>tue <rhyme label="d">have</rhyme></seg>
+                    </l>
+                    <l n="16" met="-+-+-+-+" real="-+-++--+" part="N">
+                        <seg>To fright </seg>
+                        <seg>the frost </seg>
+                        <seg met="-+" real="+-">out of </seg>
+                        <seg>the <rhyme label="d">grave.</rhyme></seg>
+                    </l>
+                </lg></body></text></TEI>

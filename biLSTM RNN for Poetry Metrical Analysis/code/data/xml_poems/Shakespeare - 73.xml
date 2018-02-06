@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+    <title>Sonnet 73</title><author>William Shakespeare</author></titleStmt><publicationStmt><date>1609</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body>
+        <lg n="1" type="quatrain" met="-+(5/5/5/5)" rhyme="abab" org="uniform" sample="complete" part="N">
+            <l n="1" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">That time </seg>
+                    <seg met="-+" part="N">of year </seg>
+                    <seg met="-+" part="N">thou mayst </seg>
+                    <seg met="-+" part="N">in me </seg>
+                    <seg met="-+" part="N">be<sb part="N"/><rhyme label="a">hold</rhyme></seg>
+                </l><l n="2" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">When yel<sb part="N"/></seg>
+                    <seg met="-+" part="N">low leaves, <caesura/></seg>
+                    <seg met="-+" part="N">or none, <caesura/></seg>
+                    <seg met="-+" part="N">or few, <caesura/></seg>
+                    <seg met="-+" part="N">do <rhyme label="b">hang</rhyme></seg>
+                </l><l n="3" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Up<sb/>on </seg>
+                    <seg met="-+" part="N">those boughs </seg>
+                    <seg met="-+" part="N">which shake </seg>
+                    <seg met="-+" part="N">a<sb/>gainst </seg>
+                    <seg met="-+" part="N">the <rhyme label="a">cold,</rhyme></seg>
+                </l><l n="4" part="N" met="-+-+-+-+-+" real="++-+--+-+++">
+                    <seg met="-+" real="++" part="N">Bare ru<sb part="N"/></seg>
+                    <seg met="-+" part="N">ined cho</seg>                    
+                    <seg met="-+" real="--+" part="N">irs, <caesura/>where late </seg>
+                    <seg met="-+" part="N">the sweet </seg>
+                    <seg met="-+" real="++" part="N">birds <rhyme label="b">sang.</rhyme></seg>
+                </l></lg><lg n="2" type="quatrain" met="-+(5/5/5/5)" rhyme="cdcd" org="uniform" sample="complete" part="N">
+                    <l n="5" part="N" met="-+-+-+-+-+" real="-+-+-+--++">
+                    <seg met="-+" part="N">In me </seg>
+                    <seg met="-+" part="N">thou seest </seg>
+                    <seg met="-+" part="N">the twi<sb part="N"/></seg>
+                    <seg met="-+" real="--" part="N">light of </seg>
+                    <seg met="-+" real="++" part="N">such <rhyme label="c">day</rhyme></seg>
+                </l><l n="6" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">As af<sb part="N"/></seg>
+                    <seg met="-+" part="N">ter sun<sb part="N"/></seg>
+                    <seg met="-+" part="N">set fad<sb part="N"/></seg>
+                    <seg met="-+" part="N">eth in </seg>
+                    <seg met="-+" part="N">the <rhyme label="d">west;</rhyme></seg>
+                </l><l n="7" part="N" met="-+-+-+-+-+" real="-+-+++-+-+">
+                    <seg met="-+" part="N">Which by </seg>
+                    <seg met="-+" part="N">and by </seg>
+                    <seg met="-+" real="++" part="N">black night </seg>
+                    <seg met="-+" part="N">doth take </seg>
+                    <seg met="-+" part="N">a<sb part="N"/><rhyme label="c">way,</rhyme></seg>
+                </l><l n="8" part="N" met="-+-+-+-+-+" real="++-+-+-+-+|++-+-+-+-+">
+                    <seg met="-+" real="++" part="N">Death's sec<sb part="N"/></seg>
+                    <seg met="-+" part="N">ond self, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">that seals </seg>
+                    <seg met="-+" part="N">up all </seg>
+                    <seg met="-+" part="N">in <rhyme label="d">rest.</rhyme></seg>
+                    <note anchored="true"> There's a colloquial temptation to introduce into this
+                        line about death's second self a second spondee in the 4th foot by stressing
+                        "up." 4B4V declines that option, reckoning that the real money word here is
+                        "all": the poet enforces the universality of death but is feeling too old to
+                        get melodramatic about it. </note>
+                </l></lg><lg n="3" type="quatrain" met="-+(5/5/5/5)" rhyme="efef" org="uniform" sample="complete" part="N">
+                    <l n="9" part="N" met="-+-+-+-+-+" real="-+-+-+--++-">
+                    <seg met="-+" part="N">In me </seg>
+                    <seg met="-+" part="N">thou seest </seg>
+                    <seg met="-+" part="N">the glow<sb part="N"/></seg>
+                    <seg met="-+" real="--" part="N">ing of </seg>
+                    <seg met="-+" real="++-" part="N">such <rhyme label="e">fi<sb/>re</rhyme>,</seg>
+                    <note anchored="true"> As usual we treat "fire" as a disyllable, thus creating a
+                        feminine ending for this and the rhyming line to come. A Stratford actor
+                        today might make it a monosyllable. Nobody can be sure how Shakespeare
+                        pronounced it -- or for that matter the verb "seest" earlier in the line --
+                        four centuries ago. Consistency in usage is the most we can strive for
+                        here.</note>
+                </l><l n="10" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">That on </seg>
+                    <seg met="-+" part="N">the ash<sb part="N"/></seg>
+                    <seg met="-+" part="N">es of </seg>
+                    <seg met="-+" part="N">his youth </seg>
+                    <seg met="-+" part="N">doth <rhyme label="f">lie,</rhyme></seg>
+                </l><l n="11" part="N" met="-+-+-+-+-+" real="--++-+-+-+-">
+                    <seg met="-+" real="--" part="N">As the </seg>
+                    <seg met="-+" real="++" part="N">death<sb part="N"/>bed </seg>
+                    <seg met="-+" part="N">where<sb part="N"/>on </seg>
+                    <seg met="-+" part="N">it must </seg>
+                    <seg met="-+" real="-+-" part="N">ex<sb part="N"/><rhyme label="e">pi<sb/>re,</rhyme></seg>
+                </l><l n="12" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Con<sb part="N"/>sumed </seg>
+                    <seg met="-+" part="N">with that </seg>
+                    <seg met="-+" part="N">which it </seg>
+                    <seg met="-+" part="N">was nour<sb part="N"/></seg>
+                    <seg met="-+" part="N">ished <rhyme label="f">by.</rhyme></seg>
+                </l></lg><lg n="4" type="couplet" met="-+(5/5)" rhyme="gg" org="uniform" sample="complete" part="N">
+                    <l n="13" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-" part="N">This thou </seg>
+                    <seg met="-+" part="N">per<sb part="N"/>ceiv'st, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">which makes </seg>
+                    <seg met="-+" part="N">thy love </seg>
+                    <seg met="-+" part="N">more <rhyme label="g">strong,</rhyme></seg>
+                    <note anchored="true"> In this sonnet Shakespeare employs only one initial
+                        trochaic inversion -- ordinarily a favorite device of his -- and this is
+                        definitely it. What "this" is, the unstated truth about youth and age,
+                        vitality and mortality, that the three quatrain conceits of the foregoing
+                        lines have enacted, is the sphinx-like riddle we are abruptly asked to solve.
+                        And from this riddle hangs another: what "that" refers to in the line that
+                        comes next. </note>
+                </l><l n="14" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+|-+++-+-+-+">
+                    <seg met="-+" part="N">To love </seg>
+                    <seg met="-+" part="N">that well </seg>
+                    <seg met="-+" part="N">which thou </seg>
+                    <seg met="-+" part="N">must leave </seg>
+                    <seg met="-+" part="N">ere <rhyme label="g">long.</rhyme></seg>
+                </l></lg></body></text></TEI>

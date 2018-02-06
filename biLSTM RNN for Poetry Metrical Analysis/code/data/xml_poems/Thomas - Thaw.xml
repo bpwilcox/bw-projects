@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Thaw</title>
+                <author>Edward Thomas</author>
+            </titleStmt>
+            <publicationStmt><date>1916</date></publicationStmt>
+            <sourceDesc default="false"><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" met="-+(5/5/5/5)" rhyme="aabb" org="uniform" sample="complete" part="N">
+                <l n="1" met="-+-+-+-+-+" real="+--++--+++">
+                    <seg met="-+" real="+-" part="N">O<sb/>ver </seg>
+                    <seg met="-+" part="N">the land </seg>
+                    <seg met="-+" real="+-" part="N">freck<sb/>led </seg>
+                    <seg met="-+" part="N">with snow </seg>
+                    <seg met="-+" real="++" part="N">half-<rhyme label="a">thawed</rhyme></seg>
+                </l><l n="2" met="-+-+-+-+-+" real="-+-+-+--++">
+                    <seg met="-+" part="N">The spec<sb/></seg>
+                    <seg met="-+" part="N">u<sb/>la<sb/></seg>
+                    <seg met="-+" part="N">ting rooks </seg>
+                    <seg met="-+" real="--" part="N">at their </seg>
+                    <seg met="-+" real="++" part="N">nests <rhyme label="a">cawed</rhyme></seg>
+                </l><l n="3" met="-+-+-+-+-+" real="-+-+-+---+--+">
+                    <seg met="-+" part="N">And saw </seg>
+                    <seg met="-+" part="N">from elm-<sb/></seg>
+                    <seg met="-+" part="N">tops, <caesura/>del<sb/></seg>
+                    <seg met="-+" real="---+" part="N">i<sb/>cate as flow<sb/></seg>
+                    <seg met="-+" real="--+" part="N">er of <rhyme label="b">grass,</rhyme></seg>
+         <note anchored="true">
+             Yes, this line obliges us to reach for the fourth paeon (- - - /), a foot so unusual that it goes unnoted in the 4B4V Instructions, though you may find it in our Glossary.  Think of it as the next step up, among rising feet, in the shift from iamb to anapest: this exceptional substitution, like that quite ordinary one, crowds more syllables into roughly the same recitation space and so boosts frequency (speed of utterance).  We see how badly Thomas wanted it when we consider how easily he could have achieved iambic regularity by using "light" instead of "delicate."  And we begin to see why he wanted it when we note the resemblance in consonance between the word he did use and its phonemic heralds "freckled" and "speculating" in lines 1 and 2.  We see more still when we measure out the iambic regularity that does occur by contrast in line 4, and appreciate the power of delay in making imaginatively perceptible a seasonal change that remains humanly invisible, whatever those rooks see on spec.                 </note>
+                </l><l n="4" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">What we </seg>
+                    <seg met="-+" part="N">be<sb/>low </seg>
+                    <seg met="-+" part="N">could not </seg>
+                    <seg met="-+" part="N">see, <caesura/>Win<sb/></seg>
+                    <seg met="-+" part="N">ter <rhyme label="b">pass.</rhyme></seg>
+                </l></lg></body></text></TEI>

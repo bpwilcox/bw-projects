@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>When a Man Hath No Freedom</title>
+                    <author>George Gordon, Lord Byron</author>
+                </titleStmt>
+                <publicationStmt><date>1820</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="quatrain" met="--+(4/3/4/3)" rhyme="abab" org="uniform" sample="complete" part="N">
+                    <l n="1" met="--+--+--+--+" real="--+--+--+--+" part="N">
+                   <seg>When a man </seg>
+                   <seg>hath no free<sb/></seg>
+                   <seg>dom to fight </seg>
+                   <seg>for at <rhyme label="a">home,</rhyme></seg>
+                    </l>
+                    <l n="2" met="--+--+--+" real="--+--+--+-" rend="indent(1)">
+                        <seg>Let him com<sb/></seg>
+                        <seg>bat for that </seg>
+                        <seg met="--+" real="--+-">of his neigh<sb/><rhyme label="b">bours;</rhyme></seg>
+                    <note>Even if you didn't know that until recently the verb "combat" took stress
+                        on the first syllable (like the noun), the place it finds in Byron's
+                        anapests would tell you so. Triple rhythms, as you get into the imperious
+                        swing of them, prove much bossier than double ones. Thus you don't stress
+                        "Let" at the head of this line; and by line 8 you should find yourself
+                        conceding a slack on "shot" without a fight, as in an iambic poem you never
+                        would. This poem also shows, by the way, that triple meter welcomes feminine
+                        endings: u u / u may looks ungainly in the final foot, but it's quite
+                        acceptable and not uncommon.</note>
+                    </l>
+                    <l n="3" met="--+--+--+--+" real="--+--+--+--+" part="N">
+                        <seg>Let him think </seg>
+                        <seg>of the glor<sb/></seg>
+                        <seg>ies of Greece </seg>
+                        <seg>and of <rhyme label="a">Rome,</rhyme></seg>
+                    </l>
+                    <l n="4" met="--+--+--+" real="--+--+--+-" rend="indent(1)">
+                        <seg>And get knocked </seg>
+                        <seg>on the head </seg>
+                        <seg met="--+" real="--+-">for his la<rhyme label="b">bours,</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="2" type="quatrain" met="--+(4/3/4/3)" rhyme="abab" org="uniform" sample="complete" part="N">
+                    <l n="5" met="--+--+--+--+" real="--+--+--+--+" part="N">
+                        <seg>To do good </seg>
+                        <seg>to man<sb/>kind </seg>
+                        <seg>is the chiv<sb/></seg>
+                        <seg>al<sb/>rous <rhyme label="a">plan,</rhyme></seg>
+                    </l>
+                    <l n="6" met="--+--+--+" real="--+--+--+-" rend="indent(1)">
+                        <seg>And is al<sb/></seg>
+                        <seg>ways as no<sb/></seg>
+                        <seg met="--+" real="--+-">bly re<sb/>quit<sb/><rhyme label="b">ed;</rhyme></seg>
+                    </l>
+                    <l n="7" met="--+--+--+--+" real="-+--+--+--+" part="N">
+                        <seg met="--+" real="-+">Then bat<sb/></seg>
+                        <seg>tle for free<sb/></seg>
+                        <seg>dom wher<sb/>e<sb/></seg>
+                        <seg>ver you <rhyme label="a">can,</rhyme></seg>
+                    </l>
+                    <l n="8" met="--+--+--+" real="--+--+--+-" rend="indent(1)">
+                        <seg>And if not </seg>
+                        <seg>shot or hanged </seg>
+                        <seg met="--+" real="--+-">you'll get knight<sb/><rhyme label="b">ed.</rhyme></seg>
+                    </l>
+                </lg></body></text></TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <!DOCTYPE TEI SYSTEM "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+     <teiHeader type="text">
+         <fileDesc>
+             <titleStmt>
+                 <title>She Dwelt Among the Untrodden Ways</title>
+                 <author>William Wordsworth</author>
+             </titleStmt>
+             <publicationStmt><date>1800</date></publicationStmt>
+             <sourceDesc default="false"><p/></sourceDesc>
+         </fileDesc>
+     </teiHeader>
+    <text>
+        <body>
+            <lg type="quatrain" met="-+(4/3/4/3)" rhyme="abcb" org="uniform" sample="complete" part="N">
+                <l n="1" met="-+-+-+-+" real="-+-+--+-+">
+                    <seg met="-+" real="-+">She dwelt <sb/></seg>
+                    <seg met="-+" real="-+">among </seg>
+                    <seg met="-+" real="--+">the un<sb/>trod<sb/></seg>
+                    <seg>den <rhyme label="a">ways,</rhyme></seg>
+                </l><l n="2" met="-+-+-+" real="-+-+-+">
+                    <seg>Beside </seg>
+                    <seg met="-+" real="-+">the springs </seg>
+                    <seg>of <rhyme label="b">Dove,</rhyme></seg>
+                </l><l n="3" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg met="-+" real="-+">A maid </seg>
+                    <seg>whom there </seg>
+                    <seg>were none </seg>
+                    <seg>to <rhyme label="a">praise,</rhyme></seg>
+                </l><l n="4" met="-+-+-+" real="-+-+-+">
+                    <seg>And ver</seg>
+                    <seg met="-+" real="-+">y few </seg>
+                    <seg>to <sb/><rhyme label="b">love.</rhyme></seg>
+                 </l></lg></body></text></TEI>

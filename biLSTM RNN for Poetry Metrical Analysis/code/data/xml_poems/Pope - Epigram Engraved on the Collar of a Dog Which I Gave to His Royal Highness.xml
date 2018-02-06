@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epigram Engraved on the Collar of a Dog Which I Gave to His Royal Highness</title>
+                <author>Alexander Pope</author>
+            </titleStmt>
+            <publicationStmt><date>1738</date></publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="couplet" met="-+(4/4)" rhyme="aa">
+               <l n="1" met="-+-+-+-+" real="-+-+-+-+">
+                   <seg met="-+">I am </seg>
+                   <seg met="-+">his High<sb/></seg>
+                   <seg met="-+">ness' dog </seg>
+                   <seg met="-+">at <rhyme label="a">Kew;</rhyme></seg>
+               </l>
+                <l n="2" met="-+-+-+-+" real="-+-++--+">
+                    <seg met="-+">Pray tell </seg>
+                    <seg met="-+">me, sir, </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-">whose dog </seg>
+                    <seg met="-+">are <rhyme label="a">you?</rhyme></seg>
+                    <note anchored="true">For brief discussion of what's wagging in the 3rd foot, see the tail end of the 4B4V Overview.</note>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>

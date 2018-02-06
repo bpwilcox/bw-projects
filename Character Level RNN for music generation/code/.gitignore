@@ -1,0 +1,4 @@
+**/*.swp
+code
+note_weights
+__pycache__

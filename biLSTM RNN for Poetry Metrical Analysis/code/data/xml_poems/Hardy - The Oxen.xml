@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>The Oxen</title>
+        <author>Thomas Hardy</author>
+      </titleStmt>
+      <publicationStmt>
+        <date>1917</date>
+      </publicationStmt>
+      <sourceDesc default="false">
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+      </teiHeader><text><body>
+      <lg n="1" type="quatrain" met="-+(4/3/4/3)" rhyme="abab" org="uniform" sample="complete"
+        part="N">
+        <l n="1" part="N" met="-+-+-+-+" real="+-+-+--+">
+          <seg met="-+" real="+" part="N">Christ<sb part="N"/></seg>
+          <seg>mas Eve, </seg>
+          <caesura/>
+          <seg>and twelve </seg>
+          <seg met="-+" real="--+" part="N">of the <rhyme label="a">clock.</rhyme></seg>
+          <note anchored="true"> The stressing of this line is pretty straightforward, but
+            it's not so clear how to divide up the feet. Given eight syllables, it might
+            seem simplest to make three trochees followed by an iamb. This initially
+            appealing choice, though, would be misleading, since later lines firmly
+            establish the meter of the whole poem as iambic.  Better acknowledge that
+            rising rhythm from the very start, even at the inconvenient expense of
+            catalexis, i.e. of a one-syllable first foot. Don't feel too bad about the
+            missed trochaic opportunity here. First-position trochees will be frequent
+            in the coming lines, at times even poignant in their underdog folk resistance
+            to the iambic norm and what Hardy makes it stand for. That's another reason
+            for not letting the trocheesm run rampant here. </note>
+        </l>
+        <l n="2" part="N" met="-+-+-+" real="+--+--+">
+          <seg met="-+" real="+-" part="N">"Now they </seg>
+          <seg>are all </seg>
+          <seg met="-+" real="--+" part="N">on their <rhyme label="b">knees,"</rhyme></seg>
+        </l>
+        <l n="3" part="N" met="-+-+-+-+" real="-+-+--+--+">
+          <seg>An el<sb part="N"/></seg>
+          <seg>der said </seg>
+          <seg met="-+" real="--+" part="N">as we sat </seg>
+          <seg met="-+" real="--+" part="N">in a <rhyme label="a">flock</rhyme></seg>
+        </l>
+        <l n="4" part="N" met="-+-+-+" real="--+--+-+">
+          <seg met="-+" real="--+" part="N">By the em<sb part="N"/></seg>
+          <seg met="-+" real="--+" part="N">bers in hearth<sb part="N"/></seg>
+          <seg>side <rhyme label="b">ease.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="2" type="quatrain" met="-+(4/3/4/3)" rhyme="cdcd" org="uniform" sample="complete" part="N">
+        <l n="5" part="N" met="-+-+-+-+" real="-+--+++-+">
+          <seg>We pic<sb part="N"/></seg>
+          <seg met="-+" real="--+" part="N">tured the meek </seg>
+          <seg met="-+" real="++" part="N">mild crea<sb part="N"/></seg>
+          <seg>tures <rhyme label="c">where</rhyme></seg>
+          </l><l n="6" part="N" met="-+-+-+" real="-+--+-+">
+          <seg>They dwelt </seg>
+          <seg met="-+" real="--+" part="N">in their straw<sb part="N"/></seg>
+          <seg>y <rhyme label="d">pen,</rhyme></seg>
+          </l><l n="7" part="N" met="-+-+-+-+" real="-+--+-+--+">
+          <seg>Nor did </seg>
+          <seg met="-+" real="--+" part="N">it oc<sb part="N"/>cur </seg>
+          <seg>to one </seg>
+          <seg met="-+" real="--+" part="N">of us <rhyme label="c">there</rhyme></seg>
+          </l><l n="8" part="N" met="-+-+-+" real="-+--+-+">
+          <seg>To doubt </seg>
+          <seg met="-+" real="--+" part="N">they were kneel<sb part="N"/></seg>
+          <seg>ing <rhyme label="d">then.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="3" type="quatrain" met="-+(4/3/4/3)" rhyme="efef" org="uniform" sample="complete" part="N">
+        <l n="9" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>So fair </seg>
+          <seg>a fan<sb part="N"/></seg>
+          <seg>cy few </seg>
+          <seg>would <rhyme label="e">weave</rhyme></seg>
+          </l><l n="10" part="N" met="-+-+-+" real="-+-+-+">
+          <seg>In these </seg>
+          <seg>years! <caesura/>Yet, </seg>
+          <seg>I <rhyme label="f">feel,</rhyme></seg>
+          <note anchored="real"> The first three words of this line furnish a nice example
+            of how colloquial speech pattern trumps the prosodic rules of thumb. The
+            rules say that "years," a monosyllabic noun, should take stress, while the
+            common adjective "these" should not.  But not this time -- not if you're
+            listening for the speaking voice.</note></l>
+        <l n="11" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg>If some<sb part="N"/></seg>
+          <seg>one said </seg>
+          <seg>on Christ<sb part="N"/></seg>
+          <seg>mas <rhyme label="e">Eve,</rhyme></seg>
+        </l>
+        <l n="12" part="N" met="-+-+-+" real="+--+-+">
+          <seg met="-+" real="+-" part="N">"Come; <caesura/>see </seg>
+          <seg>the ox<sb part="N"/></seg>
+          <seg>en <rhyme label="f">kneel</rhyme></seg>            
+          <note anchored="true"> This homely line grows beautiful through the slightest of
+            rhythmic departures from the metrical norm. Iambics have totally governed
+            stanza 3 to this point. But now a trochaic first foot lets this line skip
+            back prosodically to resume the relaxed pattern of double-slacks that was so
+            frequent in stanzas 1 and 2, which associate that pattern with good old days
+            when belief came easy too. Hardy's complicated poetic act of personal
+            remembering reaches deep down into the cultural bones. </note></l>
+      </lg>
+      <lg n="4" type="quatrain" met="-+(4/3/4/3)" rhyme="ghgh" org="uniform" sample="complete" part="N">
+        <l n="13" part="N" met="-+-+-+-+" real="--+-+--+-+">
+          "<seg met="-+" real="--+" part="N">In the lone<sb part="N"/></seg>
+          <seg>ly bar<sb part="N"/></seg>
+          <seg met="-+" real="--+" part="N">ton by yon<sb part="N"/></seg>
+          <seg>der <rhyme label="g">coomb</rhyme></seg>
+          </l><l n="14" part="N" met="-+-+-+" real="-+-+-+">
+          <seg>Our child<sb part="N"/></seg>
+          <seg>hood used </seg>
+          <seg>to <rhyme label="h">know,"</rhyme></seg>
+          </l><l n="15" part="N" met="-+-+-+-+" real="-+-+-+-+|+-+--+-+|+--+-+-+">
+          <seg>I should </seg>
+          <seg>go with </seg>
+          <seg>him in </seg>
+          <seg>the <rhyme label="g">gloom,</rhyme></seg>                
+          <note anchored="true"> The exquisite ambivalence that Hardy expresses about the
+            lost faith of his childhood opens several valid options for scanning this
+            line. 4B4V permits a trochee in the first foot and even the second: use
+            them, and you get a rewarding sense of tentative mystery.  Still, doesn't the
+            poem as a whole read better if that stumbling effect is reserved for the
+            line to come?  If you let line 15 be strictly iambic like line 14, those two
+            lines render the willed entrancement, the conscious suspension of disbelief,
+            from which line 16 then awakens into mere but honest hopefulness. What matters most
+            about line 15 is the prosodically communicated sense of multiple possibility.
+          </note>
+        </l>
+        <l n="16" part="N" met="-+-+-+" real="+--+-+">
+          <seg met="-+" real="+-" part="N">Hop<sb part="N"/>ing </seg>
+          <seg>it might </seg>
+          <seg>be <rhyme label="h">so.</rhyme></seg>
+</l></lg></body></text></TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Sudden Light</title>
+                <author>Dante Gabriel Rossetti</author>
+            </titleStmt>
+            <publicationStmt><date>1863</date></publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="cinquain" met="-+(3/4/4/2/5)" rhyme="ababa">
+               <l n="1" met="-+-+-+" real="+--+-+|+-+--+|-+-+-+|-++--+|--++-+">
+                   <seg met="-+" real="-+|+-|--">I have </seg>
+                   <seg met="-+" real="-+|+-|++">been here </seg>
+                   <seg met="-+">be<sb/><rhyme label="a">fore,</rhyme></seg>
+                    <note anchored="true">This cryptically simple opener can be sounded so many ways
+                        that 4B4V gives the green light to an unprecedented 5 different readings.
+                        (We've never been here before!) Only the disyllable "before" is securely
+                        fixed; how to say the preceding monosyllables seems quite up for grabs. Try
+                        their combinations out, with an ear for the subtly various contexts they
+                        imply. One initially plausible option that can be ruled out is anapestic
+                        dimeter: scroll down to the first line of Rossetti's second stanza to see
+                        why line 1 here, in order to make the stanzas match, must be a trimeter like
+                        line 6. Considerations of symmetry likewise urge that lines 1 and 6 be
+                        scanned the same, probably but not surely in a trochee-iamb-iamb
+                        pattern.</note>
+               </l>
+                <l n="2" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg met="-+">But when </seg>
+                    <seg met="-+">or how </seg>
+                    <seg met="-+">I can<sb/></seg>
+                    <seg met="-+">not <rhyme label="b">tell:</rhyme></seg>
+                </l>
+                <l n="3" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg met="-+">I know </seg>
+                    <seg met="-+">the grass </seg>
+                    <seg met="-+">be<sb/>yond </seg>
+                    <seg met="-+">the <rhyme label="a">door,</rhyme></seg>
+                </l>
+                <l n="4" met="-+-+" real="-+++">
+                    <seg met="-+">The sweet </seg>
+                    <seg met="-+" real="++">keen <rhyme label="b">smell,</rhyme></seg>
+                </l>
+                <l n="5" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+">The sigh<sb/></seg>
+                    <seg met="-+">ing sound, </seg>
+                    <caesura/>
+                    <seg met="-+">the lights </seg>
+                    <seg met="-+">a<sb/>round </seg>
+                    <seg met="-+">the <rhyme label="a">shore.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="2" type="cinquain" met="-+(3/4/4/2/5)" rhyme="ababa">
+                <l n="6" met="-+-+-+" real="+--+-+">
+                    <seg met="-+" real="+-">You have </seg>
+                    <seg met="-+">been mine </seg>
+                    <seg met="-+">be<sb/><rhyme label="a">fore,--</rhyme></seg>
+                </l>
+                <l n="7" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg met="-+">How long </seg>
+                    <seg met="-+">a<sb/>go </seg>
+                    <seg met="-+">I may </seg>
+                    <seg met="-+">not <rhyme label="b">know:</rhyme></seg>
+                </l>
+                <l n="8" met="-+-+-+-+" real="-++--+-+">
+                    <seg met="-+">But just </seg>
+                    <seg met="-+" real="+-">when at </seg>
+                    <seg met="-+">that swal<sb/></seg>
+                    <seg met="-+">low's <rhyme label="a">soar</rhyme></seg>
+                </l>
+                <l n="9" met="-+-+" real="-+++">
+                    <seg met="-+">Your neck </seg>
+                    <seg met="-+" real="++">turned <rhyme label="b">so,</rhyme></seg>
+                </l>
+                <l n="10" met="-+-+-+-+-+" real="-+-+-+-+-+|++-+-+-+-+">
+                    <seg met="-+">Some veil </seg>
+                    <seg met="-+">did fall,--</seg>
+                    <caesura/>
+                    <seg met="-+">I knew </seg>
+                    <seg met="-+">it all </seg>
+                    <seg met="-+">of <rhyme label="a">yore.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="3" type="cinquain" met="-+(3/4/4/2/5)" rhyme="ababa">
+                <l n="11" met="-+-+-+" real="++-+-+">
+                    <seg met="-+" real="++">Then, now,--</seg>
+                    <caesura/>
+                    <seg met="-+">per<sb/>chance </seg>
+                    <seg met="-+">a<sb/><rhyme label="a">gain!</rhyme></seg>
+                </l>
+                <l n="12" met="-+-+-+-+" real="-+-+-+-+|++-+-+-+">
+                    <seg met="-+" real="-+|++">O round </seg>
+                    <seg met="-+">mine eyes </seg>
+                    <seg met="-+">your tress<sb/></seg>
+                    <seg met="-+">es <rhyme label="b">shake!</rhyme></seg>
+                </l>
+                <l n="13" met="-+-+-+-+" real="-+-+-+-+|+--+-+-+|--++--++|+-++--++">
+                    <seg met="-+" real="-+|+-|--">Shall we </seg>
+                    <seg met="-+" real="-+|++">not lie </seg>
+                    <seg met="-+" real="-+|--">as we </seg>
+                    <seg met="-+" real="-+|++">have <rhyme label="a">lain</rhyme></seg>
+                    <note anchored="true"> This line is nearly as rich in possibilities as line 1
+                        above. A recitation that conforms to the iambic meter will defensibly
+                        voice an hypnotic automatism, well suited to the deja-vu spell entrancing
+                        the whole poem. Alternatively, double spondaic emphasis in feet 2 and 4 will
+                        bring out what deja vu denotes: the uncanny recurrence of a bygone affect in
+                        the present, indeed here in the future. (It will also link up nicely with
+                        the spondaic slowdown in the line that follows.) </note>
+                </l>
+                <l n="14" met="-+-+" real="+-++">
+                    <seg met="-+" real="+-">Thus for </seg>
+                    <seg met="-+" real="++">Love's <rhyme label="b">sake,</rhyme></seg>
+                </l>
+                <l n="15" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+">And sleep, </seg>
+                    <seg met="-+">and wake, </seg>
+                    <caesura/>
+                    <seg met="-+">yet nev<sb/></seg>
+                    <seg met="-+">er break </seg>
+                    <seg met="-+">the <rhyme label="a">chain?</rhyme></seg>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>

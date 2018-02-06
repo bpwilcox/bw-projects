@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>Heaven-Haven: A Nun Takes the Veil</title>
+        <author>Gerard Manley Hopkins</author>
+      </titleStmt>
+      <publicationStmt><date>1864</date>
+      </publicationStmt>
+      <sourceDesc default="false">
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    </teiHeader><text>
+    <body>
+      <lg n="1" type="stanza" met="-+(3/2/5/3)" rhyme="abba" org="uniform" sample="complete"
+        part="N">
+        <l n="1" part="N" met="-+-+-+" real="+--+--+" rend="indent">
+          <seg met="-+" real="+-" part="N">I have </seg>
+          <seg met="-+" part="N">de<sb part="N"/>si</seg>
+          <seg met="-+" real="--+" part="N">red to <rhyme label="a">go</rhyme></seg>
+        </l>
+        <l n="2" part="N" met="-+-+" real="-+++" rend="indent2">
+          <seg met="-+" part="N">Where springs </seg>
+          <seg met="-+" real="++" part="N">not <rhyme label="b">fail,</rhyme></seg>
+          <note anchored="true"> The strangest thing about this line is not prosodic but
+            syntactic. What is it saying? Or, a bit more technically, what is its syntax
+            of subject, verb, and object? Presumably "not" means "do not"; but then why
+            not say that? Hopkins' broken English creates a chance to run the expected
+            syntax in reverse, reading "springs" as a verb and "fail" as its subject --
+            as if the desired place where springs don't fail is where failure doesn't
+            wait in ambush to pounce on you either. A reader honoring this oddity will
+            probably slow down and take the second foot as a spondee. </note>
+        </l>
+        <l n="3" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+          <seg met="-+" part="N">To fields </seg>
+          <seg met="-+" part="N">where flies </seg>
+          <seg met="-+" part="N">no sharp </seg>
+          <seg met="-+" part="N">and sid<sb part="N"/></seg>
+          <seg met="-+" part="N">ed <rhyme label="b">hail</rhyme></seg>
+        </l>
+        <l n="4" part="N" met="-+-+-+" real="--++-+" rend="indent">
+          <seg met="-+" real="--" part="N">And a </seg>
+          <seg met="-+" real="++" part="N">few lil<sb part="N"/></seg>
+          <seg met="-+" part="N">ies <rhyme label="a">blow.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="2" type="stanza" met="-+(3/2/5/3)" rhyme="abba" org="uniform" sample="complete"
+        part="N">
+        <l n="5" part="N" met="-+-+-+" real="-+-+-+" rend="indent">
+          <seg met="-+" part="N">And I </seg>
+          <seg met="-+" part="N">have asked </seg>
+          <seg met="-+" part="N">to <rhyme label="a">be</rhyme></seg>
+        </l>
+        <l n="6" part="N" met="-+-+" real="-+++" rend="indent2">
+          <seg met="-+" part="N">Where no </seg>
+          <seg met="-+" real="++" part="N">storms <rhyme label="b">come,</rhyme></seg>
+        </l>
+        <l n="7" part="N" met="-+-+-+-+-+" real="--++-+-+-+">
+          <seg met="-+" real="--" part="N">Where the </seg>
+          <seg met="-+" real="++" part="N">green swell </seg>
+          <seg met="-+" part="N">is in </seg>
+          <seg met="-+" part="N">the ha<sb part="N"/></seg>
+          <seg met="-+" part="N">vens <rhyme label="b">dumb,</rhyme></seg>
+        </l>
+        <l n="8" part="N" met="-+-+-+" real="-+--+--+" rend="indent">
+          <seg met="-+" part="N">And out </seg>
+          <seg met="-+" real="--+" part="N">of the swing </seg>
+          <seg met="-+" real="--+" part="N">of the <rhyme label="a">sea.</rhyme></seg>
+          <note anchored="true"> The "green swell" may be "dumb," but the versification
+            isn't. The way the final line flutters and bobs raises a doubt about how
+            heartily the sister who speaks this poem means to renounce the world's
+            intensity and flux. Is she a committed nun, or is she still thinking it
+            over? Has she indeed put desire behind her for the things of this world, or
+            is she still living with it? </note></l>
+      </lg>
+</body></text></TEI>

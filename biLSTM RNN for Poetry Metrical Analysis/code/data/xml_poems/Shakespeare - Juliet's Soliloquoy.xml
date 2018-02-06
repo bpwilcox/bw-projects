@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Juliet's Soliloquy (from Romeo and Juliet III.ii.1-25)</title>
+                    <author>William Shakespeare</author>
+                </titleStmt>
+                <publicationStmt><date>1596</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="blank verse" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5)" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="+--+-+-+-+">
+                   <seg met="-+" real="+-">Gal<sb/>lop </seg>
+                   <seg>a<sb/>pace, </seg>
+                   <seg>you fier<sb/></seg>
+                   <seg>y-<sb/>foot<sb/></seg>
+                   <seg>ed steeds,</seg>
+               </l><l n="2" met="-+-+-+-+-+" real="--+-+-+-+-+">
+                   <seg met="-+" real="--+">Towards Phoeb<sb/></seg>
+                    <seg>us' lodg<sb/></seg>
+                    <seg>ing! <caesura/>Such </seg>
+                   <seg>a wag<sb/></seg>
+                    <seg>on<sb/>er</seg>
+                </l><l n="3" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>As Pha<sb/></seg>
+                    <seg>e<sb/>ton </seg>
+                    <seg>would whip </seg>
+                    <seg>you to </seg>
+                    <seg>the west</seg>
+                </l><l n="4" met="-+-+-+-+-+" real="-+-+-+-+--+">
+                    <seg>And bring </seg>
+                    <seg>in cloud<sb/></seg>
+                    <seg>y night </seg>
+                    <seg>im<sb/>med<sb/></seg>
+                    <seg met="-+" real="--+">i<sb/>ate<sb/>ly.</seg>
+                </l><l n="5" met="-+-+-+-+-+" real="+-++-+-+-+">
+                    <seg met="-+" real="+-">Spread thy </seg>
+                    <seg met="-+" real="++">close cur<sb/></seg>
+                    <seg>tain, <caesura/>love-<sb/></seg>
+                    <seg>per<sb/>form<sb/></seg>
+                    <seg>ing night,</seg>
+                </l><l n="6" met="-+-+-+-+-+" real="-+--+-+-+-+">
+                    <seg>That run<sb/></seg>
+                    <seg met="-+" real="--+">a<sb/>ways' eyes </seg>
+                    <seg>may wink, </seg>
+                    <caesura/>
+                    <seg>and Ro<sb/></seg>
+                    <seg>me<sb/>o</seg>
+                </l>
+                <l n="7" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Leap to </seg>
+                    <seg>these arms </seg>
+                    <seg>un<sb/>talked </seg>
+                    <seg>of and </seg>
+                    <seg>un<sb/>seen.</seg> 
+                    <note anchored="true">Our basic, invigorating principle that scansion varies
+                        with vocal performance holds especially true for a speech like this, which
+                        was written with a view to interpretation on stage. For this line 4B4V
+                        proposes a rather chaste option, conceding that an actress might well throw
+                        stress on the first syllable of "untalked," "unseen," or both. (Ditto
+                        "unmanned" in line 14 below.) As will appear, the actress we have in mind
+                        will be emoting shamelessly before the soliloquy is over.</note>    </l>
+                    <l n="8" met="-+-+-+-+-+" real="+--+-+-+--+">
+                    <seg met="-+" real="+-">Lov<sb/>ers </seg>
+                    <seg>can see </seg>
+                    <seg>to do </seg>
+                    <seg>their a<sb/></seg>
+                        <seg met="-+" real="--+">mor<sb/>ous rites</seg>
+                </l><l n="9" met="-+-+-+-+-+" real="--++-+-+-+">
+                    <seg met="-+" real="--">By their </seg>
+                    <seg met="-+" real="++">own beau<sb/></seg>
+                    <seg>ties; <caesura/>or, </seg>
+                    <seg>if love </seg>
+                    <seg>be blind,</seg>
+                </l><l n="10" met="-+-+-+-+-+" real="-+-+-+++-+">
+                    <seg>It best </seg>
+                    <seg>a<sb/>grees </seg>
+                    <seg>with night.  </seg>
+                    <caesura/>
+                    <seg met="-+" real="++">Come, civ<sb/></seg>
+                    <seg>il night,</seg>
+                </l><l n="11" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Thou so<sb/></seg>
+                    <seg>ber-<sb/>suit<sb/></seg>
+                    <seg>ed ma<sb/></seg>
+                    <seg>tron all </seg>
+                    <seg>in black,</seg>
+                </l><l n="12" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And learn </seg>
+                    <seg>me how </seg>
+                    <seg>to lose </seg>
+                    <seg>a win<sb/></seg>
+                    <seg>ning match,</seg>
+                </l><l n="13" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Played for </seg>
+                    <seg>a pair </seg>
+                    <seg>of stain<sb/></seg>
+                    <seg>less mai<sb/></seg>
+                    <seg>den<sb/>hoods.</seg>
+                </l><l n="14" met="-+-+-+-+-+" real="+--+++---+">
+                    <seg met="-+" real="+-">Hood my </seg>
+                    <seg>un<sb/>manned </seg>
+                    <seg met="-+" real="++">blood, <caesura/> bat<sb/></seg>
+                    <seg>ing in </seg>
+                    <seg>my cheeks,</seg>
+                </l>
+                    <l n="15" met="-+-+-+-+-+" real="--++--++++">
+                        <seg met="-+" real="--">With thy </seg>
+                        <seg met="-+" real="++">black man<sb/></seg>
+                        <seg>tle till </seg>
+                        <seg met="-+" real="++">strange love </seg>
+                        <seg met="-+" real="++">grow bold,</seg>
+                    </l><l n="16" met="-+-+-+-+-+" real="++++-+-+-+">
+                        <seg met="-+" real="++">Think true </seg>
+                        <seg met="-+" real="++">love act<sb/></seg>
+                        <seg>ed sim<sb/></seg>
+                        <seg>ple mod<sb/></seg>
+                        <seg>es<sb/>ty.</seg>
+                    <note anchored="true"> Yes, that's an awful lot of spondees in these two lines,
+                        and the reader must gird for more in the line that follows. "Grow" may be
+                        left slack in the last foot of line 15, and "Think" at the head of line 16.
+                        Yet these are monosyllabic main verbs and have some prescriptive right to
+                        stress. 4B4V prefers to grant that right, and to register the prosodic
+                        tumescence here - Juliet was just feeling the blood in her cheeks 3 lines
+                        ago - as fore-tremors rehearsing one of literature's most famous couplings.</note>
+                    </l><l n="17" met="-+-+-+-+-+" real="++++--+-+-+">
+                        <seg met="-+" real="++">Come, night; </seg>
+                        <caesura/>
+                        <seg met="-+" real="++">come, Ro<sb/></seg>
+                        <seg met="-+" real="--+">me<sb/>o; <caesura/>come, </seg>
+                        <seg>thou day </seg>
+                        <seg>in night;</seg>
+                    </l><l n="18" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>For thou </seg>
+                        <seg>wilt lie </seg>
+                        <seg>up<sb/>on </seg>
+                        <seg>the wings </seg>
+                        <seg>of night</seg>
+                    </l><l n="19" met="-+-+-+-+-+" real="+--++---+-+">
+                        <seg met="-+" real="+-">Whit<sb/>er </seg>
+                        <seg>than new </seg>
+                        <seg met="-+" real="+-">snow up<sb/></seg>
+                        <seg met="-+" real="--+">on a Ra<sb/></seg>
+                        <seg>ven's back.</seg>
+                    </l><l n="20" met="-+-+-+-+-+" real="++-+++-+++">
+                        <seg met="-+" real="++">Come, gen<sb/></seg>
+                        <seg>tle night; </seg>
+                        <caesura/>
+                        <seg met="-+" real="++">come, lov<sb/></seg>
+                        <seg>ing, black-<sb/></seg>
+                        <seg met="-+" real="++">browed night;</seg>
+                    </l><l n="21" met="-+-+-+-+-+" real="+--+--+-+-+">
+                        <seg met="-+" real="+-">Give me </seg>
+                        <seg>my Ro<sb/></seg>
+                        <seg met="-+" real="--+">me<sb/>o; <caesura/>and, </seg>
+                        <seg>when he </seg>
+                        <seg>shall die,</seg>
+                    </l><l n="22" met="-+-+-+-+-+" real="+--+-+-+-+">
+                        <seg met="-+" real="+-">Take him </seg>
+                        <seg>and cut </seg>
+                        <seg>him out </seg>
+                        <seg>in lit<sb/></seg>
+                        <seg>tle stars,</seg>
+                    </l><l n="23" met="-+-+-+-+-+" real="-+-+-+-+--+">
+                        <seg>And he </seg>
+                        <seg>will make </seg>
+                        <seg>the face </seg>
+                        <seg>of heav<sb/></seg>
+                        <seg met="-+" real="--+">en so fine</seg>
+                    </l><l n="24" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>That all </seg>
+                        <seg>the world </seg>
+                        <seg>will be </seg>
+                        <seg>in love </seg>
+                        <seg>with night</seg>
+                    </l><l n="25" met="-+-+-+-+-+" real="-+++---+-+">
+                        <seg>And pay </seg>
+                        <seg met="-+" real="++">no wor<sb/></seg>
+                        <seg>ship to </seg>
+                        <seg>the gar<sb/></seg>
+                        <seg>ish sun.</seg>
+                    </l></lg></body></text></TEI>

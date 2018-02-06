@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Song</title>
+                    <author>Edmund Waller</author>
+                </titleStmt>
+                <publicationStmt><date>1645</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="quintet" met="-+(2/4/2/4/4)" rhyme="ababb" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+" real="++-+" part="N">
+                    <seg met="-+" real="++">Go, <caesura/>love<sb/></seg>
+                    <seg>ly <rhyme label="a">rose!</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+-+" real="++-+-+-+" part="N">
+                    <seg met="-+" real="++">Tell her </seg>
+                    <seg>that wastes </seg>
+                    <seg>her time </seg>
+                    <seg>and <rhyme label="b">me</rhyme></seg>
+                    <note anchored="true"> "Her" needs stress at this early point in order to orient
+                        the reader: the rose is being pressed into service as a messenger to a
+                        certain nameless she, whom the speaker accuses of trifling with him in the
+                        "that" clause immediately following. The message proper begins, not with this
+                        "that," but with the "That" at the head of line 3.</note>
+                    </l>
+                    <l n="3" met="-+-+" real="-+-+" part="N">
+                    <seg>That now </seg>
+                    <seg>she <rhyme label="a">knows,</rhyme></seg>
+                    </l>
+                    <l n="4" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                    <seg>When I </seg>
+                    <seg>re<sb/>sem<sb/></seg>
+                    <seg>ble her </seg>
+                    <seg>to <rhyme label="b">thee,</rhyme></seg>
+                    </l>
+                    <l n="5" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                    <seg>How sweet </seg>
+                    <seg>and fair </seg>
+                    <seg>she seems </seg>
+                    <seg>to <rhyme label="b">be.</rhyme></seg>
+                    </l>
+                    </lg>
+                <lg n="2" type="quintet" met="-+(2/4/2/4/4)" rhyme="ababb" org="uniform" sample="complete" part="N">
+                    <l n="6" met="-+-+" real="++-+" part="N">
+                    <seg met="-+" real="++">Tell her </seg>
+                    <seg>that's <rhyme label="a">young</rhyme></seg>
+                    </l>
+                    <l n="7" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                    <seg>And shuns </seg>
+                    <seg>to have </seg>
+                    <seg>her grac<sb/></seg>
+                    <seg>es <rhyme label="b">spied,</rhyme></seg>
+                    </l>
+                    <l n="8" met="-+-+" real="-+-+" part="N">
+                    <seg>That had'st </seg>
+                    <seg>thou <rhyme label="a">sprung</rhyme></seg>
+                    </l>
+                    <l n="9" met="-+-+-+-+" real="-+--++-+" part="N">
+                    <seg>In des<sb/></seg>
+                    <seg met="-+" real="--">erts, <caesura/>where </seg>
+                    <seg met="-+" real="++">no men </seg>
+                    <seg>a<sb/><rhyme label="b">bide,</rhyme></seg>
+                    <note anchored="true"> Plain iambic scansion of this line does no harm. It
+                        doesn't do much good, though, either. It tends to emasculate "no men" in the
+                        third foot, as if all Waller meant were life-without-people. But, of course,
+                        what he means is life-without-sex. That the speaker is a man, the intended
+                        addressee a "she," is the whole point of his pretended address to the
+                        flower; and scansion choices are good ways to draw its innuendo out.
+                        Keep your eye, and ear, on "blush" in the stanza ahead. </note>
+                    </l>
+                    <l n="10" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                    <seg>Thou must </seg>
+                    <seg>have un<sb/></seg>
+                    <seg>com<sb/>mend<sb/></seg>
+                    <seg>ed <rhyme label="b">died.</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="3" type="quintet" met="-+(2/4/2/4/4)" rhyme="ababb" org="uniform" sample="complete" part="N">
+                    <l n="11" met="-+-+" real="+--+" part="N">
+                        <seg met="-+" real="+-">Small is </seg>
+                        <seg>the <rhyme label="a">worth</rhyme></seg>
+                    </l>
+                    <l n="12" met="-+-+-+-+" real="-+-+-+-+-" part="N">
+                    <seg>Of beau<sb/></seg>
+                    <seg>ty from </seg>
+                    <seg>the light </seg>
+                    <seg met="-+" real="-+-">re<sb/>ti<sb/><rhyme label="b">red;</rhyme></seg>
+                    </l>
+                    <l n="13" met="-+-+" real="+--+|+-++" part="N">
+                    <seg met="-+" real="+-">Bid her </seg>
+                    <seg met="-+" real="++">come <rhyme label="a">forth,</rhyme></seg>
+                    </l>
+                    <l n="14" met="-+-+-+-+" real="+--+-+-+-" part="N">
+                    <seg met="-+" real="+-">Suf<sb/>fer </seg>
+                    <seg>her<sb/>self </seg>
+                    <seg>to be </seg>
+                    <seg met="-+" real="-+-">de<sb/>si<sb/><rhyme label="b">red,</rhyme></seg>
+                    </l>
+                    <l n="15" met="-+-+-+-+" real="-+++-+-+-|--++-+-+-" part="N">
+                    <seg>And not </seg>
+                    <seg met="-+" real="++">blush so </seg>
+                    <seg>to be </seg>
+                    <seg met="-+" real="-+-">ad<sb/>mi<sb/><rhyme label="b">red.</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="1" type="quintet" met="-+(2/4/2/4/4)" rhyme="ababb" org="uniform" sample="complete" part="N">
+                    <l n="16" met="-+-+" real="++-+" part="N">
+                    <seg met="-+" real="++">Then die! </seg>
+                    <caesura/>
+                    <seg>that <rhyme label="a">she</rhyme></seg>
+                    </l>
+                    <l n="17" met="-+-+-+-+" real="-+-+-+++" part="N">
+                    <seg>The com<sb/></seg>
+                    <seg>mon fate </seg>
+                    <seg>of all </seg>
+                    <seg met="-+" real="++">things <rhyme label="b">rare</rhyme></seg>
+                    </l>
+                    <l n="18" met="-+-+" real="-+-+" part="N">
+                    <seg>May read </seg>
+                    <seg>in <rhyme label="a">thee;</rhyme></seg>
+                    </l>
+                    <l n="19" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                    <seg>How small </seg>
+                    <seg>a part </seg>
+                    <seg>of time </seg>
+                    <seg>they <rhyme label="b">share</rhyme></seg>
+                    </l>
+                    <l n="20" met="-+-+-+-+" real="--++-+-+" part="N">
+                    <seg met="-+" real="--">That are </seg>
+                    <seg met="-+" real="++">so won<sb/></seg>
+                    <seg>drous sweet </seg>
+                    <seg>and <rhyme label="b">fair!</rhyme></seg>   
+                    <note anchored="true"> This last line may be scanned iambically like the two
+                        that precede it. But with a a pyrrhic-spondee combination in the first two
+                        feet we pause, as it were, to smell the roses: to savor what is passing
+                        sweet precisely because its sweetness must pass. </note>
+                    </l>
+                </lg></body></text></TEI>

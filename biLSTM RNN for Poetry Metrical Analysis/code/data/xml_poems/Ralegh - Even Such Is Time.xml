@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Even Such Is Time</title>
+                    <author>Walter Ralegh</author>
+                </titleStmt>
+                <publicationStmt>1618</publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="octave" met="-+(4/4/4/4/4/4/4/4)" rhyme="ababccaa" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+" real="--+-+-+-+" part="N">
+                   <seg>E<sb/>ven such </seg>
+                   <seg>is time, </seg>
+                        <caesura/>
+                   <seg>which takes </seg>
+                   <seg>in <rhyme label="a">trust</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                        <seg>Our youth, </seg>
+                        <seg>our joys, </seg>
+                        <seg>and all </seg>
+                        <seg>we <rhyme label="b">have,</rhyme></seg>
+                    </l>
+                    <l n="3" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                        <seg>And pays </seg>
+                        <seg>us but </seg>
+                        <seg>with age </seg>
+                        <seg>and <rhyme label="a">dust;</rhyme></seg>
+                    </l>
+                    <l n="4" met="-+-+-+-+" real="+--+-+-+" part="N">
+                        <seg>Who in </seg>
+                        <seg>the dark </seg>
+                        <seg>and si<sb/></seg>
+                        <seg>lent <rhyme label="b">grave</rhyme></seg>
+                    </l>
+                    <l n="5" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                        <seg>When we </seg>
+                        <seg>have wan<sb/></seg>
+                        <seg>dered all </seg>
+                        <seg>our <rhyme label="c">ways</rhyme></seg>
+                    </l>
+                    <l n="6" met="-+-+-+-+" real="++-+---+" part="N">
+                        <seg>Shuts up </seg>
+                        <seg>the sto<sb/></seg>
+                        <seg>ry of </seg>
+                        <seg>our <rhyme label="c">days;</rhyme></seg>
+                    </l>
+                    <l n="7" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                        <seg>And from </seg>
+                        <seg>which earth, </seg>
+                        <seg>and grave, </seg>
+                        <seg>and <rhyme label="a">dust</rhyme></seg>
+                    </l>
+                    <l n="8" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                        <seg>The Lord </seg>
+                        <seg>shall raise </seg>
+                        <seg>me up, </seg>
+                        <caesura/>
+                            <seg>I <rhyme label="a">trust.</rhyme></seg>
+                    </l>
+                    
+                </lg></body></text></TEI>

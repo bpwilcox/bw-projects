@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Idylls of the King (X.454-76)</title>
+                    <author>Alfred Tennyson</author>
+                </titleStmt>
+                <publicationStmt><date>1859</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="blank verse" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5)" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                   <seg>He end<sb/></seg>
+                   <seg>ed: <caesura/>Ar<sb/></seg>
+                   <seg>thur knew </seg>
+                   <seg>the voice; </seg>
+                   <seg>the face</seg>
+               </l><l n="2" met="-+-+-+-+-+" real="++-+-+---+">
+                    <seg>Well <sb/>nigh </seg>
+                    <seg>was hel<sb/></seg>
+                    <seg>met-<sb/>hid<sb/></seg>
+                   <seg>den, <caesura/>and </seg>
+                    <seg>the name</seg>
+                </l><l n="3" met="-+-+-+-+-+" real="-+--+-+-+-+">
+                    <seg>Went wan<sb/></seg>
+                    <seg>der<sb/>ing some<sb/></seg>
+                    <seg>where dark<sb/></seg>
+                    <seg>ling in </seg>
+                    <seg>his mind.</seg>
+                </l><l n="4" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And Ar<sb/></seg>
+                    <seg>thur deigned </seg>
+                    <seg>not use </seg>
+                    <seg>of word </seg>
+                    <seg>or sword,</seg>
+                </l><l n="5" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>But let </seg>
+                    <seg>the drunk<sb/></seg>
+                    <seg>ard, <caesura/>as </seg>
+                    <seg>he stretched </seg>
+                    <seg>from horse</seg>
+                </l><l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>To strike </seg>
+                    <seg>him, <caesura/>o<sb/></seg>
+                    <seg>ver<sb/>bal<sb/></seg>
+                    <seg>anc<sb/>ing </seg>
+                    <seg>his bulk,</seg>
+                </l><l n="7" met="-+-+-+-+-+" real="+--+-+--+-+">
+                    <seg>Down from </seg>
+                    <seg>the cause<sb/></seg>
+                    <seg>way heav<sb/></seg>
+                    <seg>i<sb/>ly to </seg>
+                    <seg>the swamp</seg>
+                </l><l n="8" met="-+-+-+-+-+" real="+--+--++-+">
+                    <seg>Fall, <caesura/>as </seg>
+                    <seg>the crest </seg>
+                    <seg>of some </seg>
+                    <seg>slow-<sb/>arch<sb/></seg>
+                    <seg>ing wave,</seg>
+                </l><l n="9" met="-+-+-+-+-+" real="+-++-+-+-+">
+                    <seg>Heard in </seg>
+                    <seg>dead night </seg>
+                    <seg>a<sb/>long </seg>
+                    <seg>that ta<sb/></seg>
+                    <seg>ble-<sb/>shore,</seg>
+                </l><l n="10" met="-+-+-+-+-+" real="++-+--++-+">
+                    <seg>Drops flat, </seg>
+                    <caesura/>
+                    <seg>and af<sb/></seg>
+                    <seg>ter the </seg>
+                    <seg>great wa<sb/></seg>
+                    <seg>ters break</seg>
+                </l><l n="11" met="-+-+-+-+-+" real="+---+-+-+-+">
+                    <seg>Whit<sb/>en<sb/></seg>
+                    <seg>ing for half </seg>
+                    <seg>a league, </seg>
+                    <seg>and thin </seg>
+                    <seg>them<sb/>selves,</seg>
+                </l><l n="12" met="-+-+-+-+-+" real="+--++--+-+">
+                    <seg>Far o<sb/></seg>
+                    <seg>ver sands </seg>
+                    <seg>mar<sb/>bled </seg>
+                    <seg>with moon </seg>
+                    <seg>and cloud,</seg>
+                </l><l n="13" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>From less </seg>
+                    <seg>and less </seg>
+                    <seg>to noth<sb/></seg>
+                    <seg>ing; <caesura/>thus </seg>
+                    <seg>he fell</seg>
+                </l><l n="14" met="-+-+-+-+-+" real="++-+-+-+-+">
+                    <seg>Head-<sb/>heav<sb/></seg>
+                    <seg>y; <caesura/>then </seg>
+                    <seg>the knights, </seg>
+                    <seg>who watched </seg>
+                    <seg>him, roared</seg>
+                </l>
+                    <l n="15" met="-+-+-+-+-+" real="-+--++-+-+-">
+                        <seg>And shout<sb/></seg>
+                        <seg>ed and </seg>
+                        <seg>leapt down </seg>
+                        <seg>up<sb/>on </seg>
+                        <seg>the fall<sb/>en;</seg>
+                    </l><l n="16" met="-+-+-+-+-+" real="++-+-+---+">
+                        <seg>There tram<sb/></seg>
+                        <seg>pled out </seg>
+                        <seg>his face </seg>
+                        <seg>from be<sb/></seg>
+                        <seg>ing known,</seg>
+                    </l><l n="17" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>And sank </seg>
+                        <seg>his head </seg>
+                        <seg>in mire, </seg>
+                        <seg>and slimed </seg>
+                        <seg>them<sb/>selves:</seg>
+                    </l><l n="18" met="-+-+-+-+-+" real="-+-+--++-+">
+                        <seg>Nor heard </seg>
+                        <seg>the King </seg>
+                        <seg>for their </seg>
+                        <seg>own cries, </seg>
+                        <caesura/>
+                        <seg>but sprang</seg>
+                    </l><l n="19" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>Through o<sb/></seg>
+                        <seg>pen doors, </seg>
+                        <caesura/>
+                        <seg>and sword<sb/></seg>
+                        <seg>ing right </seg>
+                        <seg>and left</seg>
+                    </l><l n="20" met="-+-+-+-+-+" real="++---+-+-+">
+                        <seg>Men, wo<sb/></seg>
+                        <seg>men, on </seg>
+                        <seg>their sod<sb/></seg>
+                        <seg>den fac<sb/></seg>
+                        <seg>es, <caesura/>hurled</seg>
+                    </l><l n="21" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>The ta<sb/></seg>
+                        <seg>bles o<sb/></seg>
+                        <seg>ver and </seg>
+                        <seg>the wines, </seg>
+                        <caesura/>
+                        <seg>and slew</seg>
+                    </l><l n="22" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>Till all </seg>
+                        <seg>the raf<sb/></seg>
+                        <seg>ters rang </seg>
+                        <seg>with wo<sb/></seg>
+                        <seg>man-<sb/>yells,</seg>
+                    </l><l n="23" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                        <seg>And all </seg>
+                        <seg>the pave<sb/></seg>
+                        <seg>ment streamed </seg>
+                        <seg>with mas<sb/></seg>
+                        <seg>sa<sb/>cre.</seg>
+                    </l></lg></body></text></TEI>

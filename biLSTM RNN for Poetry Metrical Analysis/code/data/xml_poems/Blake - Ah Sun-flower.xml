@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Ah Sun-flower</title>
+                    <author>William Blake</author>
+                </titleStmt>
+                <publicationStmt><date>1794</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="quatrain" met="--+(3/3/3/3)" rhyme="abab" org="uniform" sample="complete" part="N">
+                    <l n="1" met="--+--+--+" real="-+--+--+" part="N">
+                   <seg>Ah Sun-<sb/></seg>
+                        <seg>flow<sb/>er, wear<sb/></seg>
+                   <seg>y of <rhyme label="a">time,</rhyme></seg>
+                    </l>
+                    <l n="2" met="--+--+--+" real="-+--+--+" part="N">
+                        <seg>Who count<sb/></seg>
+                        <seg>est the steps </seg>
+                        <seg>of the <rhyme label="b">Sun,</rhyme></seg>
+                    </l>
+                    <l n="3" met="--+--+--+" real="--+--+--+|+-+--+--+" part="N">
+                        <seg>Seek<sb/>ing af<sb/></seg>
+                        <seg>ter that sweet </seg>
+                        <seg>gold<sb/>en <rhyme label="a">clime</rhyme></seg>
+                    </l>
+                    <l n="4" met="--+--+--+" real="--+--+--+" part="N">
+                        <seg>Where the trav<sb/></seg>
+                        <seg>el<sb/>ler's jour<sb/></seg>
+                        <seg>ney is <rhyme label="b">done;</rhyme></seg>
+                    </l>
+                    </lg>
+                <lg n="2" type="quatrain" met="--+(3/3/3/3)" rhyme="abab" org="uniform" sample="complete" part="N">
+                    <l n="1" met="--+--+--+" real="--+--+--+(-)|--++-+--+(-)" part="N">
+                        <seg>Where the Youth </seg>
+                        <seg>pined a<sb/>way </seg>
+                        <seg>with de<sb/>si<sb/><rhyme label="a">re,</rhyme></seg>
+                    </l>
+                    <l n="2" met="--+--+--+" real="--+--+--+|--++-+--+" part="N">
+                        <seg>And the pale </seg>
+                        <seg>Vir<sb/>gin shroud<sb/></seg>
+                        <seg>ed in <rhyme label="b">snow,</rhyme></seg>
+                    </l>
+                    <l n="3" met="--+--+--+" real="-+--+--+(-)" part="N">
+                        <seg>A<sb/>rise from </seg>
+                        <seg>their graves and </seg>
+                        <seg>a<sb/>spi<sb/><rhyme label="a">re,</rhyme></seg>
+                    </l>
+                    <l n="4" met="--+--+--+" real="--+--+--+" part="N">
+                        <seg>Where my Sun-<sb/></seg>
+                        <seg>flow<sb/>er wish<sb/></seg>
+                        <seg>es to <rhyme label="b">go.</rhyme></seg>
+                    </l>
+                </lg></body></text></TEI>

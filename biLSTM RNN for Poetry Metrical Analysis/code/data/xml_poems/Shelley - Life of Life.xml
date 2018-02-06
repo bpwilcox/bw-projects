@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Life of Life (from Prometheus Unbound II.v.48-71)</title>
+                    <author>Percy Bysshe Shelley</author>
+                </titleStmt>
+                <publicationStmt><date>1820</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="sestet" met="+-(4/4/4/4/4/4)" rhyme="ababcc" org="uniform" sample="complete" part="N">
+                    <l n="1" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>Life of </seg>
+                        <seg>Life! <caesura/>thy </seg>
+                        <seg>lips en<sb/></seg>
+                        <seg>kin<sb/><rhyme label="a">dle</rhyme></seg>
+                    </l>
+                    <l n="2" met="+-+-+-+-" real="+-+-+-+-" rend="indent(1)">
+                        <seg>With their </seg>
+                        <seg>love the </seg>
+                        <seg>breath be<sb/></seg>
+                        <seg>tween <rhyme label="b">them;</rhyme></seg>
+                    </l>
+                    <l n="3" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>And thy </seg>
+                        <seg>smiles be<sb/></seg>
+                        <seg>fore they </seg>
+                        <seg>dwin<sb/><rhyme label="a">dle</rhyme></seg>
+                    </l>
+                    <l n="4" met="+-+-+-+-" real="+-+++--+-" rend="indent(1)">
+                        <seg>Make the </seg>
+                        <seg met="+-" real="++">cold air </seg>
+                        <seg met="+-" real="+--">fi<sb/>re; <caesura/>then </seg>
+                        <seg>screen <rhyme label="b">them</rhyme></seg>
+                    <note>Trochaic meters are not very common in the English tradition, and
+                        something of a stunt when pulled off as here. The meter feels more
+                        insistently driven than its iambic opposite, and thus is suited to the sexy
+                        drive of Shelley's love anthem, which comes at a climax in his visionary
+                        drama Prometheus Unbound. This means that when the trochees are successfully
+                        resisted, as with the spondee-dactyl pair that flames and flickers in this
+                        line, the effect is more noteworthy than it would be in iambics. Look for
+                        something of the same kind in the second line of stanza 4: use of rhythmic
+                        deceleration to hold an image in the spotlight.</note>
+                    </l>
+                    <l n="5" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>In those </seg>
+                        <seg>looks, where </seg>
+                        <seg>who<sb/>so </seg>
+                        <seg>gaz<sb/><rhyme label="c">es</rhyme></seg>
+                    </l>
+                    <l n="6" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>Faints, en<sb/></seg>
+                        <seg>tan<sb/>gled </seg>
+                        <seg>in their </seg>
+                        <seg>maz<sb/><rhyme label="c">es.</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="2" type="sestet" met="+-(4/4/4/4/4/4)" rhyme="ababcc" org="uniform" sample="complete" part="N">
+                    <l n="7" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>Child of </seg>
+                        <seg>Light! <caesura/>thy </seg>
+                        <seg>limbs are </seg>
+                        <seg>burn<sb/><rhyme label="a">ing</rhyme></seg>
+                    </l>
+                    <l n="8" met="+-+-+-+-" real="+-+-+-+-" rend="indent(1)">
+                        <seg>Thro' the </seg>
+                        <seg>vest which </seg>
+                        <seg>seems to </seg>
+                        <seg>hide <rhyme label="b">them;</rhyme></seg>
+                    </l>
+                    <l n="9" met="+-+-+-+-" real="+-+--+-+-">
+                        <seg>As the </seg>
+                        <seg met="+-" real="+--">ra<sb/>di<sb/>ant </seg>
+                        <seg>lines of </seg>
+                        <seg>morn<sb/><rhyme label="a">ing</rhyme></seg>
+                    <note anchored="true"> "Radiant" may be elided, to be sure, into a disyllable
+                        (thus making a regular trochee). Yet letting the middle syllable ripple the
+                        line out in dactylic substitution heightens the sense of a resistance
+                        overcome within the medium, whether clouds or clothes, through which
+                        Shelley's erotic hot stuff burns. Not x-rated, exactly, but x-ray vision all
+                        the same. Decades before radiography was discovered, Shelley was already
+                        into radiation. </note>
+                    </l>
+                    <l n="10" met="+-+-+-+-" real="+-++--+-" rend="indent(1)">
+                        <seg>Thro' the </seg>
+                        <seg met="+-" real="++">clouds ere </seg>
+                        <seg met="+-" real="--">they div<sb/></seg>
+                        <seg>ide <rhyme label="b">them;</rhyme></seg>
+                    </l>
+                    <l n="11" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>And this </seg>
+                        <seg>at<sb/>mo<sb/></seg>
+                        <seg>sphere div<sb/></seg>
+                        <seg>in<sb/><rhyme label="c">est</rhyme></seg>
+                    </l>
+                    <l n="12" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>Shrouds thee </seg>
+                        <seg>where<sb/>so<sb/></seg>
+                        <seg>e'er thou </seg>
+                        <seg>shin<sb/><rhyme label="c">est.</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="3" type="sestet" met="+-(4/4/4/4/4/4)" rhyme="ababcc" org="uniform" sample="complete" part="N">
+                    <l n="13" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>Fair are </seg>
+                        <seg>oth<sb/>ers; </seg>
+                        <caesura/>
+                        <seg>none be<sb/></seg>
+                        <seg>holds <rhyme label="a">thee,</rhyme></seg>
+                    </l>
+                    <l n="14" met="+-+-+-+-" real="+-+++-+-" rend="indent(1)">
+                        <seg>But thy </seg>
+                        <seg met="+-" real="++">voice sounds </seg>
+                        <seg>low and </seg>
+                        <seg>ten<sb/><rhyme label="b">der</rhyme></seg>
+                    </l>
+                    <l n="15" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>Like the </seg>
+                        <seg>fair<sb/>est, </seg>
+                        <seg>for it </seg>
+                        <seg>folds <rhyme label="a">thee</rhyme></seg>
+                    </l>
+                    <l n="16" met="+-+-+-+-" real="+-+-+-+-" rend="indent(1)">
+                        <seg>From the </seg>
+                        <seg>sight, <caesura/>that </seg>
+                        <seg>liq<sb/>uid </seg>
+                        <seg>splen<sb/><rhyme label="b">dour,</rhyme></seg>
+                    </l>
+                    <l n="17" met="+-+-+-+-" real="-++-+-+-">
+                        <seg met="+-" real="-+">And all </seg>
+                        <seg>feel, <caesura/>yet </seg>
+                        <seg>see thee </seg>
+                        <seg>nev<sb/><rhyme label="c">er,</rhyme></seg>
+                    </l>
+                    <l n="18" met="+-+-+-+-" real="-+-++-+-|-++++-+-">
+                        <seg met="+-" real="-+">As I </seg>
+                        <seg met="+-" real="-+|++">feel now, </seg>
+                        <caesura/>
+                        <seg>lost for<sb/></seg>
+                        <seg>e<sb/><rhyme label="c">ver!</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="4" type="sestet" met="+-(4/4/4/4/4/4)" rhyme="ababcc" org="uniform" sample="complete" part="N">
+                    <l n="19" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>Lamp of </seg>
+                        <seg>Earth! <caesura/>where'<sb/></seg>
+                        <seg>er thou </seg>
+                        <seg>mov<sb/><rhyme label="a">est</rhyme></seg>
+                    </l>
+                    <l n="20" met="+-+-+-+-" real="-++-+-+-" rend="indent(1)">
+                        <seg met="+-" real="-+">Its dim </seg>
+                        <seg>shapes are </seg>
+                        <seg>clad with </seg>
+                        <seg>bright<sb/><rhyme label="b">ness</rhyme></seg>
+                    </l>
+                    <l n="21" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>And the </seg>
+                        <seg>souls of </seg>
+                        <seg>whom thou </seg>
+                        <seg>lov<sb/><rhyme label="a">est</rhyme></seg>
+                    </l>
+                    <l n="22" met="+-+-+-+-" real="+-+-+-+-" rend="indent(1)">
+                        <seg>Walk up<sb/></seg>
+                        <seg>on the </seg>
+                        <seg>winds with </seg>
+                        <seg>light<sb/><rhyme label="b">ness,</rhyme></seg>
+                    </l>
+                    <l n="23" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>Till they </seg>
+                        <seg>fail, <caesura/>as </seg>
+                        <seg>I am </seg>
+                        <seg>fail<sb/><rhyme label="c">ing,</rhyme></seg>
+                    </l>
+                    <l n="24" met="+-+-+-+-" real="+-+-+-+-">
+                        <seg>Diz<sb/>zy, </seg>
+                        <seg>lost, yet </seg>
+                        <seg>un<sb/>be<sb/></seg>
+                        <seg>wail<sb/><rhyme label="c">ing!</rhyme></seg>
+                    </l>
+                </lg>
+            </body></text></TEI>

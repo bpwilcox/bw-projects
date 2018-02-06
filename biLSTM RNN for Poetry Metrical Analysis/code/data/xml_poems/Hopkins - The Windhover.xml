@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>The Windhover</title>
+                    <author>Gerard Manley Hopkins</author>
+                </titleStmt>
+                <publicationStmt><date>1877</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="sonnet" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="abbaabbacdcdee" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                   <seg met="-+" real="-+">I caught </seg>
+                   <seg>this mor</seg>
+                   <seg>ning mor</seg>
+                   <seg>ning's min</seg>
+                   <seg>ion, <rhyme label="a">king-</rhyme></seg>
+               </l><l n="2" met="-+-+-+-+-+" real="--+-+---+-+---+-">
+                   <seg met="-+" real="--+">dom of day</seg>
+                    <seg>light's dau</seg>
+                    <seg met="-+" real="---+">phin, dap<sb/>ple-dawn-</seg>
+                    <seg>drawn Fal</seg>
+                   <seg met="-+" real="---+-">con, in his <rhyme label="b">rid<sb/></rhyme>ing</seg>
+                </l><l n="3" met="-+-+-+-+-+" real="--+-----+-+-+-+-|-+-+-+-+--+">
+                    <seg met="-+" real="--+">Of the rol</seg>
+                    <seg met="-+" real="-----+">ling lev<sb/>el un<sb/>der<sb/>neath </seg>
+                    <seg>him stead</seg>
+                    <seg>y air,</seg>
+                    <seg met="-+" real="-+-">and <rhyme label="b">strid</rhyme><sb/>ing</seg>
+                </l><l n="4" met="-+-+-+-+-+" real="+---+---+--+-+">
+                    <seg met="-+" real="+-">High there, </seg>
+                    <seg met="-+" real="--+">how he rung </seg>
+                    <seg met="-+" real="---+">upon the rein </seg>
+                    <seg met="-+" real="--+" >of a wim</seg>
+                    <seg>pling <rhyme label="a">wing</rhyme></seg>
+                </l><l n="5" met="-+-+-+-+-+" real="--+---+++-+">
+                    <seg met="-+" real="--+">In his ec</seg>
+                    <seg met="-+" real="--">sta<sb/>sy! <sb/></seg>
+                    <seg met="-+" real="-+">then off, </seg>
+                    <seg met="-+" real="++">off forth </seg>
+                    <seg>on <rhyme label="a">swing,</rhyme></seg>
+                </l><l n="6" met="-+-+-+-+-+" real="--+--+--+--+-+-">
+                    <seg met="-+" real="--+">As a skate's </seg>
+                    <seg met="-+" real="--+">heel sweeps smooth </seg>                   
+                    <seg met="-+" real="--+">on a bow-</seg>
+                    <seg>bend: 
+                        <caesura/>
+                        the hurl </seg>
+                    <seg>and <rhyme label="b">glid</rhyme><sb/>ing</seg>
+                </l><l n="7" met="-+-+-+-+-+" real="-+-++-+-+-">
+                    <seg met="-+" real="-+">Re<sb/>buffed </seg>
+                    <seg met="-+" real="-+">the big ></seg>
+                    <seg met="-+" real="+">wind.  <caesura/></seg>
+                    <seg met="-+" real="-+">My heart </seg>
+                    <seg met="-+" real="-+-">in<sb/><rhyme label="b">hid</rhyme><sb/>ing</seg>
+                </l><l n="8" met="-+-+-+-+-+" real="+--+--+--+----+">
+                    <seg met="-+" real="+-">Stirred for <sb/></seg>
+                    <seg met="-+" real="-+">a bird,-- </seg>
+                    <caesura/>
+                    <seg met="-+" real="--+">the a<sb/>chieve </seg>
+                    <seg met="-+" real="--+">of, the mas</seg>
+                    <seg met="-+" real="----+">tery of the <rhyme label="a">thing!</rhyme></seg>
+                </l><l n="9" met="-+-+-+-+-+" real="++--+--+-++++">
+                    <seg met="-+" real="++">Brute beau</seg>
+                    <seg met="-+" real="--+">ty and val</seg>
+                    <seg met="-+" real="--+">lour and act,</seg>
+                    <caesura/>
+                    <seg met="-+" real="-++">oh, air, pride,</seg>
+                    <seg>plume, <rhyme label="c">here</rhyme></seg>
+                </l><l n="10" met="-+-+-+-+-+" real="+-+-+-+-+--+-">
+                    <seg met="-+" real="+-">Buckle! </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-+">AND the fire </seg>
+                    <seg met="-+" real="-+">that breaks </seg>
+                    <seg met="-+" real="-+">from thee </seg>
+                    <seg met="-+" real="--+-">then, a <rhyme label="d">bil</rhyme><sb/>lion</seg>
+                </l><l n="11" met="-+-+-+-+-+" real="+++---+--+---+">
+                    <seg met="-+" real="++">Times told </seg>
+                    <seg met="-+" real="+-">love<sb/>li</seg>
+                    <seg met="-+" real="--+">er, more dan</seg>
+                    <seg met="-+" real="--+">ger<sb/>ous, 
+                    <caesura/> O</seg>
+                    <seg met="-+" real="---+">my che<sb/>val<sb/><rhyme label="c">ier!</rhyme></seg>
+                </l><l n="12" met="-+-+-+-+-+" real="-+---++-+-+-">
+                    <seg met="-+" real="-+">No won</seg>
+                    <seg met="-+" real="---">der of it: </seg>
+                    
+                    <seg met="-+" real="++">sheer plod </seg>
+                    <seg met="-+" real="-+">makes plough </seg>
+                    <seg met="-+" real="-+-">down <rhyme label="d">sillion</rhyme></seg>
+                </l><l n="13" met="-+-+-+-+-+" real="+-+++-+-+">
+                    <seg met="-+" real="+">Shine, </seg>
+                    <caesura/>
+                    <seg met="-+" real="-+">and blue-</seg>
+                    <seg met="-+" real="++">bleak em<sb/></seg>
+                    <seg met="-+" real="-+">bers, ah<sb/></seg>
+                    <seg met="-+" real="-+">my <rhyme label="c">dear,</rhyme></seg>
+                </l><l n="14" met="-+-+-+-+-+" real="++---++-+-">
+                    <seg met="-+" real="++">Fall, gall <sb/></seg>
+                    <seg met="-+" real="--">them<sb/>selves </seg>
+                    <seg met="-+" real="-+">and gash <sb/></seg>
+                    <seg met="-+" real="+">gold-</seg>
+                    <seg met="-+" real="-+-">ver<sb/><rhyme label="d">mil>sb/>ion.</rhyme></seg>
+                          </l></lg></body></text></TEI>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Adonais (stanzas 54-55)</title>
+                    <author>Percy Bysshe Shelley</author>
+                </titleStmt>
+                <publicationStmt><date>1821</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="Spenserian stanza" met="-+(5/5/5/5/5/5/5/5/6)" rhyme="ababbcbcc" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-++--+-+" rend="indent(1)">
+                        <seg>That light </seg>
+                        <seg>whose smile </seg>
+                        <seg met="-+" real="+-">kin<sb/>dles </seg>
+                        <seg>the U<sb/></seg>
+                        <seg>ni<sb/><rhyme label="a">verse,</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+-+-+" real="-+---+++-+" rend="indent(1)">
+                        <seg>That Beau<sb/></seg>
+                        <seg met="-+" real="--">ty in </seg>
+                        <seg>which all </seg>
+                        <seg met="-+" real="++">things work </seg>
+                        <seg>and <rhyme label="b">move,</rhyme></seg>
+                    </l>
+                    <l n="3" met="-+-+-+-+-+" real="-+-+-+--+-+" rend="indent(1)">
+                        <seg>That Ben<sb/></seg>
+                        <seg>e<sb/>dic<sb/></seg>
+                        <seg>tion which </seg>
+                        <seg met="-+" real="--+">the e<sb/>clips<sb/></seg>
+                        <seg>ing <rhyme label="a">curse</rhyme></seg>
+                    </l>
+                    <l n="4" met="-+-+-+-+-+" real="-+-++--+-+" rend="indent(1)">
+                        <seg>Of birth </seg>
+                        <seg>can quench </seg>
+                        <seg met="-+" real="+-">not, <caesura/>that </seg>
+                        <seg>sus<sb/>tain<sb/></seg>
+                        <seg>ing <rhyme label="b">Love</rhyme></seg>
+                    </l>
+                    <l n="5" met="-+-+-+-+-+" real="-+-+-+-+-+" rend="indent(1)">
+                        <seg>Which through </seg>
+                        <seg>the web </seg>
+                        <seg>of be<sb/></seg>
+                        <seg>ing blind<sb/></seg>
+                        <seg>ly <rhyme label="b">wove</rhyme></seg>
+                    </l>
+                    <l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+" rend="indent(1)">
+                        <seg>By man </seg>
+                        <seg>and beast </seg>
+                        <seg>and earth </seg>
+                        <seg>and air </seg>
+                        <seg>and <rhyme label="c">sea,</rhyme></seg>
+                    </l>
+                    <l n="7" met="-+-+-+-+-+" real="++-+-+-+-+" rend="indent(1)">
+                        <seg met="-+" real="++">Burns bright </seg>
+                        <seg>or dim </seg>
+                        <seg>as each </seg>
+                        <seg>are mir<sb/></seg>
+                        <seg>rors <rhyme label="b">of</rhyme></seg>
+                    </l>
+                    <l n="8" met="-+-+-+-+-+" real="-+--+++++-+|-+--+++-+-+" rend="indent(1)">
+                        <seg>The fi<sb/></seg>
+                        <seg met="-+" real="--+|--+">re for which </seg>
+                        <seg met="-+" real="++|++">all thirst; </seg>
+                        <caesura/>
+                        <seg met="-+" real="++|-+">now beams </seg>
+                        <seg>on <rhyme label="c">me,</rhyme></seg>
+                    <note anchored="true">A great moment, where the stanza's accumulated syntax, and
+                        the steady iambs that have run since line four like a power loom (weaving
+                        Shelleyan love throughout the creation), mount to the climactic
+                        caesura. The poet himself is thereby thrust into the limelight, or laser
+                        beam, that is about to ignite his long elegy's amazing final stanza.</note>
+                    </l>
+                    <l n="9" met="-+-+-+-+-+-+" real="-+--++-+-+-+">
+                        <seg>Con<sb/>sum<sb/></seg>
+                        <seg met="-+" real="--">ing the </seg>
+                        <seg met="-+" real="++">last clouds </seg>
+                        <seg>of cold </seg>
+                        <seg>mor<sb/>tal<sb/></seg>
+                        <seg>i<sb/><rhyme label="c">ty.</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="2" type="Spenserian stanza" met="-+(5/5/5/5/5/5/5/5/6)" rhyme="ababbcbcc" org="uniform" sample="complete" part="N">
+                    <l n="10" met="-+-+-+-+-+" real="-+-+-+-+-+" rend="indent(1)">
+                        <seg>The breath </seg>
+                        <seg>whose might </seg>
+                        <seg>I have </seg>
+                        <seg>in<sb/>voked </seg>
+                        <seg>in <rhyme label="a">song</rhyme></seg>
+                    </l>
+                    <l n="11" met="-+-+-+-+-+" real="-+-+-+-+-+-" rend="indent(1)">
+                        <seg>De<sb/>scends </seg>
+                        <seg>on me; </seg>
+                        <caesura/>
+                        <seg>my spir<sb/></seg>
+                        <seg>it's bark </seg>
+                        <seg met="-+" real="-+-">is driv<sb/><rhyme label="b">en</rhyme></seg>
+                    </l>
+                    <l n="12" met="-+-+-+-+-+" real="+--++--+--+" rend="indent(1)">
+                        <seg met="-+" real="+-">Far from </seg>
+                        <seg>the shore, </seg>
+                        <caesura/>
+                        <seg met="-+" real="+-">far from </seg>
+                        <seg>the trem<sb/></seg>
+                        <seg met="-+" real="--+">bl<sb/>ing <rhyme label="a">throng</rhyme></seg>
+                    <note anchored="true"> Maybe Shelley wrote "trembling" as a disyllable, but 4B4V
+                        doubts it. The whole line is quaking with holy awe, and a trisyllabic
+                        "trembling" gives the line its third shiver of consecutive slacks.</note>
+                    </l>
+                    <l n="13" met="-+-+-+-+-+" real="-+-+-+-+-+-" rend="indent(1)">
+                        <seg>Whose sails </seg>
+                        <seg>were nev<sb/></seg>
+                        <seg>er to </seg>
+                        <seg>the tem<sb/></seg>
+                        <seg met="-+" real="-+-">pest giv<sb/><rhyme label="b">en;</rhyme></seg>
+                    </l>
+                    <l n="14" met="-+-+-+-+-+" real="-+-+-+-+-+-" rend="indent(1)">
+                        <seg>The mass<sb/></seg>
+                        <seg>y earth </seg>
+                        <seg>and spher<sb/></seg>
+                        <seg>ed skies </seg>
+                        <seg met="-+" real="-+-">are riv<sb/><rhyme label="b">en!</rhyme></seg>
+                    </l>
+                    <l n="15" met="-+-+-+-+-+" real="--++-+-+-+" rend="indent(1)">
+                        <seg met="-+" real="--">I am </seg>
+                        <seg met="-+" real="++">borne dark<sb/></seg>
+                        <seg>ly, fear<sb/></seg>
+                        <seg>ful<sb/>ly, </seg>
+                        <seg>a<sb/><rhyme label="c">far;</rhyme></seg>
+                    </l>
+                    <l n="16" met="-+-+-+-+-+-" real="-+-+-+-+-+-" rend="indent(1)">
+                        <seg>Whilst, burn<sb/></seg>
+                        <seg>ing through </seg>
+                        <seg>the in<sb/></seg>
+                        <seg>most veil </seg>
+                        <seg met="-+" real="-+-">of Heav<sb/><rhyme label="b">en,</rhyme></seg>
+                    </l>
+                    <l n="17" met="-+-+-+-+-+" real="-+-+-+-+-+" rend="indent(1)">
+                        <seg>The soul </seg>
+                        <seg>of A<sb/></seg>
+                        <seg>do<sb/>na<sb/></seg>
+                        <seg>is, <caesura/>like </seg>
+                        <seg>a <rhyme label="c">star,</rhyme></seg>                    
+                    </l>
+                    <l n="18" met="-+-+-+-+-+-+" real="+-+--++--+-+">
+                        <seg met="-+" real="+-">Bea<sb/>cons </seg>
+                        <seg met="-+" real="+-">from the </seg>
+                        <seg>a<sb/>bode </seg>
+                        <caesura/>
+                        <seg met="-+" real="+-">where the </seg>
+                        <seg>E<sb/>ter<sb/></seg>
+                        <seg>nal <rhyme label="c">are.</rhyme></seg>
+                    <note anchored="true">With half of its six feet trochees, this may seem one of
+                        those alexandrines that Pope derisively likened to "a wounded snake." But in
+                        fact it's remarkably poised -- a coiled snake, if you like, about to spring
+                        out of this world -- thanks to the mirroring symmetry of stresses and
+                        slacks around its strict (if unpunctuated) medial caesura.  The Spenserian
+                        stanza, for all the rigidity of its rhyme scheme, proves a surprisingly
+                        flexible instrument. Compare the adrenalin rush Shelley gets out of the form
+                        with its inventor Spenser's much gentler, narcotic manner elsewhere in this
+                        tutorial ("Despayre in Praise of Suicide").</note>
+                    </l>
+                </lg>
+            </body></text></TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+    <title>Astrophel and Stella: 31</title><author>Sir Philip Sidney</author></titleStmt><publicationStmt><date>1591</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader>
+    <text><body>
+        <lg met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="abbaabbacdcdee" org="uniform" sample="complete" part="N">
+            <l n="1" part="N" met="-+-+-+-+-+" real="-+++-+-+-+|-+++++-+-+">
+                    <seg>With how </seg>
+                    <seg met="-+" real="++" part="N">sad steps, </seg>
+                    <seg>O Moone, </seg>
+                    <seg>thou climb'st </seg>
+                    <seg>the <rhyme label="a">skies,</rhyme></seg>
+                    <note anchored="true"> It's hard to stop putting heavy stresses on the syllables
+                        of this slow-paced line about slow paces. 4B4V leaves it up to you whether
+                        to ease up at "O" or to go all the way and, leaning into it, deal out a
+                        straight flush of five consecutive stresses. When "O Moone" recurs in line
+                        9, though, it's probably better to back off: by that point Astrophel is no
+                        longer hailing the moon from afar but speaking quite confidentially. </note>
+                </l><l n="2" part="N" met="-+-+-+-+-+" real="-+-+--++-+|++----++-+">
+                    <seg>How si<sb part="N"/></seg>
+                    <seg>lent<sb part="N"/>ly, </seg>
+                    <caesura/>
+                    <seg>and with </seg>
+                    <seg>how wanne </seg>
+                    <seg>a <rhyme label="b">face,</rhyme></seg>
+                </l><l n="3" part="N" met="-+-+-+-+-+-+" real="+--+-+--+--+">
+                    <seg>What, <caesura/>may </seg>
+                    <seg>it be </seg>
+                    <seg>that e<sb part="N"/></seg>
+                    <seg>ven in heav<sb part="N"/></seg>
+                    <seg>en<sb/>ly <rhyme label="b">place</rhyme></seg>
+                </l><l n="4" part="N" met="-+-+-+-+-+" real="-+-+--++-+">
+                    <seg>That bus<sb part="N"/></seg>
+                    <seg>ie arch<sb part="N"/></seg>
+                    <seg>er his </seg>
+                    <seg>sharpe ar</seg>
+                    <seg>rowes <rhyme label="a">tries?</rhyme></seg>
+                </l><l n="5" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg>Sure, if </seg>
+                    <seg>that long </seg>
+                    <seg>with Love </seg>
+                    <seg>ac<sb part="N"/>quaint<sb part="N"/></seg>
+                    <seg>ed <rhyme label="a">eyes</rhyme></seg>
+                </l><l n="6" part="N" met="-+-+-+-+-+" real="-+-+++-+-+">
+                    <seg>Can judge </seg>
+                    <seg>of Love, </seg>
+                    <caesura/>
+                    <seg>thou feel'st </seg>
+                    <seg>a Lov<sb part="N"/></seg>
+                    <seg>er's <rhyme label="b">case;</rhyme></seg>
+                    <note anchored="true"> There's nothing wrong with a completely regular scansion
+                        of this line. 4B4V prefers, nevertheless, the dramatic accost that
+                        comes with stressing "thou": Other people might not get it, but surely YOU,
+                        O Moon, YOU know what I'm talking about. </note>
+                </l><l n="7" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>I reade </seg>
+                    <seg>it in </seg>
+                    <seg>thy lookes, </seg>
+                    <caesura/>
+                    <seg>thy lan<sb part="N"/></seg>
+                    <seg>guisht <rhyme label="b">grace,</rhyme></seg>
+                </l><l n="8" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>To me </seg>
+                    <seg>that feele </seg>
+                    <seg>the like, </seg>
+                    <caesura/>
+                    <seg>thy state </seg>
+                    <seg>de<sb part="N"/><rhyme label="a">scries.</rhyme></seg>
+                </l><l n="9" part="N" met="-+-+-+-+-+" real="-+-+---+++|-+-+-+-+++">
+                    <seg>Then ev'n </seg>
+                    <seg>of fel</seg>
+                    <seg>low<sb part="N"/>ship, </seg>
+                    <seg>O Moone, </seg>
+                    <caesura/>
+                    <seg met="-+" real="++" part="N">tell <rhyme label="c">me</rhyme></seg>
+                </l><l n="10" part="N" met="-+-+-+-+-+" real="-+-+++-+-+">
+                    <seg>Is con<sb part="N"/></seg>
+                    <seg>stant Love </seg>
+                    <seg>deem'd there </seg>
+                    <seg>but want </seg>
+                    <seg>of <rhyme label="d">wit?</rhyme></seg>
+                </l><l n="11" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Are Beau<sb part="N"/></seg>
+                    <seg>ties there </seg>
+                    <seg>as proud </seg>
+                    <seg>as here </seg>
+                    <seg>they <rhyme label="c">be?</rhyme></seg>
+                </l><l n="12" part="N" met="-+-+-+-+-+" real="-+-++--+-+">
+                    <seg>Do they </seg>
+                    <seg>a<sb part="N"/>bove </seg>
+                    <seg>love to </seg>
+                    <seg>be lov'd, </seg>
+                    <caesura/>
+                    <seg>and <rhyme label="d">yet</rhyme></seg>
+                </l><l n="13" part="N" met="-+-+-+-+-+" real="-+-+-++--+">
+                    <seg>Those Lov<sb part="N"/></seg>
+                    <seg>ers scorne </seg>
+                    <seg>whom that </seg>
+                    <seg>Love doth </seg>
+                    <seg>Pos<sb part="N"/><rhyme label="e">sesse?</rhyme></seg>
+                </l><l n="14" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Do they </seg>
+                    <seg>call Ver<sb part="N"/></seg>
+                    <seg>tue there </seg>
+                    <caesura/>
+                    <seg>un<sb part="N"/>grate<sb part="N"/></seg>
+                    <seg>ful<sb part="N"/><rhyme label="e">nesse?</rhyme></seg>
+                </l></lg></body></text></TEI>

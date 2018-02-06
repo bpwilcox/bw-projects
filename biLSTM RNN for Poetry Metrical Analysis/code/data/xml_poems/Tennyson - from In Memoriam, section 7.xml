@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Alfred Lord Tennyson</title>
+                    <author>from In Memoriam; section 7</author>
+                </titleStmt>
+                <publicationStmt><date>1850</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="quatrain" met="-+(4/4/4/4)" rhyme="abba" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+" real="++--++-+ | ++-+-+-+">
+                   <seg>Dark house, </seg>
+                   <caesura/>
+                   <seg>by which </seg>
+                   <seg>once more </seg>
+                   <seg>I <rhyme label="a">stand</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+-+" real="+--+-+-+">
+                    <seg>Here in </seg>
+                    <seg>the long </seg>
+                    <seg>un<sb/>love<sb/></seg>
+                    <seg>ly <rhyme label="b">street,</rhyme></seg>
+                    </l>
+                    <l n="3" met="-+-+-+-+" real="+--+-+-+">
+                    <seg>Doors, <caesura/>where </seg>
+                    <seg>my heart </seg>
+                    <seg>was used </seg>
+                    <seg>to <rhyme label="b">beat</rhyme></seg>
+                    </l>
+                    <l n="4" met="-+-+-+-+" real="++-+---+ | -+-+-+-+">
+                    <seg>So quick<sb/></seg>
+                    <seg>ly, wait<sb/></seg>
+                    <seg>ing for </seg>
+                    <seg>a <rhyme label="a">hand,</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="2" type="quatrain" met="-+(4/4/4/4)" rhyme="abba" org="uniform" sample="complete" part="N">
+                    <l n="5" met="-+-+-+-+" real="-+---+++ | -+-+-+++">
+                        <seg>A hand </seg>
+                        <seg>that can </seg>
+                        <seg>be clasped </seg>
+                        <seg>no <rhyme label="a">more-</rhyme></seg>
+                    </l><l n="6" met="-+-+-+-+" real="-+-+-+-+">
+                        <seg>Be<sb/>hold </seg>
+                        <seg>me, <caesura/>for </seg>
+                        <seg>I can<sb/></seg>
+                        <seg>not <rhyme label="b">sleep,</rhyme></seg>
+                    </l><l n="7" met="-+-+-+-+" real="-+-+-+-+">
+                        <seg>And like </seg>
+                        <seg>a guil<sb/></seg>
+                        <seg>ty thing </seg>
+                        <seg>I <rhyme label="b">creep</rhyme></seg>
+                    </l><l n="8" met="-+-+-+-+" real="-+--+-+-+">
+                        <seg>At ear<sb/></seg>
+                        <seg>li<sb/>est morn<sb/></seg>
+                        <seg>ing to </seg>
+                        <seg>the <rhyme label="a">door.</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="3" type="quatrain" met="-+(4/4/4/4)" rhyme="abba" org="uniform" sample="complete" part="N">
+                    <l n="9" met="-+-+-+-+" real="-+-+-+-+ | --++-+-+ | +--+-+-+">
+                        <seg>He is </seg>
+                        <seg>not here; </seg>
+                        <caesura/>
+                        <seg>but far </seg>
+                        <seg>a<sb/><rhyme label="a">way</rhyme></seg>
+                    </l><l n="10" met="-+-+-+-+" real="-+-+-+-+">
+                        <seg>The noise </seg>
+                        <seg>of life </seg>
+                        <seg>be<sb/>gins </seg>
+                        <seg>a <rhyme label="b">gain,</rhyme></seg>
+                    </l><l n="11" met="-+-+-+-+" real="-+-+-+-+">
+                        <seg>And ghast<sb/></seg>
+                        <seg>ly through </seg>
+                        <seg>the driz<sb/></seg>
+                        <seg>zling <rhyme label="b">rain</rhyme></seg>
+                    </l><l n="12" met="-+-+-+-+" real="--+++-++">
+                        <seg>On the </seg>
+                        <seg>bald street </seg>
+                        <seg>breaks the </seg>
+                        <seg>blank <rhyme label="a">day.</rhyme></seg>
+                    </l>
+                </lg>
+            </body></text></TEI>

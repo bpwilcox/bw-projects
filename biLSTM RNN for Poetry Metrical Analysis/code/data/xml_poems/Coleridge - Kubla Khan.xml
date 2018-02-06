@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Kubla Khan</title>
+                <author>Samuel Taylor Coleridge</author>
+            </titleStmt>
+            <publicationStmt><date>1798</date></publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" met="-+(4/4/4/4/3/4/4/5/5/5/5)" rhyme="abaabccdbdb" org="uniform" sample="complete">
+                <l n="1" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>In Xan<sb/></seg>
+                    <seg>a<sb/>du </seg>
+                    <seg>did Ku<sb/></seg>
+                    <seg>bla <rhyme label="a">Khan</rhyme></seg>
+                </l>
+                <l n="2" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>A state<sb/></seg>
+                    <seg>ly pleas<sb/></seg>
+                    <seg>ure dome </seg>
+                    <seg>de<sb/><rhyme label="b">cree:</rhyme></seg>
+                </l>
+                <l n="3" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>Where Alph, </seg>
+                    <seg>the sa<sb/></seg>
+                    <seg>cred riv<sb/></seg>
+                    <seg>er, <rhyme label="a">ran</rhyme></seg>
+                </l>
+                <l n="4" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>Through cav<sb/></seg>
+                    <seg>erns meas<sb/></seg>
+                    <seg>ure<sb/>less </seg>
+                    <seg>to <rhyme label="a">man</rhyme></seg>
+                </l>
+                <l n="5" met="-+-+-+" real="+--+-+" rend="indent(5)">
+                    <seg met="-+" real="+-">Down to </seg>
+                    <seg>a sun<sb/></seg>
+                    <seg>less <rhyme label="b">sea.</rhyme></seg>
+                </l>
+                <l n="6" met="-+-+-+-+" real="-+++-+-+">
+                    <seg>So twice </seg>
+                    <seg met="-+" real="++">five miles </seg>
+                    <seg>of fer<sb/></seg>
+                    <seg>tile <rhyme label="c">ground</rhyme></seg>
+                </l>
+                <l n="7" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>With walls </seg>
+                    <seg>and towers </seg>
+                    <seg>were gir<sb/></seg>
+                    <seg>dled <rhyme label="c">round:</rhyme></seg>
+                </l>
+                <l n="8" met="-+-+-+-+-+" real="-+-+-+-+--+">
+                    <seg>And there </seg>
+                    <seg>were gar<sb/></seg>
+                    <seg>dens bright </seg>
+                    <seg>with sin<sb/></seg>
+                    <seg met="-+" real="--+">u<sb/>ous <rhyme label="d">rills,</rhyme></seg>
+                </l>
+                <l n="9" met="-+-+-+-+-+" real="-+-+--+-+-+">
+                    <seg>Where blos<sb/></seg>
+                    <seg>somed man<sb/></seg>
+                    <seg met="-+" real="--+">y an in<sb/></seg>
+                    <seg>cense-<sb/>bear<sb/></seg>
+                    <seg>ing <rhyme label="b">tree;</rhyme></seg>
+                    <note anchored="true"> In this and the preceding line, we scan with anapests
+                        words that are made deliciously ambiguous on the palate by what the tongue
+                        does in pronouncing "sinuous" and "many an." 4B4V doesn't often pause to
+                        relish sheer word sound; but the reader who fails to savor the saying of
+                        this line, or line 1 above, is missing much of what the poem has to offer.
+                    </note>
+                </l>
+                <l n="10" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And here </seg>
+                    <seg>were for<sb/></seg>
+                    <seg>ests an<sb/></seg>
+                    <seg>cient as </seg>
+                    <seg>the <rhyme label="d">hills,</rhyme></seg>
+                </l>
+                <l n="11" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>En<sb/>fold<sb/></seg>
+                    <seg>ing sun<sb/></seg>
+                    <seg>ny spots </seg>
+                    <seg>of green<sb/></seg>
+                    <seg>er<sb/><rhyme label="b">y.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="2" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="abaabccddeeffghhgii" org="uniform" sample="complete">
+                <l n="12" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                    <seg>But oh! </seg>
+                    <caesura/>
+                    <seg>that deep </seg>
+                    <seg>ro<sb/>man<sb/></seg>
+                    <seg>tic chasm </seg>
+                    <seg met="-+" real="-+-">which slant<sb/><rhyme label="a">ed</rhyme></seg>
+                    <note anchored="true"> The great, enjambed power of "slanted / Down" will
+                        survive this pedestrian interruption, which is just to give notice that the
+                        brilliantly turbulent verse of the following passage abounds in feminine
+                        endings like this one. Don't let them throw your scansion off; do note their
+                        effect in unbalancing the classic symmetry that has governed the first
+                        strophe of this celebrated fragmentary ode. </note>
+                </l>
+                <l n="13" met="-+-+-+-+-+" real="+-++-+-+-+-">
+                    <seg met="-+" real="+-">Down the </seg>
+                    <seg met="-+" real="++">green hill </seg>
+                    <seg>a<sb/>thwart </seg>
+                    <seg>a ce<sb/></seg>
+                    <seg met="-+" real="-+-">darn cov<sb/><rhyme label="b">er!</rhyme></seg>
+                </l>
+                <l n="14" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                    <seg>A sav<sb/></seg>
+                    <seg>age place! </seg>
+                    <caesura/>
+                    <seg>as ho<sb/></seg>
+                    <seg>ly and </seg>
+                    <seg met="-+" real="-+-">en<sb/>chant<sb/><rhyme label="a">ed</rhyme></seg>
+                </l>
+                <l n="15" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                    <seg>As e'er </seg>
+                    <seg>be<sb/>neath </seg>
+                    <seg>a wan<sb/></seg>
+                    <seg>ing moon </seg>
+                    <seg met="-+" real="-+-">was haunt<sb/><rhyme label="a">ed</rhyme></seg>
+                </l>
+                <l n="16" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                    <seg>By wo<sb/></seg>
+                    <seg>man wail<sb/></seg>
+                    <seg>ing for </seg>
+                    <seg>her de<sb/></seg>
+                    <seg met="-+" real="-+-">mon-<sb/>lov<sb/><rhyme label="b">er!</rhyme></seg>
+                </l>
+                <l n="17" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                    <seg>And from </seg>
+                    <seg>this chasm, </seg>
+                    <caesura/>
+                    <seg>with cease<sb/></seg>
+                    <seg>less tur<sb/></seg>
+                    <seg met="-+" real="-+-">moil seeth<sb/><rhyme label="c">ing,</rhyme></seg>
+                </l>
+                <l n="18" met="-+-+-+-+-+" real="-+-+-+++-+-">
+                    <seg>As if </seg>
+                    <seg>this earth </seg>
+                    <seg>in fast </seg>
+                    <seg met="-+" real="++">thick pants </seg>
+                    <seg met="-+" real="-+-">were breath<sb/><rhyme label="c">ing,</rhyme></seg>
+                </l>
+                <l n="19" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>A might<sb/></seg>
+                    <seg>y foun<sb/></seg>
+                    <seg>tain mo<sb/></seg>
+                    <seg>ment<sb/>ly </seg>
+                    <seg>was <rhyme label="d">forced:</rhyme></seg>
+                </l>
+                <l n="20" met="-+-+-+-+-+" real="-+-++--+-+">
+                    <seg>A<sb/>mid </seg>
+                    <seg>whose swift </seg>
+                    <seg met="-+" real="+-">half-<sb/>in<sb/></seg>
+                    <seg>ter<sb/>mit<sb/></seg>
+                    <seg>ted <rhyme label="d">burst</rhyme></seg>
+                </l>
+                <l n="21" met="-+-+-+-+-+" real="++-+---+-+|++-+-+-+-+">
+                    <seg met="-+" real="++">Huge frag<sb/></seg>
+                    <seg>ments vault<sb/></seg>
+                    <seg met="-+" real="--|-+">ed like </seg>
+                    <seg>re<sb/>bound<sb/></seg>
+                    <seg>ing <rhyme label="e">hail,</rhyme></seg>
+                </l>
+                <l n="22" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Or chaf<sb/></seg>
+                    <seg>fy grain </seg>
+                    <seg>be<sb/>neath </seg>
+                    <seg>the thresh<sb/></seg>
+                    <seg>er's <rhyme label="e">flail:</rhyme></seg>
+                </l>
+                <l n="23" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                    <seg>And 'mid </seg>
+                    <seg>these danc<sb/></seg>
+                    <seg>ing rocks, </seg>
+                    <seg>at once </seg>
+                    <seg met="-+" real="-+-">and ev<sb/><rhyme label="f">er</rhyme></seg>
+                </l>
+                <l n="24" met="-+-+-+-+-+" real="-+++---+-+-|-+-+-+-+-+-">
+                    <seg>It flung </seg>
+                    <seg met="-+" real="++|-+">up mo<sb/></seg>
+                    <seg met="-+" real="--|-+">ment<sb/>ly </seg>
+                    <seg>the sa<sb/></seg>
+                    <seg met="-+" real="-+-">cred riv<sb/><rhyme label="f">er.</rhyme></seg>
+                </l>
+                <l n="25" met="-+-+-+-+-+" real="++-+--+-+-+-|++-+----+-+-">
+                    <seg met="-+" real="++">Five miles </seg>
+                    <seg>me<sb/>an<sb/></seg>
+                    <seg met="-+" real="--+|---">der<sb/>ing with </seg>
+                    <seg>a maz<sb/></seg>
+                    <seg met="-+" real="-+-">y mo<sb/><rhyme label="g">tion</rhyme></seg>
+                <note anchored="true"> Stress "with" here at mid-line if you must. But there's more
+                    fun to be had, legal too, in exploiting the capital afforded by the
+                    spondee in foot 1, and shooting the rapids of four consecutive slacks mid-line.
+                    (Best practice, in this case, would make feet 3 and 4 a pyrrhic and an anapest,
+                    respectively; alas, the coding behind 4B4V won't permit both that and the safer
+                    anapest-iamb combo for those feet, so grit your teeth and scan the middle foot
+                    as 3 slacks, a super-pyrrhic.).  The line just above this one is nearly as
+                    impressive in the same vein: straight iambic scansion is okay there but rather
+                    feeble from a hydraulic standpoint.  (Try it again?) There's plenty of recovery time
+                    downstream in the quite regular lines that are coming up. </note>
+                </l>
+                <l n="26" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Through wood </seg>
+                    <seg>and dale </seg>
+                    <seg>the sa<sb/></seg>
+                    <seg>cred riv<sb/></seg>
+                    <seg>er <rhyme label="h">ran,</rhyme></seg>
+                </l>
+                <l n="27" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Then reached </seg>
+                    <seg>the cav<sb/></seg>
+                    <seg>erns meas<sb/></seg>
+                    <seg>ure<sb/>less </seg>
+                    <seg>to <rhyme label="h">man,</rhyme></seg>
+                </l>
+                <l n="28" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                    <seg>And sank </seg>
+                    <seg>in tu<sb/></seg>
+                    <seg>mult to </seg>
+                    <seg>a life<sb/></seg>
+                    <seg met="-+" real="-+-">less o<sb/><rhyme label="g">cean:</rhyme></seg>
+                </l>
+                <l n="29" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And 'mid </seg>
+                    <seg>this tu<sb/></seg>
+                    <seg>mult Ku<sb/></seg>
+                    <seg>bla heard </seg>
+                    <seg>from <rhyme label="i">far</rhyme></seg>
+                </l>
+                <l n="30" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>An<sb/>ces<sb/></seg>
+                    <seg>tral voic<sb/></seg>
+                    <seg>es pro<sb/></seg>
+                    <seg>phes<sb/>y<sb/></seg>
+                    <seg>ing <rhyme label="i">war!</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="3" met="-+(4/4/4/4/5/5)" rhyme="ababcc" org="uniform" sample="complete">
+                <l n="31" met="-+-+-+-+" real="-+-+-+-+-" rend="indent(5)">
+                    <seg>The shad<sb/></seg>
+                    <seg>ow of </seg>
+                    <seg>the dome </seg>
+                    <seg met="-+" real="-+-">of pleas<sb/><rhyme label="j">ure</rhyme></seg>
+                </l>
+                <l n="32" met="-+-+-+-+" real="+-+-+-+" rend="indent(5)">
+                    <seg met="-+" real="+">Float<sb/></seg>
+                    <seg>ed mid<sb/></seg>
+                    <seg>way on </seg>
+                    <seg>the <rhyme label="k">waves;</rhyme></seg>
+                    <note anchored="true"> Our familiar nemesis the catalectic tetrameter rears its
+                        (acephalous) head again. By this point the iambic character of Coleridge's
+                        poem is so overwhelmingly established that the trochaic option that many
+                        shorter poems extend to such a line is simply a wrong choice here -- and also in
+                        the several lines like this one that lie ahead. A trimeter scansion running
+                        trochee, spondee, anapest may tempt you in this case. But there's no other
+                        trimeter nearby to provide answering support, so it won't wash. Be patient
+                        till the final strophe. </note>
+                </l>
+                <l n="33" met="-+-+-+-+" real="+-+-+-+-" rend="indent(5)">
+                    <seg met="-+" real="+">Where </seg>
+                    <seg>was heard </seg>
+                    <seg>the min<sb/></seg>
+                    <seg met="-+" real="-+-">gled meas<sb/><rhyme label="j">ure</rhyme></seg>
+                </l>
+                <l n="34" met="-+-+-+-+" real="+-+-+-+" rend="indent(5)">
+                    <seg met="-+" real="+">From </seg>
+                    <seg>the foun<sb/></seg>
+                    <seg>tain and </seg>
+                    <seg>the <rhyme label="k">caves.</rhyme></seg>
+                </l>
+                <l n="35" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>It was </seg>
+                    <seg>a mir<sb/></seg>
+                    <seg>a<sb/>cle </seg>
+                    <seg>of rare </seg>
+                    <seg>de<sb/><rhyme label="l">vice,</rhyme></seg>
+                </l>
+                <l n="36" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>A sun<sb/></seg>
+                    <seg>ny pleas<sb/></seg>
+                    <seg>ure-<sb/>dome </seg>
+                    <seg>with caves </seg>
+                    <seg>of <rhyme label="l">ice!</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="4" met="-+(4/3/4/4/4/3/3/4/4/4/4/4/4/4/4/4/4/4)" rhyme="abccbdedeafaaafggf" org="uniform" sample="complete">
+                <l n="37" met="-+-+-+-+" real="-+-+-+-+" rend="indent(5)">
+                    <seg>A dam<sb/></seg>
+                    <seg>sel with </seg>
+                    <seg>a dul<sb/></seg>
+                    <seg>ci<sb/><rhyme label="a">mer</rhyme></seg>
+                    <note anchored="true"> Another magically musical line, with the consonants (and
+                        practically the vowels too) of "A damsel" redealt in "dulcimer." That
+                        phonemic shuffle is one reason for putting stress on the final syllable.
+                        Another, better reason is that the syllable will eventually find a set of
+                        partners-in-rhyme 10 lines further down. (Long-range effects and distance
+                        learning are what this final phase of Coleridge's wonderful Romantic
+                        manifesto is all about.)</note>
+                </l>
+                <l n="38" met="-+-+-+" real="--+-+-+" rend="indent(5)">
+                    <seg met="-+" real="--+">In a vi<sb/></seg>
+                    <seg>sion once </seg>
+                    <seg>I <rhyme label="b">saw:</rhyme></seg>
+                </l>
+                <l n="39" met="-+-+-+-+" real="-+-+-+--+" rend="indent(5)">
+                    <seg>It was </seg>
+                    <seg>an Ab<sb/></seg>
+                    <seg>ys<sb/>sin<sb/></seg>
+                    <seg met="-+" real="--+">i<sb/>an <rhyme label="c">maid,</rhyme></seg>
+                </l>
+                <l n="40" met="-+-+-+-+" real="-+-+-+-+" rend="indent(5)">
+                    <seg>And on </seg>
+                    <seg>her dul<sb/></seg>
+                    <seg>cim<sb/>er </seg>
+                    <seg>she <rhyme label="c">played,</rhyme></seg>
+                </l>
+                <l n="41" met="-+-+-+-+" real="+-+-+-+" rend="indent(5)">
+                    <seg met="-+" real="+">Sing<sb/></seg>
+                    <seg>ing of </seg>
+                    <seg>Mount A<sb/></seg>
+                    <seg>bo<sb/><rhyme label="b">ra.</rhyme></seg>
+                </l>
+                <l n="42" met="-+-+-+" real="-+-+-+-" rend="indent(5)">
+                    <seg>Could I </seg>
+                    <seg>re<sb/>vive </seg>
+                    <seg met="-+" real="-+-">with<sb/>in <rhyme label="d">me</rhyme></seg>
+                </l>
+                <l n="43" met="-+-+-+" real="-+-+-+" rend="indent(5)">
+                    <seg>Her sym<sb/></seg>
+                    <seg>pho<sb/>ny </seg>
+                    <seg>and <rhyme label="e">song,</rhyme></seg>
+                </l>
+                <l n="44" met="-+-+-+-+" real="-+-+-+-+-" rend="indent(5)">
+                    <seg>To such </seg>
+                    <seg>a deep </seg>
+                    <seg>de<sb/>light </seg>
+                    <seg met="-+" real="-+-">'twould win <rhyme label="d">me,</rhyme></seg>
+                </l>
+                <l n="45" met="-+-+-+-+" real="+-+-+-+">
+                    <seg met="-+" real="+">That </seg>
+                    <seg>with mu<sb/></seg>
+                    <seg>sic loud </seg>
+                    <seg>and <rhyme label="e">long,</rhyme></seg>
+                </l>
+                <l n="46" met="-+-+-+-+" real="+-+-+-+">
+                    <seg met="-+" real="+">I </seg>
+                    <seg>would build </seg>
+                    <seg>that dome </seg>
+                    <seg>in <rhyme label="a">air,</rhyme></seg>
+                    <note anchored="true"> You might ask why this and the line above it aren't
+                        identical trimeters scanned anapest, iamb, iamb. You might even plead that
+                        "long" in the former line rhymes with "song" in a trimeter just two lines
+                        above it (line 43). It's not an easy question to answer, but two
+                        considerations countervail: (1) coming right after the feminine ending "win
+                        me" in line 44, the double-slack of an anapest feels like an awkward
+                        stumble, just where Coleridge wants to build up a steady head of steam
+                        toward his finale; (2) in building up that head of steam, nothing can be
+                        apter than the driving force that catalectic tetrameter possesses in English
+                        (the people's voice!). With the dulcimer-damsel as opening act, he is now
+                        bringing his rock-star poet out on stage and needs all the crowd surge he
+                        can get.</note>
+                </l>
+                <l n="47" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>That sun<sb/></seg>
+                    <seg>ny dome! </seg>
+                    <caesura/>
+                    <seg>those caves </seg>
+                    <seg>of <rhyme label="f">ice!</rhyme></seg>
+                </l>
+                <l n="48" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>And all </seg>
+                    <seg>who heard </seg>
+                    <seg>should see </seg>
+                    <seg>them <rhyme label="a">there,</rhyme></seg>
+                </l>
+                <l n="49" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>And all </seg>
+                    <seg>should cry, </seg>
+                    <caesura/>
+                    <seg>Be<sb/>ware! </seg>
+                    <seg>Be<sb/><rhyme label="a">ware!</rhyme></seg>
+                </l>
+                <l n="50" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>His flash<sb/></seg>
+                    <seg>ing eyes! </seg>
+                    <caesura/>
+                    <seg>his float<sb/></seg>
+                    <seg>ing <rhyme label="a">hair!</rhyme></seg>
+                </l>
+                <l n="51" met="-+-+-+-+" real="+-+-+-+">
+                    <seg met="-+" real="+">Weave </seg>
+                    <seg>a cir<sb/></seg>
+                    <seg>cle round </seg>
+                    <seg>him <rhyme label="f">thrice,</rhyme></seg>
+                </l>
+                <l n="52" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>And close </seg>
+                    <seg>your eyes </seg>
+                    <seg>with ho<sb/></seg>
+                    <seg>ly <rhyme label="g">dread,</rhyme></seg>
+                </l>
+                <l n="53" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>For he </seg>
+                    <seg>on hon<sb/></seg>
+                    <seg>ey-<sb/>dew </seg>
+                    <seg>hath <rhyme label="g">fed,</rhyme></seg>
+                </l>
+                <l n="54" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg>And drunk </seg>
+                    <seg>the milk </seg>
+                    <seg>of Par<sb/></seg>
+                    <seg>a<sb/><rhyme label="f">dise.</rhyme></seg>
+                    <note anchored="true "> The utter regularity of iambic rhythm here bends the
+                        poem back towards its almost equally regular beginning strophe. But where
+                        that was Classic architecture, this (for better and for worse) is Romantic
+                        incantation. Turn on the spell checker: there's magic in the web. </note>
+                </l>
+            </lg>
+        </body></text></TEI>

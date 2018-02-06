@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0"><teiHeader type="text"><fileDesc><titleStmt><title>Mount Blanc 1-11</title><author>Percy Bysshe Shelley</author></titleStmt><publicationStmt><date>1817</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body><lg n="1" met="-+(5)" org="uniform" sample="complete" part="N"><l n="1" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="2" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="3" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="4" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="5" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="6" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="7" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="8" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="9" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="10" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l><l n="11" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                    <seg met="-+" part="N"/>
+                </l></lg></body></text></TEI>

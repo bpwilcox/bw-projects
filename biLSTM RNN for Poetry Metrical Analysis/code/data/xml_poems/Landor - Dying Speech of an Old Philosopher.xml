@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0"><teiHeader type="text"><fileDesc><titleStmt><title>Dying Speech of an Old Philosopher</title><author>Walter Savage Landor</author></titleStmt><publicationStmt><date>1849</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body><lg n="1" type="Sicilian Quatrain" met="-+(5/5/5/5)" rhyme="abab" org="uniform" sample="complete" part="N"><l n="1" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">I strove </seg>
+                    <seg met="-+" part="N">with none, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">for none </seg>
+                    <seg met="-+" part="N">was worth </seg>
+                    <seg met="-+" part="N">my <rhyme label="a">strife:</rhyme></seg>
+                </l><l n="2" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-" part="N">Na<sb part="N"/>ture </seg>
+                    <seg met="-+" part="N">I loved, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">and, next </seg>
+                    <seg met="-+" part="N">to Na<sb part="N"/></seg>
+                    <seg met="-+" part="N">ture, <rhyme label="b">Art:</rhyme></seg>
+                </l><l n="3" part="N" met="-+-+-+-+-+" real="-+++-+-+-+">
+                    <seg met="-+" part="N">I warm'd </seg>
+                    <seg met="-+" real="++" part="N">both hands </seg>
+                    <seg met="-+" part="N">be<sb part="N"/>fore </seg>
+                    <seg met="-+" part="N">the fire </seg>
+                    <seg met="-+" part="N">of <rhyme label="a">Life;</rhyme></seg>
+                </l><l n="4" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+|++-+-+---+">
+                    <seg met="-+" real="++" part="N">It sinks; </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">and I </seg>
+                    <seg met="-+" part="N">am read<sb part="N"/></seg>
+                    <seg met="-+" real="--" part="N">y to </seg>
+                    <seg met="-+" part="N">de<sb part="N"/><rhyme>part.</rhyme></seg>
+                    <note anchored="true">The noble stoicism of our speaker is enriched rhythmically
+                        by just a hint of reluctance to accept the limits of mortality in which his
+                        philosophy has trained him. Two hints, really. First, feel how the spondee
+                        in line 3 pauses, for a heartbeat, over what remains for him the memory of a
+                        creature comfort when life still felt warm. Then drop down in line 4 to the
+                        disappointment that flickers in the very strong caesura after the first
+                        foot. He's ready, all right, but staying ready takes all his energy at this
+                        point. 4B4V prefers straight, durable iambs in this last line. But a reader
+                        who wants to prolong the pathos of leave-taking, or to bring out the hint in
+                        the title that the old philosopher's words constitute a form of prosodically
+                        "dying speech," might well scan the first foot as a spondee, the fourth as a
+                        pyrrhic.</note>
+                </l></lg></body></text></TEI>

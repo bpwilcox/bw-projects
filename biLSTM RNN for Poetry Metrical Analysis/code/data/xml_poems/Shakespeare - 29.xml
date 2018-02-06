@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Sonnet 29</title><author>William Shakespeare</author></titleStmt><publicationStmt><date>1609</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="sonnet" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="ababcdcdefefgg" org="uniform" sample="complete" part="N">
+                <l n="1" part="N" met="-+-+-+-+-+" real="+--+-+--++">
+                    <seg real="+-" part="N">When, in </seg>
+                    <seg>dis<sb part="N"/>grace </seg>
+                    <seg>with for<sb part="N"/></seg>
+                    <seg real="--">tune and </seg>
+                    <seg real="++" part="N">men's <rhyme label="a">eyes,</rhyme></seg>
+                </l>
+                <l n="2" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">I all </seg>
+                    <seg met="-+" part="N">a<sb part="N"/>lone </seg>
+                    <seg met="-+" part="N">be<sb part="N"/>weep </seg>
+                    <seg met="-+" part="N">my out<sb part="N"/></seg>
+                    <seg met="-+" part="N">cast <rhyme label="b">state,</rhyme></seg>
+                </l><l n="3" part="N" met="-+-+-+-+-+" real="-+-++---+-+">
+                    <seg met="-+" part="N">And trou<sb part="N"/></seg>
+                    <seg met="-+" part="N">ble deaf </seg>
+                    <seg real="+-">heav<sb part="N"/>en </seg>
+                    <caesura/>
+                    <seg real="--+">with my boot<sb part="N"/></seg>
+                    <seg met="-+" part="N">less <rhyme label="a">cries,</rhyme></seg>
+                    <note anchored="true">
+                        The mid-line trouble here may be trod, it's true, with a dactyl in the 3rd foot and an iamb in the 4th, where 4B4V specifies a trochee and an anapest.  Six of one, half a dozen of the other: OK.  But the dactyl is an exotic creature in English metrics; the trochee is the falling foot of choice, and should be preferred when all it costs is a cheap anapestic substitution.                    </note>
+                </l><l n="4" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">And look </seg>
+                    <seg met="-+" part="N">up<sb part="N"/>on </seg>
+                    <seg met="-+" part="N">my<sb part="N"/>self, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">and curse </seg>
+                    <seg met="-+" part="N">my <rhyme label="b">fate,</rhyme></seg>
+                </l><l n="5" part="N" met="-+-+-+-+-+" real="+--+-+-+-+|+--+-+++-+">
+                    <seg real="+-">Wish<sb part="N"/>ing </seg>
+                    <seg met="-+" part="N">me like </seg>
+                    <seg met="-+" part="N">to one </seg>
+                    <seg met="-+" real="++">more rich </seg>
+                    <seg met="-+" part="N">in <rhyme label="c">hope,</rhyme></seg>
+                </l><l n="6" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Fea<sb/>tured </seg>
+                    <seg>like him, </seg>
+                    <caesura/>
+                    <seg>like him </seg>
+                    <seg>with friends </seg>
+                    <seg>pos<sb part="N"/><rhyme label="d">sessed,</rhyme></seg>
+                </l><l n="7" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">De<sb part="N"/>sir<sb part="N"/></seg>
+                    <seg met="-+" part="N">ing this </seg>
+                    <seg met="-+" part="N">man's art </seg>
+                    <seg met="-+" part="N">and that </seg>
+                    <seg met="-+" part="N">man's <rhyme label="c">scope,</rhyme></seg>
+                    <note anchored="true">
+                        Scanning this line right obliges us to disregard the rule of thumb that says monosyllabic nouns take stress.  This comes clear once you understand that "this man" and "that man" mean no more as individuals than do the fellows in our colloquialism nowadays about this, that, and the other guy.  In both cases it's "this" and "that" that take the stress.
+                    </note>
+                </l><l n="8" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">With what </seg>
+                    <seg met="-+" part="N">I most </seg>
+                    <seg met="-+" part="N">en<sb part="N"/>joy </seg>
+                    <seg met="-+" part="N">con<sb part="N"/>tent<sb part="N"/></seg>
+                    <seg met="-+" part="N">ed <rhyme label="e">least;</rhyme></seg>
+                </l><l n="9" part="N" met="-+-+-+-+-+" real="+-++-+-+-+-">
+                    <seg met="-+" real="+-" part="N">Yet in </seg>
+                    <seg met="-+" real="++">these thoughts </seg>
+                    <seg met="-+" part="N">my<sb part="N"/>self </seg>
+                    <seg met="-+" part="N">al<sb part="N"/>most </seg>
+                    <seg met="-+" real="-+-" part="N">de<sb part="N"/><rhyme label="f">spis<sb part="N"/>ing,</rhyme></seg>
+                </l><l n="10" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg real="+-" part="N">Hap<sb part="N"/>ly </seg>
+                    <seg met="-+" part="N">I think </seg>
+                    <seg met="-+" part="N">on thee--</seg>
+                    <caesura/>
+                    <seg met="-+" part="N">and then </seg>
+                    <seg met="-+" part="N">my <rhyme label="b">state,</rhyme></seg>
+                </l><l n="11" part="N" met="-+-+-+-+-+" real="+--+-+-+-+-">
+                    <seg real="+-">Like to </seg>
+                    <seg met="-+" part="N">the lark </seg>
+                    <seg met="-+" part="N">at break </seg>
+                    <seg met="-+" part="N">of day </seg>
+                    <seg real="-+-">a<sb part="N"/><rhyme label="f">ris<sb part="N"/>ing</rhyme></seg>
+                </l><l n="12" part="N" met="-+-+-+-+-+" real="-+-+++-+-+">
+                    <seg met="-+" part="N">From sul<sb part="N"/></seg>
+                    <seg met="-+" part="N">len earth, </seg>
+                    <caesura/>
+                    <seg real="++">sings hymns </seg>
+                    <seg met="-+" part="N">at heav<sb part="N"/></seg>
+                    <seg met="-+" part="N">en's <rhyme label="b">gate;</rhyme></seg>
+                </l><l n="13" part="N" met="-+-+-+-+-+" real="-+++-+-+++">
+                    <seg met="-+">For thy </seg>
+                    <seg met="-+" real="++" part="N">sweet love </seg>
+                    <seg met="-+" part="N">re<sb part="N"/>mem<sb part="N"/></seg>
+                    <seg met="-+" part="N">bered such </seg>
+                    <seg real="++" part="N">wealth <rhyme label="g">brings</rhyme></seg>
+                </l><l n="14" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">That then </seg>
+                    <seg met="-+" part="N">I scorn </seg>
+                    <seg met="-+" part="N">to change </seg>
+                    <seg met="-+" part="N">my state </seg>
+                    <seg met="-+" part="N">with <rhyme label="g">kings.</rhyme></seg>
+                </l></lg></body></text></TEI>

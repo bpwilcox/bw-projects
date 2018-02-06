@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0"><teiHeader type="text"><fileDesc><titleStmt><title>A Slumber Did My Spirit Seal</title><author>William Wordsworth</author></titleStmt><publicationStmt><date>1800</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body>
+    <lg n="1" type="quatrain" met="-+(4/3/4/3)" rhyme="abab" org="uniform" sample="complete" part="N">
+        <l n="1" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                    <seg met="-+" part="N">A slum<sb part="N"/></seg>
+                    <seg met="-+" part="N">ber did </seg>
+                    <seg met="-+" part="N">my spir<sb part="N"/></seg>
+		    <seg met="-+" part="N">it <rhyme label="a">seal;</rhyme></seg>
+        </l>
+                <l n="2" part="N" met="-+-+-+" real="--++-+|-+-+-+" rend="indent">
+                    <seg met="-+" real="--" part="N">I had </seg>
+                    <seg met="-+" real="++" part="N">no hu<sb part="N"/></seg>
+                    <seg met="-+" part="N">man <rhyme label="b">fears:</rhyme></seg>
+            <note anchored="true">
+                Most readers scan this line without trouble.  What's odd is that they scan it different ways.  4B4V prefers to sit up and take notice at this early point in the poem, with a pyrrhic-spondee punch in the first two feet that registers the force of what the speaker knows now but didn't know back then.  The poem also reads very well -- but differently -- if you stick with the straight iambic meter here, in prolonged imitation of the blissful ignorance the speaker says here he used to enjoy. Neither is The Correct Scansion: each emphasizes a different emotional state, that's all -- and that's a lot.
+            </note>
+        </l>
+        <l n="3" part="N" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg met="-+" part="N">She seemed </seg>
+                    <seg met="-+" part="N">a thing </seg>
+                    <seg met="-+" part="N">that could </seg>
+                    <seg met="-+" part="N">not <rhyme label="a">feel</rhyme></seg>
+        </l>
+                <l n="4" part="N" met="-+-+-+" real="-+-+-+" rend="indent">
+                    <seg met="-+" part="N">The touch </seg>
+                    <seg met="-+" part="N">of earth<sb part="N"/></seg>
+                    <seg met="-+" part="N">ly <rhyme label="b">years.</rhyme></seg>
+        </l></lg>
+    <lg n="2" type="quatrain" met="-+(4/3/4/3)" rhyme="abab" org="uniform" sample="complete" part="N">
+        <l n="5" part="N" met="-+-+-+-+" real="++---+++|-+-+-+++|++-+-+++">
+                    <seg met="-+" real="++|-+" part="N">No mo<sb part="N"/></seg>
+                    <seg met="-+" real="--|-+" part="N">tion has </seg>
+                    <seg met="-+" part="N">she now, </seg>
+                    <caesura/>
+                    <seg met="-+" real="++" part="N">no <rhyme label="a">force;</rhyme></seg>
+                                                  <note anchored="true"> This is the most metrically
+                                                  irregular line in the poem, and with good reason.
+                                                  The spondaic substitution in the first foot
+                                                  registers a change in rhythm which stands for a
+                                                  change in perspective on the speaker's part. (Not
+                                                  to mention the change in state for her who has
+                                                  died!) And the difficulty of registering this
+                                                  perspectival change gets reinforced in foot 4, as
+                                                  if the speaker is forcing himself to believe in a
+                                                  truth part of him still wants to deny. Readers may
+                                                  also feel an ironic contrast with the only
+                                                  previous departure from meter, again spondaic, in
+                                                  the second foot of line 2 -- ironic, because at
+                                                  that point what was being stressed was the false
+                                                  security of that former state of denial. </note>
+        </l>
+                <l n="6" part="N" met="-+-+-+" real="-+-+-+" rend="indent">
+                    <seg met="-+" part="N">She nei<sb part="N"/></seg>
+                    <seg met="-+" part="N">ther hears </seg>
+                    <seg met="-+" part="N">nor <rhyme label="b">sees;</rhyme></seg>
+        </l>
+        <l n="7" part="N" met="-+-+-+-+" real="++-+-+-+">
+                    <seg met="-+" real="++" part="N">Rolled round </seg>
+                    <seg met="-+" part="N">in earth's </seg>
+                    <seg met="-+" part="N">di<sb part="N"/>ur<sb part="N"/></seg>
+                    <seg met="-+" part="N">nal <rhyme label="a">course,</rhyme></seg>
+        </l>
+                <l n="8" part="N" met="-+-+-+" real="-+-+-+" rend="indent">
+                    <seg met="-+" part="N">With rocks </seg>,
+                    <caesura/>
+                    <seg met="-+" part="N">and stones </seg>,
+                    <caesura/>
+                    <seg met="-+" part="N">and <rhyme label="b">trees.</rhyme></seg>
+                    <note anchored="true">
+                        The thing to notice here is the weirdly serene regularity of the last line, corresponding to the organic, even inorganic pulse of the earth in which the deceased "She" is now buried.  It's an effect set in motion by the heavily alliterated "Rolled round" in line 7 (this iambic lyric's last, sojourning spondee), which heaves into motion a process whose laws enfold life as the grave enfolds the dead.
+                    </note>
+                </l></lg></body></text></TEI>

@@ -1,0 +1,11 @@
+X:1
+T:Loane se the nore  Cae
+T:rorna
+Z:id:hn-hirnpipe-2
+M:C|
+K: B_
+(f=ef) g2f2| (3(ede) f2e2|
+d3/2^F/2 GA/f/ /2C/2f/2||/2e/2 zd | e~ f/e/f/ed | ge d2 | e/d>c/2B/2A) |c2 cB | A4 | B c/c//e/ | fz ge/e/ :|2 f2>d2 || f2 ed | e2 ff | zc cB | c2 d2 | BB/B/ B2 | b>B B>c | ff d2 | d2B2 | B2f2 | d2B>A | AA Ac |
+e2d2 | fedBc B | B2B BBc |
+d2g d3B2 || cd ea fe | g4f2 |]
+`

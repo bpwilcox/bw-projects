@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>The Good-Morrow</title>
+                    <author>John Donne</author>
+                </titleStmt>
+                <publicationStmt><date>1633</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" met="-+(5/5/5/5/5/5/6)" rhyme="ababccc" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                   <seg>I won<sb/></seg>
+                   <seg>der, by </seg>
+                   <seg>my troth, </seg>
+                   <seg>what thou </seg>
+                   <seg>and <rhyme label="a">I</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+-+-+" real="+--++--+-+" part="N">
+                        <seg met="-+" real="+-">Did, till </seg>
+                        <seg>we loved: </seg>
+                        <caesura/>
+                        <seg met="-+" real="+-">Were we </seg>
+                        <seg>not weaned </seg>
+                        <seg>till <rhyme label="b">then?</rhyme></seg>
+                        <note anchored="true">
+                            A trochee in the first foot of an iambic line is nearly unremarkable.  But the performative wallop Donne packs into "Did" at the head of this one is extraordinary.  It owes much to the easy rhythm of the open-voweled words in line 1, ambling towards Donne's enjambment like somebody walking into a wall while chatting sideways.
+                        </note>
+                    </l>
+                    <l n="3" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>But sucked </seg>
+                        <seg>on coun<sb/></seg>
+                        <seg>try pleas<sb/></seg>
+                        <seg>ures, child<sb/></seg>
+                        <seg>ish<sb/><rhyme label="a">ly?</rhyme></seg>
+                    </l>
+                    <l n="4" met="-+-+-+-+-+" real="-+-+--+-+-+" part="N">
+                        <seg>Or snort<sb/></seg>
+                        <seg>ed we </seg>
+                        <seg met="-+" real="--+">in the Sev<sb/></seg>
+                        <seg>en Sleep<sb/></seg>
+                        <seg>ers' <rhyme label="b">den?</rhyme></seg>
+                    </l>
+                    <l n="5" met="-+-+-+-+-+" real="-+-+++-+-+" part="N">
+                        <seg>'Twas so; </seg>
+                        <caesura/>
+                        <seg>but this, </seg>
+                        <seg met="-+" real="++">all pleas<sb/></seg>
+                        <seg>ures fan<sb/></seg>
+                        <seg>cies <rhyme label="c">be.</rhyme></seg>
+                    </l>
+                    <l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>If e<sb/></seg>
+                        <seg>ver a<sb/></seg>
+                        <seg>ny beau<sb/></seg>
+                        <seg>ty I </seg>
+                        <seg>did <rhyme label="c">see,</rhyme></seg>
+                    </l>
+                    <l n="7" met="-+-+-+-+-+-+" real="-+-+-++--+-+" part="N">
+                        <seg>Which I </seg>
+                        <seg>de<sb/>sired, </seg>
+                        <seg>and got, </seg>
+                        <caesura/>
+                        <seg met="-+" real="+-">'twas but </seg>
+                        <seg>a dream </seg>
+                        <seg>of <rhyme label="c">thee.</rhyme></seg>
+                    </l>                                       
+                </lg>
+                <lg n="1" met="-+(5/5/5/5/5/5/6)" rhyme="ababccc" org="uniform" sample="complete" part="N">
+                    <l n="8" met="-+-+-+-+-+" real="-+++---+-+" part="N">
+                        <seg>And now </seg>
+                        <seg met="-+" real="++">good-<sb/>mor<sb/></seg>
+                        <seg met="-+" real="--">row to </seg>
+                        <seg>our wak<sb/></seg>
+                        <seg>ing <rhyme label="a">souls,</rhyme></seg>
+                    </l>
+                    <l n="9" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>Which watch </seg>
+                        <seg>not one </seg>
+                        <seg>an<sb/>oth<sb/></seg>
+                        <seg>er out </seg>
+                        <seg>of <rhyme label="b">fear;</rhyme></seg>
+                        <note anchored="true">
+                            Why not stress "not"?  Because, as line 15 will show, the lovers are indeed gazing at each other.  The point here, underscored by equable metrical rhythm, is that they're doing so calmly, and not in fearful jealousy.
+                        </note>
+                    </l>
+                    <l n="10" met="-+-+-+-+-+" real="-+++-+-+-+" part="N">
+                        <seg>For love, </seg>
+                        <caesura/>
+                        <seg met="-+" real="++">all love </seg>
+                        <seg>of oth<sb/></seg>
+                        <seg>er sights </seg>
+                        <seg>con<sb/><rhyme label="a">trols,</rhyme></seg>
+                    </l>
+                    <l n="11" met="-+-+-+-+-+" real="-+++-+-+-+" part="N">
+                        <seg>And makes </seg>
+                        <seg met="-+" real="++">one lit<sb/></seg>
+                        <seg>tle room </seg>
+                        <seg>an eve<sb/></seg>
+                        <seg>ry<sb/><rhyme label="b">where.</rhyme></seg>
+                    </l>
+                    <l n="12" met="-+-+-+-+-+" real="-+-+--++-+" part="N">
+                        <seg>Let sea-<sb/></seg>
+                        <seg>dis<sb/>cover<sb></sb></seg>
+                        <seg met="-+" real="--">ers to </seg>
+                        <seg met="-+" real="++">new worlds </seg>
+                        <seg>have <rhyme label="c">gone,</rhyme></seg>
+                        <note anchored="true">
+                            Scan "discoverers" as four syllables if you like.  But realize this choice will commit you to an anapest in the second foot, where promoted stress on little "to" then chimes pretentiously with "new" in the following spondee.  4B4V deems elision ("discov'rers") the path of virtue this time.  
+                        </note>
+                    </l>
+                    <l n="13" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+                        <seg>Let maps </seg>
+                        <seg>to oth<sb/></seg>
+                        <seg>ers, worlds </seg>
+                        <seg>on worlds </seg>
+                        <seg>have <rhyme label="c">shown,</rhyme></seg>
+                    </l>
+                    <l n="14" met="-+-+-+-+-+-+" real="-+-+++-+--++" part="N">
+                        <seg>Let us </seg>
+                        <seg>pos<sb/>sess </seg>
+                        <seg met="-+" real="++">one world, </seg>
+                        <caesura/>
+                        <seg>each hath </seg>
+                        <seg met="-+" real="--">one, and </seg>
+                        <seg met="-+" real="++">is <rhyme label="c">one.</rhyme></seg>
+                    </l>              
+                  </lg>
+                <lg n="3" met="-+(5/5/5/5/5/5/5)" rhyme="ababccc" org="uniform" sample="complete" part="N">
+                    <l n="15" met="-+-+-+-+-+" real="++-+-+-+-+|+--+-+-+-+" part="N">
+                        <seg met="-+" real="++|+-">My face </seg>
+                        <seg>in thine </seg>
+                        <seg>eye, <caesura/>thine </seg>
+                        <seg>in mine </seg>
+                        <seg>ap<sb/><rhyme label="a">pears,</rhyme></seg>
+                    </l>
+                    <l n="16" met="-+-+-+-+-+" real="-+++---+-+" part="N">
+                        <seg>And true </seg>
+                        <seg met="-+" real="++">plain hearts </seg>
+                        <seg met="-+" real="--">do in </seg>
+                        <seg>the fac<sb/></seg>
+                        <seg>es <rhyme label="b">rest;</rhyme></seg>
+                    </l>
+                    <l n="17" met="-+-+-+-+-+" real="+--+++-+-+" part="N">
+                        <seg met="-+" real="+-">Where can </seg>
+                        <seg>we find </seg>
+                        <seg met="-+" real="++">two bet<sb/></seg>
+                        <seg>ter hem<sb/></seg>
+                        <seg>i<sb/><rhyme label="a">spheres,</rhyme></seg>
+                    </l>
+                    <l n="18" met="-+-+-+-+-+" real="-+++-+-+-+" part="N">
+                        <seg>With<sb/>out </seg>
+                        <seg met="-+" real="++">sharp north, </seg>
+                        <caesura/>
+                        <seg>with<sb/>out </seg>
+                        <seg>de<sb/>clin<sb/></seg>
+                        <seg>ing <rhyme label="b">West?</rhyme></seg>
+                    </l>
+                    <l n="19" met="-+-+-+-+-+" real="-+-+-+++-+" part="N">
+                        <seg>What<sb/>e<sb/></seg>
+                        <seg>ver dies </seg>
+                        <seg>was not </seg>
+                        <seg met="-+" real="++">mixed e<sb/></seg>
+                        <seg>qual<sb/><rhyme label="c">ly;</rhyme></seg>
+                    </l>
+                    <l n="20" met="-+-+-+-+-+" real="-+++-+-+-+" part="N">
+                        <seg>If our </seg>
+                        <seg met="-+" real="++">two loves </seg>
+                        <seg>be one, </seg>
+                        <caesura/>
+                        <seg>or thou </seg>
+                        <seg>and <rhyme label="c">I</rhyme></seg>
+                    </l>
+                    <l n="21" met="-+-+-+-+-+-+" real="+--+-+-+-+-+" part="N">
+                        <seg met="-+" real="+-">Love so </seg>
+                        <seg>a<sb/>like </seg>
+                        <seg>that none </seg>
+                        <seg>do slack<sb/></seg>
+                        <seg>en, <caesura/>none </seg>
+                        <seg>can <rhyme label="c">die.</rhyme></seg>
+                        <note anchored="true">
+                            The mid-line rhyme of "none" with "one" just above it is as pretty as the perfect end-rhyme of "can die" with "and I" is just.  The re-enjambment of "thou and I" in line 21 recalls what happened at the end of line 1; only now the tense is present and the deed is love.
+                        </note>
+                    </l>
+                    
+                    
+                </lg></body></text></TEI>

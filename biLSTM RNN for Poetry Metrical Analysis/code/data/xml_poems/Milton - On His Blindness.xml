@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>On His Blindness</title>
+                    <author>John Milton</author>
+                </titleStmt>
+                <publicationStmt><date>1652</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="sonnet" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="abbaabbacdecde" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                   <seg>When I </seg>
+                   <seg>con<sb/>sid<sb/></seg>
+                   <seg>er how </seg>
+                   <seg>my light </seg>
+                   <seg>is <rhyme label="a">spent</rhyme></seg>
+               </l><l n="2" met="-+-+-+-+-+" real="-+-+--++-+">
+                    <seg>Ere half </seg>
+                    <seg>my days, </seg>
+                    <caesura/>
+                    <seg>in this </seg>
+                    <seg met="-+" real="++">dark world </seg>
+                    <seg>and <rhyme label="b">wide,</rhyme></seg>
+                </l><l n="3" met="-+-+-+-+-+" real="-+++---+-+">
+                    <seg>And that </seg>
+                    <seg met="-+" real="++">one tal<sb/></seg>
+                    <seg>ent which </seg>
+                    <seg>is death </seg>
+                    <seg>to <rhyme label="b">hide</rhyme></seg>
+                </l><l n="4" met="-+-+-+-+-+" real="+--+-+-+-+|+--+---+++">
+                    <seg met="-+" real="+-">Lodged with </seg>
+                    <seg>me use<sb/></seg>
+                    <seg>less, <caesura/>though </seg>
+                    <seg>my soul </seg>
+                    <seg met="-+" real="++">more <rhyme label="a">bent</rhyme></seg>
+                </l><l n="5" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>To serve </seg>
+                    <seg>there<sb/>with </seg>
+                    <seg>my Mak<sb/></seg>
+                    <seg>er, <caesura/>and </seg>
+                    <seg>pres<sb/><rhyme label="a">ent</rhyme></seg>
+                </l><l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>My true </seg>
+                    <seg>ac<sb/>count, </seg>
+                    <caesura/>
+                    <seg>lest he </seg>
+                    <seg>re<sb/>turn<sb/></seg>
+                    <seg>ing <rhyme label="b">chide;</rhyme></seg>
+                </l><l n="7" met="-+-+-+-+-+" real="-+-+++-+-+">
+                    <seg>"Doth God </seg>
+                    <seg>ex<sb/>act </seg>
+                    <seg met="-+" real="++">day-<sb/>la<sb/></seg>
+                    <seg>bor, <caesura/>light </seg>
+                    <seg>de<sb/><rhyme label="b">nied?"</rhyme></seg>
+                </l><l n="8" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>I fond<sb/></seg>
+                    <seg>ly ask; </seg>
+                    <caesura/>
+                    <seg>but pa<sb/></seg>
+                    <seg>tience to </seg>
+                    <seg>pre<sb/><rhyme label="a">vent</rhyme></seg>
+                </l><l n="9" met="-+-+-+-+-+" real="-+-+-++--+">
+                    <seg>That mur<sb/></seg>
+                    <seg>mur, soon </seg>
+                    <seg>re<sb/>plies, </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-">"God doth </seg>
+                    <seg>not <rhyme label="c">need</rhyme></seg>
+                </l><l n="10" met="-+-+-+-+-+" real="+-++--++-+">
+                    <seg met="-+" real="+-">Ei<sb/>ther </seg>
+                    <seg met="-+" real="++">man's work </seg>
+                    <seg>or his </seg>
+                    <seg met="-+" real="++">own gifts: </seg>
+                    <caesura/>
+                    <seg>who <rhyme label="d">best</rhyme></seg>
+                    <note anchored="true"> The congested bunching of stresses in this and the
+                        following line insists to the ear on what the remarkable enjambment of
+                        Milton's volta and sestet performs even more urgently: the copresence of
+                        latent with patent orders of being. Rhythm jars against meter, as syntax
+                        overlaps lineation, to affirm the higher reality of what meets the mind, not
+                        the eye. </note>
+                </l><l n="11" met="-+-+-+-+-+" real="+-+++--+-+">
+                    <seg met="-+" real="+-">Bear his </seg>
+                    <seg met="-+" real="++">mild yoke, </seg>
+                    <seg met="-+" real="+-">they serve </seg>
+                    <seg>him best. </seg>
+                    <caesura/>
+                    <seg>His <rhyme label="e">state</rhyme></seg>
+                </l><l n="12" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Is king<sb/></seg>
+                    <seg>ly. <caesura/>Thou<sb/></seg>
+                    <seg>sands at </seg>
+                    <seg>his bid<sb/></seg>
+                    <seg>ding <rhyme label="c">speed</rhyme></seg>
+                </l><l n="13" met="-+-+-+-+-+" real="-+-+-+--++">
+                    <seg>And post </seg>
+                    <seg>o'er land </seg>
+                    <seg>and o<sb/></seg>
+                    <seg met="-+" real="--">cean with<sb/></seg>
+                    <seg met="-+" real="++">out <rhyme label="d">rest:</rhyme></seg>
+                </l><l n="14" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>They al<sb/></seg>
+                    <seg>so serve </seg>
+                    <seg>who on<sb/></seg>
+                    <seg>ly stand </seg>
+                    <seg>and <rhyme label="e">wait."</rhyme></seg>
+                    <note anchored="true"> Patience's simple reminder comes beautifully home here,
+                        after much turbulence, to rest on the plainness of straightforward diction,
+                        syntax, and metrical calm. </note>
+                </l></lg></body></text></TEI>

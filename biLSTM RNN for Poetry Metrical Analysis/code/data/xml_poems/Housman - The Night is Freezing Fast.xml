@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0"><teiHeader type="text">
+    <fileDesc><titleStmt><title>The Night is Freezing Fast</title><author>A. E. Housman</author></titleStmt><publicationStmt><date>1922</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body>
+        <lg met="-+(3/3/3/3/3/3)" rhyme="abcabc" org="uniform" sample="complete" part="N">
+                <l n="1" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">The night </seg>
+                    <seg met="-+" part="N">is freez<sb part="N"/></seg>
+                    <seg met="-+" part="N">ing <rhyme label="a">fast,</rhyme></seg>
+                </l><l n="2" part="N" met="-+-+-+" real="-+-+-+-">
+                    <seg met="-+" part="N">To-<sb part="N"/>mor<sb part="N"/></seg>
+                    <seg met="-+" part="N">row comes </seg>
+                    <seg met="-+" real="-+-" part="N">De<sb part="N"/><rhyme label="b">cem<sb part="N"/>ber;<sb part="N"/></rhyme></seg>
+                </l><l n="3" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">And win<sb part="N"/></seg>
+                    <seg met="-+" part="N">ter <sb part="N"/>falls </seg>
+                    <seg met="-+" part="N">of <rhyme label="c"></rhyme>old</seg>
+                </l><l n="4" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">Are with </seg>
+                    <seg met="-+" part="N">me from </seg>
+                    <seg met="-+" part="N">the <rhyme label="a"></rhyme>past;</seg>
+                </l><l n="5" part="N" met="-+-+-+" real="-+-+-+-">
+                    <seg met="-+" part="N">And chief<sb part="N"/></seg>
+                    <seg met="-+" part="N">ly I </seg>
+                    <seg met="-+" real="-+-" part="N">re<sb part="N"/><rhyme label="b">mem<sb part="N"/>ber</rhyme></seg>
+                </l><l n="6" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">How Dick </seg>
+                    <seg met="-+" part="N">would hate </seg>
+                    <seg met="-+" part="N">the <rhyme label="c"></rhyme>cold.</seg>
+                </l>
+        </lg><lg met="-+(3/3/3/3/3/3)" rhyme="abcabc" org="uniform" sample="complete" part="N">
+                <l n="7" part="N" met="-+-+-+" real="++-+-+">
+                    <seg met="-+" real="++" part="N">Fall, win<sb part="N"/></seg>
+                    <seg met="-+" part="N">ter, fall; </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">for <rhyme label="a">he,</rhyme></seg>
+                </l><l n="8" part="N" met="-+-+-+" real="++-+-+-">
+                    <seg met="-+" real="++" part="N">Prompt hand </seg>
+                    <seg met="-+" part="N">and head<sb part="N"/></seg>
+                    <seg met="-+" real="-+-" part="N">piece <rhyme label="b">clev<sb part="N"/>er,</rhyme></seg>
+                </l><l n="9" part="N" met="-+-+-+" real="-+--+-+">
+                    <seg met="-+" part="N">Has wo<sb part="N"/></seg>
+                    <seg met="-+" real="--+" part="N">ven a win<sb part="N"/></seg>
+                    <seg met="-+" part="N">ter <rhyme label="c">robe,</rhyme></seg>
+                </l><l n="10" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">And made </seg>
+                    <seg met="-+" part="N">of earth </seg>
+                    <seg met="-+" part="N">and <rhyme label="a"></rhyme>sea</seg>
+                </l><l n="11" part="N" met="-+-+-+" real="-+-+-+-">
+                    <seg met="-+" part="N">His ov<sb part="N"/></seg>
+                    <seg met="-+" part="N">er<sb part="N"/>coat </seg>
+                    <seg met="-+" real="-+-" part="N">for <rhyme label="b">ev<sb part="N"/>er,</rhyme></seg>
+                </l><l n="12" part="N" met="-+-+-+" real="-+-+-+">
+                    <seg met="-+" part="N">And wears </seg>
+                    <seg met="-+" part="N">the turn<sb part="N"/></seg>
+                    <seg met="-+" part="N">ing <rhyme label="c">globe.</rhyme></seg>
+                </l></lg></body></text></TEI>

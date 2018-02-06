@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>The Sick Rose</title>
+                    <author>William Blake</author>
+                </titleStmt>
+                <publicationStmt><date>1794</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="quatrain" met="--+(2/2/2/2)" rhyme="abxb" org="uniform" sample="complete" part="N">
+                    <l n="1" met="--+--+" real="-+--+|++--+" part="N">
+                   <seg met="--+--+" real="-+|++">O Rose, </seg>
+                   <seg>thou art <rhyme label="a">sick!</rhyme></seg>
+                    </l>
+                    <l n="2" met="--+--+" real="--+--+" part="N">
+                        <seg>The in<sb/>vis<sb/></seg>
+                        <seg>i<sb/>ble <rhyme label="b">worm</rhyme></seg>
+                    </l>
+                    <l n="3" met="--+--+" real="-+--+" part="N">
+                        <seg>That flies </seg>
+                        <seg>in the <rhyme label="x">night</rhyme></seg>
+                    </l>
+                    <l n="4" met="--+--+" real="--+-+" part="N">
+                        <seg>In the howl<sb/></seg>
+                        <seg met="--+" real="-+">ing <rhyme label="b">storm</rhyme></seg>
+                    </l>
+                    </lg>
+                <lg n="2" type="quatrain" met="--+(2/2/2/2)" rhyme="abxb" org="uniform" sample="complete" part="N">
+                    <l n="5" met="--+--+" real="-+--+" part="N">
+                        <seg met="--+" real="-+">Has found </seg>
+                        <seg>out thy <rhyme label="a">bed</rhyme></seg>
+                    </l>
+                    <l n="6" met="--+--+" real="-+-+" part="N">
+                        <seg met="--+" real="-+">Of crim<sb/></seg>
+                        <seg met="--+" real="-+">son <rhyme label="b">joy,</rhyme></seg>
+                    <note anchored="true"> Everybody feels the sexiness of this line. Its creamy
+                        iambs are sweeter still to an ear that has been hearing the meter of Blake's
+                        song anapestically. (To scan it as iambic is to find more lines metrically
+                        abnormal than normal, which seems like looking for trouble in a poem that is
+                        already plenty strange.) Riding an anapestic meter, "crimson" tends to
+                        ripple towards "ca-rimson," and the voiced "n" and "j" to feel a little like
+                        vowels. </note>
+                    </l>
+                    <l n="7" met="--+--+" real="--++-+" part="N">
+                        <seg>And his dark </seg>
+                        <seg met="--+" real="+-+">se<sb/>cret <rhyme label="x">love</rhyme></seg>
+                    <note anchored="true"> An admittedly vexing line. It won't quite do to scan
+                        "secret love" as an anapest in conformity to the meter and claim, however
+                        ingeniously, that the worm's secret is so well hidden that it flies under
+                        the prosodic radar. For one thing, "secret" is a bona fide adjective
+                        claiming proper stress for its accented on the first syllable. Then there's
+                        its deep phonetic embroilment with the words just before it. Every
+                        consonantal mouth-shape in "secret" is anticipated in "his dark." As a
+                        result, "secret love" defies the rapid pronunciation that goes with an
+                        anapestic line like line 3 from the first stanza. So what to do? Break the
+                        rules, and call the second half of this line an amphimacer, a foot so exotic
+                        ( / u / ) that we don't even put it in the 4B4V Glossary. </note>
+                    </l>
+                    <l n="8" met="--+--+" real="--+-+" part="N">
+                        <seg>Does thy life </seg>
+                        <seg met="--+" real="-+">de<sb/><rhyme label="b">stroy.</rhyme></seg>
+                    </l>
+                </lg></body></text></TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0"
+    version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Metrical Feet: Lesson for a Boy</title>
+                <author>Samuel Taylor Coleridge</author>
+            </titleStmt>
+            <publicationStmt>
+                <date>1806</date>
+            </publicationStmt>
+            <sourceDesc default="false">
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="sestet" met="+-(4)" rhyme="aabbcc"
+                org="uniform" sample="complete" part="N" rend="nobreak">
+                <l n="1" met="+-+-+-+-" real="+-+-+-+" part="N">
+                    <seg>Tro<sb/></seg>
+                    <seg>chee trips </seg>
+                    <seg>from long </seg>
+                    <seg>to <rhyme label="a">short.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="2" type="sestet" met="-+(4)" rhyme="aabbcc"
+                org="uniform" sample="complete" part="N" rend="nobreak">
+                <l n="2" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                    <seg>From long </seg>
+                    <seg>to long </seg>
+                    <seg>in sol<sb/></seg>
+                    <seg>emn <rhyme label="a">sort.</rhyme></seg>
+                    <note anchored="true"> Why this master poet here presents a perfectly iambic
+                        tetrameter line as if it were trochaic is baffling; the reason must involve
+                        some subtle fusion (confusion?) in his mind between operative English stress
+                        and the long syllabic quantities that formed part of his education in the
+                        classical tongues. We can, at least, hear what he means in the lingering
+                        protraction of "long" and "solemn": line 2 takes perceptibly more time to
+                        say than line 1, whose trotting mechanical briskness contrasts to the
+                        elastic swing that results here from the disparity in pronunciation length
+                        between slow stresses and rapid slacks: "long to long." </note>
+                </l>
+            </lg>
+            <lg n="3" type="sestet" met="++(4)" rhyme="aabbcc"
+                org="uniform" sample="complete" part="N" rend="nobreak">
+                <l n="3" met="++++++++++" real="++-+++-+--" part="N">
+                    <seg>Slow Spon<sb/></seg>
+                    <seg>dee stalks; </seg>
+                    <seg>strong foot! </seg>
+                    <seg>yet ill a<sb/><rhyme label="b">ble</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="4" type="sestet" met="+--(4)" rhyme="aabbcc"
+                org="uniform" sample="complete" part="N" rend="nobreak">
+                <l n="4" met="+--+--+--+--" real="+--+--+--+--" part="N">
+                    <seg>Ev<sb/>er to </seg>
+                    <seg>come up with </seg>
+                    <seg>Dac<sb/>tyl tri<sb/></seg>
+                    <seg>syl<sb/>la<sb/><rhyme label="b">ble.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="5" type="sestet" met="-+(4)" rhyme="aabbcc"
+                org="uniform" sample="complete" part="N" rend="nobreak">
+                <l n="5" met="-+-+-+-+" real="-+-+-+-+" part="N">
+                    <seg>I<sb/>am<sb/></seg>
+                    <seg>bics march </seg>
+                    <seg>from short </seg>
+                    <seg>to <rhyme label="c">long.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="6" type="sestet" met="--+(4)" rhyme="aabbcc"
+                org="uniform" sample="complete" part="N" rend="nobreak">
+                <l n="6" met="--+--+--+--+" real="--+--+--+--+" part="N">
+                    <seg>With a leap </seg>
+                    <seg>and a bound </seg>
+                    <seg>the swift An<sb/></seg>
+                    <seg>a<sb/>pests <rhyme label="c">throng.</rhyme></seg>
+                    <note anchored="true">This line illustrates, on the very best authority, how
+                        triple meters (here anapests, but it's true of dactyls too) can override our
+                        rules of thumb. In a less giddy line "swift," a monosyllabic adjective,
+                        would draw stress the same way it does in ordinary conversation. But here
+                        the headlong meter so hijacks speech rhythm that "swift" acts more like
+                        "the" than it does like "throng," a word whose vowel-consonant ratio it
+                        otherwise closely resembles.</note>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>

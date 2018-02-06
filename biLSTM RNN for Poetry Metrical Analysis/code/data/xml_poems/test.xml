@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>The Kraken</title>
+                    <author>Alfred Lord Tennyson</author>
+                </titleStmt>
+                <publicationStmt><date>1830</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="quatrain" met="-+(5/5/5/5/5)" rhyme="ababcddcefeaafe" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Be<sb/>low </seg>
+                    <seg>the thun<sb/></seg>
+                    <seg>ders of </seg>
+                    <seg>the up<sb/></seg>
+                    <seg>per <rhyme label="a">deep,</rhyme></seg>
+                    </l><l n="2" met="-+-+-+-+-+" real="++-+---+-+">
+                    <seg>Far, far </seg>
+                    <seg>be<sb/>neath </seg>
+                    <seg>in the </seg>
+                    <seg>ab<sb/>ys</seg>
+                    <seg>mal <rhyme label="b">sea,</rhyme></seg>
+                    </l><l n="3" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>His an<sb/></seg>
+                    <seg>cient, dream<sb/></seg>
+                    <seg>less, un<sb/></seg>
+                    <seg>in<sb/>va<sb/></seg>
+                    <seg>ded <rhyme label="a">sleep</rhyme></seg>
+                    </l><l n="4" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>The Kra<sb/></seg>
+                    <seg>ken sleep<sb/></seg>
+                    <seg>eth: <caesura/> fain<sb/></seg>
+                    <seg>test sun<sb/></seg>
+                    <seg>lights <rhyme label="b">flee</rhyme></seg>
+                    </l><l n="5" met="-+-+-+-+-+" real="-+-+--+-+-+">
+                    <seg>A<sb/>bout </seg>
+                    <seg>his sha<sb/></seg>
+                    <seg>dow<sb/>y sides: <caesura/></seg>
+                    <seg>a<sb/>bove </seg>
+                    <seg>him <rhyme label="c">swell</rhyme></seg>
+                    </l><l n="6" met="-+-+-+-+-+" real="++---+--+-+">
+                    <seg>Huge spon<sb/></seg>
+                    <seg>ges of</seg>
+                    <seg>mil<sb/>len<sb/></seg>
+                    <seg>ni<sb/>al growth </seg>
+                    <seg>and <rhyme label="d">height;</rhyme></seg>
+                    </l><l n="7" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And far </seg>
+                    <seg>a<sb/>way </seg>
+                    <seg>in<sb/>to </seg>
+                    <seg>the sick<sb/></seg>
+                    <seg>ly <rhyme label="d">light,</rhyme></seg>
+                    </l><l n="8" met="-+-+-+-+-+" real="-+--+-+-+-+">
+                    <seg>From man<sb/></seg>
+                    <seg>y a won<sb/></seg>
+                    <seg>drous grot</seg>
+                    <seg>and se<sb/></seg>
+                    <seg>cret <rhyme label="c">cell</rhyme></seg>
+                    </l><l n="9" met="-+-+-+-+-+" real="++---+-+-+">
+                    <seg>Un<sb/>num<sb/></seg>
+                    <seg>bered and </seg>
+                    <seg>e<sb/>nor<sb/></seg>
+                    <seg>mous<sb/> pol<sb/></seg>
+                    <seg>y<sb/>pi<rhyme label="e">pi</rhyme></seg>
+                    </l><l n="10" met="-+-+-+-+-+" real="+--+-+-+--+">
+                    <seg>Win<sb/>now </seg>
+                    <seg>with gi<sb/></seg>
+                    <seg>ant arms </seg>
+                    <seg>the slum<sb/></seg>
+                    <seg>ber<sb/>ing <rhyme label="f">green.</rhyme></seg>
+                    </l><l n="11" met="-+-+-+-+-+" real="+--+-+--++|+--+-+-+-+">
+                    <seg>There hath </seg>
+                    <seg>he lain </seg>
+                    <seg>for a<sb/></seg>
+                    <seg>ges and</seg>
+                    <seg>will <rhyme label="e">lie</rhyme></seg>
+                    </l><l n="12" met="-+-+-+-+-+" real="+---+++---+|+---+++-+-+">
+                    <seg>Bat<sb/>ten<sb/></seg>
+                    <seg>ing up<sb/>on </seg>
+                    <seg>huge sea<sb/></seg>
+                    <seg>worms in </seg>
+                    <seg>his <rhyme label="a">sleep,</rhyme></seg>
+                    </l><l n="13" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Un<sb/>til </seg>
+                    <seg>the lat<sb/></seg>
+                    <seg>ter fi<sb/></seg>
+                    <seg>re shall heat </seg>
+                    <seg>the <rhyme label="a">deep;</rhyme></seg>
+                    </l><l n="14" met="-+-+-+-+-+" real="++-+-+---+|-+-+-+-+-+">
+                    <seg>Then once </seg>
+                    <seg>by man </seg>
+                    <seg>and an<sb/></seg>
+                    <seg>gels to </seg>
+                    <seg>be <rhyme label="f">seen,</rhyme></seg>
+                    </l><l n="15" met="-+-+-+-+-+" real="-+-+-+-+-+-+">
+                    <seg>In roar<sb/></seg>
+                    <seg>ing he </seg>
+                    <seg>shall rise </seg>
+                    <seg>and on </seg>
+                    <seg>the sur<sb/></seg>
+                    <seg>face <rhyme label="e">die.</rhyme></seg>
+                    </l></lg></body></text></TEI>

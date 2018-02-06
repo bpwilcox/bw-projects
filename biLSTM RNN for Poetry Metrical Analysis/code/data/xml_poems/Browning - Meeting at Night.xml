@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Meeting at Night</title>
+                <author>Robert Browning</author>
+            </titleStmt>
+            <publicationStmt><date>1845</date></publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="sestet" met="-+(4/4/4/4/4/4)" rhyme="abccba">
+               <l n="1" met="-+-+-+-+" real="-++--+++">
+                   <seg met="-+">The gray </seg>
+                   <seg met="-+" real="+-">sea and </seg>
+                   <seg met="-+">the long </seg>
+                   <seg met="-+">black <rhyme label="a">land;</rhyme></seg>
+               </l>
+                <l n="2" met="-+-+-+-+" real="--+-+-+-+|--+-+++-+">
+                    <seg met="-+" real="--+">And the yel<sb/></seg>
+                    <seg met="-+">low half-<sb/></seg>
+                    <seg met="-+">moon large </seg>
+                    <seg met="-+">and <rhyme label="b">low;</rhyme></seg>
+                </l>
+                <l n="3" met="-+-+-+-+" real="--+-+-+-+">
+                    <seg met="-+" real="--+">And the star<sb/></seg>
+                    <seg met="-+">tled lit<sb/></seg>
+                    <seg met="-+">tle waves </seg>
+                    <seg met="-+">that <rhyme label="c">leap</rhyme></seg>
+                </l>
+                <l n="4" met="-+-+-+-+" real="-+--+-+-+">
+                    <seg met="-+">In fi<sb/></seg>
+                    <seg met="-+" real="--+">e<sb/>ry ring<sb/></seg>
+                    <seg met="-+">lets from </seg>
+                    <seg met="-+">their <rhyme label="c">sleep,</rhyme></seg>
+                </l>
+                <l n="5" met="-+-+-+-+" real="--+-+-+-+">
+                    <seg met="-+" real="--+">As I gain </seg>
+                    <seg met="-+">the cove </seg>
+                    <seg met="-+">with push<sb/></seg>
+                    <seg met="-+">ing <rhyme label="b">prow,</rhyme></seg>
+                </l>
+                <l n="6" met="-+-+-+-+" real="-+-+--+-+">
+                    <seg met="-+">And quench </seg>
+                    <seg met="-+">its speed </seg>
+                    <seg met="-+" real="--+">i' the slush<sb/></seg>
+                    <seg met="-+">y <rhyme label="a">sand.</rhyme></seg>
+                    <note anchored="true">
+                        Browning is trying hard here, by Victorian lights, for a breathless colloquial effect, and his "i' the" harks back to typesetting practices from Shakespeare's day.  4B4V scans the result as anapestic, though the poet was squeezing it towards iambic.  Maybe the most important thing to hear is how the contracted phrase suits the mashed consonance of "quench" and "slushy" nearby. 
+                    </note>
+                </l>
+            </lg>
+            <lg n="2" type="sestet" met="-+(4/4/4/4/4/4)" rhyme="abccba">
+                <l n="7" met="-+-+-+-+" real="--+-++--+">
+                    <seg met="-+" real="--+">Then a mile </seg>
+                    <seg met="-+">of warm </seg>
+                    <seg met="-+" real="+-">sea-<sb/>scent<sb/></seg>
+                    <seg met="-+">ed <rhyme label="a">beach;</rhyme></seg>
+                    <note anchored="true">
+                        Although it may seem natural to stress the first syllable of "scented," there is a good reason not to.  The compound "sea-scented" belongs with phrases like "ham-fisted," "house-broken, "wall-papered," where English throws stress on the noun up front and leaves the trailing adjective a double slack.  Another issue that arises with this line is where to place the foot divisions.  Why not, e. g., pyrrhic, trochee, spondee, anapest?  It's a perfectly legal alternative grouping of the same stress pattern.  Still, it's less good, because more needlessly erratic, than the scansion 4B4V endorses.  Remember that the meter here is iambic; so where iambs can be identified, all other things being more or less equal, go for them.
+                    </note>
+                </l>
+                <l n="8" met="-+-+-+-+" real="++-+--+-+">
+                    <seg met="-+" real="++">Three fields </seg>
+                    <seg met="-+">to cross </seg>
+                    <seg met="-+" real="--+">till a farm </seg>
+                    <seg met="-+">ap<sb/><rhyme label="b">pears;</rhyme></seg>
+                </l>
+                <l n="9" met="-+-+-+-+" real="-+--+-+++">
+                    <seg met="-+">A tap </seg>
+                    <seg met="-+" real="--+">at the pane, </seg>
+                    <seg met="-+">the quick </seg>
+                    <seg met="-+" real="++">sharp <rhyme label="c">scratch</rhyme></seg>
+                </l>
+                <l n="10" met="-+-+-+-+" real="-++--+-+">
+                    <seg met="-+">And blue </seg>
+                    <seg met="-+" real="+-">spurt of </seg>
+                    <seg met="-+">a light<sb/></seg>
+                    <seg met="-+">ed <rhyme label="c">match,</rhyme></seg>
+                </l>
+                <l n="11" met="-+-+-+-+" real="--+-+--+-+|--+++--+-+">
+                    <seg met="-+" real="--+">And a voice </seg>
+                    <seg met="-+">less loud, </seg>
+                    <seg met="-+" real="--+">thro' its joys </seg>
+                    <seg met="-+">and <rhyme label="b">fears,</rhyme></seg>
+                </l>
+                <l n="12" met="-+-+-+-+" real="--+++-+-+">
+                    <seg met="-+" real="--+">Than the two </seg>
+                    <seg met="-+" real="++">hearts beat<sb/></seg>
+                    <seg met="-+">ing each </seg>
+                    <seg met="-+">to <rhyme label="a">each!</rhyme></seg>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,11245 @@
+`
+X:1
+T: La Montfarine
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M: 4/4
+L: 1/8
+Q:1/4=186
+`
+X: 2
+T:Stella splendens
+C:Livre Vermeil de Montserrat (
+`
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/2
+L:1/4
+Q:1/4=110
+K:Fmaj
+V:1
+`
+X:3
+T:Badine
+O:France
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-01
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C|
+L:1/8
+Q: "Allegro"
+K:Bb
+V:1 name=G
+`
+X:4
+T:La gleiso de santo
+O:France
+C:?
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-22
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+Q:"Andante"
+K:F
+V:1
+`
+X:5
+T:Les Folies d'Espagne
+C:N. Ch?deville le cadet
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-18
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+Q:"Un peu gracieusement"
+K:Cm
+`
+X:6
+T:Les Folies d'Espagne
+C:Chateauminois
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-11
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3
+L:1/8
+K:Cm
+T:Th?me de N. Ch?deville
+`
+X: 7
+T:Ductie
+C:--
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+L:1/8
+Q:"Allegro"3/8=120
+K:Fmaj
+M:4/4
+V:1
+`
+X:8
+T:El condor pasa
+O:Inca
+C:?
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:9
+T:Carillon
+T:L'Arl?sienne
+C:Georges Bizet
+R:---
+Z:Transcrit par Michel Bellon
+M:6/8
+L:1/8
+K:Bb
+`
+X: 10
+T:Pour passer le Rh?ne
+R:---
+C:Provence
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+V:1
+`
+X: 11
+T:Ungaresca
+R:---
+C:Pierre Phal?se
+C:1583
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/4
+K:Bbmaj
+V:1
+Q:C2/1=132
+`
+X:12
+T:L'enl?vement
+R:---
+T:Complainte populaire
+A:Provence
+O:France
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Gm
+V:1
+`
+X:13
+T:Tourn?e d'Arnaud
+R:---
+O:France
+A:Provence
+C:Arnaud
+M:3
+K:Bbmajor
+V:1
+`
+X: 14
+T:Adie? paure Carnava
+Z:Transcrit et/ou corrig? par Michel BELLON - 2008-01-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+R:Air
+L:1/8
+Q:1/4=108
+`
+X:15
+T:Lou gai roussignau sauvagi
+R:Air
+C:Provence
+N:Air
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2008-01-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:C
+V:1
+`
+X:16
+T:Andante Religioso
+O:France
+A:Provence
+C:Py
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+K:F
+V:Galoubet
+`
+X:17
+T:Aubades
+O:France
+A:Provence
+C:Anonyme
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+T:N?1
+`
+X:18
+T:Aire de la Bravado de Saint Maime ? Riez
+R:Air
+O:France
+A:Provence
+T:1. La passado do? sero
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+`
+X:19
+T:Duo de la Viergi Mario
+O:France
+A:Provence
+C:Anonyme
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:1
+`
+X:20
+T:La festo vierginenco
+T:Introducioun
+O:France
+A:Provence
+C:Anonyme
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+Q:"Moderato"
+K:Bb
+`
+X:21
+T:Li gr?ci dou roumavagi
+O:France
+A:Provence
+C:Anonyme
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+`
+X:22
+T:Menuguet
+O:France
+A:Provence
+C:Arnaud
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+Q:1/4=140
+K:Bb
+V:Galoubet1
+`
+X:23
+T:Pensado piouso
+T:(Duo pour 2 galoubets m?me ton)
+O:France
+A:Provence
+C:J. Ginas (1927)
+C:A Raspaut
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+Q:"For?o lent" 1/4=60
+K:Bb
+V:1
+`
+X:24
+T:Reculimen
+O:France
+A:Provence
+C:J. Ginas (1927)
+C:(A mon ami Raspaut)
+C:
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+Q:"lento" 1/4=60
+K:Bb
+V:1
+`
+X:25
+T:Romance et Pastourelle
+R:Air
+O:France
+A:Provence
+C:Maurice Mar?chal (1970)
+O:Provence
+M:6/8
+L:1/8
+U: M = !tenuto!
+K:Bb
+`
+X:26
+T:Bolero
+O:France
+A:Provence
+R:Bolero
+S:
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-01
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:F
+V:Galoubet1 name=Gal._1
+`
+X:28
+T:Cansoun de Magali
+O:France
+A:Provence
+C:Fr?d?ric Mistral
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-02
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:29
+T:Canto cigale
+O:France
+A:Provence
+C:Auzias Jouvau
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+Q: Moderato
+`
+X: 30
+T:L'escriv?to
+T:La femme aux sarrazins
+R:Chanson
+O:France
+B:Le livre des Chansons (Henri Davenson) n?5
+Z:<anamnese@caramail.com> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=110
+K:Bbmaj
+W:Il prend femme si jeune qu'il ne peut s'en servir.
+W:Il est parti en guerre sept ans sans revenir.
+W:Au bout de la huiti?me il revient au pays /.../
+`
+X:31
+T:La cansoun dis ?vi
+O:France
+A:Provence
+C:Anonyme
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:"Moderato"
+K:Bb
+`
+X:33
+T:La ra?o latino
+R:Chanson
+O:France
+A:Provence
+C:Musico de C.-A. Mager
+C:Pou?mo de Frederi Mistral
+M:C
+L:1/8
+K:Bb
+`
+X:34
+T:La Reino Jano
+T:Cant di galerian
+O:France
+A:Provence
+C:Fr?d?ric Mistral
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-02
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:35
+T:Lou cant do? soul?u
+O:France
+A:Provence
+C:Musico de Auzias Jouvau
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-03
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+K:Bb
+V:Gal1
+`
+X:36
+T:Lou plang de Nosto Damo
+C:Trad.
+O:France
+A:Provence
+R:Chanson
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-12-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/4
+K:Bb
+V:1
+`
+X:37
+T:Vieio cansoun limousino
+O:France
+A:Provence
+C:Anonyme
+R:Chanson
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:39
+T:Chacun son truc
+R:Charleston
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-17
+M:C|
+L:1/4
+Q:"Moderato" 1/2=120
+K:F transpose=24
+V:1
+`
+X:40
+T:Contredanse n?5
+O:France
+A:Provence
+C:Imbert (vers 1825)
+R:Contredanse
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-02
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+P: ABA"Trio"A
+K:Cm
+P:A
+`
+X:41
+T:La Montreuil
+T:Contredanse
+R:Contredanse
+O:France
+C:Anonyme
+C:Harm. J.-B. Giai
+S:Carnet de E. Magaud (coll. La Capouliero)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-02
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+V:1 name=V
+`
+X: 42
+T:Danse des ?p?es
+R:Danse de caract?re
+C:Provence
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+K:Bbmaj
+`
+X: 43
+T:Les filles de marbre
+C:Trad. militaire
+R:Danse de caract?re
+A:Provence
+I:abc2nwc
+M:2/4
+L:1/16
+K:Bbmaj
+`
+X: 44
+T:L'arlequine
+C:Trad. militaire
+R:Danse de caract?re
+O:France
+A:Provence
+A:Sarthe
+Q:1/2=100
+I:abc2nwc
+M:2/2
+L:1/8
+K:Bbmaj
+`
+X: 45
+T:Gavotte
+O:France
+A:Provence
+C:Trad. militaire
+R:Danse de caract?re
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-17
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:Bbmaj
+P:A
+`
+X:46
+T:La Gavotte
+O:France
+A:Provence
+C:Trad. militaire
+R:Danse de caract?re
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+P: ABCBC
+K:Bbmajor
+V:1
+P:A
+`
+X:47
+T:La moisson
+O:France
+A:Provence
+R:Danse de caract?re
+C:Trad. militaire
+M:2/4
+L:1/8
+K:Bb
+`
+X:48
+T:La pa?sano
+O:France
+C:Trad.
+A:Provence
+S:Carnet du tambourinaire Ginas (1924)
+R:Danse de caract?re
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-12
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:Bb
+`
+X:49
+T:Lei c?ucle (autre ?r)
+O:France
+C:Trad.
+A:Provence
+S:Carnet du tambourinaire Ginas (1924)
+R:Danse de caract?re
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-12
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:Bb
+`
+X:50
+T:Lei ci?ucle
+O:France
+A:Provence
+C:Trad.
+R:Danse de caract?re
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-03
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:51
+T:Les filles de marbre
+O:France
+C:??
+A:Provence
+R:Danse de caract?re
+M:2/4
+L:1/8
+K:F
+P:A
+`
+X:52
+T:La Remuante
+R:Danse de caract?re
+T:La Voyageuse
+C:Jean-No?l Clamon
+O:Provence
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:F
+`
+X:53
+T:La targo
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+M:2/4
+L:1/8
+K:F
+`
+X:54
+T:Lei chivau frus
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:55
+T:Lei courdello
+O:France
+A:Provence
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:56
+T:Lei courdelo
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:57
+T:Lei fielou?
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:Allegretto
+K:F
+`
+X:58
+T:Lei jardiniero
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+K:Bb
+`
+X:59
+T:Leis oliveto
+O:France
+C:Trad.
+A:Provence
+S:Carnet du tambourinaire Ginas (1924)
+R:Danse trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-12
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:60
+T:Les cordelles
+O:France
+A:Provence
+R:Danse trad.
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:61
+T:Li coco
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:62
+T: Danso de la souco (St Marc)
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-03
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:63
+T: St Marc - Lei gr?ci de St Marc
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-03
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Eb
+V:Galoubet
+`
+X: 64
+T:Au renouviau
+R:Danse 
+`
+`
+X:65
+T:Estampie Reale
+C:Anonyme (
+`
+`
+X: 66
+T:Estampie
+T:Trotto
+O:France
+R:Estampie
+C:
+`
+`
+X:67
+T:Bello Naneto
+O:France
+A:Provence
+R:Farandole
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-05-21
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:F
+`
+X:68
+T:Bon voyage Monsieur Dumollet
+O:France
+A:Provence ?
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+`
+X: 69
+T:Correnta dei Bofei
+O:France
+A:Provence
+R:Farandole
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Fmaj
+`
+X:70
+T:Farandole de Cabasse
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+`
+X:71
+T:Farandole de Calendau
+T:Farandole dei Menagi?
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Bbmajor
+`
+X:72
+T:Farandole de Cannes
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Bbmajor
+`
+X: 73
+T:Farandole de Fr?jus
+R:Farandole
+A:Provence
+O:France
+M:6/8
+L:1/8
+K:Bbmaj
+`
+X:74
+T:Farandole de Fr?jus
+T:Farandole de Saint Cassien
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+`
+X: 75
+T:Farandole de Lantosque
+R:Farandole
+I:abc2nwc
+O:France
+A:Provence
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Fmaj
+`
+X:76
+T:Farandole de Narbonne
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Bbmajor
+`
+X:77
+T:Farandole des Gavots
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Bbmajor
+`
+X: 78
+T:Farandole des pompiers
+O:France
+A:Dr?me
+S:Collectage et transcription musicale Marguerite Pizot-Monnier ? Dieulefit
+S:Extrait de "Refrains et farandoles", 1950
+R:Farandole
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:3/8=120
+K:Bbmaj
+`
+X:79
+T:Farandole di Marsihenco
+O:France
+A:Provence
+R:Farandole
+C:Trad.
+M:6/8
+L:1/8
+K:F
+`
+X:80
+T:Farandole di Tarasca?re
+O:France
+A:Provence
+C:Trad.
+C:2e partie M. Mar?chal
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+V:1
+`
+X:81
+T:Farandoulo dei Grasseto
+O:France
+A:Provence
+C:Maurice Mar?chal
+R:Farandole
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+Q:3/8=90
+K:Fmajor
+`
+X:82
+T:La Barbentanaise
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+`
+X:83
+T:La Goumberteso
+O:France
+A:Provence
+C:Maurice Mar?chal
+C:1960
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Fmajor
+`
+X:84
+T:La sour?o Guibaudi?ro
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Bbmajor
+`
+X:85
+T:Lei Cascav?u
+O:France
+A:Provence
+C:Trad.
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Bbmajor
+`
+X:86
+T:Les Retrouvailles
+T:Farandole
+R:Farandole
+O:France
+A:Provence
+C:Maurice Mar?chal
+C:Pour le trenti?me anniversaire du Festival de
+C:Chateau-Gombert, juillet 1994
+M:6/8
+L:1/8
+K:F
+`
+X: 87
+T:Li farandoulaire
+O:France
+A:Provence
+C:Anonyme
+C:Paraulo de Charlou Ri?u
+R:Farandole
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bbmaj
+`
+X:88
+T:Fox-trott n?1
+R:Fox-trott
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+M:C|
+L:1/4
+K:F
+`
+X:89
+T:Les promesses
+R:Fox-trott
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-17
+M:C|
+L:1/4
+Q:"Moderato"
+K:F
+V:1
+`
+X:90
+T:La java
+R:Java
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-17
+M:3/4
+L:1/8
+Q:1/4=120
+K:Db transpose=24
+V:1
+`
+X: 91
+T:Titin
+R:Java
+O:France
+A:Provence
+C:A. Fabri
+N:Pour galoubet/tambourin
+Q:1/4=160
+M:3/4
+L:1/8
+K:Bbmaj
+`
+X:93
+T:La Marche de Forbin
+R:Marche
+C:Andr? GABRIEL
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:Bb
+V:1
+`
+X:94
+T:Brande de St Marc
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:95
+T:Colineto
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-18
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:96
+T:L'academi
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-18
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:F
+V:Galoubet
+`
+X:97
+T:L'adi?u dou tambourinaire
+T:(Marcho fun?bro)
+O:France
+A:Provence
+C:J. Ginas
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-22
+S:Carnet du tambourinaire Ginas (1924)
+M:2/4
+L:1/8
+K:Gm
+V:Galoubet
+`
+X:98
+T:La boiteuse
+T:Marche des ?clop?s
+C:Epoque napol?onnienne
+R:Marche
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+P: A B C B C A
+K:Bb
+V:1
+P:Introduction
+`
+X:99
+T:La Damo de la Respelido
+O:France
+A:Provence
+R:Marche
+C:J. Ginas
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:100
+T:La glenado
+C:Trad.
+C:Harm. Maurice Mar?chal
+O:France
+A:Provence
+R:Marche
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+K:Bb
+V:1
+`
+X:101
+T:La Marcho de la Reino d?u Felibrige 1927
+O:France
+A:Provence
+C:J. Ginas
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-02
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:102
+T:La Passado
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+Q:Moderato
+L:1/8
+K:Eb
+V:Galoubet
+`
+X:103
+T:La sauteparello (roundelet)
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:104
+T:La Val?riane
+O:France
+A:Provence
+C:?
+R:Marche
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:F
+V:1 name=G
+`
+X:105
+T:Li tambourinaire de Mireio
+O:France
+A:Provence
+C:J. Ginat
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-22
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-18
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet1
+`
+X:106
+T:Lou plesi dei damo
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-18
+S:Carnet du tambourinaire Ginas (1924)
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:107
+T:Lou Rei Rene
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:108
+T:Marche "de Toine"
+O:France
+A:Provence
+C:Trad.
+R:Marche
+M:2/4
+L:1/8
+K:Bb
+P:A
+`
+X:109
+T:Marche de Colinette ? la Cour
+R:Marche
+O:France
+A:Provence
+C:Gr?try
+C:
+`
+`
+X:110
+T:Marche des Rois
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:111
+T:Marcho proucessiounnalo de Sant Brancai
+O:France
+A:Provence
+R:Marche
+C:Trad. ?
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-22
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+K:Bb
+V:1
+`
+X:112
+T:Marche vari?e
+T:(dite Marche Solo)
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+K:Bb
+V:Gal1
+`
+X:114
+T:Marcho de Nosto Damo de la Gardo
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-22
+S:Carnet du tambourinaire Ginas (1924)
+M:C
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:115
+T:Marcho d?u vilage
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-19
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:116
+T:Orph?e
+O:France
+A:Provence
+C:?
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:117
+T:Proumenado de la souco
+T:(Marcho)
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-22
+S:Carnet du tambourinaire Ginas (1924)
+M:C
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:118
+T:Sant-Simoun
+O:France
+A:Provence
+R:Marche
+S:
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:119
+T:Secoundo marcho d?u Rei Rene
+O:France
+A:Provence
+C:Trad.
+R:Marche
+Z:Transcrit par Michel Bellon 2004-02-22
+S:Carnet du tambourinaire Ginas (1924)
+M:C
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:120
+T:Touloun - Volucio
+O:France
+A:Provence
+C:Trad.
+R:Marche
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:Galoubet
+`
+X:121
+T:Matelote
+R:Matelote
+C:? (Provence)
+Q:1/4=80
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:Bb
+P:Introduction
+`
+X:122
+T:Matelote
+R:Matelote
+C:? (Provence)
+Q:1/4=80
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:Bb
+`
+X:123
+T:Mataloto
+C:Trad.
+O:France
+A:Provence
+R:Matelote
+M:2/4
+L:1/16
+K:Bb
+`
+X:124
+T:Matelote
+R:Matelote
+O:France
+A:Provence
+C:Trad.
+M:6/8
+L:1/8
+K:Bb
+`
+X:125
+T:Fatorgo
+T:(Mazurka de concert)
+O:France
+A:Provence
+C:J. Ginas (1927)
+C:A moun ami Bernat (mestre d'obre)
+C:
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+K:Bb
+V:1
+P:Introducioun poco lento
+`
+X:126
+T:L'oulivarello
+C:Gaston Cauvin
+O:France
+A:Provence
+R:Mazurka
+S:Marius Fabre le 13/07/1978 ? Luminy
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+K:Bb
+`
+X: 127
+T:Mazurka
+R:Mazurka
+C:Trad.
+O:France
+A:Provence
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+K:Bbmaj
+`
+X:128
+T:Mazurka n?1
+R:Mazurka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+K:Bb
+L:1/8
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+`
+X: 130
+T:Touro louro louro
+R:No?l
+C:Trad.
+C:Paraulo de Micoulau Saboly
+C:
+O:Fance
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/4
+Q:1/2=100
+K:Bbmaj
+`
+X: 131
+T:La cambo me fai mau
+T:Li a proun de gent
+R:No?l
+C:Trad.
+C:Paraulo de Micoulau Saboly
+C:
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-15
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=100
+K:Bbmaj
+`
+X: 132
+T:Lei Pastour?u
+R:No?l
+C:Trad.
+C:Paraulo de Micoulau Saboly
+C:
+O:France
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=108
+K:Ebmaj
+`
+X:133
+T:Per noun langui long dou camin
+C:Trad.
+C:Paraulo de Micoulau Saboly
+C:
+O:France
+R:No?l
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:3/8=80
+K:F
+`
+X:134
+T:Ven?s, enfant dou Segnour
+R:No?l
+C:Trad.
+C:Paraulo de Micoulau Saboly
+C:
+O:France
+A:Provence
+N:Intro, unisson, Instrumental, ? 4 voix
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+Q:1/4=96
+K:Bb
+`
+X:135
+T:Ell' s'?tait fait couper les cheveux
+T:(one-step)
+R:One-step
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+M:2/4
+L:1/8
+Q:2/8=160
+K:Bb
+`
+X:136
+T:One step n?1 
+R:One step
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+L:1/8
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+Q:1/4=160
+K:F
+`
+X:137
+T:Aragon et Castille
+R:Paso doble
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:F
+`
+X:138
+T:El gato Mont?s
+R:Paso doble
+C:?
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-15
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:139
+T:C?line
+O:France
+R:Polka
+A:Provence
+C: ???
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-03
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+Q:1/4=110
+L:1/16
+K:Bbmajor
+`
+X:140
+T:Eleonora
+T:Polka n?16
+O:France
+R:Polka
+A:Provence
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-27
+M:2/4
+L:1/8
+K:Bb
+`
+X:141
+T:Fin de bal (Polka)
+O:France
+A:Provence
+C:?
+R:Polka
+S:Carnet du tambourina?re Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-12
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:F
+`
+X:142
+T:La sauteuse
+O:France
+A:Provence
+C:Anonyme
+R:Polka
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:F
+`
+X:143
+T:Papillon
+R:Polka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:Anonyme
+K:Bb
+L:1/8
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-01
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+`
+X:144
+T:Polka n?3
+O:France
+R:Polka
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:F
+`
+X:145
+T:Polka n?4
+O:France
+R:Polka
+A:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:146
+T:Richi?u-chi?u
+T:D?di?e ? mon ami Bernard
+R:Polka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+K:Bb
+L:1/8
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+`
+X:147
+T:Souto la cauprenedo
+R:Polka
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+M:2/4
+L:1/8
+K:Bb
+`
+X:148
+T:Quadrille toulonnais : La noce ? Fricotto
+O:France
+A:Provence
+C:?
+R:Quadrille
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:F
+T:1?re figure : Pantalon
+`
+X:149
+T:Rigaudons
+T:Maire se savias
+R:Rigaudon
+O:Fance
+A:Provence
+C:Anonyme
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:150
+T:Rigaudon (de Marseille)
+T:Branle de Saint Elme
+O:France
+A:Provence
+C:Trad.
+R:Rigaudon
+M:2/4
+L:1/8
+Q:1/4=90
+K:Bbmajor
+`
+X:151
+T:Rigaudon de Brignoles
+O:France
+A:Provence
+C: Ren? Gauthier - 1950
+R:Rigaudon
+N:Ecrit pour un concours de compositeurs en Suisse en 1950 o? Ren? Gauthier a obtenu le 1er prix,
+N:Retenu ensuite par le ma?tre de ballet des tambourina?res de Brignoles pour en faire un rigaudon.
+M:2/4
+L:1/8
+Q:1/4=90
+K:Bbmajor
+`
+X:152
+T:Rigaudon de S?veran
+O:France
+A:Provence
+C:Trad.
+R:Rigaudon
+M:2/4
+L:1/8
+K:Gminor
+`
+X: 153
+T:Scottish d'Orci?re
+R:Scottish
+C:Provence
+N:Scottisch
+I:abc2nwc
+M:2/4
+L:1/16
+K:Bbmaj
+`
+X: 154
+T:L'erbo de San Jan
+R:Scottish
+C:Provence
+N:Scottish
+O:France
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:Bbmaj
+`
+X:155
+T:La goio
+R:Scottish
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+K:Bb
+L:1/4
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-01
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C|
+`
+X:156
+T:Schottisch n?1
+R:Scottish
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+M:C|
+L:1/4
+K:Bb
+`
+X:157
+T:Schottisch n?2
+O:France
+A:Provence
+C:Inconnu
+R:Scottish
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-02
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C|
+L:1/8
+P:ABACA
+K:F
+P:A
+`
+X: 158
+T:Scottish 1900
+O:France
+C:Trad.
+R:Scottish
+M:2/4
+L:1/8
+Q:1/4=85
+P:A B C A B B
+K:Bbmaj
+V:1
+`
+X: 159
+T:La vido en roso
+R:Slow
+O:France
+C:1947
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+Q:"Tempo de slow"1/4=90
+K:Fmaj
+`
+X:160
+T:Un ange comme ?a
+R:Slow
+O:France
+C:-
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+Q:"Tempo de slow" 1/4=90
+K:F
+`
+X: 161
+T:Adios Muchachos
+C:J.-C. Sanders
+R:Tango
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-02
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/4
+Q:1/4=120
+K:Fmaj
+P:A
+`
+X:163
+T:Le tango du r?ve
+R:Tango
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=60
+K:Bb
+V:1
+`
+X: 164
+T:Cicerenella
+N:Neapolitan Tarantella
+R:Tarantella
+O:Italy
+B:
+D:
+Z:John Chambers <jc@trillian.mit.edu>
+N:If the D part is used, the order is ADBC or ADABAC.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-08-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+T:ABACA(DA)
+F:http://trillian.mit.edu/~jc/music/abc/Intl/Tarantella_Neapolitan.abc	 2005-08-26 20:46:57 UT
+K:Gm
+P:A
+|: g2g \
+`
+X:165
+T:La fille ? l'estame
+T:(tow-step)
+R:Two-step
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+M:6/8
+L:1/8
+Q:3/8=180
+K:Db
+`
+X: 166
+T:S??st?pankki valssi
+R:Valse
+N:fr?n Finland
+O:Finlande
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/4
+K:Gm
+V:1
+`
+X:167
+T:Il Gattopardo (Le gu?pard)
+T:Valse romantique
+C:Maurice Mar?chal (1992)
+O:France
+A:Provence
+R:Valse
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/8
+Q:"Quasi lento"
+L:1/8
+K:Bb
+V:1
+Q:"Stringendo"
+`
+X:168
+T:La gerbe d'or
+R:Valse
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+K:F
+L:1/8
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+`
+X: 169
+T:La primo dis oulivi?
+T:?r : La Valse brune
+C:Paroles: Charloun Ri?u. Musique: G. Krier   1909
+O:France
+R:Valse
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-24
+M:3/4
+L:1/4
+Q:1/4=180
+K:Bbmaj
+T:1er COUPLET
+V:1
+`
+X:170
+T:Li proumi?ro viouleto
+R:Valse
+C:Paraulo de Charloun Ri?u
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:J. Ginas
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+M:3/4
+L:1/8
+K:Bb
+`
+X:171
+T:Royal Boston
+T:Valse
+R:Valse
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Pour toute observation mailto:galouvielle@free.fr
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-16
+M:3/4
+L:1/4
+Q:1/2=160
+K:Bb
+P:1
+`
+X: 172
+T:Valse ? Cadet
+R:Valse
+A:Morvan
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:Bbmaj
+`
+X: 173
+T:Valse de Costebelle
+R:Valse
+N:
+D:
+O:France
+Z:<anamnese@caramail.com>
+M:3/4
+L:1/4
+Q:1/4=170
+K:Bbmaj
+`
+X:174
+T:Valse n?1
+R:Valse
+S:Carnet du tambourinaire Ginas (1924)
+O:France
+A:Provence
+C:?
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-06-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/4
+K:F
+`
+X:175
+T:Valse n?2
+O:France
+R:Valse
+A:Provence
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-04-02
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+Q:3/4=90
+L:1/8
+K:F
+`
+X: 176
+T:La Volte
+O:France
+A:Provence
+C:Trad.
+R:Volte
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/4
+K:Fmaj
+`
+X:1
+T:Au printemps, la m?re Ajasse
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/4
+K:C
+V:1
+`
+X: 2
+T:Boulang?re des Plainauds
+O:Vend?e
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Cmaj
+V:1
+|: G>G Gc | e3c | eg ec | d2d2 |1 G>G GB | d3e | fe fd | e2c2 :|2 d>d de | f3f | gf ed | Hg2 ||
+`
+X:3
+T:Branle de Gouloux
+R:Branle
+A:Morvan
+C:D'apr?s la version collect?e aupr?s de Lucien L?ger, violoneux ? Gouloux
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-05-12
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+K:Cmaj
+`
+X: 4
+T:Branle de la Montarde
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0181.gif
+B:Orchesographie (1589)
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/2
+L:1/2
+Q:1/2=220
+K:Fmaj
+V:1
+`
+X:5
+T:Branle des lavandi?res
+O:Bretagne
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+K:C
+`
+X:6
+T:Branle du petit Limousin
+O:Limousin
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/4
+K:G
+V:1
+`
+X:7
+T:Branle du Rat
+R:Branle
+C:Trad.
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-17
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C|
+L:1/16
+Q:1/4=90
+K:G
+`
+X:8
+T:Bransle des chevaulx
+R:Branle des chevaux
+C:Arbeau
+R:Branle
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-04-09
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C|
+L:1/4
+Q:1/2=120
+K:C
+V:1
+`
+X: 9
+T:Calibeurdaine, La 
+R:Divers
+C:Trad.
+O:France
+A:Morvan
+Z:Michel BELLON
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=120
+K:Cmaj
+`
+X:10
+T:Cercle circassien
+R:Cercle circassien
+O:Irlande
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-17
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:C
+V:1
+`
+X: 11
+T:Cercle circassien
+R:Cercle circassien
+O:Irlande
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-17
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Gmaj
+V:1
+`
+X:12
+T:Cumberland reel (Cercle Rosbif)
+R:Cercle circassien
+O:Irlande
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-17
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:G
+V:1
+`
+X:13
+T:Le Chibeurli
+C:Trad.
+O:France
+A:Morvan
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-08
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:C
+`
+X: 15
+T:Coucou
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=120
+K:Cmaj
+V:1
+`
+X: 16
+T:De Kolom
+R:Divers
+C:Trad. (Flandres)
+Z:J.M HENRY
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+Q:1/4=120
+K:Cmaj
+V:1
+`
+X:17
+T:De Kolom
+R:Divers
+C:Trad. (Flandres)
+Z:J.M HENRY
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+V:1
+`
+X:18
+T:En faisant le tour du moulin
+R:Rondanse
+A:Normandie
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-10
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+Q:1/4=104
+K:G
+V:1
+`
+X: 19
+T:Farandole di Tarasca?re
+O:France
+A:Provence
+C:Trad.
+C:2e partie M. Mar?chal
+R:Farandole
+M:6/8
+Q:3/8=90
+K:Gmaj
+V:1
+`
+X:20
+T:Galopede
+R:---
+P:AABC
+S:Eric Foxley
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-10-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/4
+Q:1/2=120
+K:G
+P:A
+`
+X:21
+T:Gigouillette
+R:Gigue
+A:Normandie
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-08
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=220
+K:G
+`
+X:22
+T:Gigue
+C:Steve Waring
+F:http://simonwascher.info
+Z:abc transcription Simon Wascher
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-10-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+F:http://simonwascher.info/TradArchiv_sechsachteltakt/gigue.cBAGABA2EA2BcBAd3-d.abc	 2006-10-06 05:23:46 UT
+K:A minor
+`
+X: 23
+T:Gigue
+C:Steve Waring
+F:http://simonwascher.info
+Z:abc transcription Simon Wascher
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-10-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+F:http://simonwascher.info/TradArchiv_sechsachteltakt/gigue.cBAGABA2EA2BcBAd3-d.abc	 2006-10-06 05:23:46 UT
+K:Dmin
+`
+X:24
+T:Gigue 2
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-10-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+K:Am
+V:1
+`
+X:25
+T:J'ai vu le loup, le renard et la belette
+C:Trad.
+O:France
+A:Bretagne
+R:En dro
+Z:Michel BELLON
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:C
+`
+X:26
+T: Jean Petit qui danse
+R:Ronde
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M: 2/4
+L: 1/8
+K: Am
+V: 1
+`
+X:27
+T:La boulang?re a des ?cus
+C:Paroles : Nicolas Gallet
+C:Musique anonyme (env. 1720)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-04-28
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+Q:3/8=90
+L:1/8
+K:G
+V:1
+|: "G"GGG "C"c2c | c2c c2c | "D"d2d A2B | "C"(c2B) "D"A2z :| A2AA2c |
+`
+X: 28
+T:La chaussette
+R:---
+C:Limousin ?
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-17
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:Cmaj
+P:A
+`
+X:29
+T:La ch?vre
+R:---
+C:Limousin ?
+I:abc2nwc
+L:1/8
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+K:C
+`
+X:30
+T:La fille du coupeur de paille
+O:France
+R:Enfants
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-10
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:C
+`
+X:31
+T:La Foug?re
+R:---
+C:Bretagne
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+K:C
+V:1
+`
+X: 32
+T:La Foug?re
+R:---
+C:Bretagne
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+K:Gmaj
+V:1
+`
+X:33
+T:La fricass?e
+O:Provence - tradition militaire
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:G
+P:Intro
+V:1
+`
+X: 34
+T:La fricass?e
+O:Provence - tradition militaire
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-24
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Cmaj
+P:Intro
+V:1
+`
+X:35
+T:La Fricass?e 1793
+R:---
+C:Tradition militaire
+Q:1/2=100
+I:abc2nwc
+M:2/2
+L:1/8
+K:C
+V:1
+`
+X:36
+T:La ronde du looby
+R:Ronde
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:3/8=114
+K:G
+V:1
+`
+X:37
+T:La vinca
+R:---
+O:Italie
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-11
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:G
+P:Intro
+`
+X:38
+T: L'alouette est sur la branche
+R:---
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-11-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M: 2/4
+L: 1/8
+K: Dm
+V: 1
+`
+X:39
+T:L'Andouille
+R:Ronde
+Z: Yves BELOTTEAU
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+Q:1/4=60
+K:G
+V:1
+|:BB/2B/2 d3/2B/2 G/2G/2A/2A/2 BG  | BB/2B/2 d3/2B/2 G/2G/2A/2A/2G2:|
+|: dB/2d/2 cA/2c/2 BA/2G/2 AA/2A/2 | dB/2d/2 cA/2c/2 BAG2:|
+V:2
+|: x8 | x8 ::
+`
+X:40
+T:Le bon tabac
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+Q:1/4=112
+L:1/8
+K:G
+V:1
+P:Intro
+`
+X:41
+T:Le furet
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=132
+K:C
+V:1
+P:Intro
+`
+X:42
+T:Le soleil
+T:Het so
+C:Trad.
+O:France
+A:Ari?ge
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:C
+`
+X:44
+T:Les cordelles
+O:France
+A:Provence
+R:Danse trad.
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+`
+X:45
+T:Les septs sauts
+R:---
+C:Alsace
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:C
+V:1
+`
+X:46
+T:L'escloupeto
+R:---
+O:France
+A:Auvergne
+C:Trad.
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-11-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/8
+Q:3/4=80
+K:C
+`
+X: 47
+T:Li coco
+O:France
+A:Provence
+C:Trad.
+R:Danse trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Cmaj
+`
+X:49
+T:Marin congo
+R:Marin congo
+O:France
+A:Languedoc
+C:Trad.
+M:2/4
+L:1/8
+Q:1/4=106
+K:G
+`
+X: 50
+T:Marin congo
+R:Marin congo
+O:France
+A:Languedoc
+C:Trad.
+M:2/4
+L:1/8
+Q:1/4=106
+K:Cmaj
+`
+X: 51
+T:Meunier, tu dors
+R:---
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-08
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/4
+K:Cmaj
+V:1
+`
+X:52
+T:Mon p?re a tu? le loup
+R:Ronde
+C:Recueillie par Madame Messager,
+C:? Saint-L?onard de Wains (Avranchin)
+A:Normandie
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-05-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:110
+K:G
+`
+X:53
+T:Nous n'irons plus au bois
+C:Paroles traditionnelles du 
+`
+`
+X:54
+T:Nous n'irons plus au bois
+O:France
+R:Ronde
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-10
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=116
+K:D
+`
+X:55
+T:Polka des b?b?s ou badina
+R:---
+C:Bresse
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-10
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:G
+`
+X:57
+T:Pour passer le Rh?ne
+R:---
+C:Provence
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+V:1
+`
+X:58
+T:Ramalinho
+R:---
+C:Portugal
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-08
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:C
+`
+X:59
+T:Ronde de St Veran
+R:Ronde
+C:Trad.
+A:Queyras - Hautes-Alpes - France
+B:R?pertoire "Pays-Gavot"
+G:Accordion
+Z:Transcrit par Alex avec l'aide de TablEdit http://www.tabledit.com/
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+V:1
+P:Intro
+`
+X: 60
+T:Ronde des lavandi?res
+A:Ile-de-France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Cmaj
+P:Intro
+`
+X:61
+T:Saute lapin
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+O:France
+R:Rondeau
+Z:Richard Robinson <URL:http://www.leeds.ac.uk/music/Info/RRTuneBk/contact.html>
+K:G
+`
+X:63
+T:Trimazo
+R:Trimazo
+O:France
+A:Lorraine
+C:Trad
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:C
+V:1
+`
+X:64
+T:Une cigale
+O:France
+R:Ronde
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-10
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=116
+K:G
+`
+X: 65
+T:Une cigale
+O:France
+R:Ronde
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-09-10
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+Q:1/4=116
+K:Cmaj
+`
+X:67
+T:Yesh
+R:---
+C:Isra?l
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-08
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/16
+K:C
+`
+X:68
+T:J'ai peur du loup
+T:Branle ? Six
+R:Branle ? Six
+O:France
+A:Bresse
+C:Trad.
+S:Decitre
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-05-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:C
+`
+X:1
+T:MaDe Schottische
+C:Tilman Teuscher
+R:Schottische
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:4/4
+L:1/8
+K:Cm
+`
+X:2
+T:The Duellists
+C:Nigel Eaton
+R:Schottische
+B:"Here's one we made earlier" MADE 1997 tune book
+M:2/4
+L:1/16
+K:D
+`
+X:3
+T:Schottish
+Z:midi2abc/Dave Holland
+M:2/4
+L:1/16
+R:Schottische
+Q:1/4=100
+K:C
+`
+X:4
+T:Laigo
+Z:midi2abc
+M:2/2
+L:1/8
+R:Schottische
+Q:1/4=100
+K:C
+`
+X:15
+T:Le Jeamber (J. Blanchard, B. Blanc)
+M:2/4
+L:1/16
+K:G
+`
+X:16
+T:L'?meraude
+C:St?phane Durand
+D:"Tapage"
+N:originally in D minor
+M:2/4
+L:1/8
+Q:C2=175
+K:Gm
+`
+X:17
+T:Scottish ? Kerbeuf
+R:Schottische
+O:France
+D:voir La Mirlitantouille
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/8
+K:Cm
+`
+X:1
+T:Double-Jeu
+R:Schottische
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/8
+K:C
+`
+X:1
+T:Ad?le
+R:Schottische
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/8
+K:G
+`
+X:1
+T:Longwater
+C:
+`
+`
+`
+X:4
+T:The Dining Table
+C:Matthew Szostak 2002
+N:For Nina
+R:Schottische
+Q:1/4=160
+Z:Dave Holland <dave@biff.org.uk>
+M:C
+L:1/4
+K:C
+`
+X:1
+T:Schottische: Sorbet Shuffle
+C:Andrew Swaine
+M:2/2
+L:1/8
+N:originally in G
+K:C
+`
+X:1
+T:Scottish ? Virmoux
+C:Trad arr. F. Paris
+R:Schottische
+M:C|
+L:1/8
+K:G
+`
+X:1
+T:La Grand'B?te
+C:Gilles CHABENAT
+R:Schottische
+M:2/4
+L:1/8
+K:Dm
+`
+X:1
+T:New French Schottische
+R:Schottische
+M:2/4
+L:1/8
+K:Gm
+`
+X:1
+T:La Sansonnette
+C:Dominique Forges
+C:2. H\"alfte des 20. Jahrhunderts
+R:Schottische
+A:France
+S:hg@hurdygurdy.com Sun, 18 Mar 2007 21:59:42
+Z:abc-transkription: Simon Wascher
+M:2/4
+L:1/16
+K:D aeolisch
+`
+X:5
+T:French Stick
+C:Paddy Butcher
+R:Bourree
+S:Paddy Butcher
+Z:Dave Holland
+M:2/4
+L:1/8
+K:G
+`
+X:3
+T:Bourree?
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+N:marks = claps
+M:2/4
+R:Bourree
+L:1/8
+Q:1/4=140
+K:Am
+`
+X:1
+T:La Corne
+M:4/4
+R:Bourree
+L:1/8
+Z:midi file from Ruth Bramley -> midi2abc -> Dave Holland <dave@biff.org.uk>
+D:"Transept", Patrick Bouffard
+K:G
+`
+X:60
+T:Beanfield
+M:2/4
+L:1/8
+Q:1/4=170
+C:Jon Swayne
+R:Bourree
+K:C
+`
+X:5
+T:Draailieraroma
+C:Mart Heijmans
+A:Niederlande
+Z:abc transcription Simon Wascher
+M:2/4
+R:Bourree
+L:1/8
+K:Dm
+`
+X:1
+T:Bourr?e d'Aurore Sand
+Z:Dave Holland <dave@biff.org.uk>
+B:On Bouge tune book vol 1
+M:2/4
+R:Bourree
+L:1/8
+K:Dm
+`
+X:1
+T:La Bourr?e Carr?e de St Chartier
+R:Bourree
+B:Massif Central Tune Book no 1 number 88
+M:2/4
+L:1/8
+N:originally in G
+K:C
+`
+X:1
+T:Le Ruban Bleu
+R:Bourree
+B:Massif Central Tune Book no 1 number 90
+M:2/4
+L:1/8
+N:originally in G
+K:C
+`
+X:3
+T:Le Dromadaire
+C:Patrick Bouffard
+R:Bourree
+I:Centre France
+Z:edited by Dave Holland <dave@biff.org.uk>
+Q:1/4=150
+M:2/4
+L:1/8
+K:Gm
+`
+X: 4
+T:La Charge
+C:Manu Paris
+R:Bourree
+I:Centre France
+Z:edited by Dave Holland <dave@biff.org.uk>
+Q:1/4=150
+M:2/4
+L:1/8
+K:Dm
+`
+X:1
+T:Jupes Fendues
+R:Bourree
+C:Ph. PRIEUR / F. PARIS
+M:2/4
+L:1/8
+K:D
+`
+X: 1
+T:Le Funambule
+R:Bourree
+M: 4/4
+L: 1/8
+Q:1/4=120
+C:Neil Brook
+Z:Neil Brook -> NoteWorthy Composer -> MIDI -> midi2abc -> Dave Holland
+K:Dm
+`
+X:6
+T:Dans Les Caves
+Z:midi2abc
+M:3/8
+L:1/16
+R:Bourree
+Q:1/4=100
+K:C
+`
+X:1
+T:Fil et Bobine
+R:Bourree
+B:Les Panards Dansants tune book
+N:originally in D
+M:3/8
+L:1/8
+K:G
+`
+X:1
+T:Bourr?e
+C:Trad. Auvergne
+Z:Dave Holland <dave@biff.org.uk>
+M:3/8
+L:1/16
+R:Bourree
+Q:3/8=69
+K:G
+`
+X:1
+T:Bourr?e Tournante du Val de Loire
+M:3/8
+R:Bourree
+B:On Bouge tune book vol 1 number 57
+L:1/8
+Z:Dave Holland <dave@biff.org.uk>
+N:originally in G
+K:C
+`
+X:17
+T:Bourr?e Tournante des Grandes Poteries
+R:Bourree
+A:Massif Central
+O:France
+M:3/8
+L:1/8
+Q:200
+K:C
+`
+X:1
+T:Cochinelle
+R:Bourree
+C:Jean Blanchard
+B:Les Panards Dansants tune book
+M:3/8
+L:1/8
+K:G
+`
+X:1
+T:Bourr?e d'Aragon
+R:Bourree
+B:Les Panards Dansants tune book
+M:3/8
+L:1/8
+K:Gdor
+`
+X:1
+T:Bourr?e Croiss?e du Morvan
+R:Bourree
+B:Massif Central Tune Book no 1 number 31
+M:3/8
+L:1/8
+K:C
+`
+X:1
+T:La Bourr?e ? Huit
+R:Bourree
+B:Massif Central Tune Book no 2 number 17
+M:3/8
+L:1/8
+K:G
+`
+X:1
+T:Bourr?e ? Dechaux
+C:Trad
+R:Bourree
+B:Massif Central Tune Book no 2 number 18
+M:3/8
+L:1/8
+K:G
+`
+X: 1
+T:Le crocodile
+C:Maxou Heintzen
+R:Bourree
+A:France
+Z:abc transcription Simon Wascher
+N:originally in D?
+M:3/8
+L:1/16
+K:G
+`
+X: 1
+T:Montagnarde de Sainte-Anne
+C:Eric Elsener
+N:abc transcription Simon Wascher
+N:if you find an error in this transcription please inform simon.wascher@chello.at
+R:Bourree
+M:3/8
+L:1/16
+K:G
+`
+X: 1
+T:Passade 1
+C:Gilles Chabenat
+N:abc transcription Simon Wascher
+N:if you find an error in this transcription please inform simon.wascher@chello.at
+R:Bourree
+M:3/8
+L:1/16
+K:Dmixo
+`
+X: 1
+T:Qu'il est doux de ne rien faire
+C:V. Leutreau
+B:Trad 1, 104
+M:3/8
+R:Bourree
+L:1/16
+K:C
+`
+X: 8
+T:Prunelle
+C:Bernard Kerboeuf
+Z:Simon Wascher
+Z:Dave Holland <dave@biff.org.uk>
+D:Attendez jusqu'a demain (Les Chiens Jaunes)
+N:originally in D minor
+R:Waltz
+M:3/4
+L:1/4
+K:Bb
+`
+X: 9
+T:Les Chevaux de Bois
+C:Bernard Kerboeuf
+Z:Dave Holland <dave@biff.org.uk>
+D:Attendez jusqu'a demain (Les Chiens Jaunes)
+N:originally in D minor
+R:Waltz
+M:3/4
+L:1/8
+K:Bb
+`
+X:7
+T:Robin's Waltz
+C:Jon Swayne
+R:Waltz
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:3/4
+L:1/4
+K:Em
+`
+X:6
+T:Waltz?
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+M:3/4
+L:1/4
+Q:1/4=225
+K:C
+P:A
+`
+X:8
+T:La Belle Berg?re
+M:3/4
+L:1/4
+K:C
+`
+X:9
+T:Valse du D?part
+C:Thierry LAPLAUD
+B:Diatonisch Nieuwsblad No 11 (Mars 1987)
+Z:Dave Holland <dave@biff.org.uk>
+M:5/4
+L:1/4
+Q:1/4=212
+K:Am
+`
+X:19
+T:Callipyge (E. Elsener) "Cafe Waltz "
+M:3/4
+L:1/4
+R:Waltz
+K:G
+`
+X:3
+T:In Continental Mood
+C:Andy Cutting
+R:Mazurka (or waltz)
+Z:Steve Mansfield
+Z:chords added by Moshe Braner
+M:3/4
+L:1/8
+Q:1/4=150
+K:G
+`
+X:2
+T:Flatworld
+C:Andy Cutting
+D:Vanilla, Blowzabella
+M:3/4
+L:1/8
+K:Am
+`
+X:1
+T:Ritournelles de Belleville
+C:Richard Lewis
+Z:Dave Holland <dave@biff.org.uk> from a PDF from Mike Gilpin
+M:3/4
+L:1/4
+K:D
+`
+X:1
+T:Valse ? Bouffard
+C:Patrick Bouffard
+R:Waltz
+M:3/4
+L:1/4
+K:D
+`
+X:1
+T:La mal-aimable (Jean-Christophe Lequerr?)
+R:Waltz
+C:Trad 1, 103
+M:3/4
+L:1/8
+K:C
+`
+X:1
+T:Septembre (S. Delicq)
+R:Waltz
+C:Trad 1, 81
+M:3/4
+L:1/8
+K:C
+`
+X:1
+T:La Boite a Frissons
+M:3/4
+L:1/8
+S:Lusignac CD Chris Wood and Andy Cutting via uk.music.folk
+Z:Robin Beech robin.beech@mcgill.ca
+K:Dm
+|: DEF DAF | E2 DEFD | AFE DEF | B4 BA | GAB ABG | E2 DEFG |
+`
+X:1
+T:Yes
+C:Bruno Friedmann
+N:1997
+Z:Dave Holland <dave@biff.org.uk>
+R:Waltz (8-time)
+M:8/4
+L:1/4
+K:G
+`
+X:1
+T:La Petite Polka, Sancerrois
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+R:Polka
+M:2/4
+L:1/8
+Q:1/8=132
+K:C
+`
+X:1
+T:"French tune whose name completely escapes me"
+M:2/4
+L:1/8
+R:Polka
+D:Jabadaw?
+Z:Steve Mansfield 29 January 2003
+K:Ador
+`
+X:1
+T:C Polka (1)
+M:2/4
+L:1/8
+R:Polka
+D:Panic at the Caf?
+Z:Dave Holland <dave@biff.org.uk>
+K:C
+`
+X:1
+T:C Polka (2)
+M:2/4
+L:1/8
+R:Polka
+D:Panic at the Caf?
+Z:Dave Holland <dave@biff.org.uk>
+K:C
+`
+X:1
+T:Polka Piqu?e
+R:Polka
+B:Massif Central Tune Book no 1 number 110
+M:2/4
+L:1/8
+N:originally in G
+K:C
+`
+X:1
+T:Polka
+R:Polka
+B:Massif Central Tune Book no 1 number 111
+M:2/4
+L:1/8
+N:originally in G
+K:C
+`
+X: 1
+T:Polka du P?re Plumet
+T:The 48 Bar Polka
+M:2/2
+L:1/8
+Q:240
+C:Trad
+S:Blowzabella
+K:G
+`
+X:1
+T:Pas d'?te
+T:Auvergne Polka
+B:Massif Central Tune Book no 1 number 125
+M:2/4
+L:1/8
+K:G
+`
+X:10
+T:Motorway Mazurka
+C:Jon Swayne
+R:Mazurka
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:3/4
+L:1/8
+K:C
+`
+X:11
+T:Grandmother's Birthday
+C:Anne Marie Summers
+R:Mazurka
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:9/8
+L:1/8
+N:Drone G
+K:Am
+`
+X:12
+T:Mazurka Grand Fris?
+C:Trad.
+R:Mazurka
+S:Hurdy Gurdy workshop with Eric Raillard at Norwich02
+Z:Dave Holland
+M:3/4
+L:1/8
+K:G
+`
+X:13
+T:L'inconnu de Limoise
+C:J.F. Heintzen
+R:Mazurka
+M:3/4
+L:1/8
+K:C
+`
+X:4
+T:Mazurka? Waltz?
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+R:Mazurka
+M:3/4
+L:1/8
+Q:1/4=150
+K:C
+`
+X:8
+T:Mazurka
+C:Gilles Chabenat
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+R:Mazurka
+Q:1/4=160
+M:3/4
+L:1/8
+K:Am
+`
+X:1
+T:Mazurka
+B:On Bouge tune book vol 1 no 3
+M:3/4
+L:1/8
+N:originally in G
+K:C
+`
+X: 1
+T:Town End
+C:David Faulkner
+R:Mazurka
+A:England
+N:after a live transcription by Matthias Loibner
+N:aus Simon Waschers TradArchiv
+Z:abc trancription Simon Wascher
+M:3/4
+L:1/8
+K:G
+`
+X:1
+T:Mazurka de Lapleau
+R:Mazurka
+B:On Bouge tune book vol 1
+M:3/4
+L:1/8
+N:originally in G
+K:C
+`
+X:1
+T:La Chapka
+R:Mazurka
+C:Vincent Leutreau
+B:Les Panards Dansants
+M:3/4
+L:1/8
+K:G
+`
+X:16
+T:Stiffkey
+C:Duncan Churchill-Moss
+Z:chords by Dave Holland <dave@biff.org.uk>
+M:6/8
+L:1/8
+R:Jig
+Q:1/4=200
+K:C
+`
+X:17
+T:The Porcupine
+C:Jean-Pierre Rasle
+Z:chords by Dave Holland <dave@biff.org.uk>
+M:6/8
+L:1/8
+R:Jig
+K:C
+`
+X:20
+T:The Money Tree
+C:Cliff Stapleton
+Z:midi2abc/Dave Holland
+M:6/8
+R:Jig
+L:1/8
+Q:1/4=100
+`
+X:5
+T:Rondeau? Chapelloise?
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+M:6/8
+L:1/8
+Q:3/8=130
+K:C
+`
+X: 1
+T:Lass O' Dallogill
+A:English
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+|:d|"C"ede G2G|"F"A2A "G7"G2G|"C"ede G2G|"G7"A2B "C"c2:|\
+`
+X:14
+T:Paddy's Tricot
+C:Paddy Butcher
+R:Hanter-Andro
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:4/4
+L:1/8
+K:Am
+`
+X:1
+T:Y'a dix marins sur mer
+M:3/4
+L:1/8
+K:Am
+|: "Am"EA/B/ cB "C"cB | "Am"EA/B/ cB "C"c2 | "Am"EA/B/ cB "C"c2 :|
+|: "F"cd/e/ "Am"cA cB | "G"EA/B/ cB/A/ "Em"B2 | "F"cd/e/ cA "Am"cB | "G"EA/B/ c>B "Am"A2 :|
+`
+X:19
+T:Hanter-dro
+Z:midi2abc
+M:2/4
+L:1/8
+R:Hanter-dro
+Q:1/4=200
+K:G
+`
+X:20
+T:An dro
+C:trad
+A:Bretagne
+O:France
+M:2/2
+L:1/4
+Q:1/4=180
+R:An-dro
+K:Gm
+`
+X:151
+T:Branle de L'Officiel
+T:Officials Branle
+S:"Orchesography", Arbeau
+M:C|
+N:A circle for as many couples as will, woman on the man's right.
+N:A1,A2: double to the left, double to the right
+N:B1,B2: 6 singles to the left, man lifts partner from RH side to LH side
+L:1/4
+K:C
+P:A
+`
+X:1
+T:Washerwoman's Branle
+M:C|
+L:1/4
+R:Branle
+B:Thoinot Arbeau: Orchesographie, 1589
+Z:Steve Mansfield March 2001
+K:GDor
+`
+X:18
+T:Capriole
+C:Cliff Stapleton
+Z:midi2abc
+M:6/8
+L:1/8
+R:Jig
+Q:1/4=100
+`
+X:9
+T:Tarantella
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+M:6/8
+L:1/8
+Q:3/8=146
+K:Am
+`
+X:1
+T:Bourree Valse
+C:Traditionnel
+D:"Musiques pour vielle ? roue en Auvergne et Bourbonnais", Patrick Bouffard
+Z:Dave Holland <dave@biff.org.uk>
+M:3/4
+L:1/8
+K:G
+`
+X:10
+T:Sept Sauts
+O:B?arn
+D:"Sauts biarn?s de l'arrib?ra"
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/8
+P:Intro AB1 AB2 AB3 ... AB7
+Q:c/4=90
+K:G
+P:Intro
+`
+X:11
+T:Ronde de Land?da
+O:North-West Brittany
+Z:Dave Holland <dave@biff.org.uk>
+M:3/2
+L:1/8
+Q:c/2=60
+K:D
+`
+X:12
+T:Zwiefacher
+Z:Dave Holland <dave@biff.org.uk
+A:Alsace
+M:none
+L:1/8
+Q:c/4=180
+K:C
+|:\
+M:2/4
+L:1/8
+`
+X:12
+T:fandango
+C:appris de Patxi, Pantxo et Bruno ? Gennetines, fichier abc : Bernard Loffet
+L:1/8
+M:3/4
+Z:Created with TablEdit http://www.tabledit.com/ by Bernard Loffet
+Z:modified by Dave Holland
+K:C
+|: "C"C2 EG EG | ez ed c2 | C2 ce ce | "G"dz dc B2 |\
+`
+X:1
+T:Mara?chine (Vend?e)
+M:2/4
+L:1/8
+N:originally in G
+K:C
+`
+X: 1
+T:Basse-dance appelle : Iouyssance vous donneray : 
+R:Basse-dance
+T:auec les mesures & battemens du tabourin. 
+C:Trad.
+S:Thoinot Arbeau
+N:0069.gif
+A:Champaigne
+B:Orchesographie (1589)
+O:France
+Z:<eric.forgeot@caramail.com> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/4
+L:1/4
+Q:1/4=160
+K:Gmaj
+P:Air de la basse dance
+`
+X: 2
+T:Air d'un branle double.
+R:Branle double
+C:Trad.
+S:Thoinot Arbeau
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=175
+K:Gmaj
+`
+X: 3
+T:Air d'un branle simple.
+R:Branle simple
+C:Trad.
+S:Thoinot Arbeau
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=175
+K:Gmaj
+`
+X: 4
+T:Air du branle gay.
+R:Branle gay
+C:Trad.
+S:Thoinot Arbeau
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/4
+L:1/4
+Q:1/4=180
+K:Gmaj
+`
+X: 5
+T:Air du branle coupp? nomm? Cassandre.
+R:Branle coup?
+C:Trad.
+S:Thoinot Arbeau
+N:0151.gif
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=195
+K:Fmaj
+`
+X: 6
+T:Air du branle coupp? nomm? Pinagay.
+R:Branle coup?
+C:Trad.
+S:Thoinot Arbeau
+N:0152.gif
+N:v?rifier s'il n'y a pas un Fa di?se ? la derni?re mesure. Et un Bb ?
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=180
+K:Fmaj
+`
+X:7
+T:Air du branle coupp? appell? Charlotte.
+R:Branle coup?
+C:Trad.
+S:Thoinot Arbeau
+N:v?rifier 3?me mesure : cABc ou c3/2 ABc ?
+N:0154.gif
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=200
+K:F
+`
+X: 8
+T:Air du branle coupp? de la guerre
+R:Branle coup?
+C:Trad.
+S:Thoinot Arbeau
+N:v?rifier rythme p.157.gif
+N:0156.gif
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=150
+K:Gmaj
+`
+X: 9
+T:Air du premier branle d'Escosse.
+R:Branle d'Ecosse
+C:Trad.
+S:Thoinot Arbeau
+N:0162.gif
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=215
+K:Gmaj
+`
+X: 10
+T:Air du second branle d'Escosse. 
+R:Branle d'Ecosse
+C:Trad.
+S:Thoinot Arbeau
+N:0163.gif
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=215
+K:Gmaj
+`
+X:11
+T:Bransle des lavandi?res
+R:Bransle
+S:Thoinot Arbeau
+N:0168.gif
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=200
+K:F
+|:G G GG FF B2 | cB AG GF G2 :\
+`
+X:12
+T:Bransle des pois
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/2
+L:1/4
+Q:1/4=200
+K:C
+`
+X:13
+T:Branle des hermites
+R:Bransle
+S:Thoinot Arbeau
+N:0168.gif
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=200
+K:F
+`
+X:14
+T:Branle des sabots
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0177.gif
+B:Orchesographie (1589)
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=220
+K:F
+|: B2B2 c/B/A/G/AF GGFBBAB2 :: c/B/A/G/AF c/B/A/G/AF FzFzFz :|
+`
+X: 15
+T:Branle de la torche
+T:Branle du chandelier
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0175.gif
+B:Orchesographie (1589)
+O:France
+Z:<eric.forgeot@caramail.com> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-28
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=220
+K:Cmaj
+|: deffe3 edfed ^c2^c2 deffe3 gfe/2 d/2 ee d2d2 :: B2 ^c2d2d2 :|
+`
+X: 16
+T:Branle de Malte
+R:---
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-29
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/4
+K:Gmaj
+V:1
+|: c B c d e2 e2 d2 c2 B2 A G A2 A2 G4 :|
+|: c B c d e2 f2 d2 e2 f4 | d e f2 e4 d e f2 e2 d | c B A c B c4 :|
+V:2
+K:Gmaj
+L:1/2
+|: a2 A2 G2 g2 d2 g2 :|
+|: a2 A2 d2 d'2 | d2 a2 d2 a2 | g2 =c2 :|
+`
+X: 17
+T:Branle des chevaulx (original)
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0178.gif
+B:Orchesographie (1589)
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=220
+K:Gmaj
+`
+X:18
+T:Air & mouuements de la pauane d'Espagne 
+R:Pavane
+C:Trad.
+S:Thoinot Arbeau
+N:0195.gif
+B:Orchesographie (1589)
+O:France
+Z:<eric.forgeot@caramail.com> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=220
+K:C
+`
+X: 19
+T:Ronde "Warum"
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/4
+Q:1/2=90
+K:Gm
+V:1
+`
+X:20
+T:Branles
+C:Michael Praetorius (1571-1621)
+R:Branle double
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C|
+L:1/8
+K:G
+V:1
+`
+X:21
+T:Bransle des Chevaulx
+C:Orch?sographie
+C:Harmonisation inconnue
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C|
+L:1/4
+Q:1/4=210
+K:C
+V:1
+`
+X:22
+T:Branle de Bourgogne
+C:Claude GERVAISE (1556)
+N:Branle
+R:Branle double
+Q:1/2=72
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-29
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/2
+L:1/8
+K:C
+V:1
+`
+X:23
+T:Branle coup?
+C:?
+N:Pour la s?quence Wallonie
+R:Branle coup?
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-15
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/2
+L:1/8
+K:G
+V:1
+`
+X:24
+T:Branle de Champaigne
+R:Branle Renaissance
+C:Renaissance - Wallonie
+N:Pour la s?quence Wallonie
+Q:1/2=100
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-15
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/2
+L:1/8
+K:G
+V:1
+`
+X:25
+T:Bransle
+R:Branle
+C:GERVAISE
+Q:1/2=120
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-27
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+K:C
+V:1
+`
+X:26
+T:Branle
+R:Branle double
+C:Claude Gervaise
+H:
+`
+`
+X:27
+T:Branle de Champagne
+R:Branle double
+C:Claude Gervaise
+H:
+`
+`
+X: 28
+T:Pavane d'Angleterre
+R:Pavane
+C:Claude Gervaise
+H:
+`
+`
+X:29
+T:Branle de Bourgogne
+R:Branle double
+C:Jacques Moderne 
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-29
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/4
+Q:1/4=200
+K:C
+`
+X:30
+T:Branle de Bourgogne
+R:Branle double
+C:Jacques Moderne (16th century)
+O:France
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-29
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/4
+Q:1/4=200
+K:C
+`
+X:31
+T:Branle de la Haye
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0183.gif
+B:Orchesographie (1589)
+O:France
+Z:<eric.forgeot@caramail.com> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-29
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=220
+K:F
+`
+X:32
+T:Branle de l'official
+R:Branle
+C:Renaissance
+Q:1/2=120
+I:abc2nwc
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-15
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/2
+L:1/8
+K:C
+`
+X: 33
+T:Branle de la Montarde
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0181.gif
+B:Orchesographie (1589)
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/2
+L:1/2
+Q:1/2=220
+K:Fmaj
+V:1
+|: d>efd gefd  dddd cBAG | defd gefd |
+`
+X:34
+T:Branle de Malte. 
+R:Branle
+C:Trad.
+S:Thoinot Arbeau
+N:0167.gif
+B:Orchesographie (1589)
+O:France
+A:Champaigne
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/2
+L:1/4
+Q:1/2=160
+K:F
+`
+X:35
+T:Branle de la torche
+T:Branle du chandelier
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0175.gif
+B:Orchesographie (1589)
+O:France
+Z:<eric.forgeot@caramail.com> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-28
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=220
+K:F
+|: GABBA3 AGBAG ^F2^F2 GABBA3 cBA/ G/ AA G2G2 :: E2 ^F2G2G2 :|
+`
+X: 36
+T:Branle de la torche
+T:Branle du chandelier
+R:Bransle
+C:Trad.
+S:Thoinot Arbeau
+N:0175.gif
+B:Orchesographie (1589)
+O:France
+Z:<eric.forgeot@caramail.com> -- http://anamnese.fr.st
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-28
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+Q:1/4=220
+K:Cmaj
+|: deffe3 edfed ^c2^c2 deffe3 gfe/2 d/2 ee d2d2 :: B2 ^c2d2d2 :|
+`
+X:37
+T:Le moulin
+R:Branle double
+C:Christophe Ballard
+O:1711
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+K:G
+`
+X: 38
+T:Le moulin
+R:Branle double
+C:Christophe Ballard
+O:1711
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:8/4
+L:1/4
+K:Cmaj
+`
+X:39
+T:Mon p?re m'a mari?e ? un bossu
+R:Branle simple
+C:Jacques Moderne
+O:1615
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/2+2/2
+L:1/4
+K:F
+`
+X: 40
+T:Mon p?re m'a mari?e ? un bossu
+R:Branle simple
+C:Jacques Moderne
+O:1615
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/2
+L:1/4
+K:Cmaj
+`
+X:41
+T:Vallet qui aime
+C:Jacques Mangent
+O:1615
+R:Branle simple
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/2+2/2
+L:1/4
+K:F
+`
+X: 42
+T:Vallet qui aime
+C:Jacques Mangent
+O:1615
+R:Branle simple
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/2
+L:1/4
+K:Cmaj
+`
+X:43
+T:Ah mon beau laboureur !
+C:Christophe Ballard
+O:1703
+R:Branle coup?
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/2
+L:1/4
+K:Am
+`
+X: 44
+T:Ah mon beau laboureur !
+C:Christophe Ballard
+O:1703
+R:Branle coup?
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/2
+L:1/4
+K:Dm
+`
+X:45
+T:H?las pourquoy
+R:Branle de Poitou et Branle gay
+C:Christophe Ballard
+O:1703
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:12/4
+L:1/4
+K:F
+`
+X: 46
+T:H?las pourquoy
+R:Branle de Poitou et Branle gay
+C:Christophe Ballard
+O:1703
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:12/4
+L:1/4
+K:Bbmaj
+`
+X:47
+T:Le satire cornu
+R:Branle double
+C:Gabriel Bataille
+O:1614
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+R:Branle double
+M:C|
+K:F
+V:1
+`
+X: 48
+T:Le satire cornu
+R:Branle double
+C:Gabriel Bataille
+O:1614
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+R:Branle double
+M:4/4
+K:Gmaj
+V:1
+`
+X:49
+T:Mon ami s'en all?
+T:Baise moi si m'en irai
+C:Jacques Mangeant
+O:Recueil des plus belles chansons de danses de ce temps
+O:Caen, 1615
+R:Branle double
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:F
+`
+X:50
+T:Une jeune fillette
+R:Pavane
+C:Renaissance
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-06-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C|
+L:1/4
+K:F
+V:1
+`
+X: 51
+T:Une jeune fillette
+R:Pavane
+C:Renaissance
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-06-14
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/4
+K:Cmaj
+V:1
+`
+X:1
+T:Down the Hill
+R:air
+H:Originally in Gdor and notated in 6/8 time.
+H:Version 1 from O'Neill's. Version 2 from Petrie Collection
+Z:id:hn-air-1
+M:3/4
+L:1/8
+Q:1/4=160
+K:Ador
+`
+X:2
+T:Eagle's Whistle, The
+T:Fead an Iolair
+R:air
+S:EB
+Z:id:hn-air-2
+M:3/4
+L:1/8
+Q:1/4=100
+K:G
+`
+X:3
+T:Tabhair dom do l\'amh
+T:Give Me Your Hand
+R:air
+C:Ruaidhr\'i Dall \'O Cath\'ain (c. 1570 - 1650)
+Z:id:hn-air-3
+M:3/4
+L:1/8
+K:G
+`
+X:4
+T:An Rogaire Dubh
+T:Black Rogue, The
+R:air
+S:Sean Ryan and Ciara Ryan on Clare FM
+Z:id:hn-air-4
+M:3/4
+L:1/8
+K:G
+`
+X:5
+T:Molly MacAlpin
+T:Carolan's Dream
+R:air
+C:William Connellan (c. 1645 - c. 1700) (?)
+C:Thomas Connellan (c. 1640 - 1698) (?)
+H:This was one of Turlough O'Carolan's favourite tunes and
+H:he probably added his own adaptations to it, see second
+H:version. Hence it is also called "Carolan's Dream".
+H:O'Carolan is said to have stated that he would have traded all
+H:his own tunes in order to be the composer of Molly MacAlpin.
+Z:id:hn-air-5
+M:C|
+L:1/8
+K:Am
+|: AB | c2 A>A A2 GA | dc A>G G2 cd | e2de dcA>A | A6 de |
+`
+X:6
+T:Molly St. George
+T:Molly Saint George
+R:air
+C:Thomas Connellan (c. 1640 - 1698) (?)
+Z:id:hn-air-6
+M:3/4
+L:1/8
+K:G
+`
+X:7
+T:Planxty Davis
+T:Killiecrankie
+R:air
+C:Thomas Connellan (c. 1640 - 1698)
+H:Also played as a set dance
+Z:id:hn-air-7
+M:C|
+L:1/8
+K:D
+`
+X:8
+T:Lady Iveagh
+R:air
+C:Thomas Connellan (c. 1640 - 1698)
+H:Turlough O'Carolan probably adapted this piece and named it "Miss Crofton"
+H:see carolan#25
+Z:id:hn-air-8
+M:4/4
+L:1/8
+K:Ador
+`
+X:9
+T:Huntingtone Castle
+R:air
+O:Scottish
+Z:id:hn-air-9
+M:6/8
+L:1/8
+K:Em
+`
+X:10
+T:Idir Deighric 'gus Breo'
+T:Idir Deighric agus Breo
+R:air
+Z:id:hn-air-10
+M:6/8
+L:1/8
+Q:3/8=60
+K:Amix
+`
+X:11
+T:F\'ainne Geal an Lae
+R:air
+Z:id:hn-air-11
+M:4/4
+L:1/8
+K:G
+`
+X:12
+T:Dawning of the Day, The
+R:air
+C:Edward Walsh (1805-1850)
+Z:id:hn-air-12
+M:4/4
+L:1/8
+K:G
+`
+X:13
+T:South Wind, The
+R:air
+Z:id:hn-air-13
+M:3/4
+L:1/8
+K:G
+`
+X:14
+T:Spanish Cloak, The
+T:Munster Cloak, The
+T:An Fhallaingin Mhuimhneach
+R:air
+Z:id:hn-air-14
+M:3/4
+L:1/8
+K:G
+`
+X:15
+T:For Ireland I Won't Say Her Name
+T:Ar \'Eirinn N\'i Neosfainn C\'e H\'i
+R:air
+Z:id:hn-air-15
+M:3/4
+L:1/8
+K:G
+`
+X:16
+T:Roslyn Castle
+R:air
+O:Scottish
+Z:id:hn-air-16
+M:2/4
+L:1/16
+K:Em
+`
+X:17
+T:Casadh An tS\'ug\'ain
+R:air
+H:Also played with doubled parts
+H:See also "An Suisin B\'an", setdance#18
+Z:id:hn-air-17
+M:4/4
+L:1/8
+K:G
+`
+X:18
+T:Celia Connellan
+R:air
+C:Thomas Connellan (c. 1640 - 1698)
+Z:id:hn-air-18
+M:C|
+L:1/8
+K:Dm
+`
+X:19
+T:Gracious Fair Lady, The
+T:An Fhinne-bhean mhodhamhuil
+R:air
+H:Song air from the Goodman Manuscripts (1860s)
+Z:id:hn-air-19
+M:C
+L:1/8
+K:G
+`
+X:20
+T:Trip o'er the Mountain, The
+T:Trip over the Mountain, The
+T:Trip We Took over the Mountains, The
+R:air
+H:Also played with doubled parts
+Z:id:hn-air-20
+M:3/4
+L:1/8
+K:G
+`
+X:21
+T:Moran's Return
+T:To Daunton Me
+R:air
+H:Also played in F
+Z:id:hn-air-21
+M:4/4
+L:1/8
+K:D
+`
+X:1
+T:Bluebell Polka, The
+R:barndance
+Z:id:hn-barndance-1
+M:C|
+L:1/8
+K:G
+`
+X:2
+T:Merry Girl, The
+R:barndance
+H:See also polka #95
+D:John McKenna & Michael Gaffney 1934 (Decca)
+Z:id:hn-barndance-2
+M:C|
+L:1/8
+K:G
+`
+X:3
+T:Ballybunion Hop, The
+T:Glenbeigh Hornpipe, The
+R:barndance
+Z:id:hn-barndance-3
+M:4/4
+L:1/8
+K:G
+`
+X:4
+T:Petronella
+R:barndance
+S:Session tape with Mairead Ni Mhaonaigh and Frankie Kennedy
+H:Also as hornpipe #57
+H:Actually a german from Donegal. Originally an English country dance.
+Z:id:hn-barndance-4
+M:C|
+K:D
+`
+X:5
+T:Bill Malley's
+R:barndance
+C:Bill Malley
+D:Martin Hayes: Under the Moon
+Z:id:hn-barndance-5
+M:C|
+L:1/8
+K:G
+`
+X:6
+T:Kilnamona Barndance
+R:barndance
+D:Martin Hayes: Under the Moon
+Z:id:hn-barndance-6
+M:C|
+L:1/8
+K:G
+`
+X:7
+T:Lucy Farr's
+R:barndance
+Z:id:hn-barndance-7
+M:C|
+L:1/8
+K:G
+`
+X:8
+T:James Gannon's
+R:barndance
+Z:id:hn-barndance-8
+M:C|
+L:1/8
+K:G
+`
+X:9
+T:Mrs. Kenny's
+T:Woodland Flowers
+R:barndance
+C:Felix Burns (1864-1920), Scotland
+H:Also played by Matt Molloy in D
+D:Michael Coleman
+Z:id:hn-barndance-9
+M:C|
+K:C
+`
+X:10
+T:If There Weren't Any Women in the World
+T:If We Hadn't Any Women in the World
+T:Bereffoy, The
+R:barndance
+D:Hammy Hamilton
+D:Harry Bradley
+D:James Morrison
+Z:id:hn-barndance-10
+M:C|
+L:1/8
+K:G
+`
+X:11
+T:Peach Blossoms
+R:barndance
+Z:id:hn-barndance-11
+M:C|
+L:1/8
+K:D
+`
+X:12
+T:Joe Bane's Scottische
+T:Joe Bane's Schottische
+T:Bill Malley's Schottische
+R:barndance
+C:John MacDonald (1821-1893), Scotland
+S:Andrew McNamara on Clare FM
+H:A version of the Scottish march "Dornoch Links"
+H:Bars 2 & 6 of 2nd part can be interchanged
+Z:id:hn-barndance-12
+M:C|
+L:1/8
+K:A
+`
+X:1
+T:Planxty Fanny Powers
+T:Fanny Powers
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-1
+M:3/4
+L:1/4
+K:G
+`
+X:2
+T:Planxty Irwin
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Also in D, #9
+Z:id:hn-carolan-2
+M:3/4
+L:1/4
+K:G
+`
+X:3
+T:Sheebeg and Sheemore
+T:Sheebeg Sheemore
+T:S\'i Beag S\'i M\'or
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Probably the first tune composed by O'Carolan. S\'i Beag and S\'i M\'or
+H:are two hills in Co. Leitrim associated in the local folklore with two
+H:bands of fairies continually at war with each other.
+Z:id:hn-carolan-3
+M:3/4
+L:1/8
+K:D
+`
+X:4
+T:O'Carolan's Concerto
+T:Mrs. Power
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-4
+M:2/4
+K:D
+`
+X:5
+T:Loftus Jones
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-5
+M:2/4
+L:1/16
+K:G
+`
+X:6
+T:O'Carolan's Ramble to Cashel
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Another version "O'Carolan's Quarrel with the Landlady" #10
+Z:id:hn-carolan-6
+M:3/4
+L:1/8
+K:G
+`
+X:7
+T:Morgan Megan
+T:Morgan Magan
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-7
+M:2/4
+K:G
+`
+X:8
+T:Blind Mary
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-8
+M:2/4
+L:1/8
+K:D
+`
+X:9
+T:Planxty Irwin
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Also in G, #2
+Z:id:hn-carolan-9
+M:3/4
+L:1/8
+K:D
+|: A | d2c | B>cd | A2G | F>ED | G2E | F>GA | C2D | E2c |
+`
+X:10
+T:O'Carolan's Quarrel with the Landlady
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Another version "O'Carolan's Ramble to Cashel" #6
+Z:id:hn-carolan-10
+M:6/8
+L:1/16
+K:Em
+`
+X:11
+T:Hewlett
+T:Planxty Hewlett
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-11
+M:3/4
+L:1/8
+K:D
+`
+X:12
+T:Planxty George Brabazon
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-12
+M:2/4
+L:1/16
+K:G
+`
+X:13
+T:O'Carolan's Draught
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-13
+M:2/4
+L:1/16
+K:G
+`
+X:14
+T:Princess Royal
+T:Miss MacDermott Roe
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:See also set dances #11 and #7
+Z:id:hn-carolan-14
+M:C|
+L:1/4
+K:Em
+`
+X:15
+T:Charles O'Connor
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-15
+M:6/8
+K:D
+`
+X:16
+T:Lord Inchiquin
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-16
+M:3/4
+K:D
+`
+X:17
+T:Planxty Madam Maxwell
+T:Madame Maxwell
+T:Mrs Maxwell
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-17
+M:C|
+L:1/8
+K:D
+`
+X:18
+T:O'Carolan's Welcome
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-18
+M:3/4
+L:1/8
+K:Em
+`
+X:19
+T:John O'Connor
+T:Planxty Connor
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:First part cf. Padraig O'Keeffe's, slide#44
+Z:id:hn-carolan-19
+M:6/8
+L:1/8
+K:G
+`
+X:20
+T:Carolan's Receipt
+T:Planxty John Stafford
+T:Carolan's Receipt for Drinking
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-20
+M:C|
+L:1/8
+K:G
+`
+X:21
+T:O'Carolan's Devotion
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Also played in Gdor, #22
+Z:id:hn-carolan-21
+M:3/4
+L:1/8
+K:Ador
+`
+X:22
+T:O'Carolan's Devotion
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Also played in Ador, #21
+Z:id:hn-carolan-22
+M:3/4
+L:1/8
+K:Gdor
+`
+X:23
+T:O'Carolan's Lament
+R:carolan
+C:Turlough O'Carolan (1670-1738) ?
+Z:id:hn-carolan-23
+M:3/4
+L:1/8
+K:Em
+`
+X:24
+T:Carolan's Cup
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-24
+M:3/4
+L:1/8
+K:Bm
+`
+X:25
+T:Miss Crofton
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+C:Thomas Connellan (c. 1640 - 1698)
+H:Turlough O'Carolan probably adapted Thomas Connellan's air "Lady Iveagh"
+H:and named it "Miss Crofton". See air#8
+Z:id:hn-carolan-25
+M:4/4
+L:1/8
+K:Ador
+|: AB e>d A2 B/A/G/E/ | G>A B>A G>A G/E/D | EA BA/B/ A2 B>e | d>B AA A4 :| 
+|: ee/d/ eg g2 ge/d/ | ee/d/ ea a2 b/a/g/e/ | ee/d/ eg g2 ge/d/ | e>a aa a2 g>a | 
+`
+X:26
+T:Captain O'Kane
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Also played with single parts
+H:Original in O'Neill's has d sharps in bars 5 & 6 of 2nd part
+Z:id:hn-carolan-26
+M:3/4
+L:1/8
+K:Em
+`
+X:27
+T:Eleanor Plunkett
+T:Planxty Eleanor Plunkett
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+Z:id:hn-carolan-27
+M:3/4
+L:1/8
+K:G
+`
+X:28
+T:Madam Judge
+T:Mrs. Judge
+T:Abigail Judge
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Often played before Planxty Judge, #29.
+H:O'Carolan composed these tunes to be played together
+D:Ashplant
+Z:id:hn-carolan-28
+M:C|
+L:1/8
+K:Em
+`
+X:29
+T:Planxty Judge
+T:Planxty Mrs. Judge
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Often played after Madam Judge, #28.
+H:O'Carolan composed these tunes to be played together
+D:Ashplant
+Z:id:hn-carolan-29
+M:3/4
+L:1/8
+Q:1/4=220
+K:Em
+`
+X:30
+T:Carolan's Farewell to Music
+T:Carolan's Farewell
+T:Farewell to Music
+R:carolan
+C:Turlough O'Carolan (1670-1738)
+H:Originally in Gdor
+Z:id:hn-carolan-30
+M:4/4
+L:1/8
+K:Ador
+`
+X:1
+T:Frank Roche's Favourite
+R:fling
+H:Originally a Scottish Strathspey, "Lady Ann Hope" or 
+H:"Miss Hope's Strathspey", composed by John Pringle
+D:Matt Molloy: Stony Steps
+Z:id:hn-hf-1
+M:C|
+K:G
+`
+X:3
+T:Watchmaker, The
+T:John Gaffney's Fling
+T:Niel Gow's Highland
+T:Neil Gow's Second Wife
+R:highland
+D:Altan: Horse with a Heart
+D:Patrick Street: Irish Times
+Z:id:hn-hf-3
+M:C|
+K:Ador
+`
+X:4
+T:Kerryman's Fling, The
+R:fling
+H:Also as reel#206
+D:Patrick Street: Irish Times
+Z:id:hn-hf-4
+M:C|
+K:D
+`
+X:5
+T:Willie's Fling #2
+R:fling
+Z:id:hn-hf-5
+M:C|
+K:D
+`
+X:6
+T:Neilidh O'Boyle's Highland
+R:highland
+D:Altan: Harvest Storm
+Z:id:hn-hf-6
+M:C|
+K:G
+`
+X:7
+T:no name
+R:highland
+D:Altan: Harvest Storm
+Z:id:hn-hf-7
+M:C|
+K:Edor
+`
+X:8
+T:Ardara Lasses, The
+R:highland
+D:Altan: Harvest Storm
+Z:id:hn-hf-8
+M:C|
+K:D
+`
+X:9
+T:Green Grow the Rushes O
+R:highland
+Z:id:hn-hf-9
+M:C|
+K:G
+`
+X:10
+T:Highlandman, The
+R:highland
+H:Belongs to the "Highlander Kissed His Granny" family.
+H:Other related tunes are "The Gravel Walks" reel#60
+H:"The Jolly Seven" reel#559, "John Stenson's #1" reel#392
+D:Altan: Horse with a Heart
+Z:id:hn-hf-10
+M:C|
+K:Amix
+`
+X:11
+T:Fermanagh Highland
+R:highland
+D:Altan: Island Angel
+Z:id:hn-hf-11
+M:C|
+K:D
+`
+X:12
+T:Charlie O'Neill's
+T:Donegal Highland
+R:highland
+D:Altan: Island Angel
+Z:id:hn-hf-12
+M:C|
+K:G
+`
+X:13
+T:Kitty Got a Clinking Coming from the Fair
+T:Willie Clancy's
+R:fling
+S:J\"orgen Fischer for first version
+H:See also reel#170 "High Road to Linton",
+H:with reversed parts and in A
+Z:id:hn-hf-13
+M:C|
+L:1/8
+K:G
+`
+X:14
+T:no name Highland
+R:highland
+S:Paul O'Shaughnessy
+H:Transcribed by Anders Clarh\"all
+Z:hn-hf-14
+M:C|
+K:Amix
+`
+X:15
+T:Road to Glountane, The
+R:highland
+C:Terry "Cuz" Teehan
+Z:id:hn-hf-15
+M:C|
+L:1/8
+K:A
+`
+X:16
+T:Terry "Cuz" Teehan's
+R:highland
+C:Terry "Cuz" Teehan
+Z:id:hn-hf-16
+M:C|
+L:1/8
+K:Edor
+`
+X:17
+T:Joe Bane's Fling
+R:fling
+H:see also reel#562
+D:Martin Hayes
+Z:id:hn-hf-17
+M:C|
+K:G
+`
+X:18
+T:Bidh Eoin
+R:highland
+H:also in Ador, #20
+H:Also as a strathspey
+D:Desi Wilkinson: The Three Piece Flute
+Z:id:hn-hf-18
+M:C|
+L:1/8
+K:Bm
+`
+X:19
+T:Domhnall Dubh
+R:highland
+H:Also as a strathspey
+Z:id:hn-hf-19
+M:C|
+L:1/8
+K:Ador
+`
+X:20
+T:Bidh Eoin
+R:highland
+H:also in Bm, #18
+H:Also as a strathspey
+Z:id:hn-hf-20
+M:C|
+L:1/8
+K:Ador
+`
+X:21
+T:Charlie O'Neill's
+R:highland
+D:Desi Wilkinson: The Three Piece Flute
+Z:id:hn-hf-21
+M:C|
+L:1/8
+K:A
+`
+X:22
+T:An Buachaill Dreoite
+T:Withered Boy, The
+T:Ailing Boy, The
+R:fling
+H:See also #24, jig#264
+Z:id:hn-hf-22
+M:C|
+L:1/8
+K:G
+`
+X:23
+T:Charlie O'Neill's
+T:Bluestack Highland, The
+R:highland
+Z:id:hn-hf-23
+M:C|
+L:1/8
+K:Ador
+`
+X:24
+T:An Buachaill Dreoite
+T:Withered Boy, The
+T:Ailing Boy, The
+R:fling
+H:See also #22, jig#264
+D:Catherine McEvoy, Caoimh\'in \'O Raghallaigh & M\'iche\'al \'O Raghallaigh
+Z:id:hn-hf-24
+M:C|
+L:1/8
+K:G
+|: DGGB d2cA | dGGF G2GF | DGGB d2cA | dBcA =F3E |
+`
+X:25
+T:Mary Brennan's Favourite
+R:fling
+D:Catherine McEvoy, Caoimh\'in \'O Raghallaigh & M\'iche\'al \'O Raghallaigh
+Z:id:hn-hf-25
+M:C|
+L:1/8
+K:G
+`
+X:1
+T:Plains of Boyle, The
+R:hornpipe
+Z:id:hn-hornpipe-1
+M:C|
+K:D
+`
+X:2
+T:Leitrim Fancy, The
+R:hornpipe
+H:Bars 2 and 6 also played |ADGB A2de|
+Z:id:hn-hornpipe-2
+M:C|
+K:D
+`
+X:3
+T:Rights of Man, The
+R:hornpipe
+C:James Hill (1811-1853), Northumberland (?)
+D:De Dannan: Ballroom
+Z:id:hn-hornpipe-3
+M:C|
+K:Em
+`
+X:4
+T:An Comhra Donn
+T:Brown Coffin, The
+R:hornpipe
+D:Chieftains 1
+Z:id:hn-hornpipe-4
+M:C|
+K:D
+`
+X:5
+T:Cronin's Hornpipe
+R:hornpipe
+H:Bar 2 of 2nd part also played |bged e2ga|
+Z:id:hn-hornpipe-5
+M:C|
+K:G
+`
+X:6
+T:Kitty's Wedding
+R:hornpipe
+D:Noel Hill & Tony Linnane
+Z:id:hn-hornpipe-6
+M:C|
+K:D
+`
+X:7
+T:Off to California
+R:hornpipe
+Z:id:hn-hornpipe-7
+M:C|
+K:G
+`
+X:8
+T:Flowers of Edinburgh, The
+R:hornpipe
+Z:id:hn-hornpipe-8
+M:C|
+K:G
+`
+X:9
+T:Blackbird, The
+R:hornpipe
+D:De Dannan 1
+Z:id:hn-hornpipe-9
+M:C|
+K:Dmix
+`
+X:10
+T:Home Ruler, The
+T:Daniel O'Connell, The Home Ruler
+R:hornpipe
+C:Frank McCollum of Ballycastle
+H:Frank McCollum was a great fiddler and composer from Ballycastle
+D:Noel Hill & Tony Linnane
+Z:id:hn-hornpipe-10
+M:C|
+K:D
+`
+X:11
+T:Poppy Leaf, The
+R:hornpipe
+Z:id:hn-hornpipe-11
+M:C|
+K:G
+`
+X:12
+T:Fairies' Hornpipe, The
+R:hornpipe
+H:Similar to "McNamara's", #27
+H:The ending is also played |ABcd ecAF|G2GF G2|
+Z:id:hn-hornpipe-12
+M:C|
+K:G
+`
+X:13
+T:Bantry Bay
+T:Little Stack of Wheat, The
+T:Union Hornpipe, The
+R:hornpipe
+H:Also played in A, see #97
+Z:id:hn-hornpipe-13
+M:C|
+K:G
+`
+X:14
+T:Stack of Barley, The
+R:hornpipe
+H:Also played in A, see #98
+D:Kevin Burke: Up Close
+Z:id:hn-hornpipe-14
+M:C|
+K:G
+`
+X:15
+T:Flowing Tide, The
+R:hornpipe
+D:Oisin: Over the Moor to Maggie
+Z:id:hn-hornpipe-15
+M:C|
+K:G
+`
+X:16
+T:High Level Hornpipe, The
+R:hornpipe
+C:James Hill (1811-1853 or 1815-1860), Northumberland
+H:Original tune in Bb, and only 2 parts
+H:James Hill was born in Scotland between 1813 and 1818,
+H:moved to Tyneside (he lived in Gateshead for sure, possibly
+H:Newcastle and other places for a while) and was active in the
+H:mid-1800s. No date of death.
+D:Paddy Keenan
+D:Johnny Doran (only 2 parts)
+Z:id:hn-hornpipe-16
+M:C|
+K:G
+`
+X:17
+T:John O'Dwyer Of The Glen
+R:hornpipe
+H:A mangled version of the set dance "Se\'an \'O Duibhir an Ghleanna"
+H:see setdance#3
+D:Paddy Moloney & Sean Potts: Tin Whistles
+Z:id:hn-hornpipe-17
+M:C|
+K:Amix
+`
+X:18
+T:Pride of Petravore, The
+T:Eileen Oge, the Pride of Petravore
+R:hornpipe
+C:William Percy French (1854-1920)
+D:De Dannan: Ballroom
+Z:id:hn-hornpipe-18
+M:C|
+K:Em
+`
+X:19
+T:Little Stack of Wheat, The
+R:hornpipe
+S:Mary Bergin
+Z:id:hn-hornpipe-19
+M:C|
+K:G
+`
+X:20
+T:Peacock's Feather, The
+R:hornpipe
+D:Frankie Gavin & Alec Finn
+D:Joe Holmes & Len Graham: Chaste Muses, Bards & Sages
+Z:id:hn-hornpipe-20
+M:C|
+K:Ddor
+`
+X:21
+T:Peacock's Feather, The
+R:hornpipe
+D:Frankie Gavin & Alec Finn
+D:M\'aire N\i Chathasaigh and Chris Newman: The Living Wood
+Z:id:hn-hornpipe-21
+M:C|
+K:D
+`
+X:22
+T:Chief O'Neill's
+T:Flowers of Adrigole, The
+R:hornpipe
+H:1st bar of 2nd part also played |=FEFG AGAB|. Also played with ^F in this bar.
+D:Paddy Glackin: In Full Spate
+Z:id:hn-hornpipe-22
+M:C|
+K:Dmix
+`
+X:23
+T:Carrick on Bannow, The
+T:Kingstown Hornpipe, The
+R:hornpipe
+D:Sully and John Keenan: Dublin Banjos
+D:The Sanctuary Sessions.
+Z:id:hn-hornpipe-23
+M:C|
+K:G
+`
+X:24
+T:Derry Hornpipe, The
+R:hornpipe
+H:Played with 2, 3 or 5 parts. Parts 4 and 5: see also "The Elks' Festival", #89
+D:Seamus Ennis: The Fox Chase
+Z:id:hn-hornpipe-24
+M:C|
+K:D
+`
+X:25
+T:Bonaparte's March
+T:Bonaparte Crossing the Rhine
+T:Napoleon Crossing the Rhine
+T:Listowel
+R:hornpipe
+H:See also #95
+Z:id:hn-hornpipe-25
+M:C|
+K:Ador
+`
+X:26
+T:Poll Ha'Penny
+T:Paul Halfpenny
+T:Garra\'i na bhF\'eile\'og
+R:hornpipe
+H:The Irish title means "The Garden of Honeysuckles"
+H:Other titles/related tunes: "Brian the Brave", "Poll/Moll/Paul Ha'Penny",
+H:"Molly MacAlpine", "Molly Halpin"
+D:Mary Bergin: Feadoga Stain
+D:Noel Hill agus Tony McMahon: I gCnoc na Grai
+Z:id:hn-hornpipe-26
+M:C|
+K:Amix
+`
+X:27
+T:Pretty Maggie Morrissey
+T:McNamara's
+R:hornpipe
+S:Fiona Lyons, J\"orgen Fischer
+H:Similar to "The Fairie's Hornpipe", #12
+H:Bar 4 of 2nd part, version 2 also played | dGGB A2Bc |
+Z:id:hn-hornpipe-27
+M:C|
+K:G
+`
+X:28
+T:Fisherman's Lilt
+R:hornpipe
+Z:id:hn-hornpipe-28
+M:C|
+K:D
+`
+X:29
+T:Johnnie Cope
+R:hornpipe
+H:See also "The Drunken Sailor", #63
+D:Planxty
+D:Fintan Vallely: Traditional Irish Flute Music
+D:Noel Hill & Tony Linnane
+D:Seamus Ennis: The Fox Chase
+Z:id:hn-hornpipe-29
+M:C|
+K:Ador
+`
+X:30
+T:Independent Hornpipe, The
+T:Independence Hornpipe, The
+R:hornpipe
+S:Live recording of the Chieftains on the Swedish Radio 1991
+Z:id:hn-hornpipe-30
+M:C|
+K:G
+`
+X:31
+T:Miss Galvin
+R:hornpipe
+D:Mary Bergin: Feadoga Stain
+D:Paul McGrattan & Paul O'Shaughnessy: Within a Mile from Dublin (B flute)
+Z:id:hn-hornpipe-31
+M:C|
+K:D
+`
+X:32
+T:Boys of Ballycastle, The
+R:hornpipe
+D:Kevin Burke: Up Close
+Z:id:hn-hornpipe-32
+M:C|
+K:Em
+`
+X:33
+T:Caisle\'an na n\'Or
+R:hornpipe
+C:Martin "Junior" Crehan (1908-1998)
+H:Bars 4 of both parts also played |DG~G2 DF~F2|
+D:Kevin Burke: If the Cap Fits
+D:Matt Molloy & Sean Keane: Contentment is Wealth
+Z:id:hn-hornpipe-33
+M:C|
+K:Gdor
+`
+X:34
+T:Bobby Casey's Hornpipe
+R:hornpipe
+H:See also "The Humours of Tullycrine", #86
+D:Kevin Burke: If the Cap Fits
+Z:id:hn-hornpipe-34
+M:C|
+K:Ador
+`
+X:35
+T:Dunphy's Hornpipe
+R:hornpipe
+D:Paddy Keenan
+Z:id:hn-hornpipe-35
+M:C|
+K:G
+`
+X:36
+T:Mulqueeny's
+R:hornpipe
+D:Molloy, Peoples, Brady
+Z:id:hn-hornpipe-36
+M:C|
+K:G
+`
+X:37
+T:Cuckoo's Nest, The
+T:An Spealad\'oir (The Mower)
+R:hornpipe
+H:Parts 2 and 3 sometimes played in opposite order for both versions.
+D:Seamus Ennis: The Fox Chase
+D:Willie Clancy: Erin's Lovely Lea (?)
+D:De Dannan: Star Spangled Molly
+D:Conal O'Grada: The Top of Coom
+Z:id:hn-hornpipe-37
+M:C|
+K:G
+`
+X:38
+T:Cuckoo's Nest, The
+T:Jackie Tar
+T:Jacky Tar
+R:hornpipe
+H:See also #119
+Z:id:hn-hornpipe-38
+M:C|
+K:Em
+|: GA | Beed efge | dBBA ~B3d | ABde faef | d2A2 A2GA |
+`
+X:39
+T:Walsh's Hornpipe
+R:hornpipe
+H:Also played in A, see #42
+Z:id:hn-hornpipe-39
+M:C|
+K:G
+`
+X:40
+T:Humours of Ballyconnell, The
+R:hornpipe
+D:Mary Bergin: Feadoga Stain 2
+Z:id:hn-hornpipe-40
+M:C|
+K:Amix
+`
+X:41
+T:Japanese Hornpipe, The
+R:hornpipe
+H:See also #70
+D:Sully and John Keenan: Dublin Banjos
+Z:id:hn-hornpipe-41
+M:C|
+K:G
+`
+X:42
+T:Willy Walsh's Hornpipe
+R:hornpipe
+H:Also played in G, see #39
+Z:id:hn-hornpipe-42
+M:C|
+K:A
+`
+X:43
+T:Alexander's Hornpipe
+T:Sandlark Hornpipe, The
+R:hornpipe
+Z:id:hn-hornpipe-43
+M:C|
+K:D
+`
+X:44
+T:Harvest Home
+R:hornpipe
+H:One of the most common session tunes. Often played w "The Boys of Bluehill"
+Z:id:hn-hornpipe-44
+M:C|
+K:D
+`
+X:45
+T:Soldier's Joy
+R:hornpipe
+Z:id:hn-hornpipe-45
+M:C|
+K:D
+`
+X:46
+T:Belfast Hornpipe, The
+T:Sweep's Hornpipe
+R:hornpipe
+Z:id:hn-hornpipe-46
+M:C|
+K:D
+`
+X:47
+T:Boys of Bluehill, The
+R:hornpipe
+H:One of the most common session tunes. Often played w "Harvest Home"
+Z:id:hn-hornpipe-47
+M:C|
+K:D
+`
+X:48
+T:Galway Hornpipe, The
+R:hornpipe
+Z:id:hn-hornpipe-48
+M:C|
+L:1/8
+K:D
+`
+X:49
+T:First of May, The
+T:Four Provinces Fling
+R:hornpipe
+Z:id:hn-hornpipe-49
+M:C|
+K:Ador
+`
+X:50
+T:Blackbird, The
+R:hornpipe
+Z:id:hn-hornpipe-50
+M:C|
+K:Ador
+`
+X:51
+T:Wicklow Hornpipe, The
+T:Road To Boyle, The
+T:Homebrew Hornpipe, The
+R:hornpipe
+H:Bar 4 also played |DG~G2 DGGB|
+D:John Williams
+Z:id:hn-hornpipe-51
+M:C|
+K:D
+`
+X:52
+T:Murphy's Hornpipe
+R:hornpipe
+Z:id:hn-hornpipe-52
+M:C|
+K:G
+`
+X:53
+T:Byrne's Hornpipe
+R:hornpipe
+Z:id:hn-hornpipe-53
+M:C|
+K:D
+`
+X:54
+T:Dan Sullivan's Favourite
+R:hornpipe
+D:Sean Ryan: Take the Air
+Z:id:hn-hornpipe-54
+M:C|
+K:G
+`
+X:55
+T:Redhaired Boy, The
+R:hornpipe
+H:See also reel#843, song#46
+Z:id:hn-hornpipe-55
+M:C|
+K:Amix
+`
+X:56
+T:Buck from the Mountain
+T:McElligott's Fancy
+R:hornpipe
+D:Frankie Gavin: Up and Away
+Z:id:hn-hornpipe-56
+M:C|
+K:D
+`
+X:57
+T:Petronella
+R:hornpipe
+S:Session tape with Mairead Ni Mhaonaigh and Frankie Kennedy
+H:Actually a german from Donegal. Originally an English country dance.
+Z:id:hn-hornpipe-57
+M:C|
+K:D
+`
+X:58
+T:Mullingar Races, The
+T:Rover Through the Bog, The
+R:hornpipe
+Z:id:hn-hornpipe-58
+M:C|
+K:G
+`
+X:59
+T:Scent of the Bog, The
+T:Smell of the Bog, The
+R:hornpipe
+D:Brendan Begley
+Z:id:hn-hornpipe-59
+M:C|
+K:G
+`
+X:60
+T:Father Dollard's Hornpipe
+R:hornpipe
+D:Mary Bergin: Feadoga Stain 2.
+Z:id:hn-hornpipe-60
+M:C|
+K:D
+`
+X:61
+T:O'Callaghan's
+R:hornpipe
+Z:id:hn-hornpipe-61
+M:C|
+K:G
+`
+X:62
+T:Cooley's Hornpipe
+R:hornpipe
+C:Paddy O'Brien, Tipperary
+D:Noel Hill & Tony Linnane
+D:Mary Bergin: Feadoga Stain 2
+Z:id:hn-hornpipe-62
+M:C|
+K:G
+`
+X:63
+T:Drunken Sailor, The
+R:hornpipe
+H:See also "Johnnie Cope", #29
+D:Noel Hill: The Irish Concertina
+D:Sean Keane, Matt Molloy, Liam O'Flynn: The Fire Aflame
+Z:id:hn-hornpipe-62
+M:C|
+K:Ador
+`
+X:64
+T:An tSeanbhean Bhocht
+R:hornpipe
+D:Padhraic MacMathuna: Blas na Meala
+Z:id:hn-hornpipe-64
+M:C|
+K:G
+`
+X:65
+T:Murphy's Hornpipe
+R:hornpipe
+D:Padhraic MacMathuna: Blas na Meala
+D:Frankie Gavin & Alec Finn
+Z:id:hn-hornpipe-65
+M:C|
+K:D
+`
+X:66
+T:Belharbour Hornpipe, The
+R:hornpipe
+H:Bar 1 also played |G2GB G2Bd|
+D:Sean Keane, Matt Molloy, Liam O'Flynn: The Fire Aflame
+Z:id:hn-hornpipe-66
+M:C|
+K:G
+`
+X:67
+T:Ben Hill
+R:hornpipe
+Z:id:hn-hornpipe-67
+M:C|
+K:G
+`
+X:68
+T:Spellan's Fiddle
+R:hornpipe
+Z:id:hn-hornpipe-68
+M:C|
+K:G
+`
+X:69
+T:Callaghan's
+R:hornpipe
+Z:id:hn-hornpipe-69
+M:C|
+K:G
+`
+X:70
+T:Japanese Hornpipe, The
+R:hornpipe
+H:See also #41
+D:Seamus Begley and Steve Cooney: Meitheal
+Z:id:hn-hornpipe-70
+M:C|
+K:A
+`
+X:71
+T:Hills of Coor, The
+R:hornpipe
+C:Martin "Junior" Crehan (1908-1998)
+D:Cran: The Crooked Stair
+Z:id:hn-hornpipe-71
+M:C|
+K:Ador
+`
+X:72
+T:Skating While the Ice Melts
+R:hornpipe
+D:Brian Finnegan:
+Z:id:hn-hornpipe-72
+M:C|
+K:D
+`
+X:73
+T:Mysterious Number One, The
+R:hornpipe
+D:Cran: The Crooked Stair
+Z:id:hn-hornpipe-73
+M:C|
+K:G
+`
+X:74
+T:Paddy Fahy's
+R:hornpipe
+D:Kevin Crawford: D Flute Album
+Z:id:hn-hornpipe-74
+M:C|
+K:G
+`
+X:75
+T:Echo, The
+R:hornpipe
+D:Kevin Crawford: D Flute Album
+Z:id:hn-hornpipe-75
+M:C|
+K:D
+`
+X:76
+T:Madame Vanoni
+R:hornpipe
+C:James Scott Skinner
+H:Originally in Bb and rather different
+D:Brian Finnegan
+Z:id:hn-hornpipe-76
+M:C|
+K:D
+`
+X:77
+T:Stage Hornpipe, The
+R:hornpipe
+D:Paddy Glackin: In Full Spate
+Z:id:hn-hornpipe-77
+M:C|
+K:G
+`
+X:78
+T:Atlantic Roar, The
+R:hornpipe
+D:Sean Keane: Jig It in Style
+Z:id:hn-hornpipe-78
+M:C|
+K:A
+`
+X:79
+T:Golden Eagle, The
+R:hornpipe
+H:Also played in G, #93
+D:Sean Keane: Jig It in Style
+Z:id:hn-hornpipe-79
+M:C|
+K:A
+`
+X:80
+T:Tommy Hill's Favourite
+R:hornpipe
+D:Sean Keane: Jig It in Style
+Z:id:hn-hornpipe-80
+M:C|
+K:D
+`
+X:81
+T:Off to California
+R:hornpipe
+Z:id:hn-hornpipe-81
+M:C|
+K:A
+`
+X:82
+T:Proudlock's Hornpipe
+R:hornpipe
+C:James Hill (1811-1853) (?)
+Z:id:hn-hornpipe-82
+M:C|
+K:G
+`
+X:83
+T:Lone Bush, The
+R:hornpipe
+C:Ed Reavy
+D:The Music of Ed Reavy
+Z:id:hn-hornpipe-83
+M:C|
+K:G
+`
+X:84
+T:Trumpet Hornpipe, The
+T:Captain Pugwash Theme
+R:hornpipe
+Z:id:hn-hornpipe-84
+M:C|
+K:G
+|:(3GGG G2 (3GGG Gd|BGBd gdBG|(3DDD D2 (3DDD DA|FDFA cAFA|
+`
+X:85
+T:Tailor's Twist, The
+R:hornpipe
+D:Paul McGrattan: The Frost is All Over
+Z:id:hn-hornpipe-85
+M:C|
+K:D
+`
+X:86
+T:Humours of Tullycrine, The
+T:Humours of Tullycreen, The
+R:hornpipe
+H:See also "Bobby Casey's", #34
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-hornpipe-86
+M:C|
+K:Ador
+`
+X:87
+T:Mickey Callaghan's Fancy
+R:hornpipe
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-hornpipe-87
+M:C|
+K:G
+`
+X:88
+T:Humours of Tuamgreine, The
+T:Humours of Tuamgraney, The
+T:Tuam Greaney Hornpipe
+T:Toomgraney Castle
+R:hornpipe
+D:Toma/s & Seosamh O/ Ceannabha/in: O/ Aird go hAird
+Z:id:hn-hornpipe-88
+M:C|
+K:Ador
+`
+X:89
+T:Elks' Festival, The
+R:hornpipe
+H:Similar to the last two parts of "The Derry Hornpipe", #24
+D:Declan Masterson: End of the Harvest
+Z:id:hn-hornpipe-89
+M:C|
+K:D
+|:FG|AFAd fedc|BGBd gfed|cAce af (3gfe|fcdB AGFG|
+`
+X:90
+T:Showman's Fancy, The
+R:hornpipe
+D:James Morrison (1936)
+D:Humdingers: Live in Oslo
+Z:id:hn-hornpipe-90
+M:C|
+K:D
+`
+X:91
+T:Johnston's Hornpipe
+R:hornpipe
+D:De Dannan: Anthem
+D:Bobby Gardiner: His Master's Choice
+M:C|
+K:D
+`
+X:92
+T:New Century, The
+R:hornpipe
+Z:id:hn-hornpipe-92
+M:C|
+K:Gmix
+`
+X:93
+T:Golden Eagle, The
+R:hornpipe
+H:Also played in A, #79
+Z:id:hn-hornpipe-93
+M:C|
+K:G
+`
+X:94
+T:Old Court, The
+R:hornpipe
+C:Jackie Daly
+Z:id:hn-hornpipe-94
+M:C|
+K:Em
+`
+X:95
+T:From Galway to Dublin Town
+T:Napoleon Crossing the Rhine
+R:hornpipe
+S:Jonas Lindholm
+H:See also #25
+Z:id:hn-hornpipe-95
+M:C|
+K:Edor
+`
+X:96
+T:Galway Bay
+R:hornpipe
+S:Jonas Lindholm
+Z:id:hn-hornpipe-96
+M:C|
+K:Gdor
+`
+X:97
+T:Bantry Bay
+T:Little Stack of Wheat, The
+T:Union Hornpipe, The
+R:hornpipe
+H:Also played in G, #13
+Z:id:hn-hornpipe-97
+M:C|
+K:A
+`
+X:98
+T:Stack of Barley, The
+R:hornpipe
+H:Also played in G, see #14
+Z:id:hn-hornpipe-98
+M:C|
+K:A
+`
+X:99
+T:40th Birthday Hornpipe
+R:hornpipe
+C:Fredrik Jakobsson
+Z:id:hn-hornpipe-99
+M:C|
+K:Gmix
+`
+X:100
+T:Her Golden Hair Hanging Down Her Back
+R:hornpipe
+C:Martin "Junior" Crehan (1908-1998)
+H:Also played in Bdor, #114
+Z:id:hn-hornpipe-100
+M:C|
+K:Ador
+`
+X:1
+T:Bride's Favourite, The
+R:jig
+S:Mary Bergin
+Z:id:hn-jig-1
+M:6/8
+K:G
+`
+X:2
+T:Irish Washerwoman, The
+R:jig
+H:Bar 3 also played |cAA =FAA| or |cAA EAA| or |cAA DAA|
+Z:id:hn-jig-2
+M:6/8
+K:G
+`
+X:3
+T:Banish Misfortune
+R:jig
+D:Tommy Keane & Jacqueline McCarthy: The Wind among the Reeds
+D:Chieftains Live.
+Z:First bar also played |^fed cAG|
+Z:id:hn-jig-3
+M:6/8
+K:Dmix
+`
+X:4
+T:Piper's Chair, The
+T:Cathaoir an Ph\'iob\'aire
+R:jig
+D:Bobby Gardiner: His Master's Choice.
+Z:id:hn-jig-4
+M:6/8
+K:G
+`
+X:5
+T:Scotsman over the Border, The
+R:jig
+H:Related to The Carraroe Jig, #181
+D:Music at Matt Molloy's.
+D:Noel Hill & Tony Linnane.
+D:Molloy, Peoples, Brady.
+Z:id:hn-jig-5
+M:6/8
+K:D
+`
+X:6
+T:Queen of the Rushes, The
+R:jig
+H:Sometimes played with =c all the way (Dmix).
+H:Related to The Humours of Ennistymon, #142
+D:Planxty
+Z:id:hn-jig-6
+M:6/8
+K:D
+`
+X:7
+T:Bill Hart's Jig
+R:jig
+H:Also played in Ddor, #337
+Z:id:hn-jig-7
+M:6/8
+K:Ador
+`
+X:8
+T:Knights of Saint Patrick, The
+T:King of the Pipers, The
+R:jig
+H:There are 3 other tunes called "King of the Pipers": #66, #219, #307
+Z:id:hn-jig-8
+M:6/8
+K:D
+`
+X:9
+T:Mrs. O'Sullivan's Jig
+R:jig
+D:Patrick Street 1.
+Z:Also played in A minor.
+Z:id:hn-jig-9
+M:6/8
+K:Bm
+`
+X:10
+T:Banks of Lough Gowna, The
+T:Shores of Lough Gowna, The
+R:jig
+H:Played in A minor on the record. Usually played in B minor.
+H:See also #216
+D:Patrick Street 1.
+Z:id:hn-jig-10
+M:6/8
+K:Bm
+`
+X:11
+T:Contentment is Wealth
+R:jig
+H:See also #369
+D:Patrick Street 1.
+Z:id:hn-jig-11
+M:6/8
+K:Edor
+`
+X:12
+T:Have a Drink with Me
+R:jig
+D:Patrick Street 1.
+Z:id:hn-jig-12
+M:6/8
+K:G
+`
+X:13
+T:Saddle the Pony
+T:Priests Leap, The
+R:jig
+Z:7th bar of both parts also played |age dBA|
+Z:id:hn-jig-13
+M:6/8
+K:G
+`
+X:14
+T:Caliope House
+R:jig
+C:Dave Richardson
+H:Also played in D, #338. The original is in E.
+D:Patrick Street 1.
+Z:id:hn-jig-14
+M:6/8
+K:E
+`
+X:15
+T:Castle Jig, The
+T:Lonesome Jig, The
+T:Sean Ryan's Jig
+R:jig
+C:Sean Ryan (-1985)
+H:Also played with 2nd part the same both times through: version 2
+D:De Dannan: Selected Jigs and Reels.
+Z:id:hn-jig-15
+M:6/8
+K:Ador
+`
+X:16
+T:Tenpenny Bit, The
+T:Three Little Drummers, The
+R:jig
+Z:id:hn-jig-16
+M:6/8
+K:Ador
+`
+X:17
+T:Slieve Russell
+R:jig
+D:Matt Molloy: Heathery Breeze.
+Z:id:hn-jig-17
+M:6/8
+K:Ador
+`
+X:18
+T:Haste to the Wedding
+R:jig
+Z:id:hn-jig-18
+M:6/8
+K:D
+`
+X:19
+T:Old Maid, The
+T:Hag at the Spinning Wheel, The
+T:Maid at the Spinning Wheel, The
+T:Old Maid at the Spinning Wheel, The
+R:jig
+D:Paddy Moloney & Sean Potts: Tin Whistles.
+Z:id:hn-jig-19
+M:6/8
+K:G
+`
+X:20
+T:Coach Road to Sligo, The
+T:Blackthorn Stick, The
+T:Humours of Bantry, The
+R:jig
+Z:id:hn-jig-20
+M:6/8
+K:G
+`
+X:21
+T:Tom Billy's
+R:jig
+H:Similar to "The Walls of Liscarrol", #136
+D:Mary Bergin: Feadoga Stain.
+D:De Dannan: Selected reels and jigs
+Z:id:hn-jig-21
+M:6/8
+K:Amix
+`
+X:22
+T:Langstrom's Pony
+T:Langstern Pony, The
+R:jig
+D:Mary Bergin: Feadoga Stain.
+D:De Dannan: Mist Covered Mountain.
+Z:id:hn-jig-22
+M:6/8
+K:Amix
+`
+X:23
+T:Darby Gallagher's
+T:Hiuda\'i Gallagher's March
+T:Murphy's Delight
+R:jig
+D:Paddy Glackin: In Full Spate.
+D:Altan: The Red Crow
+Z:id:hn-jig-23
+M:6/8
+K:Amix
+`
+X:24
+T:Out on the Ocean
+R:jig
+Z:Also played in A, #339
+Z:id:hn-jig-24
+M:6/8
+K:G
+`
+X:25
+T:Lannigan's Ball
+R:jig
+S:session Auckland, NZ, 1988
+Z:id:hn-jig-25
+M:6/8
+K:Edor
+`
+X:26
+T:Mice in the Cupboard
+T:Willie Coleman's
+R:jig
+Z:id:hn-jig-26
+M:6/8
+K:G
+`
+X:27
+T:Up in the Air
+R:jig
+C:Kevin Burke
+Z:id:hn-jig-27
+M:6/8
+K:Bm
+`
+X:28
+T:Strayaway Child, The
+R:jig
+C:Michael Gorman (1895-1970) and Margaret Barry (1917-1990)
+D:Bothy Band: Out of the Wind into the Sun.
+D:Chieftains: A Celebration.
+Z:id:hn-jig-28
+M:6/8
+K:Em
+`
+X:29
+T:Pipe on the Hob
+R:jig
+D:Arcady: Many Happy Returns
+Z:id:hn-jig-29
+M:6/8
+K:Dmix
+`
+X:30
+T:Morrison's Jig
+T:Stick Across the Hob, The
+R:jig
+Z:id:hn-jig-30
+M:6/8
+K:Edor
+`
+X:31
+T:Coppers and Brass
+T:Hartigan's Fancy
+R:jig
+H:Related to The Humours of Ennistymon, #142 and The Queen of the Rushes, #6.
+H:Derived from "Greensleeves"
+D:Johnny Doran
+Z:id:hn-jig-31
+M:6/8
+K:G
+`
+X:32
+T:Wren's Nest, The
+R:jig
+C:Frankie Gavin
+D:De Dannan: Anthem.
+Z:id:hn-jig-32
+M:6/8
+K:Edor
+`
+X:33
+T:Ship in Full Sail, The
+T:Paddy the Dandy
+R:jig
+H:See also #398. Also in G, see #231
+D:De Dannan: Star Spangled Molly.
+Z:id:hn-jig-33
+M:6/8
+L:1/8
+K:A
+`
+X:34
+T:Cordal Jig, The
+T:Morgan Rattler
+R:jig
+D:De Dannan: Anthem.
+Z:id:hn-jig-34
+M:6/8
+K:D
+`
+X:35
+T:Flowers of Spring, The
+T:Tom Billy's
+R:jig
+H:Also played in Ador, see #317
+D:De Dannan
+Z:id:hn-jig-35
+M:6/8
+K:Edor
+`
+X:36
+T:Coleraine Jig, The
+R:jig
+D:De Dannan
+Z:id:hn-jig-36
+M:6/8
+K:Bm
+`
+X:37
+T:Coleman's Cross
+R:jig
+D:Bothy Band 1975
+Z:id:hn-jig-37
+M:6/8
+K:Edor
+`
+X:38
+T:Garrett Barry's Jig
+R:jig
+Z:id:hn-jig-38
+M:6/8
+K:Dmix
+`
+X:39
+T:Jackie Small's Jig
+R:jig
+D:De Dannan.
+Z:id:hn-jig-39
+M:6/8
+K:Edor
+`
+X:40
+T:Lark in the Morning, The
+R:jig
+H:See also #330
+D:Moving Hearts: The Storm.
+Z:id:hn-jig-40
+M:6/8
+K:D
+`
+X:41
+T:Kesh Jig, The
+T:Kesh Mountain, The
+R:jig
+D:Bothy Band 1975.
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-jig-41
+M:6/8
+K:G
+`
+X:42
+T:Mist Covered Mountain, The
+T:Mist on the Mountain, The
+R:jig
+C:Martin "Junior" Crehan (1908-1998)
+D:De Dannan: Mist Covered Mountain
+D:Martin Hayes
+Z:id:hn-jig-42
+M:6/8
+K:Ador
+`
+X:43
+T:Trip to Sligo, The
+R:jig
+Z:id:hn-jig-43
+M:6/8
+K:Em
+`
+X:44
+T:Reverend Brother's Jig, The
+T:Port an Bhrathair
+T:Monk's Jig, The
+T:Sonny Brogan's Fancy
+T:Sonny Brogan's #1
+R:jig
+H:See also #123
+D:Oisin: Over the Moor to Maggie
+Z:id:hn-jig-44
+M:6/8
+K:Ador
+`
+X:45
+T:Sonny Brogan's #2
+T:Bryan O'Lynn
+T:Old John's Jig
+R:jig
+H:See also #126, #134
+D:Oisin: Over the Moor to Maggie
+Z:id:hn-jig-45
+M:6/8
+K:Ador
+`
+X:46
+T:Paddy's Return
+R:jig
+H:See also #202 "The Frost Is All Over"
+Z:id:hn-jig-46
+M:6/8
+K:D
+`
+X:47
+T:Tripping Up the Stairs
+T:Tripping Upstairs
+R:jig
+Z:id:hn-jig-47
+M:6/8
+K:D
+`
+X:48
+T:Hills of Glenorchy, The
+R:jig
+H:See also #152
+O:Scottish
+Z:id:hn-jig-48
+M:6/8
+K:Edor
+`
+X:49
+T:Pull Out the Knife and Stick It In Again
+T:Pull the Knife and Stick It Again
+R:jig
+H:Related to "Castle Kelly", reel#118
+D:Matt Molloy
+D:Stockton's Wing
+Z:id:hn-jig-49
+M:6/8
+K:Edor
+`
+X:50
+T:Clancy's
+T:Katy's Rambles
+R:jig
+D:Sean Ryan: Take the Air
+Z:id:hn-jig-50
+M:6/8
+K:Edor
+`
+X:51
+T:Father O'Flynn
+T:Top of Cork Road, The
+R:jig
+Z:id:hn-jig-51
+M:6/8
+K:D
+`
+X:52
+T:Maho Snaps, The
+T:Magho Snaps, The
+R:jig
+C:Mick Hoy
+D:Boys of the Lough: Sweet Rural Shade
+D:Joe McHugh & Barry Carroll: The Long Finger.
+D:Marcas \'O Murch\'u: \'O Bh\'eal go B\'eal
+Z:id:hn-jig-52
+M:6/8
+K:G
+`
+X:53
+T:Charlie Hunter's
+R:jig
+C:Bobby McLeod, Tobermory, Mull
+D:Boys of the Lough: Sweet Rural Shade
+D:Music at Matt Molloy's
+Z:id:hn-jig-53
+M:6/8
+K:D
+`
+X:54
+T:Mouse in the Cupboard, The
+T:Wallop the Potlid
+R:jig
+H:Related to "Scully Casey's", #115
+D:Boys of the Lough: Sweet Rural Shade
+Z:id:hn-jig-54
+M:6/8
+K:G
+`
+X:55
+T:Rosewood, The
+R:jig
+D:Boys of the Lough: Sweet Rural Shade
+Z:id:hn-jig-55
+M:6/8
+K:A
+`
+X:56
+T:Hag with the Money, The
+R:jig
+H:See also #353
+Z:id:hn-jig-56
+M:6/8
+K:Dmix
+`
+X:57
+T:Priest and His Boots, The
+R:jig
+D:Patrick Street: Irish Times
+Z:id:hn-jig-57
+M:6/8
+K:D
+`
+X:58
+T:Drummond Castle
+R:jig
+D:Declan Folan & Junior Davey: Skin and Bow
+O:Scottish
+Z:id:hn-jig-58
+M:6/8
+K:Ador
+`
+X:59
+T:Up Sligo
+T:Creel of Turf, The
+T:Lark's March, The
+T:Green Meadow, The
+R:jig
+D:Molloy, Peoples, Brady
+Z:id:hn-jig-59
+M:6/8
+K:Edor
+`
+X:60
+T:Rose in the Heather, The
+R:jig
+D:Frankie Gavin: Frankie Goes to Town
+Z:id:hn-jig-60
+M:6/8
+K:D
+`
+X:61
+T:Vincent Campbell's
+R:jig
+D:Matt Molloy & Sean Keane: Contentment is Wealth
+Z:id:hn-jig-61
+M:6/8
+K:D
+`
+X:62
+T:Paddy O'Rafferty
+R:jig
+H:Different version i G, see #318
+H:There is also a 5-part version in A. See Bernie Stocks' book2.abc, #56
+D:Oisin: Over the Moor to Maggie
+Z:id:hn-jig-62
+M:6/8
+K:D
+`
+X:63
+T:Behind the Haystack
+R:jig
+Z:id:hn-jig-63
+M:6/8
+K:D
+`
+X:64
+T:Smiling Bride, The
+R:jig
+C:Charlie Lennon
+D:De Dannan: Ballroom
+Z:id:hn-jig-64
+M:6/8
+K:D
+`
+X:65
+T:Humours of Ballyloughlin, The
+T:Hurler's March, The
+R:jig
+D:Matt Molloy.
+Z:id:hn-jig-65
+M:6/8
+K:Dmix
+`
+X:66
+T:King of the Pipers, The
+R:jig
+H:There are 3 other tunes called "King of the Pipers": #8, #219, #307
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin
+D:Dervish: The Boys of Sligo
+Z:id:hn-jig-66
+M:6/8
+K:D
+`
+X:67
+T:Frost is All Over, The
+R:jig
+H:More common versions are #206, #263
+H:There is another tune by the same name, #202
+Z:id:hn-jig-67
+M:6/8
+K:D
+`
+X:68
+T:Arthur Darley's Jig
+T:Swedish Jig, The
+T:Bruckless Shore
+R:jig
+C:Arthur Darley
+H:"Bruckless Shore" is the original title.
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin
+D:Arty McGlynn: McGlynn's Fancy
+Z:id:hn-jig-68
+M:6/8
+K:D
+`
+X:69
+T:Butcher's March
+T:Three Little Drummers
+R:jig
+D:John McKenna
+Z:id:hn-jig-69
+M:6/8
+K:G
+`
+X:70
+T:Tar Road to Sligo, The
+T:Coleman's
+R:jig
+D:Bothy Band 1975
+Z:id:hn-jig-70
+M:6/8
+K:D
+`
+X:71
+T:My Darling Asleep
+R:jig
+Z:id:hn-jig-71
+M:6/8
+K:D
+`
+X:72
+T:Jackson's Slipper
+T:Killashandra Lasses, The
+R:jig
+D:Skylark: Skylark.
+Z:id:hn-jig-72
+M:6/8
+K:G
+`
+X:73
+T:Sean McGuire's
+T:Haley's Favourite
+R:jig
+D:Skylark: Skylark.
+D:De Dannan: Ballroom
+Z:id:hn-jig-73
+M:6/8
+K:Edor
+`
+X:74
+T:Rambling Pitchfork, The
+T:Fisherman's Widow, The
+R:jig
+Z:id:hn-jig-74
+M:6/8
+K:D
+P:Variations and different 2nd ending for 2nd part
+`
+X:75
+T:Sean Tiobrad \'Arann
+T:Old Tipperary
+R:jig
+S:Version 2: Session at Fleadh Ceol in Sligo 1990
+D:Mary Bergin: Feadoga Stain
+Z:id:hn-jig-75
+M:6/8
+K:G
+`
+X:76
+T:Katie's Fancy
+R:jig
+S:Session at Fleadh Ceol in Sligo 1990
+Z:id:hn-jig-76
+M:6/8
+K:G
+`
+X:77
+T:Wallop the Spot
+R:jig
+S:Session at Fleadh Ceol in Sligo 1990
+H:See also #221
+Z:id:hn-jig-77
+M:6/8
+K:D
+`
+X:78
+T:O'Gallagher's Frolics
+R:jig
+H:See also #80
+Z:id:hn-jig-78
+M:6/8
+K:Edor
+`
+X:79
+T:Cliffs of Moher, The
+R:jig
+H:See also #224, #196, #401
+H:Bar 8 also played |EDB, A,3|
+Z:id:hn-jig-79
+M:6/8
+K:Ador
+`
+X:80
+T:O'Gallagher's Frolics
+R:jig
+H:See also #78
+Z:id:hn-jig-80
+M:6/8
+K:Em
+`
+X:81
+T:Dan Collins' Father's Jig
+T:Bill Collins' Jig
+R:jig
+D:De Danann: Song for Ireland
+D:Jerry Holland: The Fiddlesticks Collection
+Z:id:hn-jig-81
+M:6/8
+K:D
+`
+X:82
+T:Traver's Jig
+R:jig
+H:Also played in A, #340
+Z:id:hn-jig-82
+M:6/8
+K:G
+`
+X:83
+T:Wandering Minstrel, The
+R:jig
+H:See also #468
+Z:id:hn-jig-83
+M:6/8
+K:D
+`
+X:84
+T:Paddy Fahy's
+R:jig
+C:Paddy Fahy
+H:Also played in C, #341
+Z:id:hn-jig-84
+M:6/8
+K:D
+`
+X:85
+T:Sixpenny Money
+R:jig
+Z:id:hn-jig-85
+M:6/8
+K:D
+`
+X:86
+T:Frieze Breeches, The
+R:jig
+H:There are words for the first two parts: "Cunnla".
+Z:id:hn-jig-86
+M:6/8
+K:Dmix
+`
+X:87
+T:Old Grey Goose, The
+R:jig
+D:Arcady: Many Happy Returns
+Z:id:hn-jig-87
+M:6/8
+K:Em
+`
+X:88
+T:I Buried My Wife and Danced on Top of Her
+R:jig
+Z:id:hn-jig-88
+M:6/8
+K:Dmix
+`
+X:89
+T:Fasten the Leg in Her
+R:jig
+Z:id:hn-jig-89
+M:6/8
+K:G
+`
+X:90
+T:One Night in Sligo
+R:jig
+H:I put the name on it. Does anyone know the real name?
+Z:id:hn-jig-90
+M:6/8
+K:Edor
+`
+X:91
+T:Dusty Windowsill, The
+T:Austin Barratts
+R:jig
+C:Sean Harling
+Z:id:hn-jig-91
+M:6/8
+K:Ador
+`
+X:92
+T:Castleblaney Piper, The
+T:Hare in the Corn, The
+R:jig
+C:Ed Reavy
+Z:id:hn-jig-92
+M:6/8
+K:D
+`
+X:93
+T:Padraig O'Keefe's
+T:Bank of Turf, The
+R:jig
+H:Also played as a slide (#66)
+Z:id:hn-jig-93
+M:6/8
+K:D
+`
+X:94
+T:Jig of Slurs, The
+R:jig
+C:GS MacLennan
+Z:id:hn-jig-94
+M:6/8
+K:D
+`
+X:95
+T:Oh, Hag! You've Killed Me
+T:Old Hag, You've Killed Me
+R:jig
+D:Moving Hearts: The Storm
+Z:id:hn-jig-95
+M:6/8
+K:Dmix
+`
+X:96
+T:Earl the Breakfast Boiler
+R:jig
+D:Moving Hearts: The Storm
+Z:id:hn-jig-96
+M:6/8
+K:Amix
+`
+X:97
+T:O'Broin's Flightcase
+R:jig
+D:Moving Hearts: The Storm
+Z:id:hn-jig-97
+M:6/8
+K:Amix
+`
+X:98
+T:Wheels of the World, The
+R:jig
+D:Mary Bergin: Feadoga Stain
+Z:id:hn-jig-98
+M:6/8
+K:G
+`
+X:99
+T:Peter O'Byrne's Fancy
+T:Peter Byrne's Fancy
+R:jig
+D:Moving Hearts: The Storm
+D:Arty McGlynn: McGlynn's Fancy
+Z:id:hn-jig-99
+M:6/8
+K:Dmix
+`
+X:100
+T:Humours of Drinagh, The
+R:jig
+H:Related to reel #697
+D:Stockton's Wing
+D:Noel Hill & Tony McMahon: \'I gCnoc na Gra\'i
+Z:id:hn-jig-100
+M:6/8
+K:D
+`
+X:1
+T:O'Donnell's March
+R:march
+H:Cf. Allistrum's March, #19
+Z:id:hn-march-1
+M:6/8
+K:D
+`
+X:2
+T:Garryowen
+R:march
+H:General Custer's Favourite tune...
+Z:id:hn-march-2
+M:6/8
+K:D
+`
+X:3
+T:Saint Patrick's Day
+R:march
+H:see also set dance #12
+Z:id:hn-march-3
+M:6/8
+K:G
+`
+X:4
+T:Brian Boru's March
+R:march
+Z:id:hn-march-4
+M:6/8
+K:Ador
+`
+X:5
+T:O'Neill's March
+R:march
+D:Chieftains Live
+Z:id:hn-march-5
+M:2/4
+L:1/8
+K:Edor
+`
+X:6
+T:Green Cockade, The
+T:O'Neill's March
+R:march
+D:Paddy Keenan: Port an Phiobaire
+D:Chieftains Live
+Z:id:hn-march-6
+M:2/4
+L:1/8
+K:Ador
+`
+X:7
+T:Battle of Aughrim, The
+R:march
+Z:id:hn-march-7
+M:2/4
+L:1/8
+K:Ador
+|:EA AB/d/|ed cA|BG G/F/G/A/|B/G/A/G/ ED|
+`
+X:8
+T:Lord Mayo
+T:Tiarna Mhaigh Eo
+R:march
+C:David Murphy (Daithi O Murchu) or Thady Keenan (Thady \'O Cian\'ain)
+H:David Murphy was harper to Lord Mayo
+Z:id:hn-march-8
+M:2/4
+L:1/8
+K:Ador
+`
+X:9
+T:Return from Fingal, The
+R:march
+H:This tune is supposed to have been played by Brian Boru's troops on the
+H:return from the Battle of Clontarf.
+Z:id:hn-march-9
+M:2/4
+L:1/8
+K:Edor
+`
+X:10
+T:Chanter's Song, The
+T:Chanter's Tune, The
+T:Song of the Chanter, The
+R:march
+H:Also played in Amix, #15
+Z:id:hn-march-10
+M:2/4
+L:1/8
+K:Dmix
+`
+X:11
+T:Halting march, The
+R:march
+Z:hn-march-11
+M:2/4
+L:1/8
+K:Ador
+`
+X:12
+T:Crucaharan Cross
+R:march
+D:De Danann: Selected Jigs, Reels & Songs
+Z:id:hn-march-12
+M:2/4
+L:1/8
+K:G
+`
+X:13
+T:Boys of Belfast, The
+R:march
+D:Cran:
+Z:id:hn-march-13
+M:C|
+K:Amix
+`
+X:14
+T:March of the Kings of Laois
+T:Rory of the Hills
+R:march
+C:Rory O'Moore (17th century)
+Z:id:hn-march-14
+M:6/8
+K:Dmix
+`
+X:15
+T:Chanter's Song, The
+T:Chanter's Tune, The
+T:Song of the Chanter, The
+R:march
+H:Also played in Dmix, #10
+Z:id:hn-march-15
+M:2/4
+L:1/8
+K:Amix
+`
+X:16
+T:Eagle's Whistle, The
+R:march
+Z:id:hn-march-16
+M:2/4
+L:1/16
+K:G
+`
+X:17
+T:Rosc Catha Na Mumhan
+T:Battle Cry Of Munster, The
+R:march
+Z:id:hn-march-17
+M:2/4
+L:1/16
+K:Ador
+`
+X:18
+T:Behind the Ditch in Pairc Anna
+R:march
+H:with some variations. Also played as a hornpipe
+Z:id:hn-march-18
+M:C|
+L:1/8
+K:Amix
+`
+X:19
+T:Allistrum's March
+T:Alaisdrum's March
+R:march
+H:Cf. Allistrum's Polka, polka#120
+H:Cf. O'Donnell's March, #1
+H:Cf. #26, #27, #28
+D:Chieftains
+Z:id:hn-march-19
+M:6/8
+L:1/8
+K:D
+`
+X:20
+T:O'Sullivan's March
+R:march
+Z:id:hn-march-20
+M:6/8
+L:1/8
+K:G
+`
+X:21
+T:Leslie's March
+T:Highland March from Oscar and Malvina
+R:march
+C:William Reeve (1757-1815)
+Z:id:hn-march-21
+M:6/8
+L:1/8
+K:D
+|: ~d3 ~d3 | dcB ABc | dcB AGF | G2F E2D | 
+`
+X:22
+T:Old Grey Cat, The
+R:march
+H:See also "Smuggler's Reel" reel#711
+Z:id:hn-march-22
+M:2/4
+L:1/8
+K:Edor
+`
+X:23
+T:Rose In The Gap, The
+R:march
+Z:id:hn-march-23
+M:C|
+L:1/8
+K:Edor
+`
+X:24
+T:Napoleon Crossing The Alps
+R:march
+D:Harry Bradley: As I Carelessly Did Stray
+Z:id:hn-march-24
+M:2/4
+L:1/8
+K:Amix
+`
+X:25
+T:Grainne's Welcome Home
+R:march
+H:See also jig#450 and reel#953
+Z:id:hn-march-25
+M:C|
+L:1/8
+K:Amix
+`
+X:26
+T:Allistrum's March
+R:march
+H:See also #19, #27, #28
+D:Niall & Cillian Vallely: Callan Bridge
+Z:id:hn-march-26
+M:6/8
+L:1/8
+K:G
+`
+X:27
+T:Allistrum's March
+R:march
+H:See also #19, #26, #28
+D:Niall & Cillian Vallely: Callan Bridge
+Z:id:hn-march-27
+M:6/8
+L:1/8
+K:Amix
+`
+X:28
+T:Alasdruim's March
+T:M\'airse\'ail Alasdruim
+R:march
+H:See also #19, #26, #27
+D:Sean Keane: Jig It in Style
+D:P\'adraig Rynne: Bye a While
+Z:id:hn-march-28
+M:6/8
+L:1/8
+K:G
+`
+X:29
+T:Banks of the Quay, The
+R:march
+D:De Danann: Selected Jigs, Reels & Songs
+Z:id:hn-march-29
+M:2/4
+L:1/8
+K:G
+`
+X:30
+T:Parnell's March
+R:march
+Z:id:hn-march-30
+M:6/8
+L:1/8
+K:G
+`
+X:31
+T:White Cockade, The
+T:Highland Laddie
+R:march
+Z:id:hn-march-31
+M:2/4
+L:1/8
+K:G
+`
+X:32
+T:Lillibullero
+T:Lilibullero
+T:Lilli Bullero
+T:Lilly Bolero
+T:Lily Bolero
+R:march
+Z:id:hn-march-32
+M:6/8
+L:1/8
+K:G
+`
+X:1
+T:Vincent Campbell's Mazurka #1
+R:mazurka
+H:A version of #9
+D:The Brass Fiddle (Vincent Campbell)
+Z:id:hn-mazurka-1
+M:3/4
+K:G
+`
+X:2
+T:Vincent Campbell's Mazurka #2
+T:Phroinsias Ui Mhaonaigh's Mazurka #2
+R:mazurka
+D:The Brass Fiddle
+D:Mairead Ni Mhaonaigh & Frankie Kennedy: Ceol Aduaidh
+Z:id:hn-mazurka-2
+M:3/4
+K:G
+`
+X:3
+T:Sonny Brogan's Mazurka
+R:mazurka
+D:Bobby Gardiner: His Master's Choice
+D:Stockton's Wing
+Z:id:hn-mazurka-3
+M:3/4
+K:D
+`
+X:4
+T:Jackie Donnan's Mazurka
+T:Barnacle, The
+R:mazurka
+H:A version appears in Roche's collection as "The Barnacle" Redowa
+Z:id:hn-mazurka-4
+M:3/4
+K:D
+`
+X:5
+T:Phroinsias Ui Mhaonaigh's Mazurka #1
+T:Kitty's Fancy
+R:mazurka
+H:Similar to #11
+D:Mairead Ni Mhaonaigh & Frankie Kennedy: Ceol Aduaidh
+Z:id:hn-mazurka-5
+M:3/4
+K:D
+`
+X:6
+T:John Doherty's Mazurka
+R:mazurka
+H:Also in G, #7
+D:Altan: Island Angel
+Z:hn-mazurka-6
+M:3/4
+K:A
+`
+X:7
+T:John Doherty's Mazurka
+R:mazurka
+H:Also played in A, #6
+D:Altan: Island Angel
+Z:hn-mazurka-7
+M:3/4
+K:G
+`
+X:8
+T:Shoe the Donkey
+T:Shave the Donkey
+T:Varsovienne
+T:Versevanna
+T:Waltz of Vienna
+T:Reverse of Vienna
+R:mazurka
+H:See also #12, #16. Words from Peter and Ethna Broderick
+D:Bobby Gardiner: His Master's Choice
+Z:id:hn-mazurka-8
+M:3/4
+K:G
+`
+X:9
+T:Irish Mazurka, The
+T:Old Donegal Mazurka, The
+T:Charlie Lennon's
+R:mazurka
+H:A version of #1
+D:Stockton's Wing
+D:Hugh Gillespie
+Z:id:hn-mazurka-9
+M:3/4
+K:G
+`
+X:10
+T:Kilcar Mazurka, The
+R:mazurka
+D:The Brass Fiddle (Francie Byrne)
+Z:id:hn-mazurka-10
+M:3/4
+K:G
+`
+X:11
+T:James Byrne's Mazurka
+R:mazurka
+H:Similar to #5
+D:The Brass Fiddle (James Byrne)
+Z:id:hn-mazurka-11
+M:3/4
+K:D
+`
+X:12
+T:Shoe the Donkey
+R:mazurka
+H:See also #8, #16
+D:Mairead Ni Mhaonaigh & Frankie Kennedy: Ceol Aduaidh
+Z:id:hn-mazurka-12
+M:3/4
+K:G
+`
+X:13
+T:McCusker's
+R:mazurka
+H:A version of #1 and #9
+Z:id:hn-mazurka-13
+M:3/4
+L:1/8
+K:G
+`
+X:14
+T:Jackie Donnan's #2
+R:mazurka
+Z:id:hn-mazurka-14
+M:3/4
+L:1/8
+K:G
+`
+X:15
+T:John Doherty's
+R:mazurka
+H:Also played in G
+Z:id:hn-mazurka-15
+M:3/4
+L:1/8
+K:D
+`
+X:16
+T:Versevianna, The
+T:Father Halpin's Top Coat
+R:mazurka
+H:Related to "Shoe the Donkey", #8, #12
+B:Roche Collection 150
+Z:id:hn-mazurka-16
+M:3/4
+L:1/8
+K:G
+`
+X:1
+T:B minor Polka
+R:polka
+S:Eileen Ni Riordan
+Z:id:hn-polka-1
+M:2/4
+L:1/8
+K:Bm
+`
+X:2
+T:Ballydesmond Polka
+R:polka
+H:Often played with #3
+Z:id:hn-polka-2
+M:2/4
+L:1/8
+K:Ador
+`
+X:3
+T:Ballydesmond Polka
+R:polka
+H:Often played after #2
+Z:id:hn-polka-3
+M:2/4
+L:1/8
+K:Ador
+`
+X:4
+T:Bruise Hill
+T:Five Servants, The
+T:Ballybunnion Polka, The
+R:polka
+Z:id:hn-polka-4
+M:2/4
+L:1/8
+K:D
+`
+X:5
+T:Siege of Ennis, The
+T:Tulla Polka, The
+R:polka
+S:Eileen Ni Riordan
+H:Also played in G. Also played with only the first two parts. See #106
+H:The last two parts in this version have been added later.
+H:Originally a march called "The Banks of Inverness" in Scotland and
+H:"Salmon Tails Up the Water" in Northumbria.
+Z:id:hn-polka-5
+M:2/4
+L:1/8
+K:A
+`
+X:6
+T:Cathy's Favourite
+T:Pat Hogan's One
+R:polka
+H:Also played in G
+Z:id:hn-polka-6
+M:2/4
+L:1/8
+K:D
+`
+X:7
+T:McElroy's Fancy
+T:Pat Hogan's Two
+R:polka
+H:A version of #114
+Z:id:hn-polka-7
+M:2/4
+L:1/8
+K:Edor
+`
+X:8
+T:Peggy Ryan's Fancy
+T:Murroe, The
+R:polka
+Z:id:hn-polka-8
+M:2/4
+L:1/8
+K:G
+`
+X:9
+T:John Ryan's
+R:polka
+D:Planxty
+Z:id:hn-polka-9
+M:2/4
+L:1/8
+K:D
+`
+X:10
+T:Dennis Murphy's
+R:polka
+D:Planxty
+Z:id:hn-polka-10
+M:2/4
+L:1/8
+K:D
+`
+X:11
+T:Scartaglen Polka, The
+T:Humours of Ballydesmond, The
+T:Knocknabower Polka # 1, The
+R:polka
+D:Davy Spillane: Atlantic Bridge
+Z:id:hn-polka-11
+M:2/4
+L:1/8
+K:G
+`
+X:12
+T:Egan's Polka
+T:Faba
+R:polka
+H:Also played in G
+Z:id:hn-polka-12
+M:2/4
+L:1/8
+K:D
+`
+X:13
+T:Bill Sullivan's
+R:polka
+D:Kevin Burke: If the Cap Fits
+Z:id:hn-polka-13
+M:2/4
+L:1/8
+K:A
+`
+X:14
+T:Britches Full of Stitches
+T:Breeches Full of Stitches
+R:polka
+Z:id:hn-polka-14
+M:2/4
+L:1/8
+K:A
+`
+X:15
+T:42 Pound Cheque, The
+T:42 Pound Check, The
+T:42 Pound Float, The
+T:Forty-two Pound Cheque, The
+T:Forty-two Pound Check, The
+T:Forty-Two Pound Float, The
+R:polka
+Z:id:hn-polka-15
+M:2/4
+L:1/8
+K:D
+`
+X:16
+T:Peggy Lettermore
+R:polka
+Z:id:hn-polka-16
+M:2/4
+L:1/8
+K:G
+`
+X:17
+T:Winster Gallop
+R:polka
+Z:id:hn-polka-17
+M:2/4
+L:1/8
+K:G
+`
+X:18
+T:Maid of Ardagh, The
+T:Sliabh Mhachaire
+T:Johnny O'Leary's
+R:polka
+H:See also #104
+Z:id:hn-polka-18
+M:2/4
+L:1/8
+K:D
+`
+X:19
+T:Maggie in the Wood
+T:An bhFaca T\'u Mo Sh\'eamais\'in
+T:If I Had Maggie in the Wood
+R:polka
+Z:id:hn-polka-19
+M:2/4
+L:1/8
+K:G
+`
+X:20
+T:Sweeney's
+R:polka
+Z:id:hn-polka-20
+M:2/4
+L:1/8
+K:G
+`
+X:21
+T:Dennis Doody's Polka
+R:polka
+H:See also "The Glen Cottage", #90
+H:Related to the Scottish strathspey/reel Alister McAlister
+H:(Alasdair Mac Alasdair)
+D:Donal Lunny: Live at the National Concert Hall
+Z:id:hn-polka-21
+M:2/4
+L:1/8
+K:Edor
+`
+X:22
+T:Barren Rocks of Aden, The
+R:polka
+C:A MacKellar
+S:Mary Bergin
+Z:id:hn-polka-22
+M:2/4
+L:1/8
+K:D
+`
+X:23
+T:Kerry Cow, The
+R:polka
+S:Mary Bergin
+H:See also #108
+Z:id:hn-polka-23
+M:2/4
+L:1/8
+K:D
+`
+X:24
+T:Taur Polka, The
+R:polka
+S:Session at Fleadh Ceol in Sligo, 1990
+Z:id:hn-polka-24
+M:2/4
+L:1/8
+K:Dmix
+`
+X:25
+T:Ask Our Dan
+T:Knocknabower Polka #2, The
+T:Knocknaboul Polka, The
+T:Sneem Polka, The
+R:polka
+S:Session at Fleadh Ceol in Sligo, 1990
+Z:id:hn-polka-25
+M:2/4
+L:1/8
+K:G
+`
+X:26
+T:Jamie Allen
+R:polka
+Z:id:hn-polka-26
+M:2/4
+L:1/8
+K:D
+`
+X:27
+T:Four Shoves, The
+R:polka
+Z:id:hn-polka-27
+M:2/4
+L:1/8
+K:Edor
+`
+X:28
+T:Ger the Rigger
+R:polka
+Z:id:hn-polka-28
+M:2/4
+L:1/8
+K:Amix
+`
+X:29
+T:Clog, The
+R:polka
+S:Mary Bergin
+Z:id:hn-polka-29
+M:2/4
+L:1/8
+K:D
+`
+X:30
+T:Other Clog, The
+R:polka
+S:Mary Bergin
+Z:id:hn-polka-30
+M:2/4
+L:1/8
+K:G
+`
+X:31
+T:Wren's Polka, The
+T:Cuil Aodha Polka, The
+R:polka
+Z:id:hn-polka-31
+M:2/4
+L:1/8
+K:A
+`
+X:32
+T:Glen Cottage, The
+R:polka
+Z:id:hn-polka-32
+M:2/4
+L:1/8
+K:Ador
+`
+X:33
+T:Farewell to Whiskey
+T:My Love is But a Lassie
+R:polka
+C:Niel Gow (1727-1807)
+D:John McKenna
+D:Frankie Gavin: Croch Suas E
+Z:id:hn-polka-33
+M:2/4
+L:1/8
+K:G
+`
+X:34
+T:Dark Girl Dressed in Blue, The
+R:polka
+D:John McKenna
+D:Frankie Gavin: Croch Suas E
+Z:id:hn-polka-34
+M:2/4
+L:1/8
+K:D
+`
+X:35
+T:Biddy Martin's
+R:polka
+D:Kevin Burke: If the Cap Fits
+Z:id:hn-polka-35
+M:2/4
+L:1/8
+K:D
+`
+X:36
+T:Wistful Lover, The
+R:polka
+H:Also played with parts in reversed order.
+H:See also #39 in A
+Z:id:hn-polka-36
+M:2/4
+L:1/8
+K:G
+`
+X:37
+T:Where Lilies Bloom
+R:polka
+Z:id:hn-polka-37
+M:2/4
+L:1/8
+K:D
+`
+X:38
+T:Ballyvourney Polka, The
+T:Salmon Tailing Up the River, The
+R:polka
+Z:id:hn-polka-38
+M:2/4
+L:1/8
+K:Edor
+`
+X:39
+T:Rambling Sailor, The
+R:polka
+H:See also #36
+D:Jackie Daly: Many's a Wild Night
+Z:id:hn-polka-39
+M:2/4
+L:1/8
+K:A
+`
+X:40
+T:New Roundabout, The
+R:polka
+Z:id:hn-polka-40
+M:2/4
+L:1/8
+K:D
+`
+X:41
+T:Ievan polkka
+T:Savitaipaleen polkka
+T:Finnish Polka
+R:polka
+D:Kevin Burke: Up Close
+O:South Karelia
+Z:id:hn-polka-41
+M:2/4
+L:1/8
+K:Bm
+`
+X:42
+T:Johnny Leary's Polka
+R:polka
+Z:id:hn-polka-42
+M:2/4
+L:1/8
+K:D
+`
+X:43
+T:Sliabh Luachra Polka, The
+R:polka
+Z:id:hn-polka-43
+M:2/4
+L:1/8
+K:D
+`
+X:44
+T:Art O'Keeffe's
+T:Newmarket Polka
+R:polka
+Z:id:hn-polka-44
+M:2/4
+L:1/8
+K:A
+`
+X:45
+T:Gullane Polka, The
+R:polka
+Z:id:hn-polka-45
+M:2/4
+L:1/8
+K:D
+`
+X:46
+T:Ray's Classic
+R:polka
+C:Willie Hunter, Shetland
+Z:id:hn-polka-46
+M:2/4
+L:1/8
+K:A
+`
+X:47
+T:Des's Polka
+R:polka
+C:Desmond Carthy, Dublin
+H:Composed to go after #46
+Z:id:hn-polka-47
+M:2/4
+L:1/8
+K:A
+`
+X:48
+T:Up and Away
+R:polka
+D:John McKenna & Michael Gaffney 1934 (Decca)
+D:Paul McGrattan: The Frost is All Over
+Z:id:hn-polka-48
+M:2/4
+L:1/8
+K:G
+`
+X:49
+T:Mountain Pathway, The
+R:polka
+D:Joe McHugh & Barry Carroll: The Long Finger
+D:Mary Bergin: Feadoga Stain 2
+D:Paul McGrattan: The Frost is All Over
+Z:id:hn-polka-49
+M:2/4
+L:1/8
+K:G
+`
+X:50
+T:no name
+R:polka
+D:Paul McGrattan: The Frost is All Over
+Z:id:hn-polka-50
+M:2/4
+L:1/8
+K:D
+`
+X:51
+T:Girl With the Blue Dress On, The
+R:polka
+Z:id:hn-polka-51
+M:2/4
+L:1/8
+K:G
+`
+X:52
+T:Julia Clifford's
+R:polka
+D:Mary Bergin: Feadoga Stain 2
+Z:id:hn-polka-52
+M:2/4
+L:1/8
+K:D
+`
+X:53
+T:Jenny Lind's Polka
+R:polka
+D:Mary Bergin: Feadoga Stain 2
+Z:id:hn-polka-53
+M:2/4
+L:1/8
+K:D
+`
+X:54
+T:O'Keeffe's Polka
+R:polka
+D:De Danann: The Mist Covered Mountain
+Z:id:hn-polka-54
+M:2/4
+L:1/8
+K:Bm
+`
+X:55
+T:Johnny I Do Miss You
+R:polka
+D:De Danann: The Mist Covered Mountain
+Z:id:hn-polka-55
+M:2/4
+L:1/8
+K:D
+`
+X:56
+T:Walshe's Polka
+R:polka
+H:Also played in G, #118
+Z:id:hn-polka-56
+M:2/4
+L:1/8
+K:A
+`
+X:57
+T:Dan Mac's Polka
+R:polka
+Z:id:hn-polka-57
+M:2/4
+L:1/8
+K:D
+`
+X:58
+T:Newmarket Polka, The
+R:polka
+Z:id:hn-polka-58
+M:2/4
+L:1/8
+K:A
+`
+X:59
+T:Jim Keefe's
+R:polka
+Z:id:hn-polka-59
+M:2/4
+L:1/8
+K:D
+`
+X:60
+T:Walsh's Polka
+R:polka
+Z:id:hn-polka-60
+M:2/4
+L:1/8
+K:A
+`
+X:61
+T:Lackagh Cross
+T:Bill the Weaver's
+T:Bill the Weaver's #2
+T:Din Tarrant's #1
+T:Lacha Cross
+T:Walsh's Polka
+R:polka
+Z:id:hn-polka-61
+M:2/4
+L:1/8
+K:Bm
+`
+X:62
+T:Jim Keeffe's
+R:polka
+Z:id:hn-polka-62
+M:2/4
+L:1/8
+K:D
+`
+X:63
+T:Jimmy Doyle's
+R:polka
+H:Also in A, #93
+Z:id:hn-polka-63
+M:2/4
+L:1/8
+K:G
+`
+X:64
+T:Lass of Gowrie, The
+T:Lakes of Sligo, The
+R:polka
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-polka-64
+M:2/4
+L:1/8
+K:D
+`
+X:65
+T:John with the Light Brown Hair
+T:Downey's
+R:polka
+H:Title from the march version in Roche's collection
+H:Cf. #122
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-polka-65
+M:2/4
+L:1/8
+K:Ador
+`
+X:66
+T:Gabhair\'in Bu\'i, An
+T:Yellow Goat, The
+T:T\'a Dh\'a Ghabhair\'in Bhu\'i Agam
+T:I Have Two Yellow Goats
+R:polka
+D:Begley & Cooney: Meitheal
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-polka-66
+M:2/4
+L:1/8
+K:G
+`
+X:67
+T:I Have a Bonnet Trimmed with Blue
+R:polka
+H:See also #70, #75
+Z:id:hn-polka-67
+M:2/4
+L:1/8
+K:A
+`
+X:68
+T:Return of Spring, The
+R:polka
+D:Joe McHugh & Barry Carroll: The Long Finger
+Z:id:hn-polka-68
+M:2/4
+L:1/8
+K:G
+`
+X:69
+T:Ballydesmond Polka
+T:Donncha Lynch's
+R:polka
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-69
+M:2/4
+L:1/8
+K:Dmix
+`
+X:70
+T:I Have a Bonnet Trimmed with Blue
+R:polka
+H:See also #67, #75
+Z:id:hn-polka-70
+M:2/4
+L:1/8
+K:D
+`
+X:71
+T:Tony Lowe's Polka
+T:Maid in the Blue Bonnet, The
+T:Toormore #1
+T:Tournmore, The
+T:Tuar Mor #1, The
+T:Gullane Polka, The
+T:Wallace's Cross
+R:polka
+Z:id:hn-polka-71
+M:2/4
+L:1/8
+K:D
+`
+X:72
+T:Tripping to the Well
+T:John McKenna's
+R:polka
+H:Also played in A, see #107
+D:John McKenna & Eddie Meehan 1937 (Decca)
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-72
+M:2/4
+L:1/8
+K:G
+`
+X:73
+T:I'll Buy Boots for Maggie
+R:polka
+Z:id:hn-polka-73
+M:2/4
+L:1/8
+K:Am
+`
+X:74
+T:Miss Mahany's Favourite
+R:polka
+Z:id:hn-polka-74
+M:2/4
+L:1/8
+K:D
+`
+X:75
+T:I Have a Bonnet Trimmed with Blue
+R:polka
+H:See also #67, #70
+Z:id:hn-polka-75
+M:2/4
+L:1/8
+K:D
+`
+X:76
+T:Little Diamond, The
+T:Girl from Lettermore, The
+R:polka
+H:On the Begley & Cooney recording it is called "The Magic Slipper",
+H:which is actually the name of another polka (#119) which was recorded in the
+H:same medley as this polka in 1936 by James Morrison and Tom Carmody.
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-76
+M:2/4
+L:1/8
+K:D
+`
+X:77
+T:J P Polka
+R:polka
+Z:id:hn-polka-77
+M:2/4
+L:1/8
+K:D
+`
+X:78
+T:P\'adraig O'Keeffe's
+R:polka
+Z:id:hn-polka-78
+M:2/4
+L:1/8
+K:A
+`
+X:79
+T:Nell Fee's
+R:polka
+Z:id:hn-polka-79
+M:2/4
+L:1/8
+K:D
+`
+X:80
+T:Charlie Harris' Polka
+R:polka
+H:A polka version of Charlie Harris' Reel
+D:Kevin Burke: Up Close
+Z:id:hn-polka-80
+M:2/4
+L:1/8
+K:D
+`
+X:81
+T:Hayden Fancy, The
+R:polka
+Z:id:hn-polka-81
+M:2/4
+L:1/8
+K:D
+`
+X:82
+T:Jim Keefe's Polka
+R:polka
+D:Jackie Daly: Music from Sliabh Luachra
+Z:id:hn-polka-82
+M:2/4
+L:1/8
+K:A
+`
+X:83
+T:Mrs. Crowley's
+R:polka
+Z:id:hn-polka-83
+M:2/4
+L:1/8
+K:G
+`
+X:84
+T:Jessica's Polka
+R:polka
+C:Mick Hanly
+H:Composed by Mick Hanly for his newborn daughter
+D:Kevin Burke: Up Close
+D:Mick Hanly: As I Went over Blackwater
+Z:id:hn-polka-84
+M:2/4
+L:1/8
+K:A
+`
+X:85
+T:Rakes of Mallow, The
+R:polka
+Z:id:hn-polka-85
+M:2/4
+L:1/8
+K:G
+`
+X:86
+T:Saint Mary's
+T:Gurteen Cross
+R:polka
+D:Chieftains 1.
+Z:id:hn-polka-86
+M:2/4
+L:1/8
+K:G
+`
+X:87
+T:Strathnairn, The
+R:polka
+C:Stephen Cooney (1953-)
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-87
+M:2/4
+L:1/8
+K:Bm
+`
+X:88
+T:Church Street
+T:Memories Of Ballymote
+R:polka
+D:Chieftains 1.
+Z:id:hn-polka-88
+M:2/4
+L:1/8
+K:G
+`
+X:89
+T:Johnny Leary's
+R:polka
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-89
+M:2/4
+L:1/8
+K:A
+`
+X:90
+T:Glen Cottage, The
+R:polka
+H:See also "Dennis Doody's", #21
+H:Related to the Scottish strathspey/reel Alister McAlister
+H:(Alasdair Mac Alasdair)
+Z:id:hn-polka-90
+M:2/4
+L:1/8
+K:Edor
+`
+X:91
+T:Dul dT\'i's Na R\'aiseanna
+T:Going to the Races
+R:polka
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-91
+M:2/4
+L:1/8
+K:E
+`
+X:92
+T:Cuz Teehan's
+T:Cuz Teahan's Delight
+R:polka
+C:Cuz Teahan
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-92
+M:2/4
+L:1/8
+K:A
+`
+X:93
+T:Jimmy Doyle's
+R:polka
+H:Also in G, #63
+D:Humdingers: Live in Oslo
+Z:id:hn-polka-93
+M:2/4
+L:1/8
+K:A
+`
+X:94
+T:Eddie Smyth's
+R:polka
+D:Humdingers: Live in Oslo
+Z:id:hn-polka-94
+M:2/4
+L:1/8
+K:D
+`
+X:95
+T:Merry Girl, The
+R:polka
+D:John McKenna & Michael Gaffney 1934 (Decca)
+Z:id:hn-polka-95
+M:2/4
+L:1/8
+K:G
+`
+X:96
+T:Thady Regan
+R:polka
+H:The melody of the song "The Spanish Lady"
+D:John McKenna & James Morrison 1928 (Columbia)
+Z:id:hn-polka-96
+M:2/4
+L:1/8
+K:D
+`
+X:97
+T:Tripping on the Mountain
+R:polka
+D:John McKenna & James Morrison 1928 (Columbia)
+Z:id:hn-polka-96
+M:2/4
+L:1/8
+K:D
+`
+X:98
+T:Neily Cleere's
+R:polka
+S:Dudde. "The Ballyvourney Polka", #38, was played after it.
+Z:id:hn-polka-98
+M:2/4
+L:1/8
+K:Dmix
+`
+X:99
+T:O'Sullivan's Polka
+R:polka
+D:Kevin Conneff: The Week before Easter
+Z:id:hn-polka-99
+M:2/4
+L:1/8
+K:G
+`
+X:100
+T:Padraig O'Keeffe's
+R:polka
+D:Kevin Conneff: The Week before Easter
+Z:id:hn-polka-100
+M:2/4
+L:1/8
+K:G
+`
+X:1
+T:Flogging Reel, The
+R:reel
+H:Originates from a Scottish reel called "The Flagon Reel"
+H:Version 1 and version 2 - The third parts are different.
+D:Chieftains: Live. Oisin: Over the Moor to Maggie.
+D:Mary Bergin: Feadoga Stain 2.
+Z:id:hn-reel-1
+M:C|
+K:G
+`
+X:2
+T:Trim the Velvet
+R:reel
+S:Mary Bergin
+H:Similar to "Kiss the Maid behind the Barrel", #549
+D:Mary Bergin: Feadoga Stain 2.
+Z:id:hn-reel-2
+M:C|
+K:G
+`
+X:3
+T:Jenny Picking Cockles
+R:reel
+H:See also #774, #427, #528.
+H:Related to "Jenny's Welcome to Charlie", #47.
+D:Patrick Street 2.
+D:Michael McGoldrick: Morning Rory
+Z:id:hn-reel-3
+M:C|
+K:Dmix
+`
+X:4
+T:Limestone Rock
+R:reel
+S:Mary Bergin
+H:There is also another reel by the same name. See also #90
+Z:id:hn-reel-4
+M:C|
+K:G
+`
+X:5
+T:Humours of Loughrea, The
+R:reel
+S:From Mary Bergin. Some of the variations are from other players.
+D:Fintan Vallely.
+Z:id:hn-reel-5
+M:C|
+K:G
+`
+X:6
+T:Mullingar Lee, The
+T:Nine Pint Coggie, The
+R:reel
+S:Kevin Burke
+D:Milestone at the Garden
+D:Hugh Gillespie 1937
+Z:id:hn-reel-6
+M:C|
+K:Gmix
+`
+X:7
+T:For the Sakes of Old Decency
+T:Farewell to Old Decency
+R:reel
+D:Chieftains Live.
+D:Michael Tubridy: The Eagle's Whistle.
+Z:id:hn-reel-7
+M:C|
+K:G
+`
+X:8
+T:Over the Moor to Maggie
+R:reel
+D:Oisin: Over the Moor to Maggie.
+D:Music at Matt Molloy's.
+Z:id:hn-reel-8
+M:C|
+K:G
+`
+X:9
+T:Humours of Tullah, The
+R:reel
+D:Stockton's Wing.
+D:The Johnstons.
+Z:id:hn-reel-9
+M:C|
+K:D
+`
+X:10
+T:Nine Points of Roguery
+R:reel
+D:The Johnstons.
+Z:id:hn-reel-10
+M:C|
+K:D
+`
+X:11
+T:Star of Munster, The
+R:reel
+H:Also in Edor, #626. Also as jig#282.
+H:Also in Gdor, #852. Also in G, #853.
+D:Chieftains Live.
+Z:id:hn-reel-11
+M:C|
+K:Ador
+`
+X:12
+T:Fermoy Lasses, The
+R:reel
+Z:id:hn-reel-12
+M:C|
+K:G
+`
+X:13
+T:Hunter's Purse, The
+R:reel
+Z:id:hn-reel-13
+M:C|
+K:Ador
+`
+X:14
+T:Over the Bog Road
+T:Hurricane's Victory, The
+R:reel
+D:De Dannan: Selected Jigs and Reels.
+Z:id:hn-reel-14
+M:C|
+K:G
+`
+X:15
+T:Providence, The
+R:reel
+C:John McGrath (?)
+D:Matt Molloy & Sean Keane: Contentment is Wealth.
+Z:id:hn-reel-15
+M:C|
+K:D
+`
+X:16
+T:Ravelled Hank of Yarn, The
+R:reel
+H:Related to "The Doon Reel", #388
+D:Declan Masterson: Tropical Trad.
+Z:id:hn-reel-16
+M:C|
+K:G
+`
+X:17
+T:Merry Blacksmith, The
+R:reel
+H:See also "Devils of Dublin", #868
+Z:id:hn-reel-17
+M:C|
+K:D
+`
+X:18
+T:Drowsy Maggie
+R:reel
+H:There is also a Donegal version, #464.
+Z:id:hn-reel-18
+M:C|
+K:Edor
+`
+X:19
+T:Wild Irishman, The
+R:reel
+D:Stockton's Wing.
+Z:id:hn-reel-19
+M:C|
+K:D
+`
+X:20
+T:Martin Rochford's Reel
+R:reel
+D:Patrick Street 1.
+Z:id:hn-reel-20
+M:C|
+K:Dm
+`
+X:21
+T:Tarbolton, The
+R:reel
+H:Originally Scottish: "Tarbolton Lodge"
+H:Often played as a set: The Tarbolton/The Longford Collector/The Sailor's Bonnet.
+H:This set comes from the playing of Michael Coleman.
+Z:id:hn-reel-21
+M:C|
+K:Edor
+`
+X:22
+T:Banshee, The
+T:McMahon's
+R:reel
+C:James McMahon (Co. Fermanagh fiddle/flute player, b. ~1900)
+Z:id:hn-reel-22
+M:C|
+K:G
+`
+X:23
+T:Sally Gardens, The
+R:reel
+Z:id:hn-reel-23
+M:C|
+K:G
+`
+X:24
+T:Roll Out the Barrel
+R:reel
+D:Patrick Street 1.
+D:Mary MacNamara.
+Z:id:hn-reel-24
+M:C|
+K:Em
+`
+X:25
+T:Earl's Chair, The
+R:reel
+C:Pakie Moloney
+H:The tune was supposedly composed by an East Galway flute player and an
+H:uncle of Mike Rafferty named Pakie Moloney. He composed the tune while
+H:sitting on a big rock in the Derrycrag Wood, and first called it "Down
+H:between the two Derryoobers" - as he was sitting between the two townlands
+H:of Derryoober East and Derryoober West. He later thought better of it and
+H:changed the name to a shorter one, "The Earl's Chair," which was the name
+H:of the big rock - named after the Earl of Clanrickard who reportedly rested
+H:there during his hunts.
+D:Patrick Street 1.
+D:Mary MacNamara.
+Z:id:hn-reel-25
+M:C|
+K:Bm
+`
+X:26
+T:Bank of Ireland, The
+R:reel
+Z:id:hn-reel-26
+M:C|
+K:Dmix
+`
+X:27
+T:Green Gates, The
+R:reel
+D:Stockton's Wing.
+D:Conal O'Grada: Top of Coom.
+Z:id:hn-reel-27
+M:C|
+K:G
+`
+X:28
+T:Maids of Mitchellstown, The
+R:reel
+D:Kevin Burke: Up Close.
+Z:id:hn-reel-28
+M:C|
+K:Ddor
+`
+X:29
+T:Teatotaller, The
+T:Temperance reel, The
+R:reel
+Z:id:hn-reel-29
+M:C|
+K:G
+`
+X:30
+T:Shoemaker's Daughter, The
+R:reel
+C:Ed Reavy (1898-1988)
+H:Ed Reavy was born in Co. Cavan, but lived most of his life in Philadelphia.
+Z:id:hn-reel-30
+M:C|
+K:Gmix
+`
+X:31
+T:Christmas Eve
+R:reel
+C:Tommy Coen (1910-1974)
+Z:id:hn-reel-31
+M:C|
+K:G
+`
+X:32
+T:Boyne Hunt, The
+R:reel
+C:Miss Stirling, Scotland
+H:The title of the original tune is "The Perthshire Hunt"
+D:Oisin: Over the Moor to Maggie.
+Z:id:hn-reel-32
+M:C|
+K:D
+`
+X:33
+T:Concertina Reel, The
+R:reel
+H:There's also a version in G, #792. Also in A, #793.
+D:Patrick Street 1.
+D:Noel Hill & Tony McMahon: I gCnoc na Grai.
+Z:id:hn-reel-33
+M:C|
+K:D
+`
+X:34
+T:Walter Sammon's Grandmother
+R:reel
+D:Patrick Street 1.
+Z:id:hn-reel-34
+M:C|
+K:D
+`
+X:35
+T:Brendan McMahon's
+R:reel
+D:Patrick Street 1.
+Z:id:hn-reel-35
+M:C|
+K:Edor
+`
+X:36
+T:Pinch of Snuff, The
+R:reel
+H:There are two other versions of this tune, #236 and #634.
+H:There is a different tune by the same name, #441.
+D:Chieftains Live.
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin.
+Z:id:hn-reel-36
+M:C|
+K:D
+`
+X:37
+T:De'il amang the Tailors, The
+T:Devil among the Tailors, The
+R:reel
+H:Originally Scottish. Also played in G, see #730
+H:See also American version "Devil's Dream", #845
+Z:id:hn-reel-37
+M:C|
+K:A
+|:eg|a2eg a2eg|a2ea fedc|dfBf dfBf|dfba gefg|
+`
+X:38
+T:Bird in the Bush, The
+R:reel
+D:Oisin: Over the Moor to Maggie.
+Z:id:hn-reel-38
+M:C|
+K:G
+`
+X:39
+T:Silver Spear, The
+R:reel
+H:Should not be confused with The Silver Spire, #373
+Z:id:hn-reel-39
+M:C|
+K:D
+`
+X:40
+T:Wise Maid, The
+T:All around the World
+R:reel
+C:John Doherty? (1900-1980)
+Z:id:hn-reel-40
+M:C|
+K:D
+`
+X:41
+T:Glen of Aherlow, The
+T:Woman I Never Forgot, The
+T:Lafferty's
+R:reel
+C:Sean Ryan (-1985)
+D:Four Men and a Dog: Shifting Gravel.
+D:Planxty.
+D:Kevin Burke & Micheal O'Donnell.
+D:Michael McGoldrick: Morning Rory
+Z:id:hn-reel-41
+M:C|
+K:Edor
+`
+X:42
+T:Twilight in Portroe
+T:Dawn, The
+R:reel
+C:Sean Ryan (-1985)
+H:Similar to "The Dawn", see #731
+H:Both reels are also sometimes played in G, see #732, #733
+D:De Dannan: Mist Covered Mountain.
+Z:id:hn-reel-42
+M:C|
+K:A
+`
+X:43
+T:My Love is in America
+R:reel
+D:Davy Spillane: Shadow Hunter.
+Z:id:hn-reel-43
+M:C|
+K:Dmix
+`
+X:44
+T:Musical Priest, The
+R:reel
+D:Matt Molloy: Stony Steps.
+Z:id:hn-reel-44
+M:C|
+K:Bm
+`
+X:45
+T:Boys of Malin, The
+R:reel
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin.
+Z:id:hn-reel-45
+M:C|
+K:A
+`
+X:46
+T:Galtee Ranger, The
+T:Humours of Galteemore, The
+T:Callaghan's
+R:reel
+H:Similar to "The Blackberry Blossom", #117
+Z:id:hn-reel-46
+M:C|
+K:D
+`
+X:47
+T:Jenny's Welcome to Charlie
+R:reel
+H:Originally from Scotland. Related to "Jenny Picking Cockles".
+D:Paddy Glackin & Paddy Keenan.
+D:Arty McGlynn: McGlynn's Fancy.
+Z:id:hn-reel-47
+M:C|
+K:Ddor
+`
+X:48
+T:Cooley's
+T:Luttrell's Pass
+R:reel
+C:Joe Mills, Galway (1938)
+D:Dubliners: 25 Years Celebration.
+D:Noel Hill & Tony Linnane
+D:Frankie Gavin & Paul Brock: Tribute to Joe Cooley
+Z:id:hn-reel-48
+M:C|
+K:Edor
+`
+X:49
+T:Hut in the Bog, The
+R:reel
+D:Mary Bergin: Feadoga Stain.
+Z:id:hn-reel-49
+M:C|
+K:Em
+`
+X:50
+T:Farewell to Erin
+T:Farewell to Ireland
+R:reel
+H:Originally a Scottish tune: "The Scotsman's Farewell to Ireland".
+H:Bars 1-6 are played one octave up by flutes, whistles and pipes.
+Z:id:hn-reel-50
+M:C|
+K:Ador
+`
+X:51
+T:Golden Keyboard, The
+R:reel
+C:Martin Mulhaire
+D:Matt Molloy & Sean Keane: Contentment is Wealth.
+Z:id:hn-reel-51
+M:C|
+K:Edor
+`
+X:52
+T:Dick Gossip's
+T:Castle Reel, The
+R:reel
+H:Sometimes played with the parts in the opposite order
+Z:id:hn-reel-52
+M:C|
+K:D
+`
+X:53
+T:Rakish Paddy
+R:reel
+H:The tune comes from the Scottish tune "Cabar Feidh" (The Deer's Antlers).
+H:It is related to "The Copperplate", #308.
+H:This is the standard version with variations.
+H:See also #54 (4-part version), #647 (Donegal version)
+Z:id:hn-reel-53
+M:C|
+K:Dmix
+`
+X:54
+T:Rakish Paddy
+R:reel
+H:The tune comes from the Scottish tune "Cabar Feidh" (The Deer's Antlers).
+H:It is related to "The Copperplate", #308.
+H:These are two different four-part versions.
+H:See also #53 (2-part version), #647 (Donegal version)
+Z:id:hn-reel-54
+M:C|
+K:Dmix
+P:Version 1:
+|:c3B c2AB|cBAG EG~G2|Add^c defe|dcAG FGAB|
+`
+X:55
+T:Mrs McLeod's
+R:reel
+C:Niel Gow, Scotland (1727-1807)
+H:The original title is "Mrs McLeod of Raasay".
+H:See also other versions, #491, #663
+H:In Scotland the parts are played in the opposite order, and the tune is in A.
+D:Music at Matt Molloy's.
+Z:id:hn-reel-55
+M:C|
+K:G
+`
+X:56
+T:Broken Pledge, The
+R:reel
+D:De Dannan: Selected Reels and Jigs.
+Z:Also played in Edor, see #734
+Z:id:hn-reel-56
+M:C|
+K:Ddor
+`
+X:57
+T:Boy in the Gap, The
+T:Boy in the Gaf, The
+R:reel
+H:See also #58
+D:Chieftains 1.
+Z:id:hn-reel-57
+M:C|
+K:Dmix
+`
+X:58
+T:Boy in the Gap, The
+T:Boy in the Gaf, The
+R:reel
+H:See also #57
+H:Often played with only two parts.
+H:The third part was composed by Paddy Taylor.
+Z:id:hn-reel-58
+M:C|
+K:D
+`
+X:59
+T:Concert Reel, The
+R:reel
+D:Frankie Gavin & Alec Finn.
+D:Stockton's Wing.
+Z:Bars 1 and 5 are sometimes played ~G3A B2GB
+Z:id:hn-reel-59
+M:C|
+K:G
+`
+X:60
+T:Gravel Walk, The
+T:Gravel Walks, The
+R:reel
+H:Belongs to the "Highlander Kissed His Granny" family.
+H:Other related tunes are "John Stenson's #1" #392
+H:"The Jolly Seven" #559, "The Highlandman That Kissed His Granny" #567,
+H:"The Highlandman" highland#10
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin.
+D:Matt Molloy: Stony Steps.
+Z:The last part is sometimes singled. See also Jenny's Chickens, #75
+Z:id:hn-reel-60
+M:C|
+K:Ador
+`
+X:61
+T:Brumley Brae, The
+R:reel
+C:Willie Macpherson (1919-1974)
+S:Kevin Finucane
+Z:id:hn-reel-61
+M:C|
+K:D
+`
+X:62
+T:Maudabawn Chapel
+R:reel
+C:Ed Reavy (1898-1988)
+Z:id:hn-reel-62
+M:C|
+K:Edor
+`
+X:63
+T:Cup of Tea, The
+R:reel
+H:Sometimes played as a two-part-only reel.
+Z:id:hn-reel-63
+M:C|
+K:Edor
+`
+X:64
+T:Flax in Bloom, The
+R:reel
+Z:id:hn-reel-64
+M:C|
+K:D
+`
+X:65
+T:Fairy Dance
+T:Largo's Fairy Dance
+R:reel
+C:Nathaniel Gow, Scotland (1763-1831)
+H:See also #649, #735
+Z:id:hn-reel-65
+M:C|
+K:D
+`
+X:66
+T:Drunken Landlady, The
+R:reel
+H:Also played in Ador, #888
+D:Mary Bergin: Feadoga Stain.
+Z:id:hn-reel-66
+M:C|
+K:Edor
+`
+X:67
+T:Murphy's Reel
+R:reel
+C:Charlie Mulvihill
+D:Paddy Moloney & Sean Potts: Tin Whistles.
+Z:id:hn-reel-67
+M:C|
+K:D
+`
+X:68
+T:Raheen Reel, The
+R:reel
+S:Kevin Burke, who got it from the Murphy family.
+D:Kevin Burke: Up Close.
+Z:id:hn-reel-68
+M:C|
+K:Ador
+`
+X:69
+T:Solus Lillis' Reel
+R:reel
+H:Also played in C, see #775
+D:Ashplant. Played in F on the recording.
+Z:id:hn-reel-69
+M:C|
+K:G
+`
+X:70
+T:Dublin Lasses, The
+T:Boys of Ballysodare, The
+T:Boys of Ballysadare, The
+R:reel
+H:Also played in F, see #736, #978
+Z:id:hn-reel-70
+M:C|
+K:G
+`
+X:71
+T:Corner House, The
+R:reel
+C:Said to be adapted from "The Battle of Aughrim" by Martin "Junior" Crehan (1908-1998)
+Z:id:hn-reel-71
+M:C|
+K:Ador
+`
+X:72
+T:Dingle Reel, The
+R:reel
+S:Kevin Burke, who got it from the Murphy family.
+D:Kevin Burke: Up Close.
+Z:id:hn-reel-72
+M:C|
+K:D
+`
+X:73
+T:Salamanca Reel, The
+R:reel
+D:Bothy Band 1975.
+Z:id:hn-reel-73
+M:C|
+K:D
+`
+X:74
+T:Sporting Molly
+T:Galway Bay
+T:Colonel McBain
+R:reel
+H:Sometimes played with 1st part single, 2nd part double
+H:Related to "Mother's Delight", #82
+D:Moving Cloud
+D:Maire O'Keeffe: Coistir
+Z:id:hn-reel-74
+M:C|
+K:Edor
+`
+X:75
+T:Jenny's Chickens
+R:reel
+H:Related to the Scottish tune "Sleepy Maggie", #650.
+H:Also related to Sean sa Cheo, #313.
+H:See also "The Gravel Walks", #70.
+D:Matt Molloy: Heathery Breeze.
+D:Paddy Glackin: In Full Spate.
+Z:id:hn-reel-75
+Z:Some people play it in Bdor (g#), others in Bm (g natural)
+Z:This tune is also played in Ador.
+M:C|
+K:Bdor
+`
+X:76
+T:Bean an T\'i ar L\'ar
+T:Woman of the House on the Floor, The
+T:Old Oak Tree, The
+R:reel
+D:De Dannan: Selected Jigs and Reels.
+D:Tommy Peoples.
+Z:id:hn-reel-76
+M:C|
+K:D
+`
+X:77
+T:Glass of Beer, The
+R:reel
+D:Oisin: Over the Moor to Maggie.
+D:Frankie Gavin: Up and Away
+Z:id:hn-reel-77
+M:C|
+K:Bm
+`
+X:78
+T:Julia Delaney
+T:Glenloe
+R:reel
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin.
+D:Bothy Band 1975.
+Z:id:hn-reel-78
+M:C|
+K:Ddor
+`
+X:79
+T:Mountain Road, The
+R:reel
+C:Michael Gorman (1895-1970)
+D:Sharon Shannon.
+Z:id:hn-reel-79
+M:C|
+K:D
+`
+X:80
+T:Doctor Gilbert's
+R:reel
+Z:id:hn-reel-80
+M:C|
+K:Edor
+`
+X:81
+T:Morning Dew, The
+T:Hare in the Heather, The
+R:reel
+H:Often played with part 2 as the first part, see #737
+H:Also played as a 4-part reel, with the first part of the variation as 4th part.
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin.
+D:Matt Molloy: Heathery Breeze.
+Z:id:hn-reel-81
+M:C|
+K:Edor
+`
+X:82
+T:Mother's Delight
+R:reel
+H:See also #967
+H:Related to "Sporting Molly", #74
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin.
+D:Frankie Gavin and Alec Finn.
+Z:id:hn-reel-82
+M:C|
+K:Ddor
+`
+X:83
+T:College Groves, The
+R:reel
+H:First part also played with c# all the way
+D:Kevin Burke: If the Cap Fits
+Z:id:hn-reel-83
+M:C|
+K:Dmix
+`
+X:84
+T:Last House in Connacht, The
+T:Dinny O'Brien's
+R:reel
+C:Paddy O'Brien
+H:See also #881
+D:Paddy Glackin: In Full Spate.
+Z:id:hn-reel-84
+M:C|
+K:Dmix
+`
+X:85
+T:Tinker's Daughter, The
+T:Broderick's
+R:reel
+C:Vincent Broderick (1920-2008)
+H:The 2nd ending for the 2nd part was added later.
+H:Second part is very similar to second part of "The Green Mountain", #126
+Z:id:hn-reel-85
+M:C|
+K:D
+`
+X:86
+T:Fisherman's Island
+T:Reavy's
+T:Reavy's #9
+R:reel
+C:Ed Reavy (1898-1988)
+Z:id:hn-reel-86
+M:C|
+K:D
+`
+X:87
+T:Mills are Grinding, The
+T:Turtle's Reel, The
+T:Tuttle's Reel
+T:Porthole of the Kelp, The
+T:Customs Gap, The
+R:reel
+D:Kevin Burke: Up Close.
+Z:id:hn-reel-87
+M:C|
+K:Ddor
+`
+X:88
+T:John McGinley's
+T:Harvest Moon, The
+R:reel
+C:John Mhosai McGinley
+D:Paddy Glackin: In Full Spate.
+Z:id:hn-reel-88
+M:C|
+K:Ador
+`
+X:89
+T:Corney is Coming
+R:reel
+D:Planxty.
+Z:id:hn-reel-89
+M:C|
+K:D
+`
+X:90
+T:Limestone Rock
+R:reel
+H:There is also another reel by the same name. See also #4
+D:Chieftains 1.
+Z:id:hn-reel-90
+M:C|
+K:G
+`
+X:91
+T:Crooked Road, The
+T:Crooked Road to Dublin, The
+R:reel
+Z:id:hn-reel-91
+M:C|
+K:G
+`
+X:92
+T:Foxhunter's Reel, The
+R:reel
+H:Also played in A, see #776
+D:Arcady: Many Happy Returns.
+Z:id:hn-reel-92
+M:C|
+K:G
+`
+X:93
+T:Bunch of Green Rushes
+R:reel
+D:Kevin Burke: Up Close.
+D:Frankie Gavin & Alec Finn.
+Z:id:hn-reel-93
+M:C|
+K:Dmix
+`
+X:94
+T:Congress Reel, The
+R:reel
+C:Joe Mills (Ballinasloe)
+H:composed by Joe Mills in 1932, the year of the Eucharistic Congress (the 
+H:World Eucharistic Congress, held in Dublin in June of 1932), presumably to 
+H:commemorate that event.
+Z:id:hn-reel-94
+M:C|
+K:Ador
+`
+X:95
+T:Reconciliation Reel, The
+R:reel
+D:Matt Molloy & Sean Keane: Contentment is Wealth.
+Z:id:hn-reel-95
+M:C|
+K:A
+`
+X:96
+T:Maid behind the Bar, The
+T:Barmaid, The
+T:Green Mountain, The
+T:Little Judy
+R:reel
+D:Stockton's Wing.
+Z:id:hn-reel-96
+M:C|
+K:D
+`
+X:97
+T:Dinky Dorian's
+T:Dinky's
+R:reel
+C:Francie Dearg O Beirn
+H:Also played in Dmix, see #777
+D:Altan: Horse with a Heart.
+D:De Dannan: .
+Z:id:hn-reel-97
+M:C|
+K:Amix
+`
+X:98
+T:McCahill's Reel
+R:reel
+H:Version 2 from Deirdre Shannon and Andy Dickson on Youtube
+Z:id:hn-reel-98
+M:C|
+K:D
+`
+X:99
+T:Off in the Morning
+T:Speed the Plough
+R:reel
+Z:id:hn-reel-99
+M:C|
+K:G
+`
+X:100
+T:Lads of Laois, The
+R:reel
+H:Originally Scottish: "The Lads of Leith"
+D:Arty McGlynn & Nollaig Casey: Lead the Knave.
+Z:id:hn-reel-100
+M:C|
+K:Edor
+`
+X:1
+T:Job of Journeywork, The
+R:set dance
+Z:id:hn-setdance-1
+M:C|
+K:Dmix
+`
+X:2
+T:King of the Fairies, The
+R:set dance
+Z:id:hn-setdance-2
+M:C|
+K:Edor
+`
+X:3
+T:Se\'an \'O Duibhir an Ghleanna
+R:set dance
+H:Paddy Glackin's version is missing the third bar of the second part.
+H:See also mangled hornpipe version hornpipe#17
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin
+D:Willie Clancy
+Z:id:hn-setdance-3
+M:C|
+K:Dmix
+`
+X:4
+T:Garden of Daisies, The
+R:set dance
+H:Also played with c# all the way
+D:Paddy Moloney & Sean Potts: Tin Whistles
+Z:id:hn-setdance-4
+M:C|
+K:D
+`
+X:5
+T:Piper in the Meadow Straying
+R:set dance
+Z:id:hn-setdance-5
+M:C|
+K:G
+`
+X:6
+T:Blackbird, The
+R:set dance
+H:An unusual version. The most common version is #8
+H:See also hornpipe#130
+D:Bothy Band: Out of the Wind, into the Sun
+Z:id:hn-setdance-6
+M:C|
+K:Dmix
+`
+X:7
+T:Rodney's Glory
+R:set dance
+H:Similar to "Princess Royal", #11
+Z:id:hn-setdance-7
+M:C|
+K:Ador
+`
+X:8
+T:Blackbird, The
+R:set dance
+H:See also #8
+D:Bothy Band: Out of the Wind, into the Sun
+Z:id:hn-setdance-8
+M:C|
+K:Dmix
+`
+X:9
+T:Bonaparte's Retreat
+R:set dance
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin
+Z:id:hn-setdance-9
+M:C|
+K:G
+`
+X:10
+T:Ace and Deuce of Pipering, The
+R:set dance
+H:See also #13
+D:Noel Hill & Tony McMahon: \'I gCnoc na Gra\'i
+Z:id:hn-setdance-10
+M:C|
+K:G
+`
+X:11
+T:Princess Royal
+R:set dance
+S:Jonas Lindholm
+H:A set dance version of the O'Carolan tune, hncar0.abc #14.
+H:Related to "Rodney's Glory", #7
+Z:id:hn-setdance-11
+M:C|
+K:Ador
+`
+X:12
+T:Saint Patrick's Day
+R:set dance
+H:see also march#3
+Z:id:hn-setdance-12
+M:6/8
+K:G
+`
+X:13
+T:Ace and Deuce of Pipering, The
+R:set dance
+H:See also #10
+D:Matt Molloy, Se\'an Keane, Liam O'Flynn: The Fire Aflame
+Z:id:hn-setdance-13
+M:C|
+L:1/8
+K:Ador
+`
+X:14
+T:Blackthorn Stick, The
+R:set dance
+Z:id:hn-setdance-14
+M:6/8
+L:1/8
+K:G
+`
+X:15
+T:Drunken Gauger, The
+R:set dance
+Z:id:hn-setdance-15
+M:6/8
+L:1/8
+K:G
+`
+X:16
+T:Is The Big Man Within?
+R:set dance
+Z:id:hn-setdance-16
+M:9/8
+L:1/8
+K:D
+`
+X:17
+T:Miss Brown's Fancy
+T:Planxty Browne
+R:set dance
+C:Turlough O'Carolan (1670-1738) or Nathaniel Gow (1763-1831)
+Z:id:hn-setdance-17
+M:6/8
+L:1/8
+K:G
+`
+X:18
+T:An Suisin B\'an
+T:White Blanket, The
+R:set dance
+H:See also "Casadh An tS\'ug\'ain", air#17
+Z:id:hn-setdance-18
+M:C|
+L:1/8
+K:G
+`
+X:1
+T:Elizabeth Kelly's Delight
+R:slip jig
+D:Deiseal.
+Z:id:hn-slipjig-1
+M:9/8
+K:Ador
+`
+X:2
+T:Foxhunter's Jig, The
+R:slip jig
+H:There's also a 2-part version in G called "Nead na Lachan sa Mhuta"
+H:(The Duck's Nest in the Ditch).
+H:Also similar to "The Humours of Derrykissane", #33, #34
+Z:id:hn-slipjig-2
+M:9/8
+K:D
+`
+X:3
+T:Butterfly, The
+R:hop jig
+C:Tommy Potts
+H:Fiddle player Tommy Potts made this tune from two older slip jigs,
+H:one of which is called "Skin the Peelers" in Roche's collection (255).
+D:Bothy Band: 1975.
+Z:id:hn-slipjig-3
+M:9/8
+K:Em
+`
+X:4
+T:Drops of Brandy, The
+R:slip jig
+H:Also played in A or in D.
+D:Stockton's Wing.
+Z:id:hn-slipjig-4
+M:9/8
+K:G
+`
+X:5
+T:Disused Railway, The
+R:slip jig
+Z:id:hn-slipjig-5
+M:9/8
+K:Bm
+`
+X:6
+T:Rocky Road to Dublin, The
+R:hop jig
+H:See also #50, song#55
+Z:id:hn-slipjig-6
+M:9/8
+K:Ador
+`
+X:7
+T:Dever the Dancer
+T:Humours of Whiskey, The
+R:slip jig
+H:Two versions included. See also #37.
+Z:id:hn-slipjig-7
+M:9/8
+K:Edor
+`
+X:8
+T:Devil and the Bailiff, The
+T:T\'aim in Arrears
+T:Moll Roe
+T:Mall Rua
+R:slip jig
+D:Stockton's Wing.
+D:Paul McGrattan: The Frost is all Over
+Z:id:hn-slipjig-8
+M:9/8
+K:G
+`
+X:9
+T:Comb Your Hair and Curl It
+R:hop jig
+D:Chieftains 1.
+Z:id:hn-slipjig-9
+M:9/8
+K:Edor
+`
+X:10
+T:An Phis Fhliuch
+T:Wet Pussy, The
+T:Choice Wife, The
+T:Perfect Wife, The
+T:Virgin Mary
+T:O'Farrell's Welcome to Limerick
+T:Boy in the Bush, The
+R:slip jig
+D:Willie Clancy: The Pipering of Willie Clancy 2.
+D:Davy Spillane: Atlantic Bridge.
+D:Planxty.
+D:Noel Hill: The Irish Concertina.
+D:Paul O'Shaughnessy & Paul McGrattan: Within a Mile from Dublin
+Z:id:hn-slipjig-10
+M:9/8
+K:Dmix
+`
+X:11
+T:Fisherman's
+T:Redican's Mother
+R:slip jig
+D:Matt Molloy: Heathery Breeze
+Z:id:hn-slipjig-11
+M:9/8
+K:D
+`
+X:12
+T:Exile's Jig, The
+R:hop jig
+D:Sweeney's Men
+Z:id:hn-slipjig-12
+M:9/8
+K:Edor
+`
+X:13
+T:Leitrim Town
+T:Whinny Hills of Leitrim, The
+R:slip jig
+D:Chieftains 4.
+D:Dervish: Harmony Hill
+Z:id:hn-slipjig-13
+M:9/8
+K:D
+`
+X:14
+T:Cock and the Hen, The
+T:F#m slip jig
+R:slip jig
+S:Cathal McConnell
+H:Also in Bm, see #51
+D:Joe McHugh & Barry Carroll: The Long Finger.
+D:Dervish: Playing with Fire
+Z:id:hn-slipjig-14
+M:9/8
+K:F#m
+`
+X:15
+T:Give us a Drink of Water
+T:Swaggering Jig, The
+R:slip jig
+H:See also #17, #59
+D:Bothy Band 1975.
+Z:id:hn-slipjig-15
+M:9/8
+K:G
+`
+X:16
+T:Whinny Hills of Leitrim, The
+R:slip jig
+Z:id:hn-slipjig-16
+M:9/8
+K:Dmix
+`
+X:17
+T:Swaggering Jig, The
+T:Give us a Drink of Water
+R:slip jig
+H:See also #15
+D:Matt Molloy & Sean Keane: Contentment is Wealth
+Z:id:hn-slipjig-17
+M:9/8
+K:G
+`
+X:18
+T:Tipperary Hills, The
+T:Michael Gorman's
+R:hop jig
+D:Bothy Band: Old Hag, You've Killed Me.
+Z:id:hn-slipjig-18
+M:9/8
+K:D
+`
+X:19
+T:Dusty Miller, The
+R:hop jig
+D:Tommy Keane: The Piper's Apron
+Z:id:hn-slipjig-19
+M:9/8
+K:D
+`
+X:20
+T:Silver Slipper, The
+R:hop jig
+D:Matt Molloy: Heathery Breeze
+D:Tommy Keane: The Piper's Apron
+Z:id:hn-slipjig-20
+M:9/8
+K:D
+`
+X:21
+T:Will You Come Down to Limerick?
+R:slip jig
+H:See also #22, #76
+D:Tommy Keane: The Piper's Apron
+Z:id:hn-slipjig-21
+M:9/8
+K:G
+`
+X:22
+T:Will You Come Down to Limerick?
+R:slip jig
+H:See also #21, #76
+D:Sean Keane: Jig it in Style.
+Z:id:hn-slipjig-22
+M:9/8
+K:G
+`
+X:23
+T:Piper's Apron, The
+R:slip jig
+D:Tommy Keane: The Piper's Apron
+Z:id:hn-slipjig-23
+M:9/8
+K:D
+`
+X:24
+T:Snowy Path, The
+R:hop jig
+C:Mark Kelly
+D:Altan: Harvest Storm
+Z:id:hn-slipjig-24
+M:9/8
+K:D
+`
+X:25
+T:Hardiman the Fiddler
+R:slip jig
+D:Paul O'Shaughnessy & Paul McGrattan: Within a Mile from Dublin
+Z:id:hn-slipjig-25
+M:9/8
+K:Dmix
+`
+X:26
+T:Boys of Ballysadare, The
+R:hop jig
+D:Chieftains 1.
+Z:id:hn-slipjig-26
+M:9/8
+K:G
+`
+X:27
+T:Another Jig Will Do
+R:slip jig
+Z:id:hn-slipjig-27
+M:9/8
+K:D
+`
+X:28
+T:Barney Brallaghan
+T:Barney Brannigan
+R:slip jig
+Z:id:hn-slipjig-28
+M:9/8
+K:D
+`
+X:29
+T:Hunting the Hare
+R:slip jig
+Z:id:hn-slipjig-29
+M:9/8
+K:D
+`
+X:30
+T:Deirdre's Fancy
+R:slip jig
+Z:id:hn-slipjig-30
+M:9/8
+K:Edor
+`
+X:31
+T:Kid on the Mountain, The
+R:slip jig
+Z:id:hn-slipjig-31
+M:9/8
+K:Em
+`
+X:32
+T:Caitl\'in N\'i Aedha
+T:Ellen O'Grady
+T:Eiblin Ni Grada
+R:slip jig
+H:Also in Amix or Dmix
+D:M\'aire N\'i Chathasaigh & Chris Newman: The Living Wood
+Z:id:hn-slipjig-32
+M:9/8
+K:Emix
+`
+X:33
+T:Humours of Derrykissane, The
+T:Humours of Derrykosane, The
+T:Humours of Derrycrossane, The
+R:slip jig
+H:Also in G, #34
+H:Similar to "The Foxhunter's Jig", #2
+Z:id:hn-slipjig-33
+M:9/8
+K:D
+`
+X:34
+T:Humours of Derrykissane, The
+T:Humours of Derrykosane, The
+T:Humours of Derrycrossane, The
+R:slip jig
+H:Also in D, #33
+H:Similar to "The Foxhunter's Jig", #2
+Z:id:hn-slipjig-34
+M:9/8
+K:G
+`
+X:35
+T:Dusty Miller, The
+R:hop jig
+H:See also #54
+D:Matt Molloy, Sean Keane & Liam O'Flynn: The Fire Aflame
+Z:id:hn-slipjig-35
+M:9/8
+K:G
+`
+X:36
+T:Promenade, The
+R:hop jig
+D:Tommy Keane & Jacqueline McCarthy: The Wind among the Reeds.
+Z:id:hn-slipjig-36
+M:9/8
+K:Ador
+`
+X:37
+T:Humours of Whiskey, The
+T:High Road to Dublin, The
+R:slip jig
+H:See also #39, #40, #7, #77
+D:Altan: Altan.
+Z:id:hn-slipjig-37
+M:9/8
+K:Edor
+`
+X:38
+T:Fairy Jig, The
+R:slip jig
+H:See also #39
+D:Altan: Altan.
+Z:id:hn-slipjig-38
+M:9/8
+K:Dmix
+`
+X:39
+T:Fairy Jig, The
+R:slip jig
+H:See also #38
+D:Paddy Glackin: In Full Spate
+Z:id:hn-slipjig-39
+M:9/8
+K:Dmix
+`
+X:40
+T:Humours of Whiskey, The
+R:slip jig
+H:See also #37, #77
+D:Altan: Altan.
+Z:id:hn-slipjig-40
+M:9/8
+K:Bm
+`
+X:41
+T:Sport of the Chase, The
+R:hop jig
+Z:Also on A, #42
+Z:id:hn-slipjig-41
+M:9/8
+K:G
+`
+X:42
+T:Sport of the Chase, The
+R:hop jig
+Z:Also on G, #41
+Z:id:hn-slipjig-42
+M:9/8
+K:A
+`
+X:43
+T:Hardiman the Fiddler
+T:First Slip, The
+T:My First Slip
+R:slip jig
+Z:id:hn-slipjig-43
+M:9/8
+K:G
+`
+X:44
+T:Cucanandy
+R:hop jig
+D:Cran: The Crooked Stair
+Z:id:hn-slipjig-44
+M:9/8
+K:Edor
+`
+X:45
+T:Doodely Doodely Dank
+R:slip jig
+H:Played by Con Cassidy. Related to #84
+D:Paul O'Shaughnessy & Paul McGrattan: Within a Mile from Dublin
+Z:id:hn-slipjig-45
+M:9/8
+K:G
+`
+X:46
+T:Top It Off
+R:hop jig
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin
+Z:id:hn-slipjig-46
+M:9/8
+K:D
+`
+X:47
+T:no name
+R:hop jig
+D:Matt Molloy: Stony Steps
+Z:id:hn-slipjig-47
+M:9/8
+K:D
+`
+X:48
+T:My Love with the Yellow Locks
+T:Cail\'in na Gruaige Bu\'i
+T:Campbells are Coming, The
+R:slip jig
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-slipjig-48
+M:9/8
+K:G
+`
+X:49
+T:Hawthorn, The
+T:Bunch of Haws, A
+R:slip jig
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-slipjig-49
+M:9/8
+K:G
+`
+X:50
+T:Rocky Road to Dublin, The
+R:slip jig
+H:See also #6
+D:Tommy Keane & Jacqueline McCarthy: The Wind among the Reeds.
+D:Seamus Ennis: The Pure Drop
+Z:id:hn-slipjig-50
+M:9/8
+K:Ador
+`
+X:51
+T:Cock and the Hen, The
+R:slip jig
+H:Version 2: Roche Collection 252
+H:Also in F#m, see #14
+Z:id:hn-slipjig-51
+M:9/8
+L:1/8
+K:Bm
+`
+X:52
+T:My Mind Will Never Be Easy
+R:slip jig
+H:Originally (?) Scottish: "Woo'd And Merrit An' A'"
+D:Michael McGoldrick: Morning Rory
+D:Dervish: Playing with Fire
+Z:id:hn-slipjig-52
+M:9/8
+K:G
+`
+X:53
+T:A Fig for a Kiss
+R:slip jig
+Z:id:hn-slipjig-53
+M:9/8
+K:Edor
+`
+X:54
+T:Dusty Miller, The
+R:hop jig
+S:Jonas Lindholm
+H:See also #35
+Z:id:hn-slipjig-54
+M:9/8
+K:G
+`
+X:55
+T:Blast of Wind, A
+T:Rakes Of Westmeath, The
+T:Humours Of Westmeath, The
+T:Drops of Spring Water
+R:slip jig
+Z:id:hn-slipjig-55
+M:9/8
+K:D
+`
+X:56
+T:Paddy O'Snap
+R:slip jig
+Z:id:hn-slipjig-56
+M:9/8
+K:D
+`
+X:57
+T:Ride a Mile
+T:Riding a Mile
+T:Riding a Mule
+T:Ride a Mule
+T:A Mile to Ride
+R:slip jig
+Z:id:hn-slipjig-57
+M:9/8
+K:G
+`
+X:58
+T:James Byrne's
+T:Byrne's Quickstep
+T:Paddy Hi\'uda\'i's
+R:slip jig
+H:See also #68 in G
+Z:hn-slipjig-58
+M:9/8
+K:D
+`
+X:59
+T:Fair of Bellaghy, The
+T:Swaggering Jig, The
+R:slip jig
+H:The "long" (1/4) notes are held out for an extra beat when singing
+H:the song, and the parts are not repeated. See also #15
+Z:id:hn-slipjig-59
+M:9/8
+K:G
+`
+X:60
+T:Na Ceannabh\'ain Bhana
+R:slip jig
+Z:id:hn-slipjig-60
+M:9/8
+L:1/8
+K:G
+W:I will send you up to Sean's Sive
+W:And she will put a spancel on you in the glen.
+`
+X:61
+T:Arra Mountains
+T:Arragh Mountains
+R:slip jig
+C:Paddy O'Brien (1922-1981) of Newtown, Co. Tipperary
+Z:id:hn-slipjig-61
+M:9/8
+L:1/8
+K:Ador
+`
+X:62
+T:The Peacock Followed the Hen
+R:slip jig
+O:Northumbria
+Z:id:hn-slipjig-62
+M:9/8
+K:Ador
+`
+X:63
+T:Paddy Be Aisy
+R:slip jig
+H:See also #71
+Z:id:hn-slipjig-63
+M:9/8
+L:1/8
+K:Ador
+|: ~A3 edB efg | ~A3 edB d2B | ~A3 edB efg |1 fed edB d2B :|2 fed edB d2e ||
+|: fef afd efg | fef afd g2e | fef afd efg |1 fed edB d2e :|2 fed edB d2B ||
+`
+X:64
+T:Minor Slip
+T:Throw The Beetle At Her
+R:hop jig
+H:Also in E minor #69
+Z:id:hn-slipjig-64
+M:9/8
+L:1/8
+K:Bm
+`
+X:65
+T:Garech's Wedding
+R:slip jig
+C:Paddy Moloney
+Z:id:hn-slipjig-65
+M:9/8
+L:1/8
+K:Em
+`
+X:66
+T:Tickle the Wig
+T:Lass in the Parlour, The
+R:slip jig
+Z:id:hn-slipjig-66
+M:9/8
+L:1/8
+K:Ador
+`
+X:67
+T:Gusty's Frolics
+R:slip jig
+Z:id:hn-slipjig-67
+M:9/8
+L:1/8
+K:D
+`
+X:68
+T:Leitrim Quickstep, The
+R:slip jig
+H:See also #58 in D
+B:CRE IV 35
+Z:id:hn-slipjig-68
+M:9/8
+L:1/8
+K:G
+`
+X:69
+T:Throw The Beetle At Her
+T:Minor Slip
+R:hop jig
+H:Also in B minor #64
+B:CRE IV #43
+Z:id:hn-slipjig-69
+M:9/8
+L:1/8
+K:Em
+`
+X:70
+T:Foxhunter's Jig, The
+T:Nead na Lachan sa Mhuta
+T:Duck's Nest in the Ditch, The
+R:hop jig
+H:There is also a four part version in D, #2
+H:Also similar to "The Humours of Derrykissane", #33, #34
+B:Roche 265
+D:Chieftains Live
+Z:id:hn-slipjig-70
+M:9/8
+K:G
+`
+X:71
+T:Last Night's Fun
+R:slip jig
+H:See also #63
+D:Joel Bernstein & Randal Bays: Pigtown Fling
+Z:id:hn-slipjig-71
+M:9/8
+L:1/8
+K:Dmix
+`
+X:72
+T:Tenpenny Piece, The
+R:slip jig
+D:Angelina Carberry & Martin Quinn
+M:9/8
+L:1/8
+K:Em
+`
+X:73
+T:Buckskin Breeches
+R:slip jig
+B:Roche Collection
+Z:hn-slipjig-73
+M:9/8
+K:G
+`
+X:74
+T:Baltiorum
+R:slip jig
+Z:hn-slipjig-74
+M:9/8
+L:1/8
+K:G
+`
+X:75
+T:I Am the Man for Bewitching Them
+T:I'm the Boy for Bewitching Them
+R:slip jig
+S:Brid Harper on Youtube
+Z:hn-slipjig-75
+M:9/8
+L:1/8
+K:G
+`
+X:76
+T:Will You Come Down to Limerick?
+T:Kitty Come Down to Limerick
+T:Munster Gimlet, The
+R:slip jig
+H:See also #21, #22
+Z:id:hn-slipjig-76
+M:9/8
+K:G
+`
+X:77
+T:Humours of Whiskey, The
+R:slip jig
+H:See also #40, #37
+B:CRE 1 #66
+Z:id:hn-slipjig-77
+M:9/8
+K:Em
+`
+X:78
+T:Farewell To Whalley Range
+R:slip jig
+C:Michael McGoldrick
+Z:hn-slipjig-78
+M:9/8
+L:1/8
+K:F#m
+`
+X:79
+T:Open The Door For Three
+R:slip jig
+Z:hn-slipjig-79
+M:9/8
+L:1/8
+K:G
+`
+X:80
+T:Highway to Kilkenny, The
+T:Humours of Kilkenny, The
+R:slip jig
+Z:hn-slipjig-80
+M:9/8
+L:1/8
+K:G
+`
+X:81
+T:Turf Cutter, The
+R:slip jig
+S:Altan
+Z:hn-slipjig-81
+M:9/8
+L:1/8
+K:Ador
+`
+X:82
+T:Aodhan's
+R:slip jig
+C:Mick McAuley
+S:Per Johansson
+Z:hn-slipjig-82
+M:9/8
+L:1/8
+K:Amix
+`
+X:83
+T:Bean Ph\'aid\'in
+R:slip jig
+Z:hn-slipjig-83
+M:9/8
+L:1/8
+K:D
+`
+X:84
+T:Cat And The Dog, The
+R:slip jig
+H:Related to #45
+D:Julie Fowlis
+Z:hn-slipjig-84
+M:9/8
+L:1/8
+K:G
+`
+X:85
+T:I Have a House of My Own with a Chimney Built on Top of It
+R:slip jig
+C:Martin "Junior" Crehan (1908-1998)
+H:This is the longest tune title in my collection!
+H:Also in Am #87
+D:L\'unasa: Redwood
+Z:hn-slipjig-85
+M:9/8
+L:1/8
+K:Bm
+`
+X:86
+T:Johnny Loves Molly
+R:slip jig
+D:Niall & Cillian Vallely: Callan Bridge
+Z:hn-slipjig-86
+M:9/8
+L:1/8
+K:D
+`
+X:87
+T:I Have a House of My Own with a Chimney Built on Top of It
+R:slip jig
+C:Martin "Junior" Crehan (1908-1998)
+H:This is the longest tune title in my collection!
+H:Also in Bm #85
+D:Paddy O'Brien
+Z:hn-slipjig-87
+M:9/8
+L:1/8
+K:Am
+`
+X:88
+T:Night Before Larry Was Stretched, The
+T:Night Poor Larry Was Stretched, The
+R:slip jig
+H:Also played in Am or Gm or Bm
+Z:hn-slipjig-88
+M:9/8
+L:1/8
+K:Em
+`
+X
+M:6/8
+L:1/8
+`
+X:1
+T:no name
+R:slide
+D:Chieftains: Live
+Z:id:hn-slide-1
+M:6/8
+K:D
+`
+X:2
+T:Hare in the Corn, The
+T:Old Hag in the Corner, The
+T:Rathawaun Jig, The
+R:slide
+D:Planxty
+D:Chieftains: Live
+Z:id:hn-slide-2
+M:6/8
+K:D
+`
+X:3
+T:If I Had a Wife
+T:Dennis Murphy's
+T:Nellie Mahony's
+T:Art O'Keeffe's
+R:slide
+D:Chieftains: Live
+Z:id:hn-slide-3
+M:6/8
+K:G
+`
+X:4
+T:Merrily Kiss the Quaker's Wife
+R:single jig
+H:See also #54
+Z:id:hn-slide-4
+M:6/8
+K:G
+`
+X:5
+T:Gleanntan Slide
+T:Girl in the Dress, The
+R:slide
+Z:id:hn-slide-5
+M:6/8
+K:D
+`
+X:6
+T:Patsy Geary's
+R:single jig
+Z:id:hn-slide-6
+M:6/8
+K:D
+`
+X:7
+T:Rosie Finn's Favourite
+R:slide
+D:Bothy Band: Old Hag You've Killed Me
+Z:id:hn-slide-7
+M:6/8
+K:G
+`
+X:8
+T:Frieze Breeches, The
+R:slide
+H:See also jig #86
+D:Paddy Glackin: Ceol ar an bhFidil le Paddy Glackin
+D:Matt Molloy: Heathery Breeze
+Z:id:hn-slide-8
+M:6/8
+K:Dmix
+`
+X:9
+T:Star above the Garter, The
+R:slide
+Z:id:hn-slide-9
+M:6/8
+K:G
+`
+X:10
+T:Off She Goes
+R:slide
+S:Sean Ryan
+Z:id:hn-slide-10
+M:6/8
+K:D
+`
+X:11
+T:Captain Jinks
+R:slide
+D:Chieftains Live
+Z:id:hn-slide-11
+M:6/8
+K:D
+`
+X:12
+T:Paudy Scully's
+T:Dan Patsy's
+T:Turnip Jig, The
+R:slide
+Z:id:hn-slide-12
+M:6/8
+K:Bm
+`
+X:13
+T:When the Cock Crows it is Day
+T:Ta an coileach ag fogairt an lae
+R:slide
+Z:id:hn-slide-13
+M:6/8
+K:G
+`
+X:14
+T:Going to the Well for Water
+T:Kaiser, The
+R:slide
+D:Sean Ryan: Siuil Uait
+Z:id:hn-slide-14
+M:6/8
+K:D
+`
+X:15
+T:Cnoc na gClarac
+R:slide
+S:Erik Fossum
+Z:id:hn-slide-15
+M:6/8
+K:Amix
+`
+X:16
+T:Priest, The
+R:slide
+D:Bothy Band: Out of the Wind, into the Sun
+Z:id:hn-slide-16
+M:6/8
+K:G
+`
+X:17
+T:Cathleen Hehir's
+R:slide
+D:De Danann I
+Z:id:hn-slide-17
+M:6/8
+K:D
+`
+X:18
+T:Mary Willie's
+T:Cat's Rambles to the Child's Saucepan, The
+R:slide
+D:Bothy Band: Out of the Wind, into the Sun
+Z:id:hn-slide-18
+M:6/8
+K:D
+`
+X:19
+T:This Is My Love, Do You Like Her?
+R:slide
+H:See also #56, #57
+Z:id:hn-slide-19
+M:6/8
+K:Ador
+`
+X:20
+T:Weavers, The
+T:Weaver's, The
+R:slide
+Z:id:hn-slide-20
+M:6/8
+K:D
+`
+X:21
+T:Scattery Island
+R:slide
+D:Sean Ryan: Siuil Uait
+D:Four Men and a Dog: Shifting Gravel
+Z:id:hn-slide-21
+M:6/8
+K:D
+`
+X:22
+T:Miko Doyle's
+T:Old Favourite, The
+R:slide
+H:Also played in A, #60
+D:Sean Ryan: Siuil Uait
+Z:id:hn-slide-22
+M:6/8
+K:G
+`
+X:23
+T:Blooming Meadows, The
+R:single jig
+Z:id:hn-slide-23
+M:6/8
+K:G
+`
+X:24
+T:Cock of the North, The
+T:Cock o' the North
+T:Chase me Charlie
+R:slide
+Z:id:hn-slide-24
+M:6/8
+K:G
+`
+X:25
+T:Stool of Repentance, The
+R:single jig
+C:Niel Gow, Scotland (1727-1807)
+Z:id:hn-slide-25
+M:6/8
+K:A
+`
+X:26
+T:Old Hag in the Kiln, The
+T:Dinny Delaney's
+R:slide
+H:Parts 3 and 4 are optional.
+Z:id:hn-slide-26
+M:6/8
+K:Dmix
+`
+X:27
+T:no name
+R:slide
+Z:id:hn-slide-27
+M:6/8
+K:G
+`
+X:28
+T:An Ch\'oisir
+T:House Party, The
+R:slide
+H:See also #36
+D:Begley & Cooney: Meitheal
+Z:id:hn-slide-28
+M:6/8
+K:Em
+`
+X:29
+T:Munster Buttermilk
+R:single jig
+H:Often played in G also, see #94
+Z:id:hn-slide-29
+M:6/8
+K:D
+`
+X:30
+T:Lisheen Slide, The
+R:slide
+H:Also played in G, see #71
+D:Begley & Cooney: Meitheal
+Z:id:hn-slide-30
+M:6/8
+K:A
+`
+X:31
+T:Se\'an Bu\'i
+T:Over the Water to Charlie
+R:slide
+H:Also in G, #61
+Z:id:hn-slide-31
+M:6/8
+K:D
+`
+X:32
+T:Pat Ward's Jig
+T:Highlander's Kneebuckle, The
+R:slide
+Z:id:hn-slide-32
+M:6/8
+K:D
+`
+X:33
+T:Ask My Father
+R:slide
+Z:id:hn-slide-33
+M:6/8
+K:Dmix
+`
+X:34
+T:Maidhc Dainnin \'O S\'e's Slide
+R:slide
+Z:id:hn-slide-34
+M:6/8
+K:D
+`
+X:35
+T:An B\'othar \'o Thuaidh go Tr\'a L\'i
+T:Road to Tralee, The
+R:slide
+H:See also "Is Maith le Nora", #69
+Z:id:hn-slide-35
+M:6/8
+K:D
+`
+X:36
+T:House Party, The
+T:An Ch\'oisir
+T:Johnny O'Leary's Slide
+T:Toormore Slide, The
+R:slide
+H:See also #28
+Z:id:hn-slide-36
+M:6/8
+K:Bm
+`
+X:37
+T:P\'adraig O'Keefe's Slide
+R:slide
+Z:id:hn-slide-37
+M:6/8
+K:D
+`
+X:38
+T:P\'adraig O'Keefe's Slide
+R:slide
+Z:id:hn-slide-38
+M:6/8
+K:D
+`
+X:39
+T:Keefe's
+R:slide
+Z:id:hn-slide-39
+M:6/8
+K:D
+`
+X:40
+T:Rain a Sup
+T:Kiskeam
+R:slide
+Z:id:hn-slide-40
+M:6/8
+K:G
+`
+X:41
+T:O\'iche Nollaig
+T:Christmas Eve
+R:slide
+H:Also as a reel, #719
+Z:id:hn-slide-41
+M:6/8
+K:D
+`
+X:42
+T:Long Note, The
+R:slide
+H:Also as a reel, #534
+Z:id:hn-slide-42
+M:6/8
+K:Dmix
+`
+X:43
+T:Padraig O'Keeffes
+R:slide
+D:Maire O'Keefe
+Z:id:hn-slide-43
+M:6/8
+K:G
+`
+X:44
+T:Padraig O'Keeffes
+R:slide
+H:First part cf. John O'Connor, Carolan#19
+D:Maire O'Keefe
+Z:id:hn-slide-44
+M:6/8
+K:G
+`
+X:45
+T:Padraig O'Keeffes
+R:slide
+D:Maire O'Keefe
+Z:id:hn-slide-45
+M:6/8
+K:G
+`
+X:46
+T:Cape Breton Favourite
+R:single jig
+D:Maire O'Keefe
+O:Cape Breton
+Z:id:hn-slide-46
+M:6/8
+K:G
+`
+X:47
+T:Whiskey Jig, The
+R:single jig
+D:Maire O'Keefe
+O:Cape Breton
+Z:id:hn-slide-47
+M:6/8
+K:G
+`
+X:48
+T:Dinny O'Keefe's
+R:slide
+Z:id:hn-slide-48
+M:6/8
+K:Amix
+`
+X:49
+T:Dingle Regatta, The
+R:slide
+Z:id:hn-slide-49
+M:6/8
+K:G
+`
+X:50
+T:Johnny Mickie's Slide
+R:slide
+D:Jackie Daly and Seamus Creagh
+Z:id:hn-slide-50
+M:6/8
+K:D
+`
+X:51
+T:O'Keefe's slide
+T:Dan O'Keefe's slide
+R:slide
+H:Also played in Edor
+Z:id:hn-slide-51
+M:6/8
+K:Ador
+`
+X:52
+T:Denny Mescall's
+R:slide
+Z:id:hn-slide-52
+M:6/8
+K:G
+`
+X:53
+T:Willie's Single
+R:single jig
+D:Sean Keane: Jig It in Style
+Z:id:hn-slide-53
+M:6/8
+K:D
+`
+X:54
+T:Merrily Kiss the Quaker's Wife
+R:slide
+H:See also #4
+D:Chieftains Live
+Z:id:hn-slide-54
+M:6/8
+K:G
+`
+X:55
+T:Nelly Mahony's
+R:slide
+Z:id:hn-slide-55
+M:6/8
+K:A
+`
+X:56
+T:no name
+R:slide
+H:See also #19, #57
+Z:id:hn-slide-56
+M:6/8
+K:Ador
+`
+X:57
+T:My Love in the Morning
+R:slide
+H:See also #19, #56
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-slide-57
+M:6/8
+K:Ador
+`
+X:58
+T:Nora Criona
+T:Nora Creena
+T:Old Nora
+R:slide
+H:also played in G
+Z:id:hn-slide-58
+M:6/8
+L:1/8
+K:D
+`
+X:59
+T:Miller's Maggot, The
+R:single jig
+S:J\"orgen Fischer
+Z:hn-slide-59
+M:6/8
+K:G
+`
+X:60
+T:Miko Doyle's
+T:Old Favourite, The
+R:slide
+H:Also played in G, #22
+D:Sean Ryan: Siuil Uait
+Z:id:hn-slide-60
+M:6/8
+K:A
+`
+X:61
+T:Se\'an Bu\'i
+T:Over the Water to Charlie
+R:slide
+H:Also in D, #31
+Z:id:hn-slide-61
+M:6/8
+K:G
+`
+X:62
+T:Barrack Hill
+T:Cat Jumped into the Mouse's Hole, The
+R:slide
+Z:id:hn-slide-62
+M:6/8
+L:1/8
+K:Ador
+`
+X:63
+T:Hundred Pipers, A
+T:Hair Fell Off My Coconut, The
+R:slide
+H:Originally a Scottish march
+Z:id:hn-slide-63
+M:6/8
+L:1/8
+K:A
+`
+X:64
+T:Connie Walsh's
+T:C\'uil Aodha Slide, The
+R:slide
+Z:id:hn-slide-64
+M:6/8
+L:1/8
+K:D
+`
+X:65
+T:Gleanntan Frolics, The
+R:slide
+H:See also jig#385 "Westering Home"
+Z:id:hn-slide-65
+M:6/8
+L:1/8
+K:D
+`
+X:66
+T:Padraig O'Keefe's
+T:Bank of Turf, The
+R:jig
+H:Also played as a jig (#93)
+Z:id:hn-slide-66
+M:6/8
+K:D
+`
+X:67
+T:Brosna Slide
+R:slide
+Z:id:hn-slide-67
+M:6/8
+L:1/8
+K:G
+`
+X:68
+T:Micho Russell's Slide
+T:Callaghan's Slide
+R:slide
+D:Dervish
+Z:id:hn-slide-68
+M:6/8
+L:1/8
+K:D
+`
+X:69
+T:Is Maith le Nora
+R:slide
+S:Dag Westling, who got it from Kevin Ryan and Marco Pollier
+H:See also "The Road to Tralee", #35
+M:6/8
+L:1/8
+K:D
+`
+X:70
+T:Devil the Care
+T:Brannigan's
+T:Johnny O'Leary's
+R:slide
+S:Seamus Begley
+F:http://www.youtube.com/watch?v=KiVSvvYfMU8
+Z:id:hn-slide-70
+M:6/8
+L:1/8
+K:A
+`
+X:71
+T:Lisheen Slide, The
+R:slide
+H:Also played in A, see #30
+Z:id:hn-slide-71
+M:6/8
+L:1/8
+K:G
+`
+X:72
+T:no name
+R:slide
+Z:id:hn-slide-72
+M:6/8
+L:1/8
+K:D
+`
+X:73
+T:no name
+R:slide
+Z:id:hn-slide-73
+M:6/8
+L:1/8
+K:D
+`
+X:74
+T:Recruiting Sergeant, The
+R:slide
+H:See also "The Peeler and the Goat" #80
+D:Pogues
+Z:id:hn-slide-74
+M:6/8
+L:1/8
+K:Edor
+`
+X:75
+T:Cock Your Pistol Charlie
+R:slide
+H:Also with parts in opposite order
+Z:id:hn-slide-75
+M:6/8
+L:1/8
+K:Edor
+|: E2e e2f | g2f e2c | d2B A2F | D2E FED |
+`
+X:76
+T:Road To Lisdoonvarna, The
+R:slide
+Z:id:hn-slide-76
+M:6/8
+L:1/8
+K:Edor
+`
+X:77
+T:Scully Casey's
+R:single jig
+D:John Williams
+Z:id:hn-slide-77
+M:6/8
+L:1/8
+K:Dmix
+`
+X:78
+T:Thadelo's
+R:slide
+Z:id:hn-slide-78
+M:6/8
+L:1/8
+K:A
+`
+X:79
+T:Smash the Windows
+T:Roaring Jelly
+R:single jig
+Z:id:hn-slide-79
+M:6/8
+L:1/8
+K:D
+`
+X:80
+T:Peeler and the Goat, The
+R:slide
+H:See also "The Recruiting Sergeant", #74
+D:Angelina Carberry and Martin Quinn
+Z:id:hn-slide-80
+M:6/8
+L:1/8
+K:Ador
+`
+X:81
+T:Se\'an Bu\'i
+T:Over the Water to Charlie
+R:slide
+H:See also #31, #61
+Z:id:hn-slide-81
+M:6/8
+K:D
+`
+X:82
+T:Crossroads Fling, The
+T:Kiely's
+R:slide
+Z:id:hn-slide-82
+M:6/8
+L:1/8
+K:D
+`
+X:83
+T:Con Carthy's Favourite
+R:slide
+Z:id:hn-slide-83
+M:6/8
+L:1/8
+K:Bm
+`
+X:84
+T:Leave Well Alone
+R:slide
+Z:id:hn-slide-84
+M:6/8
+L:1/8
+K:D
+`
+X:85
+T:Denis Murphy's
+R:slide
+D:Jerry O'Sullivan
+Z:id:hn-slide-85
+M:6/8
+L:1/8
+K:G
+`
+X:86
+T:no name
+R:slide
+Z:id:hn-slide-86
+M:6/8
+L:1/8
+K:Ador
+`
+X:87
+T:North Clare Jig, The
+T:Old Kilfenora Jig, The
+R:slide
+Z:id:hn-slide-87
+M:6/8
+L:1/8
+K:G
+`
+X:88
+T:Dan O'Keefe's
+R:slide
+Z:id:hn-slide-88
+M:6/8
+L:1/8
+K:Edor
+`
+X:89
+T:Art O'Keefe's
+T:Teehan's Favourite
+R:slide
+Z:id:hn-slide-89
+M:6/8
+L:1/8
+K:Edor
+`
+X:90
+T:O'Keefe's
+T:Danny Ab's
+R:slide
+Z:id:hn-slide-90
+M:6/8
+L:1/8
+K:G
+`
+X:91
+T:no name
+R:slide
+Z:id:hn-slide-91
+M:6/8
+L:1/8
+K:D
+`
+X:92
+T:Paddy O'Connell's
+R:slide
+D:M\'aire O'Keeffe: C\'oisir / House Party
+Z:id:hn-slide-92
+M:6/8
+L:1/8
+K:G
+`
+X:93
+T:Johnny O'Leary's
+R:slide
+Z:id:hn-slide-93
+M:6/8
+L:1/8
+K:A
+`
+X:94
+T:Munster Buttermilk
+R:single jig
+H:Often played in D also, see #29
+Z:id:hn-slide-94
+M:6/8
+K:G
+`
+X:95
+T:Padraig O'Keefe's
+R:slide
+D:Jackie Daly and Seamus Creagh
+Z:id:hn-slide-95
+M:6/8
+L:1/8
+K:D

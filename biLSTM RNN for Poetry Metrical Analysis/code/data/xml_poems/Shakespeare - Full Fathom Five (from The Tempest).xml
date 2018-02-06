@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Full Fathom Five (from The Tempest)</title>
+                    <author>William Shakespeare</author>
+                </titleStmt>
+                <publicationStmt><date>1611</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="???" met="-+(4/4/4/4/4/4/4/1/4)" rhyme="ababccdxd" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+" real="++-+-+-+" part="N">
+                   <seg met="-+" real="++">Full fath<sb/></seg>
+                   <seg>om five </seg>
+                   <seg>thy fa<sb/></seg>
+                   <seg>ther <rhyme label="a">lies;</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+-+" real="+-+-+-+" part="N">
+                            <seg met="-+" real="+">Of </seg>
+                            <seg>his bones </seg>
+                            <seg>are cor<sb/></seg>
+                            <seg>al <rhyme label="b">made;</rhyme></seg>
+                    <note anchored="true"> This line, like the next five after it, is acephalous.
+                        (See Glossary.) Think of its singleton initial stress as the business end of
+                        an iamb, whose partner is so slack that it hasn't even shown up for work.
+                        Some prosodists represent the ghost syllable by a "(u)" in the margin, to
+                        register the pause most of us feel -- like a quick intake of breath -- just
+                        before the first voiced syllable. Acephalous lines are common in folk
+                        poetry, art poetry that imitates the vernacular, and chants like this one
+                        that have the force of a charm or spell. </note>
+                    </l>
+                    <l n="3" met="-+-+-+-+" real="+-+-+-+" part="N">
+                        <seg met="-+" real="+">Those </seg>
+                        <seg>are pearls </seg>
+                        <seg>that were </seg>
+                        <seg>his <rhyme label="a">eyes:</rhyme></seg>
+                    </l>
+                    <l n="4" met="-+-+-+-+" real="+-+-+-+" part="N">
+                        <seg met="-+" real="+">Noth<sb/></seg>
+                        <seg>ing of </seg>
+                        <seg>him that </seg>
+                        <seg>doth <rhyme label="b">fade,</rhyme></seg>
+                    </l>
+                    <l n="5" met="-+-+-+-+" real="+-+--++" part="N">
+                        <seg met="-+" real="+">But </seg>
+                        <seg>doth suf<sb/></seg>
+                        <seg met="-+" real="--">fer a </seg>
+                        <seg met="-+" real="++">sea <rhyme label="c">change</rhyme></seg>
+                    </l>
+                    <l n="6" met="-+-+-+-+" real="+-+-+-+" part="N">
+                        <seg met="-+" real="+">In<sb/></seg>
+                        <seg>to some<sb/></seg>
+                        <seg>thing rich </seg>
+                        <seg>and <rhyme label="c">strange.</rhyme></seg>
+                    </l>
+                    <l n="7" met="-+-+-+-+" real="+-+--+-+" part="N">
+                        <seg met="-+" real="+">Sea </seg>
+                        <seg>nymphs ho<sb/></seg>
+                        <seg met="-+" real="--+">ur<sb/>ly ring </seg>
+                        <seg>his <rhyme label="d">knell:</rhyme></seg>
+                    <note anchored="true"> A reminder to the possibly indignant about why the noun
+                        "nymphs" here doesn't take stress: "Sea nymphs" is a kind of two-noun
+                        construction that English regularly stresses on the first noun only,
+                        despite its actually adjectival function. Witness "sheet rock," "broom
+                        straw," "bird dog," etc.</note>
+                    </l>
+                    <l n="8" met="++" real="++" part="N">
+                        <seg>Ding-<sb/>dong.</seg>
+                    <note anchored="true"> This resonant, unrhymed, onomatopoetic spondee is very
+                        long: as long by the stopwatch, some might say, as any of the tetrameter
+                        lines above it. If we took each line as a 4/4 musical measure, and counted
+                        the syllables of the preceding tetrameter lines as eighth notes, each
+                        syllable here in line 8 would be a half note. Of course composers of music
+                        for this stage lyric can time it however they like. Good ones respect the
+                        retard in the final line where "Ding-dong" comes back in fainter, swifter
+                        echo. </note>
+                    </l>
+                    <l n="9" met="-+-+-+-+" real="+--+-+++" part="N">
+                        <seg met="-+" real="+-">Hark! Now </seg>
+                        <seg>I hear </seg>
+                        <seg>them: <caesura/>Ding-<sb/></seg>
+                        <seg met="-+" real="++">dong, <rhyme label="d">bell.</rhyme></seg>
+                    </l>
+                    
+                    
+                </lg></body></text></TEI>

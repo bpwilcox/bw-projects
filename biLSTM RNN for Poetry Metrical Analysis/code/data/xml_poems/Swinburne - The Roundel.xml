@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>The Roundel</title>
+                    <author>Algernon Charles Swinburne</author>
+                </titleStmt>
+                <publicationStmt><date>1883</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="roundel" met="--+(5/5/5/2)" rhyme="abab" org="uniform" sample="complete" part="N">
+                    <l n="1" met="--+--+--+--+--+" real="-+--+--+--+++" part="N">
+                   <seg met="--+" real="-+">A roun<sb/></seg>
+                   <seg>del is wrought </seg>
+                   <seg>as a ring </seg>
+                   <seg>or a star<sb/></seg>
+                   <seg met="--+" real="++">bright <rhyme label="a">sphere,</rhyme></seg>
+                    </l>
+                    <l n="2" met="--+--+--+--+--+" real="-+--+--+--+-+" part="N">
+                        <seg met="--+" real="-+">With craft </seg>
+                        <seg>of de<sb/>light </seg>
+                        <seg>and with cun<sb/></seg>
+                        <seg>ning of sound </seg>
+                        <seg met="--+" real="-+">un<sb/><rhyme label="b">sought,</rhyme></seg>
+                    </l>
+                    <l n="3" met="--+--+--+--+--+" real="--+--+--+--+--+" part="N">
+                        <seg>That the heart </seg>
+                        <seg>of the hear<sb/></seg>
+                        <seg>er may smile </seg>
+                        <seg>if to pleas<sb/></seg>
+                        <seg>ure his <rhyme label="a">ear</rhyme></seg>
+                    </l>
+                    <l n="4" met="--+--+" real="-+--+" rend="indent(2)">
+                        <seg met="--+" real="-+">A roun<sb/></seg>
+                        <seg>del is <rhyme label="b">wrought.</rhyme></seg>
+                    </l>
+                </lg>
+                <lg n="2" type="roundel" met="--+(5/5/5)" rhyme="bab" org="uniform" sample="complete" part="N">
+                    <l n="5" met="--+--+--+--+--+" real="-+--+--+--+--+" part="N">
+                        <seg met="--+" real="-+">Its jew<sb/></seg>
+                        <seg>el of mu<sb/></seg>
+                        <seg>sic is carv<sb/></seg>
+                        <seg>en of all </seg>
+                        <seg>or of <rhyme label="b">aught--</rhyme></seg>
+                    </l>
+                    <l n="6" met="--+--+--+--+--+" real="++--+--+--+--+" part="N">
+                        <seg met="--+" real="++">Love, laugh<sb/></seg>
+                        <seg>ter, or mourn<sb/></seg>
+                        <seg>ing--<caesura/>re<sb/>mem<sb/></seg>
+                        <seg>brance of rap<sb/></seg>
+                        <seg>ture or <rhyme label="a">fear--</rhyme></seg>
+                    </l>
+                    <l n="7" met="--+--+--+--+--+" real="-+--+--+--+-+" part="N">
+                        <seg met="--+" real="-+">That fan<sb/></seg>
+                        <seg>cy may fash<sb/></seg>
+                        <seg>ion to hang </seg>
+                        <seg>in the ear </seg>
+                        <seg met="--+" real="-+">of <rhyme label="b">thought.</rhyme></seg>
+                    </l></lg>
+                <lg n="3" type="roundel" met="--+(5/5/5/2)" rhyme="abab" org="uniform" sample="complete" part="N">
+                    <l n="8" met="--+--+--+--+--+" real="--+++++--+--+" part="N">
+                        <seg>As a bird's </seg>
+                        <seg met="--+" real="++">quick song </seg>
+                        <seg met="--+" real="++">runs round, </seg>
+                        <caesura/>
+                        <seg>and the hearts </seg>
+                        <seg>in us <rhyme label="a">hear</rhyme></seg>
+                    <note anchored="true"> Since line 1, Swinburne has here and there swapped in
+                        spondees to take up, in a single extra stress, the twinned slack of his
+                        poem's anapestic meter. This line carries that principle of substitution to
+                        a virtuoso extreme. If you can feel the triple anapest running in the
+                        background, while you hear the beat of the five consecutive stresses, you
+                        get the prosodic equivalent of what the line is talking about: a sort of
+                        quadraphonic migration across an acoustic surround, which is then further
+                        answered in the echoing spondees of the line that follows this one.</note>
+                    </l>
+                    <l n="9" met="--+--+--+--+--+" real="++--+--+-+++" part="N">
+                        <seg met="--+" real="++">Pause an<sb/></seg>
+                        <seg>swer to pause, </seg>
+                        <caesura/>
+                        <seg>and a<sb/>gain </seg>
+                        <seg met="--+" real="-+">the same </seg>
+                        <seg met="--+" real="++">strain <rhyme label="b">caught,</rhyme></seg>
+                    </l>
+                    <l n="10" met="--+--+--+--+--+" real="-+--+-+--+-+" part="N">
+                        <seg met="--+" real="-+">So moves </seg>
+                        <seg>the de<sb/>vice </seg>
+                        <seg met="--+" real="-+">whence, <caesura/>round </seg>
+                        <seg>as a pearl </seg>
+                        <seg met="--+" real="-+">or <rhyme label="a">tear,</rhyme></seg>
+                    </l>
+                    <l n="11" met="--+--+" real="-+--+" rend="indent(2)">
+                        <seg met="--+" real="-+">A roun<sb/></seg>
+                        <seg>del is <rhyme label="b">wrought.</rhyme></seg>
+                    </l>
+                </lg></body></text></TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>The Sonnet</title><author>William Wordsworth</author></titleStmt><publicationStmt><date>1807</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="sonnet" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="abbaabbacddccd" org="uniform" sample="complete" part="N">
+                <l n="1" part="N" met="-+-+-+-+-+" real="+++--+-+-+">
+                    <seg met="-+" real="++">Nuns fret </seg>
+                    <seg met="-+" real="+-">not at </seg>
+                    <seg>their con<sb part="N"/></seg>
+                    <seg>vent's nar<sb part="N"/></seg>
+                    <seg met="-+" part="N">row <rhyme label="a">room,</rhyme></seg>
+                    </l>
+                    <l n="2" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And her<sb part="N"/></seg>
+                    <seg>mits are </seg>
+                    <seg>con<sb part="N"/>tent<sb part="N"/></seg>
+                    <seg>ed with </seg>
+                    <seg>their <rhyme label="b">cells,</rhyme></seg>
+                </l><l n="3" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And stu<sb part="N"/></seg>
+                    <seg>dents with </seg>
+                    <seg>their pen<sb part="N"/></seg>
+                    <seg>sive cit<sb part="N"/></seg>
+                    <seg>a<sb part="N"/><rhyme label="b">dels;</rhyme></seg>
+                </l><l n="4" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Maids at </seg>
+                    <seg>the wheel, </seg>
+                    <caesura/>
+                    <seg>the weav<sb part="N"/></seg>
+                    <seg>er at </seg>
+                    <seg>his <rhyme label="a">loom,</rhyme></seg>
+                </l><l n="5" part="N" met="-+-+-+-+-+" real="++-+-+-+-+">
+                    <seg met="-+" real="++">Sit blithe </seg>
+                    <seg>and hap<sb part="N"/></seg>
+                    <seg>py; <caesura/>bees </seg>
+                    <seg>that soar </seg>
+                    <seg>for <rhyme label="a">bloom,</rhyme></seg>
+                </l><l n="6" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">High as </seg>
+                    <seg>the high<sb part="N"/></seg>
+                    <seg>est peak </seg>
+                    <seg>of Fur<sb part="N"/></seg>
+                    <seg>ness <rhyme label="b">fells,</rhyme></seg>
+                </l><l n="7" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Will mur<sb part="N"/></seg>
+                    <seg>mur by </seg>
+                    <seg>the hour </seg>
+                    <seg>in fox<sb part="N"/></seg>
+                    <seg>glove <rhyme label="b">bells:</rhyme></seg>
+                    <note anchored="true">
+                        Before you insist on "hour" as a disyllable, listen again for the kind of buzz Wordsworth wants to impart here.  All the sleepy l's and m's are there to make the line purr, and a monosyllabic "hour" slips much more smoothly into the mood.  (A note to a later line will give another reason for keeping the rhythm of this line perfectly iambic.) 
+                    </note>
+                </l><l n="8" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>In truth </seg>
+                    <seg>the pris<sb part="N"/></seg>
+                    <seg>on, un<sb part="N"/></seg>
+                    <seg>to which </seg>
+                    <seg>we <rhyme label="a">doom</rhyme></seg>
+                </l><l n="9" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Our<sb part="N"/>selves, </seg>
+                    <seg>no pris<sb part="N"/></seg>
+                    <seg>on is: </seg>
+                    <caesura/>
+                    <seg>and hence </seg>
+                    <seg>for <rhyme label="c">me,</rhyme></seg>
+                </l><l n="10" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>In sun<sb part="N"/></seg>
+                    <seg>dry moods, </seg>
+                    <caesura/>
+                    <seg>'twas pas<sb part="N"/></seg>
+                    <seg>time to </seg>
+                    <seg>be <rhyme label="d">bound</rhyme></seg>
+                </l><l n="11" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>With<sb part="N"/>in </seg>
+                    <seg>the Son<sb part="N"/></seg>
+                    <seg>net's scan<sb part="N"/></seg>
+                    <seg>ty plot </seg>
+                    <seg>of <rhyme label="d">ground;</rhyme></seg>
+                    <note anchored="true">
+                        Here ends a run, unusual in a poet as sophisticated as Wordsworth, of five perfect pentameter lines.  But the steady rhythm forms just half of a prosodic story counterpointing this sonnet's message about striking a balance between constraint and freedom; the other half is told by strategic enjambment, at the volta of line 8 and again at the end of line 10, which underwrites the poet's syntactic liberty to overrun line-ends as he sees fit.
+                    </note>
+                </l><l n="12" part="N" met="-+-+-+-+-+" real="+-++-+-+-+">
+                    <seg met="-+" real="+-">Pleased if </seg>
+                    <seg met="-+" real="++">some souls </seg>
+                    <caesura/>
+                    <seg>(for such </seg>
+                    <seg>there needs </seg>
+                    <seg>must <rhyme label="c">be)</rhyme></seg>
+                </l><l n="13" part="N" met="-+-+-+-+-+" real="--+-+-+++-+">
+                    <seg met="-+" real="--+">Who have felt </seg>
+                    <seg>the weight </seg>
+                    <seg>of too </seg>
+                    <seg met="-+" real="++">much li<sb part="N"/></seg>
+                    <seg>ber<sb part="N"/><rhyme label="c">ty,</rhyme></seg>
+                </l><l n="14" part="N" met="-+-+-+-+-+" real="-+++-+-+-+">
+                    <seg>Should find </seg>
+                    <seg met="-+" real="++">brief sol<sb part="N"/></seg>
+                    <seg>ace there, </seg>
+                    <caesura/>
+                    <seg>as I </seg>
+                    <seg>have <rhyme label="d">found.</rhyme></seg>
+                </l></lg></body></text></TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>The Swifts</title>
+                    <author>Edward Thomas</author>
+                </titleStmt>
+                <publicationStmt><date>1916</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="stanza" met="-+(3/3/3/3/2/2/2)" rhyme="ababccb" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+" real="+-+--+" part="N">
+                        <seg met="-+" real="+-" part="N">How at </seg>
+                        <seg met="-+" real="+-" part="N">once should </seg>
+                        <seg met="-+" part="N">I <rhyme label="a">know</rhyme></seg>
+                    </l><l n="2" met="-+-+-+" real="-+--+-+" part="N">
+                        <seg met="-+" part="N">When stretched </seg>
+                        <seg met="-+" real="--+" part="N">in the har<sb/></seg>
+                        <seg met="-+" part="N">vest <rhyme label="b">blue</rhyme></seg>
+                    </l><l n="3" met="-+-+-+" real="-+-+++" part="N">
+                        <seg met="-+" part="N">I saw </seg>
+                        <seg met="-+" part="N">the swift's </seg>
+                        <seg met="-+" real="++" part="N">black <rhyme label="a">bow,</rhyme></seg>
+                    </l><l n="4" met="-+-+-+" real="--+-+-+" part="N">
+                        <seg met="-+" real="--+" part="N">That I would </seg>
+                        <seg met="-+" part="N">not have </seg>
+                        <seg met="-+" part="N">that <rhyme label="b">view</rhyme></seg>
+                    </l><l n="5" met="-+-+" real="-+-+" part="N">
+                        <seg met="-+" part="N">A<sb/>noth<sb/></seg>
+                        <seg met="-+" part="N">er <rhyme label="c">day</rhyme></seg>
+                    </l><l n="6" met="-+-+" real="-+++" part="N">
+                        <seg met="-+" part="N">Un<sb/>til </seg>
+                        <seg met="-+" part="N">next <rhyme label="c">May</rhyme></seg>
+                    </l><l n="7" met="-+-+" real="-+--+" part="N">
+                        <seg met="-+" part="N">A<sb/>gain </seg>
+                        <seg met="-+" real="--+" part="N">it is <rhyme label="b">due?</rhyme></seg>
+             </l></lg> 
+                <lg n="2" type="stanza" met="-+(3/3/3/3/2/2/2)" rhyme="ababccb" org="uniform" sample="complete" part="N">
+                    <l n="8" met="-+-+-+" real="-++--+" part="N">
+                        <seg met="-+" part="N">The same </seg>
+                        <seg met="-+" real="+-" part="N">year af<sb/></seg>
+                        <seg met="-+" part="N">ter <rhyme label="a">year--</rhyme></seg>
+                    </l><l n="9" met="-+-+-+" real="-+-+-+" part="N">
+                        <seg met="-+" part="N">But with </seg>
+                        <seg met="-+" part="N">the swift </seg>
+                        <seg met="-+" part="N">a<sb/><rhyme label="b">lone.</rhyme></seg>
+                    </l><l n="10" met="-+-+-+" real="-+-+--+" part="N">
+                        <seg met="-+" part="N">With o<sb/></seg>
+                        <seg met="-+" part="N">ther things </seg>
+                        <seg met="-+" real="--+" part="N">I but <rhyme label="a">fear</rhyme></seg>
+                    </l><l n="11" met="-+-+-+" real="-+--+--+" part="N">
+                        <seg met="-+" part="N">That they </seg>
+                        <seg met="-+" real="-+-" part="N">will be o<sb/></seg>
+                        <seg met="-+" real="--+" part="N">ver and <rhyme label="b">done</rhyme></seg>
+                    </l><l n="12" met="-+-+" real="+-+" part="N">
+                        <seg met="-+" real="+" part="N">Sud<sb/></seg>
+                        <seg met="-+" part="N">den<sb/><rhyme label="c">ly</rhyme></seg>
+                    </l><l n="13" met="-+-+" real="--+-+" part="N">
+                        <seg met="-+" real="--+" part="N">And I on<sb/></seg>
+                        <seg met="-+" part="N">ly <rhyme label="c">see</rhyme></seg>
+                    </l><l n="14" met="-+-+" real="--+-+" part="N">
+                        <seg met="-+" real="--+" part="N">Them to know </seg>
+                        <seg met="-+" part="N">them <rhyme label="b">gone.</rhyme></seg>  
+                    </l></lg></body></text></TEI>

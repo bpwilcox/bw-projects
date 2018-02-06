@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Lear on the Heath (from King Lear III.ii.1-9) </title>
+                    <author>William Shakespeare</author>
+                </titleStmt>
+                <publicationStmt><date>1605</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="blank verse" met="-+(5/5/5/5/5/5/5/5/3)" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="++-+-+++">
+                   <seg met="-+" real="++">Blow, winds, </seg>
+                   <seg>and crack </seg>
+                   <seg>your cheeks. </seg>
+                   <caesura/>
+                   <seg met="-+" real="++">Rage, blow.</seg>
+                    <note anchored="true"> Classify this stormy 8-syllable line iambic tetrameter if
+                        you choose. But see whether, after you've completed scanning the speech, you
+                        don't come around and agree with 4B4V that the meter of the passage is
+                        pentameter -- as it is in nearly all Shakespeare's verse drama. An actor who
+                        feels the pentameter supporting his performance of the speech may claim
+                        license to linger out the last two words as if they were disyllables:
+                        Rrrr-AGE! Bllll-OW! In this terrific scene old King Lear is, however you
+                        take the word, quite mad.</note>
+               </l><l n="2" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>You cat<sb/></seg>
+                    <seg>a<sb/>racts </seg>
+                    <seg>and hur<sb/></seg>
+                   <seg>ri<sb/>ca<sb/></seg>
+                    <seg>noes, <caesura/>spout</seg>
+                </l><l n="3" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg>Till you </seg>
+                    <seg>have drenched </seg>
+                    <seg>our stee<sb/></seg>
+                    <seg>ples, drowned </seg>
+                    <seg>the cocks.</seg>
+                </l><l n="4" met="-+-+-+-+-+" real="-+--++-+-+-">
+                    <seg>You sul<sb/></seg>
+                    <seg met="-+" real="--">ph'rous and </seg>
+                    <seg met="-+" real="++">thought-<sb/>ex<sb/></seg>
+                    <seg>e<sb/>cut<sb/></seg>
+                    <seg met="-+" real="-+-">ing fi<sb/>res,</seg>
+                </l><l n="5" met="-+-+-+-+-+" real="++--++-+-+">
+                    <seg met="-+" real="++">Vaunt-<sb/>cou<sb/></seg>
+                    <seg met="-+" real="--">riers of </seg>
+                    <seg met="-+" real="++">oak-<sb/>cleav<sb/></seg>
+                    <seg>ing thun<sb/></seg>
+                    <seg>der<sb/>bolts,</seg>
+                    <note anchored="true"> The second foot of this line, as more obviously of the
+                        one above it, exemplifies that 4B4V rarity, an embraced elision (chalk it up
+                        as a pyrrhic victory). We choose elision here as the lesser of two evils,
+                        the greater being a bathetic anapest that would mount through two slacks to
+                        throw feeble pseudo-stress on a particle that couldn't really sustain the
+                        weight. Try, nevertheless, to feel the elided third syllable in both
+                        "sulphurous" and "courier" as a little rumble heralding the big spondaic
+                        thunderclap that comes next as the maddened old king invokes the end of the
+                        world. </note>
+                </l><l n="6" met="-+-+-+-+-+" real="+-++-+++-+-">
+                    <seg met="-+" real="+-">Singe my </seg>
+                    <seg met="-+" real="++">white head. </seg>
+                    <caesura/>
+                    <seg>And thou, </seg>
+                    <seg met="-+" real="++">all-<sb/>shak<sb/></seg>
+                    <seg met="-+" real="-+-">ing thun<sb/>der,</seg>
+                </l><l n="7" met="-+-+-+-+-+" real="++-+-+--+-+">
+                    <seg met="-+" real="++">Strike flat </seg>
+                    <seg>the thick </seg>
+                    <seg>ro<sb/>tun<sb/></seg>
+                    <seg met="-+" real="--+">di<sb/>ty of </seg>
+                    <seg>the world,</seg>
+                    <note anchored="true"> PS to former note: Here the fourth foot is indeed an
+                        anapest, wobbly but still holding its ground, for the decisive reason that
+                        "of" takes more stress than the ensuing "the." That's definitely not what
+                        happens in lines 4 and 5 above. Alternatively, and although the 4B4V
+                        operating system precludes its display as correct, you might put a light
+                        stress on the last syllable of "rotundity" and gather "of the earth" up into
+                        a last-foot (last-ditch?) anapest. The scansion may turn on whether your
+                        Lear more relishes imagining the earth in its current roundness or as
+                        flattened by the Last Judgment.</note>
+                </l>
+                <l n="8" met="-+-+-+-+-+" real="++-+++-+-+">
+                    <seg met="-+" real="++">Crack Na<sb/></seg>
+                    <seg>ture's moulds, </seg>
+                    <caesura/>
+                    <seg met="-+" real="++">all ger<sb/></seg>
+                    <seg>mains spill </seg>
+                    <seg>at once,</seg>
+                </l><l n="9" met="-+-+-+" real="-+-+-+">
+                    <seg>That makes </seg>
+                    <seg>in<sb/>grate<sb/></seg>
+                    <seg>ful man.</seg>
+                </l>
+                   </lg></body></text></TEI>

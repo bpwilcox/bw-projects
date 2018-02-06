@@ -1,0 +1,6 @@
+instance-id: i-0705f697ffa2b7f89
+ssh-key name: jclara-cs253.pem
+
+  
+dns: ec2-52-34-122-90.us-west-2.compute.amazonaws.com
+ssh -i jclara-cs253.pem ubuntu@ec2-52-34-122-90.us-west-2.compute.amazonaws.com

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Ozymandias</title>
+                    <author>Percy Bysshe Shelley</author>
+                </titleStmt>
+                <publicationStmt><date>1818</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="sonnet" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="ababacdcedefef" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+--+--++|-+-+--+-+-+">
+                   <seg>I met </seg>
+                   <seg>a trav<sb/></seg>
+                   <seg met="-+" real="--+">el<sb/>ler from </seg>
+                   <seg met="-+" real="--">an an<sb/></seg>
+                   <seg met="-+" real="++">tique <rhyme label="a">land,</rhyme></seg>
+                    <note anchored="true"> 4B4V accepts a modern pronunciation of "antique," but
+                        Shelley probably put stress on the word's first syllable, where we still
+                        find it in a surviving cousin, "antic." </note>
+               </l><l n="2" met="-+-+-+-+-+" real="-+++-+-+-+">
+                    <seg>Who said: </seg>
+                   <caesura/>
+                    <seg>Two vast </seg>
+                    <seg>and trunk<sb/></seg>
+                    <seg>less legs </seg>
+                    <seg>of <rhyme label="b">stone</rhyme></seg>
+                </l><l n="3" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg>Stand in </seg>
+                    <seg>the des<sb/></seg>
+                    <seg>ert.... <caesura/>Near </seg>
+                    <seg>them, on </seg>
+                    <seg>the <rhyme label="a">sand,</rhyme></seg>
+                </l><l n="4" met="-+-+-+-+-+" real="++-+-+-+-+">
+                    <seg>Half sunk, </seg>
+                    <seg>a shat<sb/></seg>
+                    <seg>tered vis<sb/></seg>
+                    <seg>age lies, </seg>
+                    <seg>whose <rhyme label="b">frown,</rhyme></seg>
+                </l><l n="5" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And wrin<sb/></seg>
+                    <seg>kled lip, </seg>
+                    <seg>and sneer </seg>
+                    <seg>of cold </seg>
+                    <seg>com<sb/><rhyme label="a">mand,</rhyme></seg>
+                </l><l n="6" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg>Tell that </seg>
+                    <seg>its sculp<sb/></seg>
+                    <seg>tor well </seg>
+                    <seg>those pas<sb/></seg>
+                    <seg>sions <rhyme label="c">read</rhyme></seg>
+                </l><l n="7" met="-+-+-+-+-+" real="-+-++--+-+">
+                    <seg>Which yet </seg>
+                    <seg>sur<sb/>vive, </seg>
+                    <caesura/>
+                    <seg>stamped on </seg>
+                    <seg>these life<sb/></seg>
+                    <seg>less <rhyme label="d">things,</rhyme></seg>
+                </l><l n="8" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>The hand </seg>
+                    <seg>that mocked </seg>
+                    <seg>them, and </seg>
+                    <seg>the heart </seg>
+                    <seg>that <rhyme label="c">fed:</rhyme></seg>
+                </l><l n="9" met="-+-+-+-+-+" real="-+-+--++-+">
+                    <seg>And on </seg>
+                    <seg>the ped<sb/></seg>
+                    <seg>es<sb/>tal </seg>
+                    <seg>these words </seg>
+                    <seg>ap<sb/><rhyme label="e">pear:</rhyme></seg>
+                </l><l n="10" met="-+-+-+-+-+" real="-+-+-+--+-+">
+                    <seg>My name </seg>
+                    <seg>is Oz<sb/></seg>
+                    <seg>y<sb/>man<sb/></seg>
+                    <seg>di<sb/>as, king </seg>
+                    <seg>of <rhyme label="d">kings:</rhyme></seg>
+                </l><l n="11" met="-+-+-+-+-+" real="+--+-+-+-+|+--+++---+">
+                    <seg>Look on </seg>
+                    <seg>my works, </seg>
+                    <seg>ye Might<sb/></seg>
+                    <seg>y, and </seg>
+                    <seg>de<sb/><rhyme label="e">spair!</rhyme></seg>
+                </l><l n="12" met="-+-+-+-+-+" real="+--+-++--+">
+                    <seg>Noth<sb/>ing </seg>
+                    <seg>be<sb/>side </seg>
+                    <seg>re<sb/>mains. </seg>
+                    <caesura/>
+                    <seg>Round the </seg>
+                    <seg>de<sb/><rhyme label="f">cay</rhyme></seg>
+                </l><l n="13" met="-+-+-+-+-+" real="-+-+-++--+">
+                    <seg>Of that </seg>
+                    <seg>co<sb/>los<sb/></seg>
+                    <seg>sal wreck, </seg>
+                    <seg>bound<sb/>less </seg>
+                    <seg>and <rhyme label="e">bare,</rhyme></seg>
+                </l><l n="14" met="-+-+-+-+-+" real="-+-+-+++-+">
+                    <seg>The lone </seg>
+                    <seg>and lev<sb/></seg>
+                    <seg>el sands </seg>
+                    <seg>stretch far </seg>
+                    <seg>a<sb/><rhyme label="f">way.</rhyme></seg>
+                </l></lg></body></text></TEI>

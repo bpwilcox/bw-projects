@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>from The Prelude (I.326-39)</title>
+                    <author>William Wordsworth</author>
+                </titleStmt>
+                <publicationStmt><date>1805</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="blank verse" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                   <seg>Nor less, </seg>
+                   <seg>when spring </seg>
+                   <seg>had warmed </seg>
+                   <seg>the cul<sb/></seg>
+                   <seg>tured Vale,</seg>
+               </l><l n="2" met="-+-+-+-+-+" real="+--+--+-+-+">
+                    <seg met="-+" real="+-">Moved we </seg>
+                    <seg>as plun<sb/></seg>
+                   <seg met="-+" real="--+">der<sb/>ers where </seg>
+                    <seg>the moth<sb/></seg>
+                    <seg>er bird</seg>
+                </l><l n="3" met="-+-+-+-+-+" real="--++-+-+-+">
+                    <seg met="-+" real="--">Had in </seg>
+                    <seg met="-+" real="++">high plac<sb/></seg>
+                    <seg>es built </seg>
+                    <seg>her lodge; </seg>
+                    <caesura/>
+                    <seg>though mean</seg>
+                </l><l n="4" met="-+-+-+-+-+" real="-+-+-+--+-+">
+                    <seg>Our ob<sb/></seg>
+                    <seg>ject and </seg>
+                    <seg>in<sb/>glor<sb/></seg>
+                    <seg met="-+" real="--+">i<sb/>ous, <caesura/>yet </seg>
+                    <seg>the end</seg>
+                </l><l n="5" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Was not </seg>
+                    <seg>ig<sb/>no<sb/></seg>
+                    <seg>ble. <caesura/>Oh! </seg>
+                    <seg>when I </seg>
+                    <seg>have hung</seg>
+                </l><l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>A<sb/>bove </seg>
+                    <seg>the ra<sb/></seg>
+                    <seg>ven's nest, </seg>
+                    <caesura/>
+                    <seg>by knots </seg>
+                    <seg>of grass</seg>
+                </l><l n="7" met="-+-+-+-+-+" real="-+++---+--+">
+                    <seg>And half-<sb/></seg>
+                    <seg met="-+" real="++">inch fis<sb/></seg>
+                    <seg met="-+" real="--">sures in </seg>
+                    <seg>the slip<sb/></seg>
+                    <seg met="-+" real="--+">per<sb/>y rock</seg>
+                </l><l n="8" met="-+-+-+-+-+" real="-+-+-++--+">
+                    <seg>But ill </seg>
+                    <seg>sus<sb/>tained, </seg>
+                    <caesura/>
+                    <seg>and al<sb/></seg>
+                    <seg met="-+" real="+-">most (so </seg>
+                    <seg>it seemed)</seg>
+                    <note anchored="true">
+                        The rock climber's poise between traction and slippage gets rendered physically into the verse of this and the former line.  Wordsworth's body English emerges with special mastery in the scansion of "almost": a word that can take stress on either the first or second syllable when it has to, but that here, extraordinarily, earns stress on both.  It's a good question why Wordsworth departs from this athletic interlock into the smoothness of the line that comes next.
+                    </note>
+                </l><l n="9" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Sus<sb/>pend</seg>
+                    <seg>ed by </seg>
+                    <seg>the blast </seg>
+                    <seg>that blew </seg>
+                    <seg>a<sb/>main,</seg>
+                </l><l n="10" met="-+-+-+-+-+" real="+---+-++-++">
+                    <seg met="-+" real="+-">Shoul<sb/>der<sb/></seg>
+                    <seg met="-+" real="--+">ing the na<sb/></seg>
+                    <seg>ked crag, </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-">oh, at </seg>
+                    <seg met="-+" real="++">that time</seg>
+                </l><l n="11" met="-+-+-+-+-+" real="-+-+--+-+-+">
+                    <seg>While on </seg>
+                    <seg>the per<sb/></seg>
+                    <seg met="-+" real="--+">il<sb/>ous ridge </seg>
+                    <seg>I hung </seg>
+                    <seg>a<sb/>lone,</seg>
+                </l><l n="12" met="-+-+-+-+-+" real="-+++----+++">
+                    <seg>With what </seg>
+                    <seg met="-+" real="++">strange ut<sb/></seg>
+                    <seg met="-+" real="--">ter<sb/>ance </seg>
+                    <seg met="-+" real="--+">did the loud </seg>
+                    <seg met="-+" real="++">dry wind</seg>
+                    <note anchored="true"> Two words in defense of this admittedly odd scansion.
+                        Yes, that's a very long line of slacks between the two big three-stress
+                        clumps; but, six stresses being already a lot in a pentameter line, isn't
+                        the extreme irregularity exhilarating?  (Still, if you want you may stress
+                        "did," making it the end of an anapestic third foot, and making "the loud"
+                        an iambic fourth foot, although a software technicality prevents 4B4V from
+                        recognizing that pattern as correct.) Stress on "what" in the first foot may
+                        seem excessive, in view of the spondee on its heels; but stressing it brings
+                        out the genuinely wondering question that is stowed away syntactically
+                        within Wordsworth's exclamation: I know the wind was telling me something, but
+                        what? </note>
+                </l><l n="13" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Blow through </seg>
+                    <seg>my ear! </seg>
+                    <caesura/>
+                    <seg>the sky </seg>
+                    <seg>seemed not </seg>
+                    <seg>a sky</seg>
+                </l><l n="14" met="-+-+-+-+-+" real="-+--++-+-+">
+                    <seg>Of earth&#8212;</seg>
+                    <caesura/>
+                    <seg met="-+" real="--">and with </seg>
+                    <seg met="-+" real="++">what mo<sb/></seg>
+                    <seg>tion moved </seg>
+                    <seg>the clouds!</seg>
+                </l></lg></body></text></TEI>

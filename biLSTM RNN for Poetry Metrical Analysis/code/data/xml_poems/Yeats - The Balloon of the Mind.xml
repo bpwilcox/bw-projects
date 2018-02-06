@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0"><teiHeader type="text">
+    <fileDesc><titleStmt><title>The Balloon of the Mind</title><author>W. B. Yeats</author></titleStmt><publicationStmt><date>1919</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body>
+        <lg met="-+(3/3/3/3)" rhyme="abba" org="uniform" sample="complete" part="N">
+                <l n="1" part="N" met="-+-+-+" real="++--+">
+                    <seg met="-+" real="+" part="N">Hands, </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-" part="N">do what <sb part="N"/></seg>
+                    <seg met="-+" part="N">you're <rhyme label="a">bid:</rhyme></seg>
+                </l><l n="2" part="N" met="-+-+-+" real="+--+--+">
+                    <seg met="-+" real="+-" part="N">Bring the </seg>
+                    <seg met="-+" part="N">bal<sb/>loon </seg>
+                    <seg met="-+" real="--+" part="N">of the <rhyme label="b">mind,</rhyme></seg>
+                </l><l n="3" part="N" met="-+-+-+" real="-+--+--+">
+                    <seg met="-+" part="N">That bel</seg>
+                    <seg met="-+" real="--+" part="N">lies and drags <sb part="N"/></seg>
+                    <seg met="-+" real="--+" part="N">in the <rhyme label="b">wind,</rhyme></seg>
+                </l><l n="4" part="N" met="-+-+-+" real="+--+-+">
+                    <seg met="-+" real="+-|-+">In<sb/>to </seg>
+                    <seg met="-+" part="N">its nar</seg>
+                    <seg met="-+" part="N">row <rhyme label="a">shed.</rhyme></seg>
+               
+                </l></lg></body></text></TEI>

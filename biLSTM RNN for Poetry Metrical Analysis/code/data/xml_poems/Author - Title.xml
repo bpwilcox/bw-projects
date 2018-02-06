@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0"><teiHeader type="text"><fileDesc><titleStmt><title>Astrophel and Stella: 31</title><author>Sir Philip Sidney</author></titleStmt><publicationStmt><date>1591</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body><lg met="-+(5)" rhyme="abbaabbacdcdee" org="uniform" sample="complete" part="N"><l n="1" part="N" met="-+-+-+-+-+" real="-+++-+-+-+">
+                    <seg met="-+" part="N">With how </seg>
+                    <seg met="-+" real="++" part="N">sad steps, </seg>
+                    <seg met="-+" part="N">O Moone, </seg>
+                    <seg met="-+" part="N">thou climb'st </seg>
+                    <seg met="-+" part="N">the <rhyme label="a">skies,</rhyme></seg>
+                    <note anchored="true">
+                        This line is almost regular with an spondee in the second foot. Test
+                    </note>
+                </l><l n="2" part="N" met="-+-+-+-+-+" real="-+----++-+">
+                    <seg met="-+" part="N">How si<sb part="N"/></seg>
+                    <seg met="-+" real="--" part="N">lent<sb part="N"/>ly, </seg>
+                    <caesura/>
+                    <seg met="-+" real="--" part="N">and with </seg>
+                    <seg met="-+" real="++" part="N">how wanne </seg>
+                    <seg met="-+" part="N">a <rhyme label="b">face,</rhyme></seg>
+                    <note anchored="true">
+                        I read the second and third feet as pyrrhic but might be read as iambic.
+                    </note>
+                </l><l n="3" part="N" met="-+-+-+-+-+-+" real="+--+-+--+-+">
+                    <seg met="-+" real="+-" part="N">What, <caesura/>may </seg>
+                    <seg met="-+" part="N">it be </seg>
+                    <seg met="-+" part="N">that e<sb part="N"/></seg>
+                    <seg met="-+" real="--" part="N">ven in </seg>
+                    <seg met="-+" real="+" part="N">heav'n<sb part="N"/></seg>
+                    <seg met="-+" part="N">ly <rhyme label="b">place</rhyme></seg>
+                </l><l n="4" part="N" met="-+-+-+-+-+" real="-+-+--++-+">
+                    <seg met="-+" part="N">That bus<sb part="N"/></seg>
+                    <seg met="-+" part="N">ie arch<sb part="N"/></seg>
+                    <seg met="-+" real="--" part="N">er his </seg>
+                    <seg met="-+" real="++" part="N">sharpe ar</seg>
+                    <seg met="-+" part="N">rowes <rhyme label="a">tries?</rhyme></seg>
+                </l><l n="5" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-" part="N">Sure, if </seg>
+                    <seg met="-+" part="N">that long </seg>
+                    <seg met="-+" part="N">with Love </seg>
+                    <seg met="-+" part="N">ac<sb part="N"/>quaint<sb part="N"/></seg>
+                    <seg met="-+" part="N">ed <rhyme label="a">eyes</rhyme></seg>
+                </l><l n="6" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Can judge </seg>
+                    <seg met="-+" part="N">of Love, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">thou feel'st </seg>
+                    <seg met="-+" part="N">a Lov<sb part="N"/></seg>
+                    <seg met="-+" part="N">er's <rhyme label="b">case;</rhyme></seg>
+                    <note anchored="true">
+                        Hey, this one's completely regular!
+                    </note>
+                </l><l n="7" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">I reade </seg>
+                    <seg met="-+" part="N">it in </seg>
+                    <seg met="-+" part="N">thy lookes, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">thy lan<sb part="N"/></seg>
+                    <seg met="-+" part="N">guisht <rhyme label="b">grace,</rhyme></seg>
+                </l><l n="8" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">To me </seg>
+                    <seg met="-+" part="N">that feele </seg>
+                    <seg met="-+" part="N">the like, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">thy state </seg>
+                    <seg met="-+" part="N">de<sb part="N"/><rhyme label="a">scries.</rhyme></seg>
+                </l><l n="9" part="N" met="-+-+-+-+-+" real="-+-+-+-+++">
+                    <seg met="-+" part="N">Then ev'n </seg>
+                    <seg met="-+" part="N">of fel</seg>
+                    <seg met="-+" part="N">low<sb part="N"/>ship, </seg>
+                    <seg met="-+" part="N">O Moone, </seg>
+                    <caesura/>
+                    <seg met="-+" real="++" part="N">tell <rhyme label="c">me</rhyme></seg>
+                </l><l n="10" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Is con<sb part="N"/></seg>
+                    <seg met="-+" part="N">stant Love </seg>
+                    <seg met="-+" part="N">deem'd there </seg>
+                    <seg met="-+" part="N">but want </seg>
+                    <seg met="-+" part="N">of <rhyme label="d">wit?</rhyme></seg>
+                </l><l n="11" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Are Beau<sb part="N"/></seg>
+                    <seg met="-+" part="N">ties there </seg>
+                    <seg met="-+" part="N">as proud </seg>
+                    <seg met="-+" part="N">as here </seg>
+                    <seg met="-+" part="N">they <rhyme label="c">be?</rhyme></seg>
+                </l><l n="12" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Do they </seg>
+                    <seg met="-+" part="N">a<sb part="N"/>bove </seg>
+                    <seg met="-+" part="N">love to </seg>
+                    <seg met="-+" part="N">be lov'd, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">and <rhyme label="d">yet</rhyme></seg>
+                </l><l n="13" part="N" met="-+-+-+-+-+" real="-+-+-++--+">
+                    <seg met="-+" part="N">Those Lov<sb part="N"/></seg>
+                    <seg met="-+" part="N">ers scorne </seg>
+                    <seg met="-+" part="N">whom that </seg>
+                    <seg met="-+" real="+-" part="N">Love doth </seg>
+                    <seg met="-+" part="N">Pos<sb part="N"/><rhyme label="e">sesse?</rhyme></seg>
+                </l><l n="14" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Do they </seg>
+                    <seg met="-+" part="N">call Ver<sb part="N"/></seg>
+                    <seg met="-+" part="N">tue there </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">un<sb part="N"/>grate<sb part="N"/></seg>
+                    <seg met="-+" part="N">ful<sb part="N"/><rhyme label="e">nesse?</rhyme></seg>
+                </l></lg></body></text></TEI>

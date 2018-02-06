@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0"
+  version="5.0">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>The Span of Life</title>
+        <author>Robert Frost</author>
+      </titleStmt>
+      <publicationStmt>
+        <date>1937</date>
+      </publicationStmt>
+      <sourceDesc default="false">
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg met="--+(4)" rhyme="aa" org="uniform" sample="complete" part="N">
+        <l n="1" part="N" met="--+--+--+--+" real="-++++--+--+">
+          <seg met="--+" real="-+">The old </seg>
+          <seg met="--+" real="+++">dog barks back</seg>
+          <seg met="--+" real="--+">wards without </seg>
+          <seg met="--+" real="--+">getting <rhyme label="a">up.</rhyme>
+          </seg>, </l>
+        <l n="2" part="N" met="-+-+-+-+-+" real="+--+--+--+">
+          <seg met="--+" real="+" part="N">I <sb part="N"/>
+          </seg>
+          <seg met="--+" real="--+" part="N">can remem</seg>, <seg met="--+" real="--+" part="N">ber
+            when he </seg>
+          <seg met="--+" real="--+" part="N">was a <rhyme label="a">pup.</rhyme>
+          </seg>
+        </l>
+      </lg>
+    </body>
+  </text>
+</TEI>

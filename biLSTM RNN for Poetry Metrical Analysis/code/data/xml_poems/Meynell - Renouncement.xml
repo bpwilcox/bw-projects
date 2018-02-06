@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Renouncement</title>
+                    <author>Alice Meynell</author>
+                </titleStmt>
+                <publicationStmt><date>1893</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="sonnet" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="abbaabbacdecde" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+-+-+--+">
+                   <seg>I must </seg>
+                   <seg>not think </seg>
+                   <seg>of thee; </seg>
+                   <caesura/>
+                   <seg>and, <sb>ti</sb></seg>
+                   <seg met="-+" real="--+">red yet <rhyme label="a">strong,</rhyme></seg>
+               </l><l n="2" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>I shun </seg>
+                    <seg>the love </seg>
+                    <seg>that lurks </seg>
+                    <seg>in all </seg>
+                    <seg>de<sb/><rhyme label="b">light--</rhyme></seg>
+                </l><l n="3" met="-+-+-+-+-+" real="-+-+---+++">
+                    <seg>The love </seg>
+                    <seg>of thee--</seg>
+                    <caesura/>
+                    <seg met="-+" real="--">and in </seg>
+                    <seg>the blue </seg>
+                    <seg met="-+" real="++">heaven's <rhyme label="b">height,</rhyme></seg>
+                    <note anchored="true"> 4B4V hard-wires "heaven's" as a monosyllable here for the
+                        simple reason that scansion goes haywire if the word is read as a
+                        disyllable. An only slightly elder poet like Tennyson, and certainly Keats,
+                        would have acknowledged this by printing "heav'n's." By the end of the 19th
+                        century, though, such graphically explicit poeticism seemed old-fashioned.
+                    </note>
+                </l><l n="4" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And in </seg>
+                    <seg>the dear<sb/></seg>
+                    <seg>est pas<sb/></seg>
+                    <seg>sage of </seg>
+                    <seg>a <rhyme label="a">song.</rhyme></seg>
+                </l><l n="5" met="-+-+-+-+-+" real="++-+-+-+-+">
+                    <seg met="-+" real="++">Oh, just </seg>
+                    <seg>be<sb/>yond </seg>
+                    <seg>the sweet<sb/></seg>
+                    <seg>est thoughts </seg>
+                    <seg>that <rhyme label="a">throng</rhyme></seg>
+                </l><l n="6" met="-+-+-+-+-+" real="-+-+-+++--+">
+                    <seg>This breast, </seg>
+                    <caesura/>
+                    <seg>the thought </seg>
+                    <seg>of thee </seg>
+                    <seg met="-+" real="++">waits, hid<sb/></seg>                    
+                    <seg met="-+" real="--+">den yet <rhyme label="b">bright;</rhyme></seg>
+                </l><l n="7" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>But it </seg>
+                    <seg>must nev<sb/></seg>
+                    <seg>er, nev<sb/></seg>
+                    <seg>er come </seg>
+                    <seg>in <rhyme label="b">sight;</rhyme></seg>
+                </l><l n="8" met="-+-+-+-+-+" real="--++---+++|--++-+-+++">
+                    <seg met="-+" real="--">I must </seg>
+                    <seg met="-+" real="++|-+">stop short </seg>
+                    <seg met="-+" real="--">of thee </seg>
+                    <seg>the whole </seg>
+                    <seg met="-+" real="++">day <rhyme label="a">long.</rhyme></seg>
+                </l><l n="9" met="-+-+-+-+-+" real="--++-+++--+">
+                    <seg met="-+" real="--">But when </seg>
+                    <seg met="-+" real="++">sleep comes </seg>
+                    <seg>to close </seg>
+                    <seg met="-+" real="++">each dif<sb/></seg>
+                    <seg met="-+" real="--+">fi<sb/>cult <rhyme label="c">day,</rhyme></seg>
+                    <note anchored="true"> Prosody makes life's hardship into poetry's opportunity:
+                        here, the opportunity to write a line that earns its keep by tough going:
+                        four different kinds of foot in one pentameter line about difficulty. The
+                        line just above this one, incidentally, is nearly as impressive for the way it
+                        makes the first spondee a stumbling block, the second a load on the
+                        heart. </note>
+                </l><l n="10" met="-+-+-+-+-+" real="-+++--++-+">
+                    <seg>When night </seg>
+                    <seg met="-+" real="++">gives pause </seg>
+                    <seg met="-+" real="--">to the </seg>
+                    <seg met="-+" real= "++">long watch </seg>
+                    <seg>I <rhyme label="d">keep,</rhyme></seg>
+                </l><l n="11" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>And all </seg>
+                    <seg>my bonds </seg>
+                    <seg>I needs </seg>
+                    <seg>must loose </seg>
+                    <seg>a<sb/><rhyme label="e">part,</rhyme></seg>
+                </l><l n="12" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Must doff </seg>
+                    <seg>my will </seg>
+                    <seg>as rai<sb/></seg>
+                    <seg>ment laid </seg>
+                    <seg>a<sb/><rhyme label="c">way--</rhyme></seg>
+                </l><l n="13" met="-+-+-+-+-+" real="--++-+--++">
+                    <seg met="-+" real="--">With the </seg>
+                    <seg met="-+" real="++">first dream </seg>
+                    <seg>that comes </seg>
+                    <seg met="-+" real="--">with the </seg>
+                    <seg met="-+" real="++">first <rhyme label="d">sleep</rhyme></seg>
+                </l><l n="14" met="-+-+-+-+-+" real="-+-+--+-+-+">
+                    <seg>I run, </seg>
+                    <caesura/>
+                    <seg>I run, </seg>
+                    <caesura/>
+                    <seg met="-+" real="--+">I am gath<sb/></seg>
+                    <seg>ered to </seg>
+                    <seg>thy <rhyme label="e">heart.</rhyme></seg>
+                </l></lg></body></text></TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>The Witch</title>
+                    <author>W.B. Yeats</author>
+                </titleStmt>
+                <publicationStmt><date>1914</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="octave" met="--+(2/2/2/2/1/2/2/1)" rhyme="ababcdcd" org="uniform" sample="complete" part="N">
+                    <l n="1" met="--+--+" real="+--+">
+                   <seg>Toil </seg>
+                   <seg>and grow <rhyme label="a">rich,</rhyme></seg>
+                    </l>
+                    <l n="2" met="--+--+" real="-+--+">
+                        <seg>What's that </seg>
+                        <seg>but to <rhyme label="b">lie</rhyme></seg>
+                    </l>
+                    <l n="3" met="--+--+" real="--++">
+                        <seg>With a </seg>
+                        <seg>foul <rhyme label="a">witch</rhyme></seg>
+                    </l>
+                    <l n="4" met="--+--+" real="-+-++">
+                        <seg>And af<sb/></seg>
+                        <seg>ter, <caesura/>drained <rhyme label="b">dry,</rhyme></seg>
+                    </l>
+                    <l n="5" met="--+" real="--+">
+                        <seg>To be <rhyme label="c">brought</rhyme></seg>
+                    </l>
+                    <l n="6" met="--+--+" real="--+-+">
+                        <seg>To the cham<sb/></seg>
+                        <seg>ber <rhyme label="d">where</rhyme></seg>
+                    </l>
+                    <l n="7" met="--+--+" real="-+++">
+                        <seg>Lies one </seg>
+                        <seg>long <rhyme label="c">sought</rhyme></seg>
+                    </l>
+                    <l n="8" met="--+" real="--+">
+                        <seg>With des<sb/><rhyme label="d">pair?</rhyme></seg>
+                    </l>
+                </lg></body></text></TEI>

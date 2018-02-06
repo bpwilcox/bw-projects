@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>Echo</title>
+        <author>Christina Rossetti</author>
+      </titleStmt>
+      <publicationStmt>
+        <date>1862</date>
+      </publicationStmt>
+      <sourceDesc default="false">
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+      </teiHeader><text><body>
+      <lg n="1" type="stanza" met="-+(5/5/5/3/2/5)" rhyme="ababcc" org="uniform"
+        sample="complete" part="N">
+        <l n="1" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+          <seg met="-+" real="+-" part="N">Come to </seg>
+          <seg met="-+" part="N">me in </seg>
+          <seg met="-+" part="N">the si<sb part="N"/></seg>
+          <seg met="-+" part="N">lence of </seg>
+          <seg met="-+" part="N">the <rhyme label="a">night</rhyme>;</seg>
+        </l>
+        <l n="2" part="N" met="-+-+-+-+-+" real="+--+-+-+-+">
+          <seg met="-+" real="+-" part="N">Come in </seg>
+          <seg met="-+" part="N">the speak<sb part="N"/></seg>
+          <seg met="-+" part="N">ing si<sb part="N"/></seg>
+          <seg met="-+" part="N">lence of </seg>
+          <seg met="-+" part="N">a <rhyme label="b">dream</rhyme>;</seg>
+        </l>
+        <l n="3" part="N" met="-+-+-+-+-+" real="+-++-+-+-+">
+          <seg met="-+" real="+-" part="N">Come with </seg>
+          <seg met="-+" real="++" part="N">soft round<sb part="N"/></seg>
+          <seg met="-+" part="N">ed cheeks </seg>
+          <seg met="-+" part="N">and eyes </seg>
+          <seg met="-+" part="N">as <rhyme label="a">bright</rhyme></seg>
+        </l>
+        <l n="4" part="N" met="-+-+-+" real="-+-+-+">
+          <seg met="-+" part="N">As sun<sb part="N"/></seg>
+          <seg met="-+" part="N">light on </seg>
+          <seg met="-+" part="N">a <rhyme label="b">stream</rhyme>;</seg>
+        </l>
+        <l n="5" part="N" met="-+-+" real="-+-+">
+          <seg met="-+" part="N">Come back </seg>
+          <seg met="-+" part="N">in <rhyme label="c">tears</rhyme>,</seg>
+        </l>
+        <l n="6" part="N" met="-+-+-+-+-+" real="-+--+-+-+-+">
+          <seg met="-+" part="N">O mem<sb part="N"/></seg>
+          <seg met="-+" real="--+" part="N">o<sb part="N"/>ry, hope </seg>
+          <seg met="-+" part="N">and love </seg>
+          <seg met="-+" part="N">of fin<sb part="N"/></seg>
+          <seg met="-+" part="N">ished <rhyme label="c">years</rhyme>.</seg>
+        </l>
+      </lg>
+      <lg n="2" type="stanza" met="-+(5/5/5/3/2/5)" rhyme="ababcc" org="uniform"
+        sample="complete" part="N">
+        <l n="7" part="N" met="-+-+-+-+-+" real="-+-+++-+-+|-+++++-+-+|-+++++++-+">
+          <seg met="-+" part="N">O dream </seg>
+          <seg met="-+" real="-+|++" part="N">how sweet, </seg>
+          <caesura/>
+          <seg met="-+" real="++" part="N">too sweet, </seg>
+          <caesura/>
+          <seg met="-+" real="-+|++" part="N">too bit<sb part="N"/></seg>
+          <seg met="-+" part="N">ter-<sb part="N"/><rhyme label="a">sweet</rhyme>,</seg>
+          <note anchored="true"> It's possible, though not mandatory, to lean on nearly
+            every syllable in this lingering, cherishing line. Should one, or shouldn't
+            one? What does this obsessive poem think of its arcane indulgences? </note>
+        </l>
+        <l n="8" part="N" met="-+-+-+-+-+" real="-+--+-+-+-+">
+          <seg met="-+" part="N">Whose wak<sb part="N"/></seg>
+          <seg met="-+" real="--+" part="N">en<sb part="N"/>ing should </seg>
+          <seg met="-+" part="N">have been </seg>
+          <seg met="-+" part="N">in Par<sb part="N"/></seg>
+          <seg met="-+" part="N">a<sb part="N"/><rhyme label="b">dise</rhyme>,</seg>
+        </l>
+        <l n="9" part="N" met="-+-+-+-+-+" real="-+++-+-+-+">
+          <seg met="-+" part="N">Where souls </seg>
+          <seg met="-+" real="++" part="N">brim-<sb part="N"/>full </seg>
+          <seg met="-+" part="N">of love </seg>
+          <seg met="-+" part="N">a<sb part="N"/>bide </seg>
+          <seg met="-+" part="N">and <rhyme label="a">meet</rhyme>;</seg>
+        </l>
+        <l n="10" part="N" met="-+-+-+" real="-+-+-+">
+          <seg met="-+" part="N">Where thirst<sb part="N"/></seg>
+          <seg met="-+" part="N">ing long<sb part="N"/></seg>
+          <seg met="-+" part="N">ing <rhyme label="b">eyes</rhyme></seg>
+        </l>
+        <l n="11" part="N" met="-+-+" real="+-++">
+          <seg met="-+" real="+-" part="N">Watch the </seg>
+          <seg met="-+" real="++" part="N">slow <rhyme label="c">door</rhyme></seg>
+        </l>
+        <l n="12" part="N" met="-+-+-+-+-+" real="-+--+-+-+++|-+--+-+-+-+">
+          <seg met="-+" part="N">That o<sb part="N"/></seg>
+          <seg met="-+" real="--+" part="N">pen<sb part="N"/>ing, <caesura/> let<sb
+              part="N"/></seg>
+          <seg met="-+" part="N">ting in, </seg>
+          <caesura/>
+          <seg met="-+" part="N">lets out </seg>
+          <seg met="-+" real="++" part="N">no <rhyme label="c">more</rhyme>.</seg>
+        </l>
+          </lg><lg n="3" type="stanza" met="-+(5/5/5/3/2/5)" rhyme="ababcc" org="uniform" sample="complete" part="N"><l n="13" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+          <seg met="-+" part="N">Yet come </seg>
+          <seg met="-+" part="N">to me </seg>
+          <seg met="-+" part="N">in dreams, </seg>
+          <caesura/>
+          <seg met="-+" part="N">that I </seg>
+          <seg met="-+" part="N">may <rhyme label="a">live</rhyme></seg>
+          </l>
+          <l n="14" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+          <seg met="-+" part="N">My ver<sb part="N"/></seg>
+          <seg met="-+" part="N">y life </seg>
+          <seg met="-+" part="N">a<sb part="N"/>gain </seg>
+          <seg met="-+" part="N">though cold </seg>
+          <seg met="-+" part="N">in <rhyme label="b">death</rhyme>;</seg>
+          </l><l n="15" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+          <seg met="-+" part="N">Come back </seg>
+          <seg met="-+" part="N">to me </seg>
+          <seg met="-+" part="N">in dreams, </seg>
+          <seg met="-+" part="N">that I </seg>
+          <seg met="-+" part="N">may <rhyme label="a">give</rhyme></seg>
+          </l>
+          <l n="16" part="N" met="-+-+-+" real="+-++-+">
+          <seg met="-+" real="+-" part="N">Pulse for </seg>
+          <seg met="-+" real="++" part="N">pulse, <caesura/> breath </seg>
+          <seg met="-+" part="N">for <rhyme label="b">breath</rhyme>:</seg>
+          <note anchored="true"> This line frames its other-worldly hunger so superbly as
+            to exact for the time being, and from the reader, the reciprocation that the
+            speaker craves in vain from a vanished love. The meter times our pulse to
+            Rossetti's, as the caesura metes out our breath. It's impossible, during the
+            life of the line at least, to tell overture from requital, laying out from
+            paying back. The line that follows should be easy after this one, though it
+            should be noted that the subject of its verbs might again be either "I" or
+            "you." Both lines owe much to the framing metrical regularity of the rest of
+            this stanza.</note>
+          </l><l n="17" part="N" met="-+-+" real="++++">
+          <seg met="-+" real="++" part="N">Speak low, </seg>
+          <caesura/>
+          <seg met="-+" real="++" part="N">lean <rhyme label="c">low</rhyme>,</seg>
+          </l><l n="18" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+          <seg met="-+" part="N">As long </seg>
+          <seg met="-+" part="N">a<sb part="N"/>go, </seg>
+          <caesura/>
+          <seg met="-+" part="N">my love, </seg>
+          <caesura/>
+          <seg met="-+" part="N">how long </seg>
+          <seg met="-+" part="N">a<sb part="N"/><rhyme label="c">go</rhyme>.</seg>
+</l></lg></body></text></TEI>

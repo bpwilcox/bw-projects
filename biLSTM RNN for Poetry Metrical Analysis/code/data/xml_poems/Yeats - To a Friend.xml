@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>To a Friend Whose Work Has Come to Nothing</title>
+                    <author>W. B. Yeats</author>
+                </titleStmt>
+                <publicationStmt><date>1913</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="???" met="-+(3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3)" rhyme="ababcdcdefefcgcg" org="uniform" sample="complete" part="N"> 
+                    <l n="1" met="-+-+-+" real="-+-+-+">
+                        <seg>Now <sb/>all </seg>
+                        <seg>the truth </seg>
+                        <seg>is <rhyme label="a">out,</rhyme></seg>
+                    </l>
+                    <l n="2" met="-+-+-+" real="-+--+-+">
+                        <seg>Be sec<sb/></seg>
+                        <seg met="-+" real="--+">ret and take </seg>
+                        <seg>de<sb/><rhyme label="b">feat</rhyme></seg>
+                    </l>
+                    <l n="3" met="-+-+-+" real="-+-+-+">
+                        <seg>From an<sb/></seg>
+                        <seg>y braz<sb/></seg>
+                        <seg>en <rhyme label="a">throat,</rhyme></seg>
+                    </l>
+                    <l n="4" met="-+-+-+" real="-+-+-+">
+                        <seg>For how </seg>
+                        <seg>can you </seg>
+                        <seg>com<sb/><rhyme label="b">pete,</rhyme></seg>
+                    </l>
+                    <l n="5" met="-+-+-+" real="--+-+-+">
+                        <seg met="-+" real="--+">Be<sb/>ing hon<sb/></seg>
+                        <seg>our bred, </seg>
+                        <caesura/>
+                        <seg>with <rhyme label="c">one</rhyme></seg>
+                    </l>
+                    <l n="6" met="-+-+-+" real="+--+-+|-+-+-+">
+                        <seg met="-+" real="+-|-+">Who, <caesura/>were </seg>
+                        <seg>it proved </seg>
+                        <seg>he <rhyme label="d">lies,</rhyme></seg>
+                    </l>
+                    <l n="7" met="-+-+-+" real="-+-+--+">
+                        <seg>Were nei<sb/></seg>
+                        <seg>ther shamed </seg>
+                        <seg met="-+" real="--+">in his <rhyme label="c">own</rhyme></seg>
+                    </l>
+                    <l n="8" met="-+-+-+" real="+--+-+">
+                        <seg met="-+" real="+-">Nor in </seg>
+                        <seg>his neigh<sb/></seg>
+                        <seg>bours' <rhyme label="d">eyes?</rhyme></seg>
+                    <note anchored="true"> While it's acceptable to scan this line as straight
+                        iambic trimeter, a couple of reasons conspire to make a trochee the better
+                        bet in the first foot. "Nor" attracts stress from its partner "neither" one
+                        line above. Besides, "in" isn't stressed in that line, so why stress it
+                        here? Furthermore, Yeats has set up a nice undercurrent of variable
+                        double-slacks across the middle lines of the poem, whether by anapestic
+                        substitution or, as here, by putting a trochee before an iamb. The resulting
+                        skip livens things up and helps keep the poem from turning into a heavy
+                        scold. </note>
+                    </l>
+                    <l n="9" met="-+-+-+" real="+--+-+">
+                        <seg met="-+" real="+-">Bred to </seg>
+                        <seg>a hard<sb/></seg>
+                        <seg>er <rhyme label="e">thing</rhyme></seg>
+                    </l>
+                    <l n="10" met="-+-+-+" real="-+-+-+">
+                        <seg>Than Tri<sb/></seg>
+                        <seg>umph, <caesura/>turn </seg>
+                        <seg>a<sb/><rhyme label="f">way</rhyme></seg>
+                    </l>
+                    <l n="11" met="-+-+-+" real="-+-+-+">
+                        <seg>And like </seg>
+                        <seg>a laugh<sb/></seg>
+                        <seg>ing <rhyme label="e">string</rhyme></seg>
+                    </l>
+                    <l n="12" met="-+-+-+" real="--++-+|-+++-+">
+                        <seg met="-+" real="--|-+">Where<sb/>on </seg>
+                        <seg met="-+" real="++">mad fing<sb/></seg>
+                        <seg>ers <rhyme label="f">play</rhyme></seg>
+                    </l>
+                
+                    <l n="13" met="-+-+-+" real="-+-+-+">
+                        <seg>A<sb/>mid </seg>
+                        <seg>a place </seg>
+                        <seg>of <rhyme label="c">stone,</rhyme></seg>
+                    </l>
+                    <l n="14" met="-+-+-+" real="-+-+-+">
+                        <seg>Be sec<sb/></seg>
+                        <seg>ret and </seg>
+                        <seg>ex<sb/><rhyme label="g">ult,</rhyme></seg>
+                    </l>
+                    <l n="15" met="-+-+-+" real="-+-+++">
+                        <seg>Be<sb/>cause <sb/></seg>
+                        <seg>of all </seg>
+                        <seg met="-+" real="++">things <rhyme label="c">known</rhyme></seg>
+                    </l>
+                    <l n="16" met="-+-+-+" real="+-++-+|+--+-+">
+                        <seg met="-+" real="+-">That is </seg>
+                        <seg met="-+" real="++|-+">most dif<sb/></seg>
+                        <seg>fi<sb/><rhyme label="g">cult.</rhyme></seg>
+                    <note anchored="true"> It seems right that this line asserting difficulty should
+                        be the most difficult in the poem to scan. The sense of obstacles overcome
+                        is heightened when the initial trochee here follows the spondaic ending of
+                        the line before it: four consecutive stressed syllables, in a poem as short
+                        and taut as this one, amount to something! And then there's the almost
+                        reluctant perseverance of the stress on the poem's final syllable, obligated
+                        by rhyme. Though in ordinary parlance it might wind down into a mutter, the
+                        syllable as Yeats has set it up requires a final push to the end: tired but
+                        proud, a bit spitefully spat out. </note>
+                    </l>
+                </lg>
+            </body></text></TEI>

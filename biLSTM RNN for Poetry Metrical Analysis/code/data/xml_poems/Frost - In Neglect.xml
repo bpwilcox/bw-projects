@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>In Neglect</title>
+                    <author>Robert Frost</author>
+                </titleStmt>
+                <publicationStmt><date>1913</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="quintain" met="-+(4/4/4/4/4)" rhyme="abaab" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+" real="-+-+--+-+" part="N">
+                    <seg met="-+" part="N">They leave </seg>
+                    <seg met="-+" part="N">us so </seg>
+                    <seg met="-+" real="--+" part="N">to the way </seg>
+                    <seg met="-+" part="N">we <rhyme label="a">took,</rhyme></seg>
+                </l><l n="2" met="-+-+-+-+" real="-+-+--+-+(-)" part="N">
+                    <seg met="-+" part="N">As two </seg>
+                    <seg met="-+" part="N">in whom </seg>
+                    <caesura/>
+                    <seg met="-+" real="--+" part="N">they were proved </seg>
+                    <seg met="-+" real="-+(-)" part="N">mis<sb part="N"/>tak<sb part="N"/><rhyme label="b">en,</rhyme></seg>
+                </l><l n="3" met="-+-+-+-+" real="--+-+--+-+" part="N">
+                    <seg met="-+" real="--+" part="N">That we sit </seg>
+                    <seg met="-+" part="N">some<sb part="N"/>times </seg>
+                    <seg met="-+" real="--+" part="N">in the way<sb part="N"/></seg>
+                    <seg met="-+" part="N">side <rhyme label="a">nook,</rhyme></seg>
+                </l><l n="4" met="-+-+-+-+" real="-+--+--+-+" part="N">
+                    <seg met="-+" part="N">With mis<sb part="N"/> </seg>
+                    <seg met="-+" real="--+" part="N">chie<sb part="N"/>vous, va<sb part="N"/></seg>
+                    <seg met="-+" real="--+" part="N">grant, se<sb part="N"/>raph</seg>
+                    <seg met="-+" part="N">ic <rhyme label="a">look, </rhyme></seg>
+                </l><l n="5" met="-+-+-+-+" real="-+--+-+-+(-)" part="N">
+                    <seg met="-+" part="N">  And try </seg>
+                    <seg met="-+" real="--+" part="N">if we can<sb part="N"/></seg>
+                    <seg met="-+" part="N">not feel </seg>
+                    <seg met="-+" real="-+(-)" part="N">for<sb part="N"/>sak<sb part="N"/><rhyme label="b">en.</rhyme></seg>
+                </l></lg></body></text></TEI>

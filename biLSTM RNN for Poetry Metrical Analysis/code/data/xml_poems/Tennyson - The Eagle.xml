@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Eagle</title>
+                <author>Alfred Lord Tennyson</author>
+            </titleStmt>
+            <publicationStmt><date>1851</date></publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="tercet" met="-+(4/4/4)" rhyme="aaa">
+                <l n="1" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg met="-+">He clasps </seg>
+                    <seg met="-+">the crag </seg>
+                    <seg met="-+">with crook<sb/></seg>
+                    <seg met="-+">ed <rhyme label="a">hands;</rhyme></seg>
+                </l>
+                <l n="2" met="-+-+-+-+" real="+--+-+-+">
+                    <seg met="-+" real="+-">Close to </seg>
+                    <seg met="-+">the sun </seg>
+                    <seg met="-+">in lone<sb/></seg>
+                    <seg met="-+">ly <rhyme label="a">lands,</rhyme></seg>
+                </l>
+                <l n="3" met="-+-+-+-+" real="+--+-+-+">
+                    <seg met="-+" real="+-">Ringed with </seg>
+                    <seg met="-+">the az<sb/></seg>
+                    <seg met="-+">ure world, </seg>
+                    <caesura/>
+                    <seg met="-+">he <rhyme label="a">stands.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="2" type="tercet" met="-+(4/4/4)" rhyme="bbb">
+                <l n="4" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg met="-+">The wrin<sb/></seg>
+                    <seg met="-+">kled sea </seg>
+                    <seg met="-+">be<sb/>neath </seg>
+                    <seg met="-+">him <rhyme label="b">crawls;</rhyme></seg>
+                </l>
+                <l n="5" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg met="-+">He watch<sb/></seg>
+                    <seg met="-+">es from </seg>
+                    <seg met="-+">his moun<sb/></seg>
+                    <seg met="-+">tain <rhyme label="b">walls,</rhyme></seg>
+                </l>
+                <l n="6" met="-+-+-+-+" real="+--+-+-+|-+-+-+-+">
+                    <seg met="-+" real="+-|-+">And like </seg>
+                    <seg met="-+">a thun<sb/></seg>
+                    <seg met="-+" real="--+">der<sb/>bolt </seg>
+                    <seg met="-+">he <rhyme label="b">falls.</rhyme></seg>
+                </l>
+             </lg>
+        </body>
+    </text>
+</TEI>

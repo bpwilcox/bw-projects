@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text"><fileDesc><titleStmt><title>Sonnet 18</title><author>William Shakespeare</author></titleStmt><publicationStmt><date>1609</date></publicationStmt><sourceDesc default="false"><p/></sourceDesc></fileDesc></teiHeader><text><body>
+        <lg n="1" type="quatrain" met="-+(5/5/5/5)" rhyme="abab" org="uniform" sample="complete" part="N">
+            <l n="1" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Shall I </seg>
+                    <seg met="-+" part="N">com<sb part="N"/>pare </seg>
+                    <seg met="-+" part="N">thee to </seg>
+                    <seg met="-+" part="N">a sum<seg part="N"/></seg>
+                    <seg met="-+" part="N">mer's <rhyme label="a">day?</rhyme></seg>
+                </l><l n="2" part="N" met="-+-+-+-+-+" real="--++--++-+">
+                    <seg met="-+" real="--" part="N">Thou art </seg>
+                    <seg met="-+" real="++" part="N">more love<sb part="N"/></seg>
+                    <seg met="-+" real="--" part="N">ly and </seg>
+                    <seg met="-+" real="++" part="N">more tem<sb part="N"/></seg>
+                    <seg met="-+" part="N">per<sb part="N"/><rhyme label="b">ate:</rhyme></seg>                 
+                </l><l n="3" part="N" met="-+-+-+-+-+" real="++-+-+-+-+">
+                    <seg met="-+" real="++" part="N">Rough winds </seg>
+                    <seg met="-+" part="N">do shake </seg>
+                    <seg met="-+" part="N">the dar<sb part="N"/></seg>
+                    <seg met="-+" part="N">ling buds </seg>
+                    <seg met="-+" part="N">of <rhyme label="a">May,</rhyme></seg>
+                </l><l n="4" part="N" met="-+-+-+-+-+" real="-+-+-+++-+">
+                    <seg met="-+" part="N">And sum<sb part="N"/></seg>
+                    <seg met="-+" part="N">mer's lease </seg>
+                    <seg met="-+" part="N">hath all </seg>
+                    <seg met="-+" real="++" part="N">too short </seg>
+                    <seg met="-+" part="N">a <rhyme label="b">date;</rhyme></seg>
+                </l></lg><lg n="2" type="quatrain" met="-+(5/5/5/5)" rhyme="cdcd" org="uniform" sample="complete" part="N">
+                    <l n="5" part="N" met="-+-+-+-+-+" real="+-++-+-+-+">
+                    <seg met="-+" real="+-" part="N">Some<sb part="N"/>times </seg>
+                    <seg met="-+" real="++" part="N">too hot </seg>                  
+                    <seg met="-+" part="N">the eye </seg>
+                    <seg met="-+" part="N">of heav<sb part="N"/></seg>
+                    <seg met="-+" part="N">en <rhyme label="c">shines,</rhyme></seg>
+                </l><l n="6" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">And of<sb part="N"/></seg>
+                    <seg met="-+" part="N">ten is </seg>
+                    <seg met="-+" part="N">his gold </seg>
+                    <seg met="-+" part="N">com<sb part="N"/>plex<sb part="N"/></seg>
+                    <seg met="-+" part="N">ion <rhyme label="d">dimmed;</rhyme></seg>
+                </l><l n="7" part="N" met="-+-+-+-+-+" real="-+-+-++--+">
+                    <seg met="-+" part="N">And eve<sb part="N"/></seg>
+                    <seg met="-+" part="N">ry fair </seg>
+                    <seg met="-+" part="N">from fair </seg>
+                    <seg met="-+" real="+-" part="N">some<sb part="N"/>times </seg>
+                    <seg met="-+" part="N">de<sb part="N"/><rhyme label="c">clines,</rhyme></seg>
+                </l><l n="8" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">By chance </seg>
+                    <seg met="-+" part="N">or na<sb part="N"/></seg>
+                    <seg met="-+" part="N">ture's chang<sb part="N"/></seg>
+                    <seg met="-+" part="N">ing course </seg>
+                    <seg met="-+" part="N">un<sb part="N"/><rhyme label="d">trimmed;</rhyme></seg>
+                </l></lg><lg n="3" type="quatrain" met="-+(5/5/5/5)" rhyme="efef" org="uniform" sample="complete" part="N">
+                    <l n="9" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+|-+-+-+--++">
+                    <seg met="-+" part="N">But thy </seg>
+                    <seg met="-+" part="N">e<sb part="N"/>ter<sb part="N"/></seg>
+                    <seg met="-+" part="N">nal sum<sb part="N"/></seg>
+                    <seg met="-+" real="--" part="N">mer shall </seg>
+                    <seg met="-+" real="++" part="N">not <rhyme label="e">fade,</rhyme></seg>
+                </l><l n="10" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">Nor lose </seg>
+                    <seg met="-+" part="N">pos<sb part="N"/>ses<sb part="N"/></seg>
+                    <seg met="-+" part="N">sion of </seg>
+                    <seg met="-+" part="N">that fair </seg>
+                    <seg met="-+" part="N">thou <rhyme label="f">ow'st;</rhyme></seg>
+                </l><l n="11" part="N" met="-+-+-+-+-+" real="+-++-+-+-+">
+                    <seg met="-+" real="+-" part="N">Nor shall </seg>
+                    <seg met="-+" real="++" part="N">death brag </seg>
+                    <seg met="-+" part="N">thou wand'<sb part="N"/></seg>
+                    <seg met="-+" part="N">rest in </seg>
+                    <seg met="-+" part="N">his <rhyme label="e">shade,</rhyme></seg>
+                </l><l n="12" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">When in </seg>
+                    <seg met="-+" part="N">e<sb part="N"/>ter<sb part="N"/></seg>
+                    <seg met="-+" part="N">nal lines </seg>
+                    <seg met="-+" part="N">to Time </seg>
+                    <seg met="-+" part="N">thou <rhyme label="f">grow'st;</rhyme></seg>
+                </l></lg><lg n="4" type="couplet" met="-+(5/5)" rhyme="gg" org="uniform" sample="complete" part="N">
+                    <l n="13" part="N" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg met="-+" part="N">So long </seg>
+                    <seg met="-+" part="N">as men </seg>
+                    <seg met="-+" part="N">can breathe, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">or eyes </seg>
+                    <seg met="-+" part="N">can <rhyme label="g">see,</rhyme></seg>
+                </l><l n="14" part="N" met="-+-+-+-+-+" real="-+++-+-+-+|-+++-+++-+">
+                   <seg met="-+" part="N">So long </seg>
+                    <seg met="-+" real="++" part="N">lives this, </seg>
+                    <caesura/>
+                    <seg met="-+" part="N">and this </seg>
+                    <seg met="-+" real="++" part="N">gives life </seg>
+                    <seg met="-+" part="N">to <rhyme label="g">thee.</rhyme></seg>
+                    <note anchored="true"> Rhythmically, this is a sonnet of unusual placidity.
+                        Every line is end-stopped, and many are perfectly regular. There is no
+                        distinct caesura until the couplet, and even there the pause in line 13
+                        remains pretty slight. All this serenity comes to a firm point with the
+                        caesura of the final line -- effecting not surprise, but a spondaic aplomb
+                        whose confidence in poetry's survival gets confirmed afresh each time a
+                        reader arrives at Shakespeare's conclusion. </note>
+                </l></lg></body></text></TEI>

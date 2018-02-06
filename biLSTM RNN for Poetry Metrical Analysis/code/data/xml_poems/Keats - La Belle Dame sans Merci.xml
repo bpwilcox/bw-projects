@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0"
+  version="5.0">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>La Belle Dame sans Merci</title>
+        <author>John Keats</author>
+      </titleStmt>
+      <publicationStmt>
+        <date>1820</date>
+      </publicationStmt>
+      <sourceDesc default="false">
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg n="1" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="1" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">O what </seg>
+          <seg met="-+" part="N">can ail </seg>
+          <seg met="-+" part="N">thee, knight-</seg>
+          <seg met="-+" part="N">at-<sb/><rhyme label="a">arms,</rhyme></seg>
+        </l>
+        <l n="2" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">A<sb/>lone </seg>
+          <seg met="-+" part="N">and pale<sb/></seg>
+          <seg met="-+" part="N">ly loit<sb/></seg>
+          <seg met="-+" part="N">er<sb/><rhyme label="b">ing?</rhyme></seg>
+        </l>
+        <l n="3" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">The sedge </seg>
+          <seg met="-+" part="N">has with<sb/></seg>
+          <seg met="-+" part="N">ered from </seg>
+          <seg met="-+" part="N">the <rhyme label="c">lake,</rhyme></seg>
+        </l>
+        <l n="4" met="-+-+" real="-+++">
+          <seg met="-+" part="N">And no </seg>
+          <seg met="-+" real="++" part="N">birds <rhyme label="b">sing.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="2" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="5" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">O what </seg>
+          <seg met="-+" part="N">can ail </seg>
+          <seg met="-+" part="N">thee, knight-</seg>
+          <seg met="-+" part="N">at-<sb/><rhyme label="a">arms,</rhyme></seg>
+        </l>
+        <l n="6" met="-+-+-+-+" real="-+--++-+">
+          <seg met="-+" part="N">So hag<sb/></seg>
+          <seg met="-+" real="--" part="N">gard and </seg>
+          <seg met="-+" real="++" part="N">so woe-</seg>
+          <seg met="-+" part="N">be<sb/><rhyme label="b">gone?</rhyme></seg>
+        </l>
+        <l n="7" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">The squir<sb/></seg>
+          <seg met="-+" part="N">rel's gran<sb/></seg>
+          <seg met="-+" part="N">a<sb/>ry </seg>
+          <seg met="-+" part="N">is <rhyme label="c">full,</rhyme></seg>
+        </l>
+        <l n="8" met="-+-+" real="--+-+">
+          <seg met="-+" real="--+" part="N">And the har<sb/></seg>
+          <seg met="-+" part="N">vest's <rhyme label="b">done.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="3" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="9" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">I see </seg>
+          <seg met="-+" part="N">a lil<sb/></seg>
+          <seg met="-+" part="N">y on </seg>
+          <seg met="-+" part="N">thy <rhyme label="a">brow,</rhyme></seg>
+        </l>
+        <l n="10" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">With an<sb/></seg>
+          <seg met="-+" part="N">guish moist </seg>
+          <seg met="-+" part="N">and fe<sb/></seg>
+          <seg met="-+" part="N">ver-<sb/><rhyme label="b">dew,</rhyme></seg>
+        </l>
+        <l n="11" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">And on </seg>
+          <seg met="-+" part="N">thy cheeks </seg>
+          <seg met="-+" part="N">a fad<sb/></seg>
+          <seg met="-+" part="N">ing <rhyme label="c">rose</rhyme></seg>
+        </l>
+        <l n="12" met="-+-+" real="++--+">
+          <seg met="-+" real="++" part="N">Fast with<sb/></seg>
+          <seg met="-+" real="--+" part="N">er<sb/>eth <rhyme label="b">too.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="4" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="13" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">I met </seg>
+          <seg met="-+" part="N">a la<sb/></seg>
+          <seg met="-+" part="N">dy in </seg>
+          <seg met="-+" part="N">the <rhyme label="a">meads,</rhyme></seg>
+        </l>
+        <l n="14" met="-+-+-+-+" real="++-+-+-+">
+          <seg met="-+" real="++" part="N">Full beau<sb/></seg>
+          <seg met="-+" part="N">ti<sb/>ful-- <caesura/></seg>
+          <seg met="-+" part="N">a fae<sb/></seg>
+          <seg met="-+" part="N">ry's <rhyme label="b">child,</rhyme></seg>
+        </l>
+        <l n="15" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">Her hair </seg>
+          <seg met="-+" part="N">was long, </seg>
+          <seg met="-+" part="N">her foot </seg>
+          <seg met="-+" part="N">was <rhyme label="c">light,</rhyme></seg>
+        </l>
+        <l n="16" met="-+-+" real="--+-+">
+          <seg met="-+" real="--+" part="N">And her eyes </seg>
+          <seg met="-+" part="N">were <rhyme label="b">wild.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="5" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="17" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">I made </seg>
+          <seg met="-+" part="N">a gar<sb/></seg>
+          <seg met="-+" part="N">land for </seg>
+          <seg met="-+" part="N">her <rhyme label="a">head,</rhyme></seg>
+        </l>
+        <l n="18" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">And brace<sb/></seg>
+          <seg met="-+" part="N">lets too, </seg>
+          <seg met="-+" part="N">and frag<sb/></seg>
+          <seg met="-+" part="N">rant <rhyme label="b">zone;</rhyme></seg>
+        </l>
+        <l n="19" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">She looked </seg>
+          <seg met="-+" part="N">at me </seg>
+          <seg met="-+" part="N">as she </seg>
+          <seg met="-+" part="N">did <rhyme label="c">love,</rhyme></seg>
+        </l>
+        <l n="20" met="-+-+" real="-+++">
+          <seg met="-+" part="N">And made </seg>
+          <seg met="-+" real="++" part="N">sweet <rhyme label="b">moan.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="6" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="21" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">I set </seg>
+          <seg met="-+" part="N">her on </seg>
+          <seg met="-+" part="N">my pac<sb/></seg>
+          <seg met="-+" part="N">ing <rhyme label="a">steed,</rhyme></seg>
+        </l>
+        <l n="22" met="-+-+-+-+" real="-+-+-+++">
+          <seg met="-+" part="N">And no<sb/></seg>
+          <seg met="-+" part="N">thing else </seg>
+          <seg met="-+" part="N">saw all </seg>
+          <seg met="-+" real="++" part="N">day <rhyme label="b">long</rhyme></seg>
+        </l>
+        <l n="23" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">For side<sb/></seg>
+          <seg met="-+" part="N">long would </seg>
+          <seg met="-+" part="N">she bend, </seg>
+          <seg met="-+" part="N">and <rhyme label="c">sing</rhyme></seg>
+        </l>
+        <l n="24" met="-+-+" real="-+-+">
+          <seg met="-+" part="N">A fae<sb/></seg>
+          <seg met="-+" part="N">ry's <rhyme label="b">song.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="7" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="25" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">She found </seg>
+          <seg met="-+" part="N">me roots </seg>
+          <seg met="-+" part="N">of rel<sb/></seg>
+          <seg met="-+" part="N">ish <rhyme label="a">sweet,</rhyme></seg>
+        </l>
+        <l n="26" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">And hon<sb/></seg>
+          <seg met="-+" part="N">ey wild </seg>
+          <seg met="-+" part="N">and man<sb/></seg>
+          <seg met="-+" part="N">na-<sb/><rhyme label="b">dew;</rhyme></seg>
+        </l>
+        <l n="27" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">And sure </seg>
+          <seg met="-+" part="N">in lang<sb/></seg>
+          <seg met="-+" part="N">uage strange </seg>
+          <seg met="-+" part="N">she <rhyme label="c">said,</rhyme></seg>
+        </l>
+        <l n="28" met="-+-+" real="-+-+">
+          <seg met="-+" part="N">"I love </seg>
+          <seg met="-+" part="N">thee <rhyme label="b">true."</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="8" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="29" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">She took </seg>
+          <seg met="-+" part="N">me to </seg>
+          <seg met="-+" part="N">her elf<sb/></seg>
+          <seg met="-+" part="N">in <rhyme label="a">grot,</rhyme></seg>
+        </l>
+        <l n="30" met="-+-+-+-+" real="-+-+-+++">
+          <seg met="-+" part="N">And there </seg>
+          <seg met="-+" part="N">she wept </seg>
+          <seg met="-+" part="N">and sighed </seg>
+          <seg met="-+" real="++" part="N">full <rhyme label="b">sore;</rhyme></seg>
+        </l>
+        <l n="31" met="-+-+-+-+" real="-+-+-+++">
+          <seg met="-+" part="N">And there </seg>
+          <seg met="-+" part="N">I shut </seg>
+          <seg met="-+" part="N">her wild, </seg>
+          <seg met="-+" real="++" part="N">wild <rhyme label="c">eyes</rhyme></seg>
+        </l>
+        <l n="32" met="-+-+" real="-+-+">
+          <seg met="-+" part="N">With kiss<sb/></seg>
+          <seg met="-+" part="N">es <rhyme label="b">four.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="9" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="33" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">And there </seg>
+          <seg met="-+" part="N">she lull<sb/></seg>
+          <seg met="-+" part="N">&#x00e8;d me </seg>
+          <seg met="-+" part="N">as<sb/><rhyme label="a">leep,</rhyme></seg>
+        </l>
+        <l n="34" met="-+-+-+-+" real="-+-+++-+">
+          <seg met="-+" part="N">And there </seg>
+          <seg met="-+" part="N">I dreamed-- <caesura/></seg>
+          <seg met="-+" real="++" part="N">Ah! woe </seg>
+          <seg met="-+" part="N">be<sb/><rhyme label="b">tide!--</rhyme></seg>
+        </l>
+        <l n="35" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">The lat<sb/></seg>
+          <seg met="-+" part="N">est dream </seg>
+          <seg met="-+" part="N">I e<sb/></seg>
+          <seg met="-+" part="N">ver <rhyme label="c">dreamed</rhyme></seg>
+        </l>
+        <l n="36" met="-+-+" real="--+++">
+          <seg met="-+" real="--+" part="N">On the cold </seg>
+          <seg met="-+" real="++" part="N">hill's <rhyme label="b">side.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="10" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="37" met="-+-+-+-+" real="-+++-+-+">
+          <seg met="-+" part="N">I saw </seg>
+          <seg met="-+" real="++" part="N">pale kings </seg>
+          <seg met="-+" part="N">and prin<sb/></seg>
+          <seg met="-+" part="N">ces <rhyme label="a">too,</rhyme></seg>
+        </l>
+        <l n="38" met="-+-+-+-+" real="++--+---+">
+          <seg met="-+" real="++" part="N">Pale war<sb/></seg>
+          <seg met="-+" real="--+" part="N">ri<sb/>ors, death-</seg>
+          <seg met="-+" real="--" part="N">pale were </seg>
+          <seg met="-+" part="N">they <rhyme label="b">all;</rhyme></seg>
+        </l>
+        <l n="39" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">They cried, </seg>
+          <seg met="-+" part="N">"La Belle </seg>
+          <seg met="-+" part="N">Dame sans </seg>
+          <seg met="-+" part="N">Mer<sb/><rhyme label="c">ci</rhyme></seg>
+        </l>
+        <l n="40" met="-+-+" real="-+-+">
+          <seg met="-+" part="N">Hath thee </seg>
+          <seg met="-+" part="N">in <rhyme label="b">thrall!"</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="11" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="41" met="-+-+-+-+" real="-+-++--+">
+          <seg met="-+" part="N">I saw </seg>
+          <seg met="-+" part="N">their starved </seg>
+          <seg met="-+" real="+-" part="N">lips in </seg>
+          <seg met="-+" part="N">the <rhyme label="a">gloam</rhyme></seg>
+        </l>
+        <l n="42" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">With hor<sb/></seg>
+          <seg met="-+" part="N">rid warn<sb/></seg>
+          <seg met="-+" part="N">ing gap<sb/></seg>
+          <seg met="-+" part="N">&#x00e8;d <rhyme label="b">wide,</rhyme></seg>
+        </l>
+        <l n="43" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">And I </seg>
+          <seg met="-+" part="N">a<sb/>woke </seg>
+          <seg met="-+" part="N">and found </seg>
+          <seg met="-+" part="N">me <rhyme label="c">here</rhyme></seg>
+        </l>
+        <l n="44" met="-+-+" real="--+++">
+          <seg met="-+" real="--+" part="N">On the cold </seg>
+          <seg met="-+" real="++" part="N">hill's <rhyme label="b">side.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="12" type="stanza" met="-+(4/4/4/2)" rhyme="abcb" org="uniform" sample="complete"
+        part="N">
+        <l n="45" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">And this </seg>
+          <seg met="-+" part="N">is why </seg>
+          <seg met="-+" part="N">I so<sb/></seg>
+          <seg met="-+" part="N">journ <rhyme label="a">here</rhyme></seg>
+        </l>
+        <l n="46" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">A<sb/>lone </seg>
+          <seg met="-+" part="N">and pale<sb/></seg>
+          <seg met="-+" part="N">ly loi<sb/></seg>
+          <seg met="-+" part="N">ter<sb/><rhyme label="b">ing,</rhyme></seg>
+        </l>
+        <l n="47" met="-+-+-+-+" real="--+-+-+-+">
+          <seg met="-+" real="--+" part="N">Though the sedge </seg>
+          <seg met="-+" part="N">is with<sb/></seg>
+          <seg met="-+" part="N">ered from </seg>
+          <seg met="-+" part="N">the <rhyme label="c">lake,</rhyme></seg>
+        </l>
+        <l n="48" met="-+-+" real="-+++">
+          <seg met="-+" part="N">And no </seg>
+          <seg met="-+" real="++" part="N">birds <rhyme label="b">sing.</rhyme></seg>
+        </l>
+      </lg>
+    </body>
+  </text>
+</TEI>

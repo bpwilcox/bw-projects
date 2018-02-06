@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Anthem for Doomed Youth</title>
+                    <author>Wilfred Owen</author>
+                </titleStmt>
+                <publicationStmt><date>1917</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="sonnet" met="-+(5/5/5/5/5/5/5/5)" rhyme="ababcdcd" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                   <seg>What pass<sb/></seg>
+                   <seg>ing-<sb/>bells </seg>
+                   <seg>for these </seg>
+                   <seg>who die </seg>
+                   <seg met="-+" real="-+-">as cat<sb/><rhyme label="a">tle?</rhyme></seg>
+               </l><l n="2" met="-+-+-+-+-+" real="+--+-+-+-+">
+                   <seg met="-+" real="+-">On<sb/>ly </seg>
+                    <seg>the mon<sb/></seg>
+                    <seg>strous an<sb/></seg>
+                    <seg>ger of </seg>
+                    <seg>the <rhyme label="b">guns.</rhyme></seg>
+                </l><l n="3" met="-+-+-+-+-+" real="+--+--+-+-+-">
+                    <seg met="-+" real="+-">On<sb/>ly </seg>
+                    <seg>the stut<sb/></seg>
+                    <seg met="-+" real="--+">ter<sb/>ing ri<sb/></seg>
+                    <seg>fles' ra<sb/></seg>
+                    <seg met="-+" real="-+-">pid rat<sb/><rhyme label="a">tle</rhyme></seg>
+                    <note anchored="true"> Rat-a-tat-tat. Every reader's ear will catch the guttural
+                        assonance here, and be caught by the way "stuttering" reverberates through
+                        "rattle" into "Can patter" in the next line. The scanning reader hears,
+                        besides, how three pairs of double-slacks(the last over enjambment)
+                        reinforce Owen's rapid-fire notation of combat stress disorder.</note>
+                </l><l n="4" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Can pat<sb/></seg>
+                    <seg>ter out </seg>
+                    <seg>their hast<sb/></seg>
+                    <seg>y or<sb/></seg>
+                    <seg>i<sb/><rhyme label="b">sons.</rhyme></seg>
+                </l><l n="5" met="-+-+-+-+-+" real="-+--+-+-+-+|++--+-+++-+">
+                    <seg met="-+" real="-+|++">No mock<sb/></seg>
+                    <seg met="-+" real="--+">er<sb/>ies now </seg>
+                    <seg>for them; </seg>
+                    <caesura/>
+                    <seg met="-+" real="-+|++">no prayers </seg>
+                    <seg>nor <rhyme label="c">bells;</rhyme></seg>
+                </l><l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+-">
+                    <seg>Nor an<sb/></seg>
+                    <seg>y voice </seg>
+                    <seg>of mourn<sb/></seg>
+                    <seg >ing save </seg>
+                    <seg met="-+" real="-+-">the cho<sb/><rhyme label="d">irs,--</rhyme></seg>
+                </l><l n="7" met="-+-+-+-+-+" real="-+-+-+--+-+">
+                    <seg>The shrill, </seg>
+                    <seg>de<sb/>ment<sb/></seg>
+                    <seg>ed cho<sb/></seg>
+                    <seg met="-+" real="--+">irs of wail<sb/></seg>
+                    <seg>ing <rhyme label="c">shells;</rhyme></seg>
+                </l><l n="8" met="-+-+-+-+-+" real="-+-+-+--++-">
+                    <seg>And bu<sb/></seg>
+                    <seg>gles call<sb/></seg>
+                    <seg>ing for </seg>
+                    <seg met="-+" real="--">them from </seg>
+                    <seg met="-+" real="++-">sad shi<sb/><rhyme label="d">res.</rhyme></seg></l>
+                </lg>
+                <lg n="2" type="sonnet" met="-+(5/5/5/5/5/5)" rhyme="effegg" org="uniform" sample="complete" part="N">
+                    <l n="9" met="-+-+-+-+-+" real="-+-+-+-+-+|++---+-+-+">
+                    <seg met="-+" real="++">What can<sb/></seg>
+                    <seg met="-+" real="--">dles may </seg>
+                    <seg>be held </seg>
+                    <seg>to speed </seg>
+                    <seg>them <rhyme label="e">all?</rhyme></seg>
+                </l><l n="10" met="-+-+-+-+-+" real="+--+-+-+-+">
+                    <seg met="-+" real="+-">Not in </seg>
+                    <seg>the hands </seg>
+                    <seg>of boys </seg>
+                    <seg>but in </seg>
+                    <seg>their <rhyme label="f">eyes</rhyme></seg>
+                </l><l n="11" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Shall shine </seg>
+                    <seg>the ho<sb/></seg>
+                    <seg>ly glim<sb/></seg>
+                    <seg>mers of </seg>
+                    <seg>good<sb/><rhyme label="f">byes.</rhyme></seg>
+                </l><l n="12" met="-+-+-+-+-+" real="-+--++-+-+">
+                    <seg>The pal<sb/></seg>
+                    <seg met="-+" real="--">lor of </seg>
+                    <seg met="-+" real="++">girls' brows </seg>
+                    <seg>shall be </seg>
+                    <seg>their <rhyme label="e">pall;</rhyme></seg>
+                </l><l n="13" met="-+-+-+-+-+" real="-+--+-+-+-+">
+                    <seg>Their flow<sb/></seg>
+                    <seg met="-+" real="--+">ers the ten<sb/></seg>
+                    <seg>der<sb/>ness </seg>
+                    <seg>of pa<sb/></seg>
+                    <seg>tient <rhyme label="g">minds,</rhyme></seg>
+                </l><l n="14" met="-+-+-+-+-+" real="-+++-+-+-+">
+                    <seg>And each </seg>
+                    <seg met="-+" real="++">slow dusk </seg>
+                    <seg>a draw<sb/></seg>
+                    <seg>ing-<sb/>down </seg>
+                    <seg>of <rhyme label="g">blinds.</rhyme></seg>
+                </l></lg></body></text></TEI>

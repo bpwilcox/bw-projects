@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Holy Sonnet 14</title>
+                    <author>John Donne</author>
+                </titleStmt>
+                <publicationStmt><date>1609</date></publicationStmt>
+                <sourceDesc default="false"><p/></sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <lg n="1" type="sonnet" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="abbaabbacdcdee" org="uniform" sample="complete" part="N">
+                    <l n="1" met="-+-+-+-+-+" real="+--+++-+-+">
+                   <seg met="-+" real="+-">Bat<sb/>ter </seg>
+                   <seg>my heart, </seg>
+                   <seg met="-+" real="++">three-<sb/>per<sb/></seg>
+                   <seg>soned God; </seg>
+                        <caesura/>
+                   <seg>for <rhyme label="a">you</rhyme></seg>
+               </l><l n="2" met="-+-+-+-+-+" real="-+-+++-+-+">
+                    <seg>As yet </seg>
+                    <seg>but knock, </seg>
+                    <seg met="-+" real="++">breathe, shine, </seg>
+                    <seg>and seek </seg>
+                    <seg>to <rhyme label="b">mend;</rhyme></seg>
+                </l><l n="3" met="-+-+-+-+-+" real="-+-+-+++--+|-+-+-+-+--+">
+                    <seg>That I </seg>
+                    <seg>may rise </seg>
+                    <seg>and stand, </seg>
+                    <seg met="-+" real="++|-+">o'er<sb/>throw </seg>
+                    <seg met="-+" real="--+">me and <rhyme label="b">bend</rhyme></seg>
+                    <note anchored="true"> Editions of this poem often print subscript elision marks
+                        indicating an iambic scansion of foot 5 here, and of numerous other feet
+                        in lines ahead.  While this may have been Donne's preference -- or just his
+                        posthumous printer's in 1633 -- for pedagogical purposes 4B4V prefers to let
+                        evident anapests be anapests wherever possible, dispensing with elision's shock
+                        absorber and giving the washboard effect full play.</note>
+                </l><l n="4" met="-+-+-+-+-+" real="-+-+++-+-+">
+                    <seg>Your force </seg>
+                    <seg>to break, </seg>
+                    <seg met="-+" real="++">blow, burn, </seg>
+                    <seg>and make </seg>
+                    <seg>me <rhyme label="a">new.</rhyme></seg>
+                    <note anchored="true"> Rhythmically identical to the irregular line 2 above it,
+                        line 4 sets its centrally stressed verbs in a one-for-one correspondence to
+                        their counterparts in the earlier line, with alliteration for extra punch.
+                    </note>
+                </l><l n="5" met="-+-+-+-+-+" real="+---++--+-+">
+                    <seg met="-+" real="+-">I, like </seg>
+                    <seg met="-+" real="--">an u<sb/></seg>
+                    <seg met="-+" real="++">surped town, </seg>
+                    <seg met="-+" real="--+">to an<sb/>oth<sb/></seg>
+                    <seg>er <rhyme label="a">due,</rhyme></seg>
+                </l><l n="6" met="-+-+-+-+-+" real="+---+--+-++">
+                    <seg met="-+" real="+-">La<sb/>bor </seg>
+                    <seg met="-+" real="--+">to ad<sb/>mit </seg>
+                    <seg met="-+" real="--">you, but </seg>
+                    <seg met="-+" real="+-">O, to </seg>
+                    <seg met="-+" real="++">no <rhyme label="b">end;</rhyme></seg>
+                </l><l n="7" met="-+-+-+-+-+" real="+--+--++--+">
+                    <seg met="-+" real="+-">Rea<sb/>son, </seg>
+                    <seg>your vice<sb/></seg>
+                    <seg met="--+" real="--+">roy in me, </seg>
+                    <seg met="-+" real="+-">me should </seg>
+                    <seg>de<sb/><rhyme label="b">fend,</rhyme></seg>
+                    <note anchored="true"> "Donne, for not keeping of accent, deserved hanging." So
+                        said his prosodically better-behaved contemporary Ben Jonson, and at a
+                        moment like this it's hard not to concur. Syllables 6 through 9 in this line
+                        might each arguably be either stressed or slack, in a variety of possible
+                        combinations reflecting eligible postures a reader might activate and throw
+                        the voice into. Much turns on what importance is vested in "me" as
+                        histrionic focus of this outrageous if holy poem. Quite a lot, 4B4V thinks;
+                        but others will sound it differently. Warning: the next line is not much
+                        easier. </note>
+                </l><l n="8" met="-+-+-+-+-+" real="-++--++--+|+-+--++--+">
+                    <seg met="-+" real="-+|+-">But is </seg>
+                    <seg met="-+" real="+-">cap<sb/>tived, </seg>
+                    <seg>and proves </seg>
+                    <seg met="-+" real="+-">weak or </seg>
+                    <seg>un<sb/><rhyme label="a">true.</rhyme></seg>
+                </l><l n="9" met="-+-+-+-+-+" real="-+--+--+-+-+">
+                    <seg>Yet dear<sb/></seg>
+                    <seg met="-+" real="--+">ly I love </seg>
+                    <seg met="-+" real="--+">you, and would </seg>
+                    <seg>be lov<sb/></seg>
+                    <seg>&#232;d <rhyme label="c">fain,</rhyme></seg>
+                </l><l n="10" met="-+-+-+-+-+" real="-+-++--+-+">
+                    <seg>But am </seg>
+                    <seg>be<sb/>trothed </seg>
+                    <seg met="-+" real="+-">un<sb/>to </seg>
+                    <seg>your en<sb/></seg>
+                    <seg>e<sb/><rhyme label="d">my.</rhyme></seg>
+                </l><l n="11" met="-+-+-+-+-+" real="-+--+-+++-+|-+--+-+-+-+">
+                    <seg>Di<sb/>vorce </seg>
+                    <seg met="-+" real="--+">me, <caesura/>un<sb/>tie </seg>
+                    <seg>or break </seg>
+                    <seg met="-+" real="++|-+">that knot </seg>
+                    <seg>a<sb/><rhyme label="c">gain;</rhyme></seg>
+                </l><l n="12" met="-+-+-+-+-+" real="+-+--+-+-+|+--+-+-+-+">
+                    <seg met="-+" real="+-">Take me </seg>
+                    <seg met="-+" real="+-|-+">to you, </seg>
+                    <seg>im<sb/>pris<sb/></seg>
+                    <seg>on me, </seg>
+                    <caesura/>
+                    <seg>for <rhyme label="d">I,</rhyme></seg>
+                    <note anchored="true"> Admittedly there are only three indisputable stresses in
+                        this line: syllables 1, 6, and 10. Still, reconciling it to the pentameter
+                        is not a thankless task. "Me" in foot 4 is an obvious choice for stress, and
+                        a right one. But it is a nice question whether to make the second foot
+                        trochaic like the foot before or iambic like the foot after. Donne is
+                        entreating the Lord to ravish him: stress on "to" brings out the physicality
+                        of this spiritual rape, stress on "you" the contrast between the bold
+                        rescuing lover God and the cold litigious enemy Satan. 4B4V knows which
+                        lover to prefer, but not which reading. </note>
+                </l><l n="13" met="-+-+-+-+-+" real="-+--+-+-+-+">
+                    <seg>Ex<sb/>cept </seg>
+                    <seg met="-+" real="--+">you en<sb/>thrall </seg>
+                    <seg>me, <caesura/>nev<sb/></seg>
+                    <seg>er shall </seg>
+                    <seg>be <rhyme label="e">free,</rhyme></seg>
+                </l><l n="14" met="-+-+-+-+-+" real="-+-+-+-+-+">
+                    <seg>Nor ev<sb/></seg>
+                    <seg>er chaste, </seg>
+                    <caesura/>
+                    <seg>ex<sb/>cept </seg>
+                    <seg>you rav<sb/></seg>
+                    <seg>ish <rhyme label="e">me.</rhyme></seg>
+                </l></lg></body></text></TEI>

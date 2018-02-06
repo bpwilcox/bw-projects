@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rhyme for a Child Viewing a Naked Venus in a Painting of "The Judgment of Paris"</title>
+                <author>Robert Browning</author>
+            </titleStmt>
+            <publicationStmt><date>1872</date></publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="couplet" met="-+(4/4)" rhyme="aa">
+               <l part="N" n="1" met="-+-+-+-+" real="-+-+-+-+">
+                   <seg met="-+">He gazed </seg>
+                   <seg met="-+">and gazed </seg>
+                   <seg met="-+">and gazed </seg>
+                   <seg met="-+">and <rhyme label="a">gazed,</rhyme></seg>
+               </l>
+                <l part="N" n="2" met="-+-+-+-+" real="-+-+-+-+">
+                    <seg met="-+">A<sb/>mazed, </seg>
+                    <seg met="-+">a<sb/>mazed, </seg>
+                    <seg met="-+">a<sb/>mazed, </seg>
+                    <seg met="-+">a<sb/><rhyme label="a">mazed.</rhyme></seg>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>

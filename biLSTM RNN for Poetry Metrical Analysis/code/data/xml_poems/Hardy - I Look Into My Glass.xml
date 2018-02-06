@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>I Look Into My Glass</title>
+        <author>Thomas Hardy</author>
+      </titleStmt>
+      <publicationStmt>
+        <date>1898</date>
+      </publicationStmt>
+      <sourceDesc default="false">
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg n="1" type="quatrain" met="-+(3/3/4/3)" rhyme="abab" org="uniform" sample="complete"
+        part="N">
+        <l n="1" part="N" met="-+-+-+" real="-++--+|-+-+-+">
+          <seg met="-+" part="N">I look </seg>
+          <seg met="-+" real="+-|-+" part="N">in<sb part="N"/>to </seg>
+          <seg met="-+" part="N">my <rhyme label="a">glass,</rhyme></seg>
+        </l>
+        <l n="2" part="N" met="-+-+-+" real="-+-+-+">
+          <seg met="-+" part="N">And view </seg>
+          <seg met="-+" part="N">my wast<sb part="N"/></seg>
+          <seg met="-+" part="N">ing <rhyme label="b">skin,</rhyme></seg>
+        </l>
+        <l n="3" part="N" met="-+-+-+-+" real="-+++-+-+">
+          <seg met="-+" part="N">And say, </seg>
+          <caesura/> "<seg met="-+" real="++" part="N">"Would God </seg>
+          <seg met="-+" part="N">it came </seg>
+          <seg met="-+" part="N">to <rhyme label="a">pass</rhyme></seg>
+        </l>
+        <l n="4" part="N" met="-+-+-+" real="-+-+-+">
+          <seg met="-+" part="N">My heart </seg>
+          <seg met="-+" part="N">had shrunk </seg>
+          <seg met="-+" part="N">as <rhyme label="b">thin!"</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="2" type="quatrain" met="-+(3/3/4/3)" rhyme="abab" org="uniform" sample="complete"
+        part="N">
+        <l n="5" part="N" met="-+-+-+" real="-+-+-+">
+          <seg met="-+" part="N">For then, </seg>
+          <seg met="-+" part="N">I, <caesura/>un<sb part="N"/></seg>
+          <seg met="-+" part="N">dis<sb part="N"/><rhyme label="a">trest</rhyme></seg>
+          <note anchored="true"> You might want to stress "I" here, set off as it is by a
+            pair of commas. But by this point the first-person pronoun isn't news: it's
+            occurred three times already in stanza one. Besides, stress thrown on "I"
+            would detract from the stress of sense that belongs to the syllables on
+            either side of it. "Then" emphasizes the desirability of that anesthetic
+            state for which the poem professes to yearn; and more subtly "un-" does
+            something of the same kind, highlighting the distress the speaker is all too
+            palpably undergoing. And finally the regularity of a straight iambic
+            scansion of this line mimics the condition of "equanimity" that is imagined
+            (and likewise rhythmically performed) at the end of this stanza. </note>
+        </l>
+        <l n="6" part="N" met="-+-+-+" real="-+++-+">
+          <seg met="-+" part="N">By hearts </seg>
+          <seg met="-+" real="++" part="N">grown cold </seg>
+          <seg met="-+" part="N">to <rhyme label="b">me,</rhyme></seg>
+        </l>
+        <l n="7" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">Could lone<sb part="N"/></seg>
+          <seg met="-+" part="N">ly wait </seg>
+          <seg met="-+" part="N">my end<sb part="N"/></seg>
+          <seg met="-+" part="N">less <rhyme label="a">rest</rhyme></seg>
+        </l>
+        <l n="8" part="N" met="-+-+-+" real="-+-+-+">
+          <seg met="-+" part="N">With e<sb part="N"/></seg>
+          <seg met="-+" part="N">qua<sb part="N"/>ni<sb part="N"/></seg>
+          <seg met="-+" part="N">mi<sb part="N"/><rhyme label="b">ty.</rhyme></seg>
+        </l>
+      </lg>
+      <lg n="3" type="quatrain" met="-+(3/3/4/3)" rhyme="abab" org="uniform" sample="complete"
+        part="N">
+        <l n="9" part="N" met="-+-+-+" real="-+-+-+">
+          <seg met="-+" part="N">But Time </seg>
+          <caesura/>
+          <seg met="-+" part="N">to make </seg>
+          <seg met="-+" part="N">me <rhyme label="a">grieve,</rhyme></seg>
+        </l>
+        <l n="10" part="N" met="++-+-+" real="++-+-+">
+          <seg met="++" part="N">Part steals, </seg>
+          <caesura/>
+          <seg met="-+" part="N">lets part </seg>
+          <seg met="-+" part="N">a<sb part="N"/><rhyme label="b">bide;</rhyme></seg>
+        </l>
+        <l n="11" part="N" met="-+-+-+-+" real="-+-+-+-+">
+          <seg met="-+" part="N">And shakes </seg>
+          <seg met="-+" part="N">this frag<sb part="N"/></seg>
+          <seg met="-+" part="N">ile frame </seg>
+          <seg met="-+" part="N">at <rhyme label="e">eve</rhyme></seg>
+        </l>
+        <l n="12" part="N" met="-+-+-+" real="-+--++">
+          <seg met="-+" part="N">With throb<sb part="N"/></seg>
+          <seg met="-+" real="--" part="N">bings of </seg>
+          <seg met="-+" real="++" part="N">noon<sb part="N"/><rhyme label="f"
+              >tide.</rhyme></seg>
+          <note anchored="true"> Scansion as EKG monitor? When a good poet writes about
+            the pounding heart, expect to hear and feel it in the verse. The perfectly
+            regular iambics of line 11 are there to set up the syncopated, skipped beat
+            with which the poem thuds home. If it weren't our rule that rhyme syllables
+            take stress, we'd probably scan the last foot a trochee. Don't let the
+            spondee keep you from feeling how the last syllable flags, in comparison to
+            the brightness of "noon" just before it. Hardy thus registers both the
+            strength of still-young feeling and its dangerous incongruity with the
+            "fragile frame" of a man growing old. </note>
+        </l>
+      </lg>
+    </body>
+  </text>
+</TEI>

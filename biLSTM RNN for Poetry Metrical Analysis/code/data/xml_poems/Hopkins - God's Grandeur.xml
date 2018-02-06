@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>God's Grandeur</title>
+                <author>Gerard Manley Hopkins</author>
+            </titleStmt>
+            <publicationStmt>
+                <date>1918</date>
+            </publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" type="octave" met="-+(5/5/5/5/5/5/5/5)" rhyme="abbaabba">
+               <l n="1" met="-+-+-+-+-+" real="-+-+--++-+">
+                   <seg>The world </seg>
+                   <seg>is charged </seg>
+                   <seg met="-+" real="--">with the </seg>
+                   <seg met="-+" real="++">gran<sb/>deur </seg>
+                   <seg>of <rhyme label="a">God.</rhyme></seg>
+                    <note anchored="true"> Most readers will hear this line as a tetrameter, 2 iambs
+                        plus 2 anapests. But the rest of the sonnet is so manifestly written in
+                        pentameter that a prosodic pedant will return to line 1 and suppose that
+                        Hopkins, wanting to make his title word "grandeur" as spacious and dignified
+                        as he could, brought out its French-import quality and flourished it as a
+                        spondee. </note>
+               </l>
+                <l n="2" met="-+-+-+-+-+" real="--++-+--++">
+                    <seg met="-+" real="--">It will </seg>
+                    <seg met="-+" real="++">flame out, </seg>
+                    <caesura/>
+                    <seg>like shin<sb/></seg>
+                    <seg met="-+" real="--">ing from </seg>
+                    <seg met="-+" real="++">shook <rhyme label="b">foil;</rhyme></seg>
+                </l>
+                <l n="3" met="-+-+-+-+-+" real="-+---+-+-+-+">
+                    <seg met="-+">It gath<sb/></seg>
+                    <seg met="-+" real="---+">ers to a great<sb/></seg>
+                    <seg met="-+">ness, <caesura/>like </seg>
+                    <seg met="-+">the ooze </seg>
+                    <seg met="-+">of <rhyme label="b">oil</rhyme></seg>
+                    <note anchored="true">Now you can see why this poem is presented as a Special
+                        Challenge. If anything line 3 is more evidently a hexameter than line 1 was
+                        a tetrameter. Yet - take it on faith for now - the sonnet's meter is
+                        pentameter; so the prosodist sweeps all those slacks into a second foot of 4
+                        syllables and calls it a paeonic (technically a "fourth paeonic" because the
+                        foot's one stress falls in fourth place). Scan it thus and, for your
+                        trouble, enjoy the dividend of a heightened sense of swift inevitable
+                        "gathering" in the sudden grandeurs of a divinely charged world. Line 12
+                        seems to remember this accelerando, though there Hopkins will obtain it by
+                        legal means. He became so fond of such rhythmical suppleness that many of
+                        his best poems jettison accentual-syllabic metrics altogether, in favor of
+                        what he called Sprung Rhythm. This poem springs that way, but it doesn't
+                        quite reach escape velocity. </note>
+                </l>
+                <l n="4" met="-+-+-+-+-+" real="++---+-+-+">
+                    <seg met="-+" real="++">Crushed. <caesura/>Why </seg>
+                    <seg met="-+" real="--">do men </seg>
+                    <seg>then now </seg>
+                    <seg>not reck </seg>
+                    <seg>his <rhyme label="a">rod?</rhyme></seg>
+                </l>
+                <l n="5" met="-+-+-+-+-+" real="+-+--+-+-+">
+                    <seg met="-+" real="+-">Gen<sb/>er<sb/></seg>
+                    <seg met="-+" real="+-">a<sb/>tions </seg>
+                    <seg>have trod, </seg>
+                    <caesura/>
+                    <seg>have trod, </seg>
+                    <caesura/>
+                    <seg>have <rhyme label="a">trod;</rhyme></seg>
+                </l>
+                <l n="6" met="-+-+-+-+-+" real="-+-+-+++-+">
+                    <seg>And all </seg>
+                    <seg>is seared </seg>
+                    <seg>with trade; </seg>
+                    <caesura/>
+                    <seg met="-+" real="++">bleared, smeared </seg>
+                    <seg>with <rhyme label="b">toil;</rhyme></seg>
+                </l>
+                <l n="7" met="-+-+-+-+-+" real="-+++-+++-+">
+                    <seg>And wears </seg>
+                    <seg met="-+" real="++">man's smudge </seg>
+                    <seg>and shares </seg>
+                    <seg met="-+" real="++">man's smell: </seg>
+                    <caesura/>
+                    <seg>the <rhyme label="b">soil</rhyme></seg>
+                </l>
+                <l n="8" met="-+-+-+-+-+" real="-+-+-++--+">
+                    <seg>Is bare </seg>
+                    <seg>now, <caesura/>nor </seg>
+                    <seg>can foot </seg>
+                    <seg met="-+" real="+-">feel, be<sb/></seg>
+                    <seg>ing <rhyme label="a">shod.</rhyme></seg>
+                </l>
+            </lg>
+            <lg n="2" type="sestet" met="-+(5/5/5/5/5/5)" rhyme="cdcdcd">
+                <l n="9" met="-+-+-+-+-+" real="--+++--+-+">
+                    <seg met="-+" real="--">And for </seg>
+                    <seg met="-+" real="++">all this, </seg>
+                    <caesura/>
+                    <seg met="-+" real="+-">na<sb/>ture </seg>
+                    <seg >is nev<sb/></seg>
+                    <seg>er <rhyme label="c">spent;</rhyme></seg>
+                </l>
+                <l n="10" met="-+-+-+-+-+" real="-+-+-+-+++">
+                    <seg>There lives </seg>
+                    <seg>the dear<sb/></seg>
+                    <seg>est fresh<sb/></seg>
+                    <seg>ness deep </seg>
+                    <seg met="-+" real="++">down <rhyme label="d">things;</rhyme></seg>
+                </l>
+                <l n="11" met="-+-+-+-+-+" real="-+-++--+++">
+                    <seg>And though </seg>
+                    <seg>the last </seg>
+                    <seg met="-+" real="+-">lights off </seg>
+                    <seg>the black </seg>
+                    <seg met="-+" real="++">West <rhyme label="c">went</rhyme></seg>
+                </l>
+                <l n="12" met="-+-+-+-+-+" real="++---+++-+">
+                    <seg met="-+" real="++">Oh, morn<sb/></seg>
+                    <seg>ing, <caesura/>at </seg>
+                    <seg>the brown </seg>
+                    <seg met="-+" real="++">brink east<sb/></seg>
+                    <seg>ward, <rhyme label="d">springs--</rhyme></seg>
+                </l>
+                <l n="13" met="-+-+-+-+-+" real="-+-+-++--+">
+                    <seg>Be<sb/>cause </seg>
+                    <seg>the Ho<sb/></seg>
+                    <seg>ly Ghost </seg>
+                    <seg met="-+" real="+-">o<sb/>ver </seg>
+                    <seg>the <rhyme label="c">bent</rhyme></seg>
+                </l>
+                <l n="14" met="-+-+-+-+-+" real="++-++--+++">
+                    <seg met="-+" real="++">World broods </seg>
+                    <seg>with warm </seg>
+                    <seg met="-+" real="+-">breast and </seg>
+                    <seg>with ah! <caesura/></seg>
+                    <seg met="-+" real="++">bright <rhyme label="d">wings.</rhyme></seg>
+                    <note anchored="true"> Here's verbal comfort food. "World broods," "warm
+                        breast": two double-stresses alliterated on the heavily vocal consonants "w"
+                        and "br" lead -- with a magician's wondering "ah!" -- to a third
+                        double-stress ("bright wings") that reverses the alliteration and also
+                        reverberates with "brink" and "springs" two lines above it. The line
+                        recapitulates the sense of rescue that informs this sonnet's whole movement
+                        from threat to reassurance, bad news to good. The conspicuous enjambment of
+                        line 13 hovers precariously between the world's fallenness and the tender
+                        care of the Holy Ghost. </note>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>
