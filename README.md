@@ -1,5 +1,10 @@
 # bw-projects
-This repository is a collection of robotics, control, and machine learning relevant projects over the past few years. It is meant to provide an overview of some of the technical methods that I have implemented in code.
+
+## About me
+My name is Brian Wilcox. I am currently in my second year of an MS program at UC San Diego in Electrical & Computer Engineering with a focus in Intelligent Systems, Robotics, and Control. Previously, I graduated from MIT in 2016 with a BS in Mechanical Engineering where I focused on control theory and biomechanics. I hope one day to combine my passions for robotics-topics and medical devices to help grow the future of medical robotics.  
+
+## About this repository
+This repository is a collection of robotics, control, and machine learning relevant projects over the past few years. It is meant to provide an overview of many (though not all) of the technical methods that I have implemented in code. Projects included range in scale from class assignments to course projects to significant research efforts. Please note that not all code is fully-implementable due to the omission of training data in this repo (limited space for large datasets). Most projects contain a report, paper, or presentation describing the methods and results in further detail. 
 
 # List of Projects:
 * [Study of Human Motor Control and Task Performance with Circular Constraints](#study-of-human-motor-control-and-task-performance-with-circular-constraints) 
@@ -25,6 +30,8 @@ This repository is a collection of robotics, control, and machine learning relev
 # Project Overviews:
 ## Study of Human Motor Control and Task Performance with Circular Constraints
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Human%20Motor%20Control%20under%20Constraints)
 ### Description:
 This project is from my MIT MechE bachelor's thesis. The aim is to investigate human motor control strategies. Curved constraints offer a unique opportunity to exploit forces of contact. A circular crank experiment using the MIT MANUS
 robot was designed in order to test how well subjects can follow a set of simple instructions to
@@ -47,6 +54,8 @@ is more imprecise at slower speeds.
 
 ## Adaptive Virtual Object Controller for an Interactive Robotic Manipulator
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Adaptive%20Virtual%20Admittance%20Controller)
 ### Description:
 This project followed my thesis work in the MIT graduate course 2.152: Nonlinear Control, taught by Jean-Jacques Slotine. An InMotion2 planar robot arm was being used in research as a virtual crank in order to test human performance and motor control strategies with constrained motion. A limitation of these experiments is the non-uniform inertia of the robot manipulator which creates an undesired or less convincing experience for the subject and more unreliable data for the researcher. This project aimed to investigate a controller design which would remove the inertial and nonlinear effects of the device arm and will compensate for errors in the model while maintaining the virtual constraint. To do this, an adaptive impedance/admittance controller is designed and shown to be globally asymptotically stable for this application. 
 ### Methods:
@@ -63,6 +72,8 @@ Simulations showed convergence of the end effector to the radius and maintenance
 
 ## Impedance Control for Use in Autonomous Decommissioning
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bwprojects/tree/master/Impedance%20and%20LQR%20Control%20in%20Autonomous%20Decomissioning) 
 ### Description:
 This project was a group project in the MIT graduate course: 2.151: Advanced System Dyamics & Control The goal of this project is to determine the feasibility of achieving desirable endpoint impedances to promote stable and robust interactions from a free-floating vehicle equipped with a backdrivable manipulator, such as in the task of autonomous decommissioning of underwater structures. Because such a vehicle does not exist yet, analyses are drawn from two similar systems that together encapsulate the desired system: a fixed-base anthropomorphic robot with a redundant backdrivable manipulator (Baxter), and a free-floating raft with a non-backdrivable manipulator (Dexter), both constrained to planar motion. An LQR controller design is also compared to address the mechanical and control effort constraints for the given robots and tasks.  
 ![impedance](https://user-images.githubusercontent.com/22353511/35857176-2d46274c-0aed-11e8-9abf-790a24c69b06.jpg)
@@ -92,6 +103,8 @@ Through experimentation, Dexter provides a concrete example of achievable manipu
 
 ## Port-Hamiltonian Modeling and Control for Multi-Body Simulation
 [back to top](#list-of-projects)
+
+[see project files](https://github.com/bpwilcox/bw-projects/tree/master/Port-Hamiltonian%20Modeling%20and%20Control%20for%20Multi-body%20Simulation)
 ### Description:
 This project was undertaken during my internship abroad in the UPC Biomechanical Engineering Group (BIOMEC) in Barcelona, Spain. In this work, we focused on the Port-Hamiltonian modeling approach as a method for control design of human multi-body computer simulations (Matlab suffers erros in forward simulation as a result of numerical integration). This pH approach is viable for biomechanical systems because it is simple to connect multiple body segments, external assistive devices, actuators, and more under the same methodology. Under this Port-Hamiltonian formulation, we conduct inverse dynamics, forward dynamics, and control design in a way that remains consistent with the fundamental framework and that is easily implemented in computer simulations. We have described a pH model of a simple biomechanical system and show how the pH model is suitable for the simulation of human generated motion capture data.
 ### Methods:
@@ -110,6 +123,8 @@ While PD control is a common, and successful, method for reducing the tracking e
 
 ## Model-Less Control using local Jacobian updates
 [back to top](#list-of-projects)
+
+[see project files]
 ### Description:
 This was the beginning of my current MS research project where I began by trying to extend my advisor, Professor Yip's, previous work on model-less control of continuum manipulators. This work is a simple example using parts of his basic methodology on a simpler planar robot model.
 ### Methods:
