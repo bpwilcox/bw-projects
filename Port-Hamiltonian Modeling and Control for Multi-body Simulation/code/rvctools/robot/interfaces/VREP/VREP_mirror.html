@@ -1,0 +1,81 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="http://www.petercorke.com/RVC/common/toolboxhelp.css">
+    <title>VREP_mirror</title>
+  </head>
+  <body>
+<h1>VREP_mirror</h1><p><span class="helptopic">V-REP mirror object class</span></p><p>
+Mirror objects are MATLAB objects that reflect objects in the V-REP
+environment.  Methods allow the V-REP state to be examined or changed.
+
+</p>
+<p>
+This abstract class is the root class for all V-REP mirror objects.
+
+</p>
+<p>
+Methods throw exception if an error occurs.
+
+</p>
+<h2>Methods</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> setobjparam_bool</td> <td>set object boolean parameter</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setobjparam_int</td> <td>set object integer parameter</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setobjparam_float</td> <td>set object float parameter</td></tr>
+</table>
+<h2>See also</h2>
+<p>
+<a href="vrep_obj.html">vrep_obj</a>, <a href="vrep_arm.html">vrep_arm</a>, <a href="vrep_camera.html">vrep_camera</a>, <a href="vrep_hokuyo.html">vrep_hokuyo</a></p>
+<hr>
+<a name="VREP_mirror"><h1>VREP_mirror.VREP_mirror</h1></a>
+<p><span class="helptopic">VREP_mirror object constructor</span></p><p>
+<strong>v</strong> = <span style="color:red">VREP_mirror</span>(<strong>name</strong>) creates a V-REP mirror object.
+
+</p>
+<hr>
+<a name="getobjparam_bool"><h1>VREP_mirror.getobjparam_bool</h1></a>
+<p><span class="helptopic">Get boolean parameter of V-REP object</span></p><p>
+V.<span style="color:red">getparam_bool</span>(<strong>name</strong>, <strong>val</strong>) is the boolean parameter with name <strong>name</strong>
+of the corresponding V-REP object.
+
+</p>
+<hr>
+<a name="getobjparam_float"><h1>VREP_mirror.getobjparam_float</h1></a>
+<p><span class="helptopic">Get float parameter of V-REP object</span></p><p>
+V.<span style="color:red">getparam_float</span>(<strong>name</strong>, <strong>val</strong>) is the float parameter with name <strong>name</strong>
+of the corresponding V-REP object.
+
+</p>
+<hr>
+<a name="getobjparam_int"><h1>VREP_mirror.getobjparam_int</h1></a>
+<p><span class="helptopic">Get integer parameter of V-REP object</span></p><p>
+V.<span style="color:red">getparam_int</span>(<strong>name</strong>, <strong>val</strong>) is the integer parameter with name <strong>name</strong>
+of the corresponding V-REP object.
+
+</p>
+<hr>
+<a name="setobjparam_bool"><h1>VREP_mirror.setobjparam_bool</h1></a>
+<p><span class="helptopic">Set boolean parameter of V-REP object</span></p><p>
+V.<span style="color:red">setparam_bool</span>(<strong>name</strong>, <strong>val</strong>) sets the boolean parameter with name <strong>name</strong>
+to value <strong>val</strong> within the V-REP simulation engine.
+
+</p>
+<hr>
+<a name="setobjparam_float"><h1>VREP_mirror.setobjparam_float</h1></a>
+<p><span class="helptopic">Set float parameter of V-REP object</span></p><p>
+V.<span style="color:red">setparam_float</span>(<strong>name</strong>, <strong>val</strong>) sets the float parameter with name <strong>name</strong>
+to value <strong>val</strong> within the V-REP simulation engine.
+
+</p>
+<hr>
+<a name="setobjparam_int"><h1>VREP_mirror.setobjparam_int</h1></a>
+<p><span class="helptopic">Set integer parameter of V-REP object</span></p><p>
+V.<span style="color:red">setparam_int</span>(<strong>name</strong>, <strong>val</strong>) sets the integer parameter with name <strong>name</strong>
+to value <strong>val</strong> within the V-REP simulation engine.
+
+</p>
+<hr>
+
+<p class="copy"><a href="http://www.petercorke.com/robot">Robotics Toolbox for MATLAB</a> &copy; 1990-2012 Peter Corke.</p>
+</body></html>

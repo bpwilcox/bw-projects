@@ -1,0 +1,16 @@
+  if ~isempty(WX)
+    N = size(WX{1,1}, 2);
+    for l = 1 : L
+      if any(size(WX{l, 1}) ~= size(WX{l, 2}))
+	error(cstrcat('validnet: Internal mismatch, WX, layer ', num2str(l)));
+	return;
+      elseif size(WX{l, 1}, 2) ~= N
+	error(cstrcat('validnet: WX wrong num points, layer ', num2str(l)));
+	return;
+      elseif size(WX{l, 1}, 1) ~= size(W{l, 1}, 1)
+	error(cstrcat('validnet: Size mismatch, WX to W, layer ', num2str(l)));	
+      end
+    end
+  end
+  valid = 1;
+  return;

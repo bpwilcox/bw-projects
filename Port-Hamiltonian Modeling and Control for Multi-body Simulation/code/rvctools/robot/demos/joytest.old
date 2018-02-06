@@ -1,0 +1,9 @@
+
+T = eye(4,4);
+h = trplot(T, 'axis', [-5 5 -5 5 -5 5]);
+
+while true
+    T = joy2tr(T, 'tool');
+    trprint(T, 'fmt', '%.1f')
+    trplot(h, T);
+end

@@ -1,0 +1,11 @@
+mdl_puma560
+
+T = p560.fkine(qn);
+q = qn;
+
+while true
+    T=joy2tr(T, 'tool');
+    trprint(T, 'fmt', '%.1f')
+    q = p560.ikine6s(T, q);
+    p560.plot(q)
+end

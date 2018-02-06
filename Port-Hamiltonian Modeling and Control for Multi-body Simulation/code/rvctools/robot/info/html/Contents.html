@@ -1,0 +1,350 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="http://www.petercorke.com/RVC/common/toolboxhelp.css">
+    <title>M-File Help: Contents</title>
+  </head>
+  <body>
+  <table border="0" cellspacing="0" width="100%">
+    <tr class="subheader">
+      <td class="headertitle">M-File Help: Contents</td>
+      <td class="subheader-left"><a href="matlab:open Contents">View code for Contents</a></td>
+    </tr>
+  </table>
+<h1>Contents</h1><p><span class="helptopic">Toolbox.</span></p><p>
+Version 9.9.0  2014-04-28
+
+</p>
+<p>
+Homogeneous transformations 3D
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> angvec2r</td> <td>- angle/vector to RM</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> angvec2tr</td> <td>- angle/vector to HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> eul2r</td> <td>- Euler angles to RM</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> eul2tr</td> <td>- Euler angles to HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> oa2r</td> <td>- orientation and approach vector to RM</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> oa2tr</td> <td>- orientation and approach vector to HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> r2t</td> <td>- RM to HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> rt2tr</td> <td>- (R,t) to HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> rotx</td> <td>- RM for rotation about X-axis</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> roty</td> <td>- RM for rotation about Y-axis</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> rotz</td> <td>- RM for rotation about Z-axis</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> rpy2r</td> <td>- roll/pitch/yaw angles to RM</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> rpy2tr</td> <td>- roll/pitch/yaw angles to HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> t2r</td> <td>- HT to RM</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tr2angvec</td> <td>- HT/RM to angle/vector form</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tr2eul</td> <td>- HT/RM to Euler angles</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tr2rpy</td> <td>- HT/RM to roll/pitch/yaw angles</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tr2rt</td> <td>- HT to (R,t)</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tranimate</td> <td>- animate a coordinate frame</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trchain</td> <td>- evaluate a series of transforms</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tripleangle</td> <td>- graphical interactive three angle rotation</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> transl</td> <td>- set or extract the translational component of HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trnorm</td> <td>- normalize HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trchain</td> <td>- chain of SE(3) transforms</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trplot</td> <td>- plot HT as a coordinate frame</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trprint</td> <td>- print an HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trotx</td> <td>- HT for rotation about X-axis</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> troty</td> <td>- HT for rotation about Y-axis</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trotz</td> <td>- HT for rotation about Z-axis</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trscale</td> <td>- HT for scale change</td></tr>
+</table>
+<p>
+* HT: homogeneous transformation, a 4x4 matrix, in SE(3)
+* RM: rotation matrix, orthonormal 3x3 matrix, in SO(3)
+* Functions of the form tr2XX will also accept an HT or RM as the argument
+
+</p>
+<p>
+Homogeneous transformations 2D
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> rot2</td> <td>- RM for SE(2) rotation</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> se2</td> <td>- HT in SE(2)</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> transl2</td> <td>- set or extract the translational component of SE(2) HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trchain2</td> <td>- chain of SE(2) transforms</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trot2</td> <td>- SO(2) rotation</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trplot2</td> <td>- plot HT, SE(2), as a coordinate frame</td></tr>
+</table>
+<p>
+* HT: homogeneous transformation, a 3x3 matrix, in SE(2)
+* RM: rotation matrix, orthonormal 2x2 matrix, in SO(2)
+
+</p>
+<p>
+Homogeneous points and lines
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> e2h</td> <td>- Euclidean coordinates to homogeneous</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> h2e</td> <td>- homogeneous coordinates to Euclidean</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> homline</td> <td>- create line from 2 points</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> homtrans</td> <td>- transform points</td></tr>
+</table>
+<p>
+Differential motion
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> delta2tr</td> <td>- differential motion vector to HT</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> eul2jac</td> <td>- Euler angles to Jacobian</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> rpy2jac</td> <td>- RPY angles to Jacobian</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> skew</td> <td>- vector to skew symmetric matrix</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tr2delta</td> <td>- HT to differential motion vector</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tr2jac</td> <td>- HT to Jacobian</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> vex</td> <td>- skew symmetric matrix to vector</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> wtrans</td> <td>- transform wrench between frames</td></tr>
+</table>
+<p>
+Trajectory generation
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> ctraj</td> <td>- Cartesian trajectory</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> jtraj</td> <td>- joint space trajectory</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> lspb</td> <td>- 1D trapezoidal trajectory</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> mtraj</td> <td>- multi-axis trajectory for arbitrary function</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> mstraj</td> <td>- multi-axis multi-segment trajectory</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tpoly</td> <td>- 1D polynomial trajectory</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> trinterp</td> <td>- interpolate HT s</td></tr>
+</table>
+<p>
+Quaternion
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> Quaternion</td> <td>- constructor</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> / </td> <td>- divide quaternion by quaternion or scalar</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> * </td> <td>- multiply quaternion by a quaternion or vector</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> inv</td> <td>- invert a quaternion</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> norm</td> <td>- norm of a quaternion</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot</td> <td>- display a quaternion as a 3D rotation</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> unit</td> <td>- unitize a quaternion</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> interp</td> <td>- interpolate a quaternion</td></tr>
+</table>
+<p>
+Serial-link manipulator
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> CodeGenerator</td> <td>- construct a robot specific code generator object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> SerialLink</td> <td>- construct a serial-link robot object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> Link</td> <td>- construct a general robot link object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> Prismatic</td> <td>- construct a prismatic robot link object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> Revolute</td> <td>- construct a revolute robot link object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> PrismaticMDH</td> <td>- construct a prismatic robot link object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> RevoluteMDH</td> <td>- construct a revolute robot link object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> * </td> <td>- compound two robots</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> friction</td> <td>- return joint friction torques</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> nofriction</td> <td>- return a robot object with no friction</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> perturb</td> <td>- return a robot object with perturbed parameters</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot</td> <td>- plot/animate robot</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot3d</td> <td>- plot/animate robot as solid model</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> teach</td> <td>- drive a graphical  robot</td></tr>
+</table>
+<pre style="width: 90%%;" class="examples">
+Models
+</pre>
+<pre style="width: 90%%;" class="examples">
+mdl_Fanuc10L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Fanuc&nbsp;10L&nbsp;(DH,&nbsp;kine)
+mdl_irb140&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;ABB&nbsp;IRB140&nbsp;(DH,&nbsp;kine)
+mdl_irb140_mdh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;ABB&nbsp;IRB140&nbsp;(MDH,&nbsp;kine)
+mdl_jaco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Kinova&nbsp;Jaco&nbsp;arm&nbsp;(DH,&nbsp;kine)
+mdl_m16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Fanuc&nbsp;M16&nbsp;(DH,&nbsp;kine)
+mdl_mico&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Kinova&nbsp;Mico&nbsp;arm&nbsp;(DH,&nbsp;kine)
+mdl_MotomanHP6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Motoman&nbsp;HP6&nbsp;(DH,&nbsp;kine)
+mdl_nao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Alderabaran&nbsp;NAO&nbsp;arms&nbsp;and&nbsp;legs&nbsp;(DH,&nbsp;kine)
+mdl_phantomx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;PhantomX&nbsp;pincher&nbsp;4DOF&nbsp;hobby&nbsp;arm&nbsp;(DH,&nbsp;kine)
+mdl_puma560&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Puma&nbsp;560&nbsp;data&nbsp;(DH,&nbsp;kine,&nbsp;dyn)
+mdl_puma560akb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Puma&nbsp;560&nbsp;data&nbsp;(MDH,&nbsp;kine,&nbsp;dyn)
+mdl_S4ABB2p8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;ABB&nbsp;S4&nbsp;2.8&nbsp;(DH,&nbsp;kine)
+mdl_stanford&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Stanford&nbsp;arm&nbsp;data&nbsp;(DH,&nbsp;kine,&nbsp;dyn)
+mdl_stanford_mdh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Stanford&nbsp;arm&nbsp;data&nbsp;(MDH,&nbsp;kine,&nbsp;dyn)
+mdl_onelink&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;simple&nbsp;1-link&nbsp;example&nbsp;(DH,&nbsp;kine)
+mdl_planar1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;simple&nbsp;1&nbsp;link&nbsp;planar&nbsp;model&nbsp;(DH,&nbsp;kine)
+mdl_planar2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;simple&nbsp;2&nbsp;link&nbsp;planar&nbsp;model&nbsp;(DH,&nbsp;kine)
+mdl_planar3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;simple&nbsp;3&nbsp;link&nbsp;planar&nbsp;model&nbsp;(DH,&nbsp;kine)
+mdl_3link3d&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Simple&nbsp;3DOF&nbsp;arm,&nbsp;no&nbsp;shoulder&nbsp;offset&nbsp;(DH,&nbsp;kine)
+mdl_twolink&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;simple&nbsp;2-link&nbsp;example&nbsp;(DH,&nbsp;kine,&nbsp;dyn)
+mdl_twolink_mdh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;simple&nbsp;2-link&nbsp;example&nbsp;(MDH,&nbsp;kine)
+mdl_ball&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;high&nbsp;DOF&nbsp;chain&nbsp;that&nbsp;forms&nbsp;a&nbsp;ball
+mdl_coil&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;high&nbsp;DOF&nbsp;chain&nbsp;that&nbsp;forms&nbsp;a&nbsp;coil
+mdl_hyper2d&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;2D&nbsp;high&nbsp;DOF&nbsp;chain
+mdl_hyper3d&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;3D&nbsp;high&nbsp;DOF&nbsp;chain
+mdl_quadcopter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;simple&nbsp;quadcopter&nbsp;model
+</pre>
+<pre style="width: 90%%;" class="examples">
+Kinematic
+</pre>
+<pre style="width: 90%%;" class="examples">
+DHFactor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;transform&nbsp;sequence&nbsp;to&nbsp;DH&nbsp;description
+jsingu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;find&nbsp;dependent&nbsp;joints
+fkine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;forward&nbsp;kinematics
+ikine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;inverse&nbsp;kinematics&nbsp;(numeric)
+ikine_sym&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;inverse&nbsp;kinematics&nbsp;(symbolic)
+ikine6s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;inverse&nbsp;kinematics&nbsp;for&nbsp;6-axis&nbsp;arm&nbsp;with&nbsp;sph.wrist
+jacob0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Jacobian&nbsp;in&nbsp;base&nbsp;coordinate&nbsp;frame
+jacobn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Jacobian&nbsp;in&nbsp;end-effector&nbsp;coordinate&nbsp;frame
+maniplty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;compute&nbsp;manipulability
+</pre>
+<pre style="width: 90%%;" class="examples">
+Dynamics
+</pre>
+<pre style="width: 90%%;" class="examples">
+accel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;forward&nbsp;dynamics
+cinertia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Cartesian&nbsp;manipulator&nbsp;inertia&nbsp;matrix
+coriolis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;centripetal/coriolis&nbsp;torque
+fdyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;forward&nbsp;dynamics
+wtrans&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;transform&nbsp;a&nbsp;force/moment
+gravload&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;gravity&nbsp;loading
+inertia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;manipulator&nbsp;inertia&nbsp;matrix
+itorque&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;inertia&nbsp;torque
+rne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;inverse&nbsp;dynamics
+</pre>
+<p>
+Mobile robot
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> Map</td> <td>- point feature map object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> RandomPath</td> <td>- driver for Vehicle object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> RangeBearingSensor</td> <td>- "laser scanner" object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> Vehicle</td> <td>- construct a mobile robot object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> sl_bicycle</td> <td>- Simulink "bicycle model" of non-holonomic wheeled vehicle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> Navigation</td> <td>- Navigation superclass</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> Sensor</td> <td>- robot sensor superclass</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> makemap</td> <td>- build an occupancy grid</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot_vehicle</td> <td>- plot vehicle</td></tr>
+</table>
+<pre style="width: 90%%;" class="examples">
+Localization
+</pre>
+<pre style="width: 90%%;" class="examples">
+EKF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;extended&nbsp;Kalman&nbsp;filter&nbsp;object
+ParticleFilter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Monte&nbsp;Carlo&nbsp;estimator
+</pre>
+<pre style="width: 90%%;" class="examples">
+Path&nbsp;planning
+</pre>
+<pre style="width: 90%%;" class="examples">
+Bug2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;bug&nbsp;navigation
+DXform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;distance&nbsp;transform&nbsp;from&nbsp;map
+Dstar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;D*&nbsp;planner
+PRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;probabilistic&nbsp;roadmap&nbsp;planner
+RRT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;rapidly&nbsp;exploring&nbsp;random&nbsp;tree
+</pre>
+<p>
+Graphics
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> plot2</td> <td>- plot trajectory</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plotp</td> <td>- plot points</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot_arrow</td> <td>- draw an arrow</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot_box</td> <td>- draw a box</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot_circle</td> <td>- draw a circle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot_ellipse</td> <td>- draw an ellipse</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot_homline</td> <td>- plot homogeneous line</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot_point</td> <td>- plot points</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot_poly</td> <td>- plot polygon</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot_sphere</td> <td>- draw a sphere</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> qplot</td> <td>- plot joint angle trajectories</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plot2</td> <td>- Plot trajectories</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> plotp</td> <td>- Plot trajectories</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> xaxis</td> <td>- set x-axis scaling</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> yaxis</td> <td>- set y-axis scaling</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> xyzlabel</td> <td>- label axes x, y and z</td></tr>
+</table>
+<p>
+Utility
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> about</td> <td>- summary of object size and type</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> angdiff</td> <td>- subtract 2 angles modulo 2pi</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> arrow3</td> <td>- draw a 3D arrow (third party code)</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> bresenham</td> <td>- Bresenhan line drawing</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> circle</td> <td>- compute/draw points on a circle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> colnorm</td> <td>- columnwise norm of matrix</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> colorname</td> <td>- map color name to RGB</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> diff2</td> <td>- elementwise diff</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> edgelist</td> <td>- trace edge of a shape</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> gauss2d</td> <td>- Gaussian distribution in 2D</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> ishomog</td> <td>- true if argument is a 4x4 matrix</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> ismatrix</td> <td>- true if non scalar</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> isrot</td> <td>- true if argument is a 3x3 matrix</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> isvec</td> <td>- true if argument is a 3-vector</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> numcols</td> <td>- number of columns in matrix</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> numrows</td> <td>- number of rows in matrix</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> peak</td> <td>- find peak in 1D signal</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> peak2</td> <td>- find peak in 2D signal</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> PGraph</td> <td>- general purpose graph class</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> polydiff</td> <td>- derivative of polynomial</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> Polygon</td> <td>- general purpose polygon class</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> randinit</td> <td>- initialize random number generator</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> ramp</td> <td>- create linear ramp</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> unit</td> <td>- unitize a vector</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tb_optparse</td> <td>- toolbox argument parser</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> distancexform</td> <td>- compute distance transform</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> runscript</td> <td>- interactively step through a script</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> multidfprintf</td> <td>- printf extension</td></tr>
+</table>
+<p>
+Demonstrations
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> rtbdemo</td> <td>- Serial-link manipulator demonstration</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> tripleangle</td> <td>- demonstrate angle sequences</td></tr>
+</table>
+<p>
+Interfacing
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> RobotArm</td> <td>- Connect SerialLink object to real robot</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> joystick</td> <td>- Help for joystick interface mex file</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> joy2tr</td> <td>- Update HT based on joystick input</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> VREP</td> <td>- VREP interface class</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> VREP_mirror</td> <td>- MATLAB mirror for VREP object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> VREP_arm</td> <td>- MATLAB mirror for VREP robot arm</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> VREP_obj</td> <td>- MATLAB mirror for VREP object</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> VREP_camera</td> <td>- MATLAB mirror for VREP camera object</td></tr>
+</table>
+<p>
+*  Arbotix class in the folder robot/interfaces
+*  VREP classes are in the folder robot/interfaces/VREP
+
+</p>
+<p>
+Examples
+
+</p>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> sl_quadcopter</td> <td>- Simulink model of a flying quadcopter</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> sl_braitenberg</td> <td>- Simulink model a Braitenberg vehicle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> movepoint</td> <td>- non-holonomic vehicle moving to a point</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> moveline</td> <td>- non-holonomic vehicle moving to a line</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> movepose</td> <td>- non-holonomic vehicle moving to a pose</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> walking</td> <td>- example of 4-legged walking robot</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> eg_inertia</td> <td>- joint 1 inertia I(q1,q2)</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> eg_inertia22</td> <td>- joint 2 inertia I(q3)</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> eg_grav</td> <td>- joint 2 gravity load g(q2,q3)</td></tr>
+</table>
+<p>
+*  located in the examples folder
+
+</p>
+<p>
+<span style="color:red">copyright</span> (<strong>C</strong>) 2011 Peter Corke
+
+</p>
+<hr>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr class="subheader" valign="top"><td>&nbsp;</td></tr></table>
+<p class="copy">&copy; 1990-2014 Peter Corke.</p>
+</body></html>

@@ -1,0 +1,14 @@
+classdef VREP_rangefinder < VREP_obj
+    
+    properties
+    end
+    
+    methods
+        function obj = VREP_rangefinder(vrep, name)
+            obj = obj@VREP_base(vrep, name);
+        end
+        
+        function im = getimpage(obj)
+        end
+    end
+end

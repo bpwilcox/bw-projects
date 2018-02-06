@@ -1,0 +1,63 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="http://www.petercorke.com/RVC/common/toolboxhelp.css">
+    <title>M-File Help: mstraj</title>
+  </head>
+  <body>
+  <table border="0" cellspacing="0" width="100%">
+    <tr class="subheader">
+      <td class="headertitle">M-File Help: mstraj</td>
+      <td class="subheader-left"><a href="matlab:open mstraj">View code for mstraj</a></td>
+    </tr>
+  </table>
+<h1>mstraj</h1><p><span class="helptopic">Multi-segment multi-axis trajectory</span></p><p>
+<strong>traj</strong> = <span style="color:red">mstraj</span>(<strong>p</strong>, <strong>qdmax</strong>, <strong>q0</strong>, <strong>dt</strong>, <strong>tacc</strong>, <strong>options</strong>) is a multi-segment trajectory (KxN)
+based on via points <strong>p</strong> (MxN) and axis velocity limits <strong>qdmax</strong> (1xN).  The
+path comprises linear segments with polynomial blends.  The output
+trajectory matrix has one row per time step, and one column per axis.
+
+</p>
+<ul>
+  <li>P (MxN) is a matrix of via points, 1 row per via point, one column
+per axis.  The last via point is the destination.</li>
+  <li>QDMAX (1xN) are axis velocity limits which cannot be exceeded, or</li>
+  <li>QDMAX (Mx1) are the durations for each of the M segments</li>
+  <li>Q0 (1xN) are the initial axis coordinates</li>
+  <li>DT is the time step</li>
+  <li>TACC (1x1) this acceleration time is applied to all segment transitions</li>
+  <li>TACC (1xM) acceleration time for each segment, TACC(i) is the acceleration
+time for the transition from segment i to segment i+1.  TACC(1) is also
+the acceleration time at the start of segment 1.</li>
+</ul>
+<p>
+<strong>traj</strong> = <span style="color:red">mstraj</span>(<strong>segments</strong>, <strong>qdmax</strong>, <strong>q0</strong>, <strong>dt</strong>, <strong>tacc</strong>, <strong>qd0</strong>, <strong>qdf</strong>, <strong>options</strong>) as above but
+additionally specifies the initial and final axis velocities (1xN).
+
+</p>
+<h2>Options</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> 'verbose'</td> <td>Show details.</td></tr>
+</table>
+<h2>Notes</h2>
+<ul>
+  <li>If no output arguments are specified the trajectory is plotted.</li>
+  <li>The path length K is a function of the number of via points, Q0, DT
+and TACC.</li>
+  <li>The final via point P(M,:) is the destination.</li>
+  <li>The motion has M segments from Q0 to P(1,:) to P(2,:)  to P(M,:).</li>
+  <li>All axes reach their via points at the same time.</li>
+  <li>Can be used to create joint space trajectories where each axis is a joint
+coordinate.</li>
+  <li>Can be used to create Cartesian trajectories with the "axes" assigned
+to translation and orientation in RPY or Euler angle form.</li>
+</ul>
+<h2>See also</h2>
+<p>
+<a href="mstraj.html">mstraj</a>, <a href="lspb.html">lspb</a>, <a href="ctraj.html">ctraj</a></p>
+<hr>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr class="subheader" valign="top"><td>&nbsp;</td></tr></table>
+<p class="copy">&copy; 1990-2014 Peter Corke.</p>
+</body></html>

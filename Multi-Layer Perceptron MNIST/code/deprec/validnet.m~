@@ -1,0 +1,1 @@
+function valid = validnet(W, WX)

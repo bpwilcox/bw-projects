@@ -1,0 +1,155 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="http://www.petercorke.com/RVC/common/toolboxhelp.css">
+    <title>VREP_obj</title>
+  </head>
+  <body>
+<h1>VREP_obj</h1><p><span class="helptopic">V-REP mirror of simple object</span></p><p>
+Mirror objects are MATLAB objects that reflect objects in the V-REP
+environment.  Methods allow the V-REP state to be examined or changed.
+
+</p>
+<p>
+This is a concrete class, derived from VREP_mirror, for all V-REP objects
+and allows access to pose and object parameters.
+
+</p>
+<h2>Example</h2>
+<pre style="width: 90%%;" class="examples">
+vrep&nbsp;=&nbsp;VREP();
+bill&nbsp;=&nbsp;vrep.object('Bill');&nbsp;&nbsp;%&nbsp;get&nbsp;the&nbsp;human&nbsp;figure&nbsp;Bill
+bill.setpos([1,2,0]);
+bill.setorient([0&nbsp;pi/2&nbsp;0]);
+</pre>
+<p>
+Methods throw exception if an error occurs.
+
+</p>
+<h2>Methods</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> getpos</td> <td>return position of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setpos</td> <td>set position of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> getorient</td> <td>return orientation of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setorient</td> <td>set orientation of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> getpose</td> <td>return pose of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setpose</td> <td>set pose of object given handle</td></tr>
+</table>
+<h2>Superclass methods (VREP_base)</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> setobjparam_bool</td> <td>set object boolean parameter</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setobjparam_int</td> <td>set object integer parameter</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setobjparam_float</td> <td>set object float parameter</td></tr>
+</table>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> display</td> <td>print the link parameters in human readable form</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> char</td> <td>convert to string</td></tr>
+</table>
+<h2>Properties (read/write)</h2>
+<h2>See also</h2>
+<p>
+<a href="vrep_mirror.html">vrep_mirror</a>, <a href="vrep_obj.html">vrep_obj</a>, <a href="vrep_arm.html">vrep_arm</a>, <a href="vrep_camera.html">vrep_camera</a>, <a href="vrep_hokuyo.html">vrep_hokuyo</a></p>
+<hr>
+<a name="VREP_obj"><h1>VREP_obj.VREP_obj</h1></a>
+<p><span class="helptopic">VREP_obj mirror object constructor</span></p><p>
+<strong>v</strong> = <span style="color:red">VREP_base</span>(<strong>name</strong>) creates a V-REP mirror object for a
+simple V-REP object type.
+
+</p>
+<hr>
+<a name="getorient"><h1>VREP_obj.getorient</h1></a>
+<p><span class="helptopic">Get orientation of V-REP object</span></p><p>
+V.<span style="color:red">getorient</span>() is the orientation of the corresponding V-REP
+object as a rotation matrix (3x3).
+
+</p>
+<p>
+V.<span style="color:red">getorient</span>('euler', OPTIONS) as above but returns ZYZ Euler
+angles.
+
+</p>
+<p>
+V.<span style="color:red">getorient</span>(<strong>base</strong>) is the orientation of the corresponding V-REP
+object relative to the <span style="color:red">VREP_obj</span> object <strong>base</strong>.
+
+</p>
+<p>
+V.<span style="color:red">getorient</span>(<strong>base</strong>, 'euler', OPTIONS) as above but returns ZYZ Euler
+angles.
+
+</p>
+<h2>Options</h2>
+<p>
+See tr2eul.
+
+</p>
+<hr>
+<a name="getpos"><h1>VREP_obj.getpos</h1></a>
+<p><span class="helptopic">Get position of V-REP object</span></p><p>
+V.<span style="color:red">getpos</span>() is the position (1x3) of the corresponding V-REP object.
+
+</p>
+<p>
+V.<span style="color:red">getpos</span>(<strong>base</strong>) as above but position is relative to the <span style="color:red">VREP_obj</span>
+object <strong>base</strong>.
+
+</p>
+<hr>
+<a name="getpose"><h1>VREP_obj.getpose</h1></a>
+<p><span class="helptopic">Get pose of V-REP object</span></p><p>
+V.<span style="color:red">getpose</span>() is the pose (4x4) of the the corresponding V-REP object.
+
+</p>
+<p>
+V.<span style="color:red">getpose</span>(<strong>base</strong>) as above but pose is relative to the
+pose the <span style="color:red">VREP_obj</span> object <strong>base</strong>.
+
+</p>
+<hr>
+<a name="setorient"><h1>VREP_obj.setorient</h1></a>
+<p><span class="helptopic">Set orientation of V-REP object</span></p><p>
+V.<span style="color:red">setorient</span>(<strong>R</strong>) sets the orientation of the corresponding V-REP to rotation matrix <strong>R</strong> (3x3).
+
+</p>
+<p>
+V.<span style="color:red">setorient</span>(<strong>T</strong>) sets the orientation of the corresponding V-REP object to rotational component of homogeneous transformation matrix
+<strong>T</strong> (4x4).
+
+</p>
+<p>
+V.<span style="color:red">setorient</span>(<strong>E</strong>) sets the orientation of the corresponding V-REP object to ZYZ Euler angles (1x3).
+
+</p>
+<p>
+V.<span style="color:red">setorient</span>(<strong>x</strong>, <strong>base</strong>) as above but orientation is set relative to the
+orientation of <span style="color:red">VREP_obj</span> object <strong>base</strong>.
+
+</p>
+<hr>
+<a name="setpos"><h1>VREP_obj.setpos</h1></a>
+<p><span class="helptopic">Set position of V-REP object</span></p><p>
+V.<span style="color:red">setpos</span>(<strong>T</strong>) sets the position of the corresponding V-REP object
+to <strong>T</strong> (1x3).
+
+</p>
+<p>
+V.<span style="color:red">setpos</span>(<strong>T</strong>, <strong>base</strong>) as above but position is set relative to the
+position of the <span style="color:red">VREP_obj</span> object <strong>base</strong>.
+
+</p>
+<hr>
+<a name="setpose"><h1>VREP_obj.setpose</h1></a>
+<p><span class="helptopic">Set pose of V-REP object</span></p><p>
+V.<span style="color:red">setpose</span>(<strong>T</strong>) sets the pose of the corresponding V-REP object
+to <strong>T</strong> (4x4).
+
+</p>
+<p>
+V.<span style="color:red">setpose</span>(<strong>T</strong>, <strong>base</strong>) as above but pose is set relative to the
+pose of the <span style="color:red">VREP_obj</span> object <strong>base</strong>.
+
+</p>
+<hr>
+
+<p class="copy"><a href="http://www.petercorke.com/robot">Robotics Toolbox for MATLAB</a> &copy; 1990-2012 Peter Corke.</p>
+</body></html>

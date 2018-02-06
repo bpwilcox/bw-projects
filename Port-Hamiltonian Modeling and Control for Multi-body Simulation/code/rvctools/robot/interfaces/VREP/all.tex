@@ -1,0 +1,982 @@
+\documentclass[a4paper]{article}
+\setlength{\parindent}{0mm}
+\usepackage{parskip}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage{sectsty}
+\allsectionsfont{\sffamily}
+\makeatletter
+\renewcommand\section{%
+\@startsection{section}{1}{\z@}%
+  {-3.5ex \@plus -1ex \@minus -.2ex}%
+  {2.3ex \@plus.2ex}%
+  {\color{red}\sffamily\huge\bfseries}}
+\makeatother
+
+\usepackage{fancyvrb}
+\fvset{formatcom=\color{blue},fontseries=c,fontfamily=courier,xleftmargin=4mm,commentchar=!}
+
+\DefineVerbatimEnvironment{Code}{Verbatim}{formatcom=\color{blue},fontseries=c,fontfamily=courier,fontsize=\footnotesize,xleftmargin=4mm,commentchar=!}
+
+\begin{document}
+
+%---------------------- VREP
+\hypertarget{VREP}{\section*{VREP}}
+\subsection*{V-REP simulator communications object}
+\addcontentsline{toc}{section}{VREP}
+A VREP object holds all information related to the state of a connection.
+References are passed to other objects which mirror the V-REP environment
+in MATLAB.
+
+This class handles the interface to the simulator and low-level object
+handle operations.
+
+Methods throw exception if an error occurs.
+
+\subsection*{Methods}
+\begin{tabular}{lp{120mm}}
+ gethandle & get handle to named object\\ 
+ getchildren & get children belonging to handle\\ 
+\hline
+ object & return a VREP\_obj object for named object\\ 
+ arm & return a VREP\_arm object for named robot\\ 
+ camera & return a VREP\_camera object for named vosion sensor\\ 
+ hokuyo & return a VREP\_hokuyo object for named Hokuyo scanner\\ 
+\hline
+ getpos & return position of object given handle\\ 
+ setpos & set position of object given handle\\ 
+ getorient & return orientation of object given handle\\ 
+ setorient & set orientation of object given handle\\ 
+ getpose & return pose of object given handle\\ 
+ setpose & set pose of object given handle\\ 
+\hline
+ setobjparam\_bool & set object boolean parameter\\ 
+ setobjparam\_int & set object integer parameter\\ 
+ setobjparam\_float & set object float parameter\\ 
+ getobjparam\_bool & get object boolean parameter\\ 
+ getobjparam\_int & get object integer parameter\\ 
+ getobjparam\_float & get object float parameter\\ 
+\hline
+ signal\_int & send named integer signal\\ 
+ signal\_float & send named float signal\\ 
+ signal\_str & send named string signal\\ 
+\hline
+ setparam\_bool & set object boolean parameter\\ 
+ setparam\_int & set object integer parameter\\ 
+ setparam\_float & set object float parameter\\ 
+\hline
+ delete & shutdown the connection and cleanup\\ 
+\hline
+ startsim & start the simulator running\\ 
+ stopsim & stop the simulator running\\ 
+ pausesim & pause the simulator\\ 
+ getversion & get V-REP version number\\ 
+ checkcomms & return status of connection\\ 
+ pausecomms & pause the comms\\ 
+\hline
+ display & print the link parameters in human readable form\\ 
+ char & convert to string\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{See also}
+
+
+\hyperlink{vrep_obj}{\color{blue} vrep\_obj}, \hyperlink{vrep_arm}{\color{blue} vrep\_arm}, \hyperlink{vrep_camera}{\color{blue} vrep\_camera}, \hyperlink{vrep_hokuyo}{\color{blue} vrep\_hokuyo}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.VREP
+\hypertarget{VREP.VREP}{\section*{VREP.VREP}}
+\subsection*{VREP object constructor}
+\textbf{v} = \textbf{\color{red} VREP}(\textbf{options}) create a connection to the V-REP simulator.
+
+\textbf{v} = \textbf{\color{red} VREP}(\textbf{path}, \textbf{options}) as above but specify the root directory
+of V-REP.
+
+\subsection*{Options}
+\begin{tabular}{lp{120mm}}
+`version', V & Version of V-REP, V=304, 311 etc\\ 
+`timeout', T & Timeout T in ms (default 2000)\\ 
+`cycle', C & Cycle time C in ms (default 5)\\ 
+`port', P & Override communications port\\ 
+ `reconnect' & Reconnect on error (default noreconnect)\\ 
+\end{tabular}\vspace{1ex}
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.arm
+\hypertarget{VREP.arm}{\section*{VREP.arm}}
+\subsection*{Return VREP\_arm object}
+V.\textbf{\color{red} arm}(\textbf{name}) is a factory method that returns a VREP\_arm object for the V-REP robot
+object named NAME.
+
+\subsection*{See also}
+
+
+\hyperlink{vrep_arm}{\color{blue} vrep\_arm}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.camera
+\hypertarget{VREP.camera}{\section*{VREP.camera}}
+\subsection*{Return VREP\_camera object}
+V.\textbf{\color{red} camera}(\textbf{name}) is a factory method that returns a VREP\_camera object for the V-REP vision
+sensor object named NAME.
+
+\subsection*{See also}
+
+
+\hyperlink{vrep_camera}{\color{blue} vrep\_camera}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.checkcomms
+\hypertarget{VREP.checkcomms}{\section*{VREP.checkcomms}}
+\subsection*{Check communications to V-REP simulator}
+V.\textbf{\color{red} checkcomms}() is true if a valid connection to the V-REP simulator exists.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.delete
+\hypertarget{VREP.delete}{\section*{VREP.delete}}
+\subsection*{VREP object destructor}
+\textbf{\color{red} delete}(\textbf{v}) closes the connection to the V-REP simulator
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.getchildren
+\hypertarget{VREP.getchildren}{\section*{VREP.getchildren}}
+\subsection*{Return children of object}
+\textbf{C} = V.\textbf{\color{red} getchildren}(\textbf{H}) is a vector of integer handles for the V-REP object
+denoted by the integer handle \textbf{H}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.gethandle
+\hypertarget{VREP.gethandle}{\section*{VREP.gethandle}}
+\subsection*{Return handle to VREP object}
+\textbf{H} = V.\textbf{\color{red} gethandle}(\textbf{name}) is an integer handle for named V-REP object.
+
+\textbf{H} = V.\textbf{\color{red} gethandle}(\textbf{fmt}, \textbf{arglist}) as above but the name is formed
+from sprintf(\textbf{fmt}, \textbf{arglist}).
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.getjoint
+\hypertarget{VREP.getjoint}{\section*{VREP.getjoint}}
+\subsection*{Get value of V-REP joint object}
+V.\textbf{\color{red} getjoint}(\textbf{H}, \textbf{q}) is the position of joint object with integer handle \textbf{H}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.getobjparam\_bool
+\hypertarget{VREP.getobjparam\_bool}{\section*{VREP.getobjparam\_bool}}
+\subsection*{get boolean parameter of a V-REP object}
+V.\textbf{\color{red} getobjparam\_bool}(\textbf{H}, \textbf{param}) gets the boolean parameter
+with identifier \textbf{param} of object with integer handle \textbf{H}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.getobjparam\_float
+\hypertarget{VREP.getobjparam\_float}{\section*{VREP.getobjparam\_float}}
+\subsection*{get float parameter of a V-REP object}
+V.\textbf{\color{red} getobjparam\_bool}(\textbf{H}, \textbf{param}) gets the float parameter
+with identifier \textbf{param} of object with integer handle \textbf{H}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.getobjparam\_int
+\hypertarget{VREP.getobjparam\_int}{\section*{VREP.getobjparam\_int}}
+\subsection*{get Integer parameter of a V-REP object}
+V.\textbf{\color{red} getobjparam\_int}(\textbf{H}, \textbf{param}) gets the integer parameter
+with identifier \textbf{param} of object with integer handle \textbf{H}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.getorient
+\hypertarget{VREP.getorient}{\section*{VREP.getorient}}
+\subsection*{Get orientation of V-REP object}
+V.\textbf{\color{red} getorient}(\textbf{H}) is the orientation as a rotation matrix ($3 \times 3$) of
+the V-REP object with integer handle \textbf{H}.
+
+V.\textbf{\color{red} getorient}(\textbf{H}, `euler', OPTIONS) as above but returns ZYZ Euler
+angles.
+
+V.\textbf{\color{red} getorient}(\textbf{H}, \textbf{hrr}) as above but orientation is relative to the
+position of object with integer handle HR.
+
+V.\textbf{\color{red} getorient}(\textbf{H}, \textbf{hrr}, `euler', OPTIONS) as above but returns ZYZ Euler
+angles.
+
+\subsection*{Options}
+See tr2eul.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.getpos
+\hypertarget{VREP.getpos}{\section*{VREP.getpos}}
+\subsection*{Get position of V-REP object}
+V.\textbf{\color{red} getpos}(\textbf{H}) is the position ($1 \times 3$) of the V-REP object with integer
+handle \textbf{H}.
+
+V.\textbf{\color{red} getpos}(\textbf{H}, \textbf{hr}) as above but position is relative to the
+position of object with integer handle \textbf{hr}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.getpose
+\hypertarget{VREP.getpose}{\section*{VREP.getpose}}
+\subsection*{Get pose of V-REP object}
+V.\textbf{\color{red} getpose}(\textbf{H}) is the pose ($4 \times 4$) of the V-REP object with integer
+handle \textbf{H}.
+
+V.\textbf{\color{red} getpose}(\textbf{H}, \textbf{hr}) as above but pose is relative to the
+pose of object with integer handle R.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.getversion
+\hypertarget{VREP.getversion}{\section*{VREP.getversion}}
+\subsection*{Get version of the V-REP simulator}
+V.\textbf{\color{red} getversion}() is the version of the V-REP simulator
+server as an integer MNNNN where M is the major version
+number and NNNN is the minor version number.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.hokuyo
+\hypertarget{VREP.hokuyo}{\section*{VREP.hokuyo}}
+\subsection*{Return VREP\_hokuyo object}
+V.\textbf{\color{red} hokuyo}(\textbf{name}) is a factory method that returns a VREP\_hokuyo
+object for the V-REP Hokuyo laser scanner object named NAME.
+
+\subsection*{See also}
+
+
+\hyperlink{vrep_hokuyo}{\color{blue} vrep\_hokuyo}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.mobile
+\hypertarget{VREP.mobile}{\section*{VREP.mobile}}
+\subsection*{Return VREP\_mobile object}
+V.\textbf{\color{red} mobile}(\textbf{name}) is a factory method that returns a
+VREP\_mobile object for the V-REP \textbf{\color{red} mobile} base object named NAME.
+
+\subsection*{See also}
+
+
+\hyperlink{vrep_mobile}{\color{blue} vrep\_mobile}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.object
+\hypertarget{VREP.object}{\section*{VREP.object}}
+\subsection*{Return VREP\_obj object}
+V.\textbf{\color{red} objet}(\textbf{name}) is a factory method that returns a VREP\_obj object for the V-REP
+object named NAME.
+
+\subsection*{See also}
+
+
+\hyperlink{vrep_obj}{\color{blue} vrep\_obj}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.pausecomms
+\hypertarget{VREP.pausecomms}{\section*{VREP.pausecomms}}
+\subsection*{Pause communcations to the V-REP simulator}
+V.\textbf{\color{red} pausecomms}(\textbf{p}) pauses communications to the V-REP simulation engine if \textbf{p} is true
+else resumes it.  Useful to ensure an atomic update of
+simulator state.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setjoint
+\hypertarget{VREP.setjoint}{\section*{VREP.setjoint}}
+\subsection*{Set value of V-REP joint object}
+V.\textbf{\color{red} setjoint}(\textbf{H}, \textbf{q}) sets the position of joint object with integer handle \textbf{H}
+to the value \textbf{q}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setjointtarget
+\hypertarget{VREP.setjointtarget}{\section*{VREP.setjointtarget}}
+\subsection*{Set target value of V-REP joint object}
+V.\textbf{\color{red} setjointtarget}(\textbf{H}, \textbf{q}) sets the target position of joint object with integer handle \textbf{H}
+to the value \textbf{q}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setjointvel
+\hypertarget{VREP.setjointvel}{\section*{VREP.setjointvel}}
+\subsection*{Set velocity of V-REP joint object}
+V.\textbf{\color{red} setjointvel}(\textbf{H}, \textbf{qd}) sets the target velocity of joint object with integer handle \textbf{H}
+to the value \textbf{qd}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setobjparam\_bool
+\hypertarget{VREP.setobjparam\_bool}{\section*{VREP.setobjparam\_bool}}
+\subsection*{Set boolean parameter of a V-REP object}
+V.\textbf{\color{red} setobjparam\_bool}(\textbf{H}, \textbf{param}, \textbf{val}) sets the boolean parameter
+with identifier \textbf{param} of object \textbf{H} to value \textbf{val}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setobjparam\_float
+\hypertarget{VREP.setobjparam\_float}{\section*{VREP.setobjparam\_float}}
+\subsection*{Set float parameter of a V-REP object}
+V.\textbf{\color{red} setobjparam\_bool}(\textbf{H}, \textbf{param}, \textbf{val}) sets the float parameter
+with identifier \textbf{param} of object \textbf{H} to value \textbf{val}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setobjparam\_int
+\hypertarget{VREP.setobjparam\_int}{\section*{VREP.setobjparam\_int}}
+\subsection*{Set Integer parameter of a V-REP object}
+V.\textbf{\color{red} setobjparam\_int}(\textbf{H}, \textbf{param}, \textbf{val}) sets the integer parameter
+with identifier \textbf{param} of object \textbf{H} to value \textbf{val}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setorient
+\hypertarget{VREP.setorient}{\section*{VREP.setorient}}
+\subsection*{Set orientation of V-REP object}
+V.\textbf{\color{red} setorient}(\textbf{H}, \textbf{R}) sets the orientation of V-REP object with integer
+handle \textbf{H} to that given by rotation matrix \textbf{R} ($3 \times 3$).
+
+V.\textbf{\color{red} setorient}(\textbf{H}, \textbf{T}) sets the orientation of V-REP object with integer
+handle \textbf{H} to rotational component of homogeneous transformation matrix
+\textbf{T} ($4 \times 4$).
+
+V.\textbf{\color{red} setorient}(\textbf{H}, \textbf{E}) sets the orientation of V-REP object with integer
+handle \textbf{H} to ZYZ Euler angles ($1 \times 3$).
+
+V.\textbf{\color{red} setorient}(\textbf{H}, \textbf{x}, \textbf{hr}) as above but orientation is set relative to the
+orientation of object with integer handle \textbf{hr}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setparam\_bool
+\hypertarget{VREP.setparam\_bool}{\section*{VREP.setparam\_bool}}
+\subsection*{Set boolean parameter of the V-REP simulator}
+V.\textbf{\color{red} setparam\_bool}(\textbf{name}, \textbf{val}) sets the boolean parameter with name \textbf{name}
+to value \textbf{val} within the V-REP simulation engine.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setparam\_float
+\hypertarget{VREP.setparam\_float}{\section*{VREP.setparam\_float}}
+\subsection*{Set float parameter of the V-REP simulator}
+V.\textbf{\color{red} setparam\_float}(\textbf{name}, \textbf{val}) sets the float parameter with name \textbf{name}
+to value \textbf{val} within the V-REP simulation engine.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setparam\_int
+\hypertarget{VREP.setparam\_int}{\section*{VREP.setparam\_int}}
+\subsection*{Set intger parameter of the V-REP simulator}
+V.\textbf{\color{red} setparam\_int}(\textbf{name}, \textbf{val}) sets the integer parameter with name \textbf{name}
+to value \textbf{val} within the V-REP simulation engine.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setpos
+\hypertarget{VREP.setpos}{\section*{VREP.setpos}}
+\subsection*{Set position of V-REP object}
+V.\textbf{\color{red} setpos}(\textbf{H}, \textbf{T}) sets the position of V-REP object with integer
+handle \textbf{H} to \textbf{T} ($1 \times 3$).
+
+V.\textbf{\color{red} setpos}(\textbf{H}, \textbf{T}, \textbf{hr}) as above but position is set relative to the
+position of object with integer handle \textbf{hr}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.setpose
+\hypertarget{VREP.setpose}{\section*{VREP.setpose}}
+\subsection*{Set pose of V-REP object}
+V.\textbf{\color{red} setpos}(\textbf{H}, \textbf{T}) sets the pose of V-REP object with integer
+handle \textbf{H} according to homogeneous transform \textbf{T} ($4 \times 4$).
+
+V.\textbf{\color{red} setpos}(\textbf{H}, \textbf{T}, \textbf{hr}) as above but pose is set relative to the
+pose of object with integer handle \textbf{hr}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.signal\_float
+\hypertarget{VREP.signal\_float}{\section*{VREP.signal\_float}}
+\subsection*{Send a float signal to the V-REP simulator}
+V.\textbf{\color{red} signal\_float}(\textbf{name}, \textbf{val}) send a float signal with name \textbf{name}
+and value \textbf{val} to the V-REP simulation engine.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.signal\_int
+\hypertarget{VREP.signal\_int}{\section*{VREP.signal\_int}}
+\subsection*{Send an integer signal to the V-REP simulator}
+V.\textbf{\color{red} signal\_int}(\textbf{name}, \textbf{val}) send an integer signal with name \textbf{name}
+and value \textbf{val} to the V-REP simulation engine.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.signal\_str
+\hypertarget{VREP.signal\_str}{\section*{VREP.signal\_str}}
+\subsection*{Send a string signal to the V-REP simulator}
+V.\textbf{\color{red} signal\_str}(\textbf{name}, \textbf{val}) send a string signal with name \textbf{name}
+and value \textbf{val} to the V-REP simulation engine.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.simpause
+\hypertarget{VREP.simpause}{\section*{VREP.simpause}}
+\subsection*{Pause V-REP simulation}
+V.\textbf{\color{red} simpause}() pauses the V-REP simulation engine.  Use
+V.simstart() to resume the simulation.
+
+\subsection*{See also}
+
+
+\hyperlink{VREP.simstart}{\color{blue} VREP.simstart}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.simstart
+\hypertarget{VREP.simstart}{\section*{VREP.simstart}}
+\subsection*{Start V-REP simulation}
+V.\textbf{\color{red} simstart}() starts the V-REP simulation engine.
+
+\subsection*{See also}
+
+
+\hyperlink{VREP.simstop}{\color{blue} VREP.simstop}, \hyperlink{VREP.simpause}{\color{blue} VREP.simpause}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.simstop
+\hypertarget{VREP.simstop}{\section*{VREP.simstop}}
+\subsection*{Stop V-REP simulation}
+V.\textbf{\color{red} simstop}() stops the V-REP simulation engine.
+
+\subsection*{See also}
+
+
+\hyperlink{VREP.simstart}{\color{blue} VREP.simstart}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP.youbot
+\hypertarget{VREP.youbot}{\section*{VREP.youbot}}
+\subsection*{Return VREP\_youbot object}
+V.\textbf{\color{red} youbot}(\textbf{name}) is a factory method that returns a VREP\_youbot
+object for the V-REP YouBot object named NAME.
+
+\subsection*{See also}
+
+
+\hyperlink{vrep_youbot}{\color{blue} vrep\_youbot}
+
+\vspace{1.5ex}\rule{\textwidth}{1mm}
+
+%---------------------- VREP\_arm
+\hypertarget{VREP\_arm}{\section*{VREP\_arm}}
+\subsection*{V-REP mirror of robot arm object}
+\addcontentsline{toc}{section}{VREP\_arm}
+Mirror objects are MATLAB objects that reflect objects in the V-REP
+environment.  Methods allow the V-REP state to be examined or changed.
+
+This is a concrete class, derived from VREP\_mirror, for all V-REP robot
+arm objects and allows access to joint variables.
+
+Methods throw exception if an error occurs.
+
+\subsection*{Example}
+\begin{Code}
+vrep = VREP();
+arm = vrep.arm('IRB140');
+q = arm.getq();
+arm.setq(zeros(1,6));
+arm.setpose(T);  % set pose of base
+\end{Code}
+\subsection*{Methods}
+\begin{tabular}{lp{120mm}}
+ getq & return joint coordinates\\ 
+ setq & set joint coordinates\\ 
+ animate & animate a joint coordinate trajectory\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Superclass methods (VREP\_obj)}
+\begin{tabular}{lp{120mm}}
+ getpos & return position of object given handle\\ 
+ setpos & set position of object given handle\\ 
+ getorient & return orientation of object given handle\\ 
+ setorient & set orientation of object given handle\\ 
+ getpose & return pose of object given handle\\ 
+ setpose & set pose of object given handle\\ 
+\end{tabular}\vspace{1ex}
+can be used to set/get the pose of the robot base.
+
+\subsection*{Superclass methods (VREP\_base)}
+\begin{tabular}{lp{120mm}}
+ setobjparam\_bool & set object boolean parameter\\ 
+ setobjparam\_int & set object integer parameter\\ 
+ setobjparam\_float & set object float parameter\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Properties}
+\begin{tabular}{lp{120mm}}
+ n  & Number of joints\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{See also}
+
+
+\hyperlink{vrep_mirror}{\color{blue} vrep\_mirror}, \hyperlink{vrep_obj}{\color{blue} vrep\_obj}, \hyperlink{vrep_arm}{\color{blue} vrep\_arm}, \hyperlink{vrep_camera}{\color{blue} vrep\_camera}, \hyperlink{vrep_hokuyo}{\color{blue} vrep\_hokuyo}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_arm.VREP\_arm
+\hypertarget{VREP\_arm.VREP\_arm}{\section*{VREP\_arm.VREP\_arm}}
+\subsection*{Create a robot arm mirror object}
+\textbf{R} = \textbf{\color{red} VREP\_arm}(\textbf{name}, \textbf{options}) is a mirror object that corresponds to the
+robot arm named \textbf{name} in the V-REP environment.
+
+\subsection*{Options}
+\begin{tabular}{lp{120mm}}
+`fmt', F & Specify format for joint object names (default `\%s\_joint\%d')\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Notes}
+\begin{itemize}
+  \item The number of joints is found by searching for objects
+with names systematically derived from the root object name, by
+default named NAME\_N where N is the joint number starting at 0.
+\end{itemize}
+\subsection*{See also}
+
+
+\hyperlink{VREP.arm}{\color{blue} VREP.arm}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_arm.animate
+\hypertarget{VREP\_arm.animate}{\section*{VREP\_arm.animate}}
+\subsection*{Animate V-REP robot}
+R.\textbf{\color{red} animate}(\textbf{qt}, \textbf{options}) \textbf{\color{red} animate} the corresponding V-REP robot with
+configurations taken consecutive rows of \textbf{qt} ($M \times N$) which represents
+an M-point trajectory.
+
+\subsection*{Options}
+\begin{tabular}{lp{120mm}}
+`delay', D & Delay (s) betwen frames for animation (default 0.1)\\ 
+`fps', fps & Number of frames per second for display, inverse of `delay' option\\ 
+ `[no]loop' & Loop over the trajectory forever\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{See also}
+
+
+\hyperlink{SerialLink.plot}{\color{blue} SerialLink.plot}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_arm.getq
+\hypertarget{VREP\_arm.getq}{\section*{VREP\_arm.getq}}
+\subsection*{Get joint angles of V-REP robot}
+R.\textbf{\color{red} getq}() is the vector of joint angles ($1 \times N$) from the corresponding
+robot arm in the V-REP simulation.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_arm.setq
+\hypertarget{VREP\_arm.setq}{\section*{VREP\_arm.setq}}
+\subsection*{Set joint angles of V-REP robot}
+R.\textbf{\color{red} setq}(\textbf{q}) sets the joint angles of the corresponding
+robot arm in the V-REP simulation to \textbf{q} ($1 \times N$).
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_arm.teach
+\hypertarget{VREP\_arm.teach}{\section*{VREP\_arm.teach}}
+\subsection*{Graphical teach pendant}
+R.\textbf{\color{red} teach}(\textbf{options}) drive a V-REP robot by means of a graphical slider panel.
+
+\subsection*{Options}
+\begin{tabular}{lp{120mm}}
+ `degrees' & Display angles in degrees (default radians)\\ 
+`q0', q & Set initial joint coordinates\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Notes}
+\begin{itemize}
+  \item The slider limits are all assumed to be [-pi, +pi]
+\end{itemize}
+\subsection*{See also}
+
+
+\hyperlink{SerialLink.plot}{\color{blue} SerialLink.plot}
+
+\vspace{1.5ex}\rule{\textwidth}{1mm}
+
+%---------------------- VREP\_camera
+\hypertarget{VREP\_camera}{\section*{VREP\_camera}}
+\subsection*{V-REP mirror of vision sensor object}
+\addcontentsline{toc}{section}{VREP\_camera}
+Mirror objects are MATLAB objects that reflect objects in the V-REP
+environment.  Methods allow the V-REP state to be examined or changed.
+
+This is a concrete class, derived from VREP\_mirror, for all V-REP vision
+sensor objects and allows access to images and image parameters.
+
+Methods throw exception if an error occurs.
+
+\subsection*{Example}
+\begin{Code}
+vrep = VREP();
+camera = vrep.camera('Vision_sensor');
+im = camera.grab();
+camera.setpose(T);
+R = camera.getorient();
+\end{Code}
+\subsection*{Methods}
+\begin{tabular}{lp{120mm}}
+ grab & return an image from simulated camera\\ 
+ setangle & set field of view\\ 
+ setresolution & set image resolution\\ 
+ setclipping & set clipping boundaries\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Superclass methods (VREP\_obj)}
+\begin{tabular}{lp{120mm}}
+ getpos & return position of object given handle\\ 
+ setpos & set position of object given handle\\ 
+ getorient & return orientation of object given handle\\ 
+ setorient & set orientation of object given handle\\ 
+ getpose & return pose of object given handle\\ 
+ setpose & set pose of object given handle\\ 
+\end{tabular}\vspace{1ex}
+can be used to set/get the pose of the robot base.
+
+\subsection*{Superclass methods (VREP\_base)}
+\begin{tabular}{lp{120mm}}
+ setobjparam\_bool & set object boolean parameter\\ 
+ setobjparam\_int & set object integer parameter\\ 
+ setobjparam\_float & set object float parameter\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Properties}
+\begin{tabular}{lp{120mm}}
+ n  & Number of joints\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{See also}
+
+
+\hyperlink{vrep_mirror}{\color{blue} vrep\_mirror}, \hyperlink{vrep_obj}{\color{blue} vrep\_obj}, \hyperlink{vrep_arm}{\color{blue} vrep\_arm}, \hyperlink{vrep_camera}{\color{blue} vrep\_camera}, \hyperlink{vrep_hokuyo}{\color{blue} vrep\_hokuyo}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_camera.VREP\_camera
+\hypertarget{VREP\_camera.VREP\_camera}{\section*{VREP\_camera.VREP\_camera}}
+\subsection*{Create a camera mirror object}
+\textbf{C} = \textbf{\color{red} VREP\_camera}(\textbf{name}, \textbf{options}) is a mirror object that corresponds to the
+a vision senor named \textbf{name} in the V-REP environment.
+
+\subsection*{Options}
+\begin{tabular}{lp{120mm}}
+`fov', A & Specify field of view in degreees (default 60)\\ 
+`resolution', N & Specify resolution.  If scalar $N \times N$ else N(1)xN(2)\\ 
+`clipping', Z & Specify near Z(1) and far Z(2) clipping boundaries\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Notes}
+\begin{itemize}
+  \item Default parameters are set in the V-REP environment
+\end{itemize}
+\subsection*{See also}
+
+
+\hyperlink{vrep_obj}{\color{blue} vrep\_obj}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_camera.getangle
+\hypertarget{VREP\_camera.getangle}{\section*{VREP\_camera.getangle}}
+\subsection*{Fet field of view for V-REP vision sensor}
+\textbf{fov} = C.\textbf{\color{red} getangle}(\textbf{fov}) is the field-of-view angle to \textbf{fov} in
+radians.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_camera.getclipping
+\hypertarget{VREP\_camera.getclipping}{\section*{VREP\_camera.getclipping}}
+\subsection*{Get clipping boundaries for V-REP vision sensor}
+C.\textbf{\color{red} getclipping}() is the near and far clipping boundaries ($1 \times 2$) in the
+Z-direction as a 2-vector [NEAR,FAR].
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_camera.getresolution
+\hypertarget{VREP\_camera.getresolution}{\section*{VREP\_camera.getresolution}}
+\subsection*{Get resolution for V-REP vision sensor}
+\textbf{R} = C.\textbf{\color{red} getresolution}() is the image resolution ($1 \times 2$) of the
+vision sensor \textbf{R}(1)xR(2).
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_camera.grab
+\hypertarget{VREP\_camera.grab}{\section*{VREP\_camera.grab}}
+\subsection*{Get image from V-REP vision sensor}
+\textbf{im} = C.\textbf{\color{red} grab}(\textbf{options}) is an image ($W \times H$) returned from the V-REP
+vision sensor.
+
+C.\textbf{\color{red} grab}(\textbf{options}) as above but the image is displayed using
+idisp.
+
+\subsection*{Options}
+\begin{tabular}{lp{120mm}}
+ `grey' & Return a greyscale image (default color).\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Notes}
+\begin{itemize}
+  \item V-REP simulator must be running
+  \item Very slow, ie. seconds to \textbf{\color{red} grab} a $256 \times 256$ image
+  \item Color images can be quite dark, ensure good light sources
+  \item Uses the signal `handle\_rgb\_sensor' to trigger a single
+image generation.
+\end{itemize}
+\subsection*{See also}
+
+
+\hyperlink{idisp}{\color{blue} idisp}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_camera.setangle
+\hypertarget{VREP\_camera.setangle}{\section*{VREP\_camera.setangle}}
+\subsection*{Set field of view for V-REP vision sensor}
+C.\textbf{\color{red} setangle}(\textbf{fov}) set the field-of-view angle to \textbf{fov} in
+radians.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_camera.setclipping
+\hypertarget{VREP\_camera.setclipping}{\section*{VREP\_camera.setclipping}}
+\subsection*{Set clipping boundaries for V-REP vision sensor}
+C.\textbf{\color{red} setclipping}(\textbf{near}, \textbf{far}) set clipping boundaries to the
+range of Z from \textbf{near} to \textbf{far}.  Objects outside this range
+will not be rendered.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_camera.setresolution
+\hypertarget{VREP\_camera.setresolution}{\section*{VREP\_camera.setresolution}}
+\subsection*{Set resolution for V-REP vision sensor}
+C.\textbf{\color{red} setresolution}(\textbf{R}) set image resolution to $\textbf{R} \times \textbf{R}$ if \textbf{R} is a scalar or
+\textbf{R}(1)xR(2) if it is a 2-vector.
+
+\vspace{1.5ex}\rule{\textwidth}{1mm}
+\vspace{1.5ex}\hrule
+\vspace{1.5ex}\rule{\textwidth}{1mm}
+
+%---------------------- VREP\_mirror
+\hypertarget{VREP\_mirror}{\section*{VREP\_mirror}}
+\subsection*{V-REP mirror object class}
+\addcontentsline{toc}{section}{VREP\_mirror}
+Mirror objects are MATLAB objects that reflect objects in the V-REP
+environment.  Methods allow the V-REP state to be examined or changed.
+
+This abstract class is the root class for all V-REP mirror objects.
+
+Methods throw exception if an error occurs.
+
+\subsection*{Methods}
+\begin{tabular}{lp{120mm}}
+ setobjparam\_bool & set object boolean parameter\\ 
+ setobjparam\_int & set object integer parameter\\ 
+ setobjparam\_float & set object float parameter\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{See also}
+
+
+\hyperlink{vrep_obj}{\color{blue} vrep\_obj}, \hyperlink{vrep_arm}{\color{blue} vrep\_arm}, \hyperlink{vrep_camera}{\color{blue} vrep\_camera}, \hyperlink{vrep_hokuyo}{\color{blue} vrep\_hokuyo}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_mirror.VREP\_mirror
+\hypertarget{VREP\_mirror.VREP\_mirror}{\section*{VREP\_mirror.VREP\_mirror}}
+\subsection*{VREP\_mirror object constructor}
+\textbf{v} = \textbf{\color{red} VREP\_mirror}(\textbf{name}) creates a V-REP mirror object.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_mirror.getobjparam\_bool
+\hypertarget{VREP\_mirror.getobjparam\_bool}{\section*{VREP\_mirror.getobjparam\_bool}}
+\subsection*{Get boolean parameter of V-REP object}
+V.\textbf{\color{red} getparam\_bool}(\textbf{name}, \textbf{val}) is the boolean parameter with name \textbf{name}
+of the corresponding V-REP object.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_mirror.getobjparam\_float
+\hypertarget{VREP\_mirror.getobjparam\_float}{\section*{VREP\_mirror.getobjparam\_float}}
+\subsection*{Get float parameter of V-REP object}
+V.\textbf{\color{red} getparam\_float}(\textbf{name}, \textbf{val}) is the float parameter with name \textbf{name}
+of the corresponding V-REP object.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_mirror.getobjparam\_int
+\hypertarget{VREP\_mirror.getobjparam\_int}{\section*{VREP\_mirror.getobjparam\_int}}
+\subsection*{Get integer parameter of V-REP object}
+V.\textbf{\color{red} getparam\_int}(\textbf{name}, \textbf{val}) is the integer parameter with name \textbf{name}
+of the corresponding V-REP object.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_mirror.setobjparam\_bool
+\hypertarget{VREP\_mirror.setobjparam\_bool}{\section*{VREP\_mirror.setobjparam\_bool}}
+\subsection*{Set boolean parameter of V-REP object}
+V.\textbf{\color{red} setparam\_bool}(\textbf{name}, \textbf{val}) sets the boolean parameter with name \textbf{name}
+to value \textbf{val} within the V-REP simulation engine.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_mirror.setobjparam\_float
+\hypertarget{VREP\_mirror.setobjparam\_float}{\section*{VREP\_mirror.setobjparam\_float}}
+\subsection*{Set float parameter of V-REP object}
+V.\textbf{\color{red} setparam\_float}(\textbf{name}, \textbf{val}) sets the float parameter with name \textbf{name}
+to value \textbf{val} within the V-REP simulation engine.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_mirror.setobjparam\_int
+\hypertarget{VREP\_mirror.setobjparam\_int}{\section*{VREP\_mirror.setobjparam\_int}}
+\subsection*{Set integer parameter of V-REP object}
+V.\textbf{\color{red} setparam\_int}(\textbf{name}, \textbf{val}) sets the integer parameter with name \textbf{name}
+to value \textbf{val} within the V-REP simulation engine.
+
+\vspace{1.5ex}\rule{\textwidth}{1mm}
+\vspace{1.5ex}\hrule
+\vspace{1.5ex}\rule{\textwidth}{1mm}
+
+%---------------------- VREP\_obj
+\hypertarget{VREP\_obj}{\section*{VREP\_obj}}
+\subsection*{V-REP mirror of simple object}
+\addcontentsline{toc}{section}{VREP\_obj}
+Mirror objects are MATLAB objects that reflect objects in the V-REP
+environment.  Methods allow the V-REP state to be examined or changed.
+
+This is a concrete class, derived from VREP\_mirror, for all V-REP objects
+and allows access to pose and object parameters.
+
+\subsection*{Example}
+\begin{Code}
+vrep = VREP();
+bill = vrep.object('Bill');  % get the human figure Bill
+bill.setpos([1,2,0]);
+bill.setorient([0 pi/2 0]);
+\end{Code}
+Methods throw exception if an error occurs.
+
+\subsection*{Methods}
+\begin{tabular}{lp{120mm}}
+ getpos & return position of object given handle\\ 
+ setpos & set position of object given handle\\ 
+ getorient & return orientation of object given handle\\ 
+ setorient & set orientation of object given handle\\ 
+ getpose & return pose of object given handle\\ 
+ setpose & set pose of object given handle\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Superclass methods (VREP\_base)}
+\begin{tabular}{lp{120mm}}
+ setobjparam\_bool & set object boolean parameter\\ 
+ setobjparam\_int & set object integer parameter\\ 
+ setobjparam\_float & set object float parameter\\ 
+\end{tabular}\vspace{1ex}
+\begin{tabular}{lp{120mm}}
+ display & print the link parameters in human readable form\\ 
+ char & convert to string\\ 
+\end{tabular}\vspace{1ex}
+\subsection*{Properties (read/write)}
+\subsection*{See also}
+
+
+\hyperlink{vrep_mirror}{\color{blue} vrep\_mirror}, \hyperlink{vrep_obj}{\color{blue} vrep\_obj}, \hyperlink{vrep_arm}{\color{blue} vrep\_arm}, \hyperlink{vrep_camera}{\color{blue} vrep\_camera}, \hyperlink{vrep_hokuyo}{\color{blue} vrep\_hokuyo}
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_obj.VREP\_obj
+\hypertarget{VREP\_obj.VREP\_obj}{\section*{VREP\_obj.VREP\_obj}}
+\subsection*{VREP\_obj mirror object constructor}
+\textbf{v} = \textbf{\color{red} VREP\_base}(\textbf{name}) creates a V-REP mirror object for a
+simple V-REP object type.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_obj.getorient
+\hypertarget{VREP\_obj.getorient}{\section*{VREP\_obj.getorient}}
+\subsection*{Get orientation of V-REP object}
+V.\textbf{\color{red} getorient}() is the orientation of the corresponding V-REP
+object as a rotation matrix ($3 \times 3$).
+
+V.\textbf{\color{red} getorient}('euler', OPTIONS) as above but returns ZYZ Euler
+angles.
+
+V.\textbf{\color{red} getorient}(\textbf{base}) is the orientation of the corresponding V-REP
+object relative to the \textbf{\color{red} VREP\_obj} object \textbf{base}.
+
+V.\textbf{\color{red} getorient}(\textbf{base}, `euler', OPTIONS) as above but returns ZYZ Euler
+angles.
+
+\subsection*{Options}
+See tr2eul.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_obj.getpos
+\hypertarget{VREP\_obj.getpos}{\section*{VREP\_obj.getpos}}
+\subsection*{Get position of V-REP object}
+V.\textbf{\color{red} getpos}() is the position ($1 \times 3$) of the corresponding V-REP object.
+
+V.\textbf{\color{red} getpos}(\textbf{base}) as above but position is relative to the \textbf{\color{red} VREP\_obj}
+object \textbf{base}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_obj.getpose
+\hypertarget{VREP\_obj.getpose}{\section*{VREP\_obj.getpose}}
+\subsection*{Get pose of V-REP object}
+V.\textbf{\color{red} getpose}() is the pose ($4 \times 4$) of the the corresponding V-REP object.
+
+V.\textbf{\color{red} getpose}(\textbf{base}) as above but pose is relative to the
+pose the \textbf{\color{red} VREP\_obj} object \textbf{base}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_obj.setorient
+\hypertarget{VREP\_obj.setorient}{\section*{VREP\_obj.setorient}}
+\subsection*{Set orientation of V-REP object}
+V.\textbf{\color{red} setorient}(\textbf{R}) sets the orientation of the corresponding V-REP to rotation matrix \textbf{R} ($3 \times 3$).
+
+V.\textbf{\color{red} setorient}(\textbf{T}) sets the orientation of the corresponding V-REP object to rotational component of homogeneous transformation matrix
+\textbf{T} ($4 \times 4$).
+
+V.\textbf{\color{red} setorient}(\textbf{E}) sets the orientation of the corresponding V-REP object to ZYZ Euler angles ($1 \times 3$).
+
+V.\textbf{\color{red} setorient}(\textbf{x}, \textbf{base}) as above but orientation is set relative to the
+orientation of \textbf{\color{red} VREP\_obj} object \textbf{base}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_obj.setpos
+\hypertarget{VREP\_obj.setpos}{\section*{VREP\_obj.setpos}}
+\subsection*{Set position of V-REP object}
+V.\textbf{\color{red} setpos}(\textbf{T}) sets the position of the corresponding V-REP object
+to \textbf{T} ($1 \times 3$).
+
+V.\textbf{\color{red} setpos}(\textbf{T}, \textbf{base}) as above but position is set relative to the
+position of the \textbf{\color{red} VREP\_obj} object \textbf{base}.
+
+\vspace{1.5ex}\hrule
+
+%---------------------- VREP\_obj.setpose
+\hypertarget{VREP\_obj.setpose}{\section*{VREP\_obj.setpose}}
+\subsection*{Set pose of V-REP object}
+V.\textbf{\color{red} setpose}(\textbf{T}) sets the pose of the corresponding V-REP object
+to \textbf{T} ($4 \times 4$).
+
+V.\textbf{\color{red} setpose}(\textbf{T}, \textbf{base}) as above but pose is set relative to the
+pose of the \textbf{\color{red} VREP\_obj} object \textbf{base}.
+
+\vspace{1.5ex}\rule{\textwidth}{1mm}
+\vspace{1.5ex}\rule{\textwidth}{1mm}
+\end{document}

@@ -1,0 +1,134 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="http://www.petercorke.com/RVC/common/toolboxhelp.css">
+    <title>VREP_arm</title>
+  </head>
+  <body>
+<h1>VREP_arm</h1><p><span class="helptopic">V-REP mirror of robot arm object</span></p><p>
+Mirror objects are MATLAB objects that reflect objects in the V-REP
+environment.  Methods allow the V-REP state to be examined or changed.
+
+</p>
+<p>
+This is a concrete class, derived from VREP_mirror, for all V-REP robot
+arm objects and allows access to joint variables.
+
+</p>
+<p>
+Methods throw exception if an error occurs.
+
+</p>
+<h2>Example</h2>
+<pre style="width: 90%%;" class="examples">
+vrep&nbsp;=&nbsp;VREP();
+arm&nbsp;=&nbsp;vrep.arm('IRB140');
+q&nbsp;=&nbsp;arm.getq();
+arm.setq(zeros(1,6));
+arm.setpose(T);&nbsp;&nbsp;%&nbsp;set&nbsp;pose&nbsp;of&nbsp;base
+</pre>
+<h2>Methods</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> getq</td> <td>return joint coordinates</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setq</td> <td>set joint coordinates</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> animate</td> <td>animate a joint coordinate trajectory</td></tr>
+</table>
+<h2>Superclass methods (VREP_obj)</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> getpos</td> <td>return position of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setpos</td> <td>set position of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> getorient</td> <td>return orientation of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setorient</td> <td>set orientation of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> getpose</td> <td>return pose of object given handle</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setpose</td> <td>set pose of object given handle</td></tr>
+</table>
+<p>
+can be used to set/get the pose of the robot base.
+
+</p>
+<h2>Superclass methods (VREP_base)</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> setobjparam_bool</td> <td>set object boolean parameter</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setobjparam_int</td> <td>set object integer parameter</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> setobjparam_float</td> <td>set object float parameter</td></tr>
+</table>
+<h2>Properties</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> n </td> <td>Number of joints</td></tr>
+</table>
+<h2>See also</h2>
+<p>
+<a href="vrep_mirror.html">vrep_mirror</a>, <a href="vrep_obj.html">vrep_obj</a>, <a href="vrep_arm.html">vrep_arm</a>, <a href="vrep_camera.html">vrep_camera</a>, <a href="vrep_hokuyo.html">vrep_hokuyo</a></p>
+<hr>
+<a name="VREP_arm"><h1>VREP_arm.VREP_arm</h1></a>
+<p><span class="helptopic">Create a robot arm mirror object</span></p><p>
+<strong>R</strong> = <span style="color:red">VREP_arm</span>(<strong>name</strong>, <strong>options</strong>) is a mirror object that corresponds to the
+robot arm named <strong>name</strong> in the V-REP environment.
+
+</p>
+<h2>Options</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1">'fmt', F</td> <td>Specify format for joint object names (default '%s_joint%d')</td></tr>
+</table>
+<h2>Notes</h2>
+<ul>
+  <li>The number of joints is found by searching for objects
+with names systematically derived from the root object name, by
+default named NAME_N where N is the joint number starting at 0.</li>
+</ul>
+<h2>See also</h2>
+<p>
+<a href="VREP.arm.html">VREP.arm</a></p>
+<hr>
+<a name="animate"><h1>VREP_arm.animate</h1></a>
+<p><span class="helptopic">Animate V-REP robot</span></p><p>
+R.<span style="color:red">animate</span>(<strong>qt</strong>, <strong>options</strong>) <span style="color:red">animate</span> the corresponding V-REP robot with
+configurations taken consecutive rows of <strong>qt</strong> (MxN) which represents
+an M-point trajectory.
+
+</p>
+<h2>Options</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1">'delay', D</td> <td>Delay (s) betwen frames for animation (default 0.1)</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1">'fps', fps</td> <td>Number of frames per second for display, inverse of 'delay' option</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1"> '[no]loop'</td> <td>Loop over the trajectory forever</td></tr>
+</table>
+<h2>See also</h2>
+<p>
+<a href="SerialLink.plot.html">SerialLink.plot</a></p>
+<hr>
+<a name="getq"><h1>VREP_arm.getq</h1></a>
+<p><span class="helptopic">Get joint angles of V-REP robot</span></p><p>
+R.<span style="color:red">getq</span>() is the vector of joint angles (1xN) from the corresponding
+robot arm in the V-REP simulation.
+
+</p>
+<hr>
+<a name="setq"><h1>VREP_arm.setq</h1></a>
+<p><span class="helptopic">Set joint angles of V-REP robot</span></p><p>
+R.<span style="color:red">setq</span>(<strong>q</strong>) sets the joint angles of the corresponding
+robot arm in the V-REP simulation to <strong>q</strong> (1xN).
+
+</p>
+<hr>
+<a name="teach"><h1>VREP_arm.teach</h1></a>
+<p><span class="helptopic">Graphical teach pendant</span></p><p>
+R.<span style="color:red">teach</span>(<strong>options</strong>) drive a V-REP robot by means of a graphical slider panel.
+
+</p>
+<h2>Options</h2>
+<table class="list">
+  <tr><td style="white-space: nowrap;" class="col1"> 'degrees'</td> <td>Display angles in degrees (default radians)</td></tr>
+  <tr><td style="white-space: nowrap;" class="col1">'q0', q</td> <td>Set initial joint coordinates</td></tr>
+</table>
+<h2>Notes</h2>
+<ul>
+  <li>The slider limits are all assumed to be [-pi, +pi]</li>
+</ul>
+<h2>See also</h2>
+<p>
+<a href="SerialLink.plot.html">SerialLink.plot</a></p>
+<hr>
+
+<p class="copy"><a href="http://www.petercorke.com/robot">Robotics Toolbox for MATLAB</a> &copy; 1990-2012 Peter Corke.</p>
+</body></html>

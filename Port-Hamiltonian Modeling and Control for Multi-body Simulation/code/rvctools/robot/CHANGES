@@ -1,0 +1,166 @@
+------------------------------------------------------------------------
+r1084 | peter.i.corke@gmail.com | 2013-02-24 09:38:55 +1000 (Sun, 24 Feb 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/tr2angvec.m
+
+Handle case of near zero rotation
+------------------------------------------------------------------------
+r1083 | peter.i.corke@gmail.com | 2013-02-20 08:52:35 +1000 (Wed, 20 Feb 2013) | 3 lines
+Changed paths:
+   M /matlab/robot/trunk/tr2angvec.m
+
+Replace the algorithm from Paul 81 with more elegant one based
+on skew symmetric matrix
+
+------------------------------------------------------------------------
+r1081 | malzahnandroid | 2013-02-12 23:27:48 +1000 (Tue, 12 Feb 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/@SerialLink/rne_dh.m
+   M /matlab/robot/trunk/Link.m
+
+found a few lines with ' instead of .', which produces complex conjugates
+------------------------------------------------------------------------
+r1080 | malzahnandroid@gmail.com | 2013-02-11 05:03:54 +1000 (Mon, 11 Feb 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/@CodeGenerator/CodeGenerator.m
+
+Function getrobfname now also checks for '/' as invalid character
+------------------------------------------------------------------------
+r1079 | malzahnandroid@gmail.com | 2013-02-11 04:52:37 +1000 (Mon, 11 Feb 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/@CodeGenerator/CodeGenerator.m
+
+fixed bug in CodeGenerator.m: no-friction robot copy removed
+------------------------------------------------------------------------
+r1076 | malzahnandroid | 2013-02-03 20:41:22 +1000 (Sun, 03 Feb 2013) | 1 line
+Changed paths:
+   A /matlab/common/simulinkext.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockcoriolis.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockfdyn.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockfkine.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockfriction.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockgravload.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockinertia.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockinvdyn.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockjacobian.m
+   M /matlab/robot/trunk/unit_test/CodeGeneratorTest.m
+
+- Fixed file extension in block generation functions. Block library generation now works with Simulink versions > 7.8
+------------------------------------------------------------------------
+r1075 | peter.i.corke@gmail.com | 2013-02-03 12:15:34 +1000 (Sun, 03 Feb 2013) | 2 lines
+Changed paths:
+   A /matlab/robot/trunk/mdl_phantomx.m
+
+New robot model, for low-cost hobby class arm
+
+------------------------------------------------------------------------
+r1074 | malzahnandroid | 2013-02-01 00:29:10 +1000 (Fri, 01 Feb 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/@CodeGenerator/gencoriolis.m
+   M /matlab/robot/trunk/@CodeGenerator/genfdyn.m
+   M /matlab/robot/trunk/@CodeGenerator/genfkine.m
+   M /matlab/robot/trunk/@CodeGenerator/genfriction.m
+   M /matlab/robot/trunk/@CodeGenerator/gengravload.m
+   M /matlab/robot/trunk/@CodeGenerator/geninertia.m
+   M /matlab/robot/trunk/@CodeGenerator/geninvdyn.m
+   M /matlab/robot/trunk/@CodeGenerator/genjacobian.m
+   M /matlab/robot/trunk/@CodeGenerator/genmfuncoriolis.m
+   M /matlab/robot/trunk/@CodeGenerator/genmfunfdyn.m
+   M /matlab/robot/trunk/@CodeGenerator/genmfunfkine.m
+   M /matlab/robot/trunk/@CodeGenerator/genmfunfriction.m
+   M /matlab/robot/trunk/@CodeGenerator/genmfungravload.m
+   M /matlab/robot/trunk/@CodeGenerator/genmfuninertia.m
+   M /matlab/robot/trunk/@CodeGenerator/genmfuninvdyn.m
+   M /matlab/robot/trunk/@CodeGenerator/genmfunjacobian.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockcoriolis.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockfdyn.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockfkine.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockfriction.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockgravload.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockinertia.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockinvdyn.m
+   M /matlab/robot/trunk/@CodeGenerator/genslblockjacobian.m
+   M /matlab/robot/trunk/@CodeGenerator/private/constructheaderstring.m
+   M /matlab/robot/trunk/@CodeGenerator/private/createmconstructor.m
+   M /matlab/robot/trunk/@CodeGenerator/private/ffindreplace.m
+   M /matlab/robot/trunk/@CodeGenerator/private/finsertfront.m
+   M /matlab/robot/trunk/@CodeGenerator/private/generatecopyrightnote.m
+   M /matlab/robot/trunk/@CodeGenerator/private/getpibugfixstring.m
+   M /matlab/robot/trunk/@CodeGenerator/private/replaceheader.m
+
++ fixed hyperlink issue in See also section
+------------------------------------------------------------------------
+r1073 | peter.i.corke@gmail.com | 2013-01-27 14:49:08 +1000 (Sun, 27 Jan 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/unit_test/UtilityTest.m
+
+Moved demo tests into DemoTest.m
+------------------------------------------------------------------------
+r1072 | peter.i.corke@gmail.com | 2013-01-27 14:48:37 +1000 (Sun, 27 Jan 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/unit_test/SimulinkTest.m
+
+Change quadcopter to quadrotor
+------------------------------------------------------------------------
+r1071 | peter.i.corke@gmail.com | 2013-01-27 14:48:05 +1000 (Sun, 27 Jan 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/unit_test/LocnTest.m
+
+Check that map building and SLAM actually find all the landmarks.
+------------------------------------------------------------------------
+r1070 | peter.i.corke@gmail.com | 2013-01-27 14:43:23 +1000 (Sun, 27 Jan 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/unit_test/CodeGeneratorTest.m
+
+Added cleanup of temporary files
+------------------------------------------------------------------------
+r1069 | peter.i.corke@gmail.com | 2013-01-27 14:42:48 +1000 (Sun, 27 Jan 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/demos/rotation.m
+
+Added the new tripleangle demo to this script
+------------------------------------------------------------------------
+r1067 | peter.i.corke@gmail.com | 2013-01-27 13:09:01 +1000 (Sun, 27 Jan 2013) | 3 lines
+Changed paths:
+   M /matlab/robot/trunk/tripleangle.fig
+   M /matlab/robot/trunk/tripleangle.m
+
+fix up problems with callbacks after renaming,
+better handling of options
+added 'wait' option
+------------------------------------------------------------------------
+r1066 | peter.i.corke@gmail.com | 2013-01-27 11:35:49 +1000 (Sun, 27 Jan 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/simulink/control.mdl
+   M /matlab/robot/trunk/simulink/quadrotor_dynamics.m
+   M /matlab/robot/trunk/simulink/roblocks.mdl
+   M /matlab/robot/trunk/simulink/sl_quadrotor.mdl
+   M /matlab/robot/trunk/simulink/vloop_test.mdl
+
+Minor fixes, restored broken block links
+------------------------------------------------------------------------
+r1065 | peter.i.corke@gmail.com | 2013-01-27 11:10:35 +1000 (Sun, 27 Jan 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/doc/robot.tex
+
+Update download instructions, citation instructions, year
+------------------------------------------------------------------------
+r1064 | peter.i.corke@gmail.com | 2013-01-27 11:09:40 +1000 (Sun, 27 Jan 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/mdl_puma560.m
+
+Fixed joint angle limits for this DH convention
+------------------------------------------------------------------------
+r1063 | peter.i.corke@gmail.com | 2013-01-27 11:06:49 +1000 (Sun, 27 Jan 2013) | 1 line
+Changed paths:
+   M /matlab/robot/trunk/trplot.m
+
+Add option to support thickness of lines for drawing axes
+------------------------------------------------------------------------
+r1062 | peter.i.corke@gmail.com | 2013-01-27 11:06:21 +1000 (Sun, 27 Jan 2013) | 2 lines
+Changed paths:
+   M /matlab/robot/trunk/@SerialLink/teach.m
+
+Fix errors that occur with 'degrees' option.
+Make slider callback non-interruptible and queued, eliminates problem with multiple quick clicks
+------------------------------------------------------------------------
