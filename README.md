@@ -319,8 +319,12 @@ This group project in a Neural Networks course was focused on doing Transfer Lea
 * Transfer Learning
 * Temperature-based Softmax Regression 
 ### Results
+Caltech256 Dataset
 
 ![cal256_test_acc](https://user-images.githubusercontent.com/22353511/35859399-c8d25058-0af4-11e8-8c57-84ced36624ec.png)
+
+UrbanTribes Dataset
+
 ![urbantribesvalilossviter80](https://user-images.githubusercontent.com/22353511/35859412-d0d8762e-0af4-11e8-9642-d672e489446f.png)
 ![acc_per_epoch_256](https://user-images.githubusercontent.com/22353511/35859186-f230d538-0af3-11e8-9a2a-2e010adf2d4b.png)
 ![max_final_256](https://user-images.githubusercontent.com/22353511/35859480-103cb9e2-0af5-11e8-9cb1-3708bd3d559a.png)
