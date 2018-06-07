@@ -1,0 +1,9 @@
+<launch>
+
+  <arg name="tel_pub_rate" default="1" />
+ 
+  <node name="Teleop_node" pkg="bwrobot" type="teleop.py">
+  	<param name="pub_rate" value="$(arg tel_pub_rate)" />
+  </node>
+
+</launch>

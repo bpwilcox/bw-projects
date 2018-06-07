@@ -1,0 +1,50 @@
+<launch>
+
+  <arg name="js_pub_rate" default="100" />
+  <arg name="tr_pub_rate" default="100" />
+  <arg name="tf_pub_rate" default="100" />
+  <arg name="pos_pub_rate" default="100" />
+  <arg name="rvizconfig" default="$(find bwrobot)/rviz/rvizconfig.rviz" />
+  <arg name="JointInit" default ="[0,45]" />
+  <arg name="jit_init" default ="10" />
+  <arg name="num_ind" default ="25" />
+  <arg name="w_thresh" default ="0.95" />
+  <arg name="drift_num" default ="1" />
+  <arg name="gui" default="false" />
+
+
+
+  <param name="robot_description" textfile="$(find bwrobot)/urdf/2link_robot.urdf" />
+
+
+  <node name="sensor_node" pkg="bwrobot" type="sensing.py">
+  	<param name="tf_ee_pub_rate" value="$(arg pos_pub_rate)" />
+  </node>
+
+  <node name="predict_node" pkg="bwrobot" type="prediction.py">
+  	<param name="predict_pub_rate" value="$(arg js_pub_rate)" />
+  	<rosparam param ="YStart" subst_value="True">$(arg JointInit)</rosparam>
+  </node>
+
+  <node name="train_node" pkg="bwrobot" type="training.py">
+  	<param name="train_pub_rate" value="$(arg tr_pub_rate)" />
+  	<rosparam param ="YStart" subst_value="True">$(arg JointInit)</rosparam>
+	<param name="njit" value="$(arg jit_init)" />
+	<param name="num_inducing" value="$(arg num_ind)" />
+	<param name="wgen" value="$(arg w_thresh)" />
+	<param name="drift" value="$(arg drift_num)" />
+  </node>
+
+
+  <node name="actuator_node" pkg="bwrobot" type="actuation.py">
+  	<param name="controller_pub_rate" value="$(arg tf_pub_rate)" />
+  </node>
+
+  <node name="Teleop_server" pkg="bwrobot" type="teleop_server.py">
+  </node>
+  
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+
+
+
+</launch>
