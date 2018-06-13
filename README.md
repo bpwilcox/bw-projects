@@ -151,6 +151,7 @@ This project is a work-in-progress for my MS Thesis work in the ARClab at UC San
 ![gc](https://user-images.githubusercontent.com/22353511/35856389-bc0fffb4-0aea-11e8-9bff-7ab219c3deb2.png)
 ![time](https://user-images.githubusercontent.com/22353511/35856394-bf98ec86-0aea-11e8-803f-440d372c8616.png)
 ![screenshot from 2017-06-08 06-01-25](https://user-images.githubusercontent.com/22353511/35856406-c6a7a1d4-0aea-11e8-8999-6f185fe463b5.png)
+![6lstar1](https://user-images.githubusercontent.com/22353511/41384062-9d5f1e54-6f28-11e8-8785-5a1dfee70e6d.gif)
 
 My current progress on this work is looking into ways to reduce computation time and increase accuracy. Methods being researched/implemented now are:
 * Incremental Variational Inference 
