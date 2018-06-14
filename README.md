@@ -138,27 +138,19 @@ This was the beginning of my current MS research project where I began by trying
 
 [see project files](https://github.com/bpwilcox/bw-projects/tree/master/MS%20Research%20Sparse%20Online%20Local%20Gaussian%20Process%20Regression)
 ### Description:
-This project is a work-in-progress for my MS Thesis work in the ARClab at UC San Diego. This work aims to achieve the goal of online model-learning and control for a teleoperation task by using Sparse Online Local Gaussian Process Regression (SOLGPR) to infer a local function mapping of robot sensor states to joint states and perform a prediction of the teleoperation command for joint control. In this iteration (not current), local Gaussian process models are learned and sparsified via Variational Inference with user-tuned bounds on model size and complexity. An optimization scheme involving periodic optimization of a drifting Gaussian process helps to reduce computation time in conjunction with the sparse local models. This framework provides a basis for a tradeoff between model complexity and performance.   
+This project is a work-in-progress for my MS Thesis work in the ARClab at UC San Diego. This work aims to achieve the goal of online model-learning and control for a teleoperation task by using Sparse Online Locally Adaptive (Gaussian Process) Regression (SOLAR) to infer a local function mapping of robot sensor states to joint states and perform a prediction of the teleoperation command for joint control. This work represents a novel combination of recent frameworks for Gaussian Process Regression, where  Local Gaussian process models are learned online and sparsified via Online Variational Inference, with partitioning and prediction biased by a "drifting" online sparse Gaussian process.
 
 ### Methods:
 * Gaussian Process Regression
 * Local GP Partitioning
 * Drifting GP
-* Variational Inference
+* Online Variational Inference
 * ROS platform
 
 ### Results
-![gc](https://user-images.githubusercontent.com/22353511/35856389-bc0fffb4-0aea-11e8-9bff-7ab219c3deb2.png)
-![time](https://user-images.githubusercontent.com/22353511/35856394-bf98ec86-0aea-11e8-803f-440d372c8616.png)
-![screenshot from 2017-06-08 06-01-25](https://user-images.githubusercontent.com/22353511/35856406-c6a7a1d4-0aea-11e8-8999-6f185fe463b5.png)
-![6lstar1](https://user-images.githubusercontent.com/22353511/41384062-9d5f1e54-6f28-11e8-8785-5a1dfee70e6d.gif)
 
-My current progress on this work is looking into ways to reduce computation time and increase accuracy. Methods being researched/implemented now are:
-* Incremental Variational Inference 
-* Temporally-biased local Partitioning
-* Model complexity tuning
-* Guided intermittent sampling for sharp discontinuities
-* Re-partitioning for optimal spatiotemporal correlation 
+![4lspiral](https://user-images.githubusercontent.com/22353511/41384561-698d7744-6f2b-11e8-95a7-66de9bed946a.gif)
+![6lstar1](https://user-images.githubusercontent.com/22353511/41384062-9d5f1e54-6f28-11e8-8785-5a1dfee70e6d.gif)
 
 ## Orientation Tracking and Panoramic Image Stitching with IMU 
 [back to top](#list-of-projects)
