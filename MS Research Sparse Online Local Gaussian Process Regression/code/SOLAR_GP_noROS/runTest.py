@@ -41,8 +41,8 @@ Origin = RobotModels.Link(0,0,0)
 Link1 = RobotModels.Link(0,l1,np.pi/2)
 Link2 = RobotModels.Link(0,l2,0)
 Link3 = RobotModels.Link(0,l3,0)
-Y = np.column_stack(np.deg2rad([45,-45,90]))
-#Y = np.column_stack(np.deg2rad([10,30,50]))
+#Y = np.column_stack(np.deg2rad([45,-45,90]))
+Y = np.column_stack(np.deg2rad([10,30,50]))
 
 robot = RobotModels.SerialLink([Origin, Link1, Link2, Link3], Y)
 
@@ -57,18 +57,18 @@ robot = RobotModels.SerialLink([Origin, Link1, Link2, Link3], Y)
 # TestCase = TestTrajectory(Trajectory.Circle2D(n,r,x0,y0,arclength = 2*np.pi), robot)
 # =============================================================================
 
-"Create 3D Test Case"
-Points = [[0.2,0.2,0], [0.0,0.3,0], [0.2,-0.1,0]]
-TestCase = TestTrajectory(Trajectory.PointPath(300, Points), robot)
-
 # =============================================================================
-# zline = np.linspace(robot.currentX[0,2], robot.currentX[0,2]-0.2, 500)
-# xline = robot.currentX[0,0] + 0.05*np.sin(75*(robot.currentX[0,2] - zline))
-# yline = robot.currentX[0,1] + 0.05* (1 - np.cos(75*(robot.currentX[0,2] - zline)))
-# TestCase= Trajectory.customPath(np.column_stack((xline, yline, zline)))
+# "Create 3D Test Case"
+# Points = [[0.2,0.2,0], [0.0,0.3,0], [0.2,-0.1,0]]
+# TestCase = TestTrajectory(Trajectory.PointPath(300, Points), robot)
 # 
 # =============================================================================
+zline = np.linspace(robot.currentX[0,2], robot.currentX[0,2]-0.2, 500)
+xline = robot.currentX[0,0] + 0.05*np.sin(75*(robot.currentX[0,2] - zline))
+yline = robot.currentX[0,1] + 0.05* (1 - np.cos(75*(robot.currentX[0,2] - zline)))
+TestCase= Trajectory.customPath(np.column_stack((xline, yline, zline)))
+
 
 "Run Test"
 Test = SOLAR_GP.SOLAR_GP(robot, TestCase)
-Test.runTest(njit = 25, num_inducing = 25, elev = 45, azim = 245, save_plots = True, wgen = 0.9)
+Test.runTest(njit = 25, num_inducing = 25, elev = 45, azim = 245, save_plots = False, wgen = 0.9, encode_angles = True)

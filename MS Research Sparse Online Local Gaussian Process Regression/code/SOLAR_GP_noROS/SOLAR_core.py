@@ -26,18 +26,26 @@ class LocalModels():
         self.robot= robot # robot model
         self.xdim = xdim
         self.ndim = ndim
+        self.encode = False
 
 
+    def encode_ang(q):
+        encoding = np.hstack((np.sin(q),np.cos(q))).reshape(np.size(q,0), np.size(q,1)*2)
+        return encoding
 
-
-
-    def initialize(self, njit, start):
+    def initialize(self, njit, start, encode = False):
         "Initialize Local Models: jitter -> partition -> model "
         self.xdim = self.robot.dim
         self.ndim = np.size(start,1)
         [XI,YI] = self.robot_jitter(njit,start)
         
-        YI = np.unwrap(YI,axis = 0)
+        if encode:
+            self.encode = True
+            YI =self.encode_ang(YI)
+            self.ndim = np.size(YI,1)
+        else:
+            YI = np.unwrap(YI,axis = 0)
+
         self.XI = XI # initial model input points
         self.YI = YI # initial model outpout points
 
@@ -335,13 +343,14 @@ class LocalModels():
                 ind = wv ==np.max(wv)
             else:
                 ind = wv > thresh
-
-            "Weighted circular mean of predictions"
-            ypred[n] = circstats.mean(yploc,axis = 0,w = wv.reshape(len(wv),1))
+ 
+            if self.encode:           
+                "Normal Weighted mean"
+                ypred[n] = np.dot(np.transpose(wv[ind]), yploc[ind]) / np.sum(wv[ind])   
+            else:
+                "Weighted circular mean of predictions"
+                ypred[n] = circstats.mean(yploc,axis = 0,w = wv.reshape(len(wv),1))
             
-            "Normal Weighted mean"
-#            ypred[n] = np.dot(np.transpose(wv[ind]), yploc[ind]) / np.sum(wv[ind])
-
             "Debug Prints"
 #            print("wv:" + str(wv))
 #            print("w:" + str(w))

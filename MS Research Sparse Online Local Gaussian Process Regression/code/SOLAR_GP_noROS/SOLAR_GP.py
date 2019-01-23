@@ -24,6 +24,8 @@ class SOLAR_GP():
 
     def make_plot(self, Q, elevation, azimuth, test_trajectory= True, real_trajectory = True, save = False, name = 'test'):
         "Plot robot"
+        if self.encode_angles:
+            Q = self.decode_ang(Q)
         ax = self.robot.plot3D(Q, elevation, azimuth) 
         njit = len(self.model.XI)
         "Plot test trajectory and actual trajectory"
@@ -41,14 +43,25 @@ class SOLAR_GP():
     
         #pl.cla()        
 
-    def runTest(self, init = True, njit = 25, num_inducing = 10, wgen = 0.9, drift = 1, train_flag = True, partition_flag = True, loop_trajectory = False, show_plots = True, save_plots = False, elev = 30, azim = 30):
+    def encode_ang(q):
+        encoding = np.hstack((np.sin(q),np.cos(q))).reshape(np.size(q,0), np.size(q,1)*2)
+        return encoding 
+    
+    def decode_ang(q):
+        d = int(np.size(q,1)/2)
+        decoding = np.arctan2(q[:,:d], q[:,d:]).reshape(np.size(q,0),d)
+        return decoding
+    
+    def runTest(self, init = True, njit = 25, num_inducing = 10, wgen = 0.9, drift = 1, encode_angles = False, train_flag = True, partition_flag = True, loop_trajectory = False, show_plots = True, save_plots = False, elev = 30, azim = 30):
         
         X_test = self.test.xtest
-
+        
+        self.encode_angles = encode_angles
+        
         "Initialize Local Models"
         if init:
             self.model = LocalModels(num_inducing, wgen, robot = self.robot)
-            self.model.initialize(njit, self.robot.currentY)
+            self.model.initialize(njit, self.robot.currentY, self.encode_angles)
 
         self.xpath = self.model.XI # stack of experiences
         self.ypath = self.model.YI
@@ -74,12 +87,18 @@ class SOLAR_GP():
             t1 = time.time()
     
             " Predict "
-            Ypred,var = self.model.prediction(X_test[i].reshape(1,self.model.xdim),Y_prev = self.ypath[-2:])
-            Ypost = np.vstack((self.ypath[-2:],Ypred))
-            Ypost = np.unwrap(Ypost,axis=0) # unwrap angles to be unbounded
+            if self.encode_angles:
+                Ypred,var = self.model.prediction(X_test[i].reshape(1,self.model.xdim),Y_prev = self.ypath[-2:])
+                Yexp = Ypred
+                Xexp, _ = self.robot.fkin(self.decode_ang(Yexp))
                 
-            Yexp = Ypost[-1].reshape(1,self.model.ndim)
-            Xexp, _ = self.robot.fkin(Yexp)   
+            else:
+                Ypred,var = self.model.prediction(X_test[i].reshape(1,self.model.xdim),Y_prev = self.ypath[-2:])
+                Ypost = np.vstack((self.ypath[-2:],Ypred))
+                Ypost = np.unwrap(Ypost,axis=0) # unwrap angles to be unbounded         
+                Yexp = Ypost[-1].reshape(1,self.model.ndim)
+                Xexp, _ = self.robot.fkin(Yexp)
+                
             
             self.xpath = np.vstack((self.xpath,Xexp))
             self.ypath = np.vstack((self.ypath,Yexp))   
