@@ -5,7 +5,7 @@ import circstats
 class LocalModels():
 
 
-    def __init__(self, num_inducing = 15, wgen = 0.975,  W = [], LocalData = [], Models = [], drift = 1, mdrift = [], robot = []):
+    def __init__(self, num_inducing = 15, wgen = 0.975,  W = [], LocalData = [], Models = [], drift = 1, mdrift = [], robot = [], xdim = [], ndim = []):
 
         """
         wgen
@@ -23,17 +23,19 @@ class LocalModels():
         self.Z = [] # Support points
         self.drift = drift 
         self.mdrift = mdrift # drifting GP
-        self.robot= robot # robot model 
+        self.robot= robot # robot model
+        self.xdim = xdim
+        self.ndim = ndim
 
 
 
 
 
-    def initialize(self, njit, start, robot):
+    def initialize(self, njit, start):
         "Initialize Local Models: jitter -> partition -> model "
-        #[XI,YI] = self.jitter(njit,sstart,robot)
+        self.xdim = self.robot.dim
         self.ndim = np.size(start,1)
-        [XI,YI] = self.smart_jitter(njit,start,robot)
+        [XI,YI] = self.robot_jitter(njit,start)
         
         YI = np.unwrap(YI,axis = 0)
         self.XI = XI # initial model input points
@@ -42,9 +44,12 @@ class LocalModels():
         # convert features to sin(angle), cos(angle)
         m = self.train_init(XI,YI,self.num_inducing)
         self.mdrift = m
-
-        W = np.diag([1/(m.kern.lengthscale[0]**2), 1/(m.kern.lengthscale[1]**2)])
-
+        
+        mkl = []
+        for i in range(0, self.xdim):
+            mkl.append(1/(m.kern.lengthscale[i]**2))
+        W = np.diag(mkl)
+        
         self.Z.append(m.Z)
         self.W = W
         self.Models.append(m)
@@ -52,7 +57,7 @@ class LocalModels():
         X_loc = []
         X_loc.append(1) # counter for number of local points partitioned
         X_loc.append(1) # redundant, same as above
-        X_loc.append(XI[0].reshape(1,2)) # input model center (i.e. [xc,yc])
+        X_loc.append(XI[0].reshape(1,self.xdim)) # input model center (i.e. [xc,yc])
         X_loc.append(YI[0].reshape(1,self.ndim)) #output model center (i.e. [q1, q2, q3,...])
         X_loc.append(True) # flag for whether model has been updated with latest partition
         self.LocalData.append(X_loc)
@@ -93,25 +98,15 @@ class LocalModels():
                      self.UpdateY[j] = None
 
 
-    def jitter(self,n,Y_init, robot):
-
-        deg = 5
-        max_rough=0.0174533
-        pert = deg*max_rough * np.random.uniform(-1.,1.,(n,self.ndim))
-        Y_start = Y_init + pert
-        X_start = robot.fkin(Y_start)
-
-        return X_start,Y_start
-    
-    def smart_jitter(self,n,Y_init, robot):
+    def robot_jitter(self,n,Y_init):
         # interpolate to the various points?
         deg = 5
         max_rough=0.0174533
         pert = deg*max_rough * np.random.uniform(-1.,1.,(n,self.ndim))
         Y_start = Y_init + pert
-        X_start = np.empty((n,2))
+        X_start = np.empty((n,self.robot.dim))
         for i in range(0,n):
-            X_start[i,:] = robot.fkin(Y_start[i,:].reshape(1,self.ndim))
+            X_start[i,:], _ = self.robot.fkin(Y_start[i,:].reshape(1,self.ndim))
         return X_start,Y_start
 
     def train_init(self,X, Y, num_inducing):
@@ -119,7 +114,7 @@ class LocalModels():
         if len(X) < num_inducing:
             num_inducing = len(X)
         Z = X[np.random.permutation(X.shape[0])[0:num_inducing], :]
-        m_init = GPy.models.SparseGPRegression(X,Y,GPy.kern.RBF(2,ARD=True),Z=Z)
+        m_init = GPy.models.SparseGPRegression(X,Y,GPy.kern.RBF(self.xdim,ARD=True),Z=Z)
         m_init.optimize(messages=False)
 
         return m_init
@@ -157,7 +152,7 @@ class LocalModels():
                     
                     if np.any(UpdateX[near]==None):
 
-                        UpdateX[near] = xnew[n].reshape(1,2)
+                        UpdateX[near] = xnew[n].reshape(1,self.xdim)
                         UpdateY[near] = ynew[n].reshape(1,self.ndim)
                     else:
 
@@ -171,13 +166,13 @@ class LocalModels():
                     M_loc[near][3] = (ynew[n]+ M_loc[near][3]*nloc)/(nloc+1)
                 else:
 
-                    UpdateX.append(xnew[n].reshape(1,2))
+                    UpdateX.append(xnew[n].reshape(1,self.xdim))
                     UpdateY.append(ynew[n].reshape(1,self.ndim))
 
                     M_new = []
                     M_new.append(1)
                     M_new.append(1)
-                    M_new.append(xnew[n].reshape(1,2))
+                    M_new.append(xnew[n].reshape(1,self.xdim))
                     M_new.append(ynew[n].reshape(1,self.ndim))
                     M_new.append(False)
                     M_loc.append(M_new)
@@ -304,7 +299,7 @@ class LocalModels():
 
                     xW = np.dot((xtest[n]-c),self.W) # 1x2 X 2x2
                     w[k] = np.exp(-0.5*np.dot(xW,np.transpose((xtest[n]-c))))
-                    yploc[k], var[k] = self.Models[k].predict(xtest[n].reshape(1,2))
+                    yploc[k], var[k] = self.Models[k].predict(xtest[n].reshape(1,self.xdim))
 
                     dw[k] = np.dot(yploc[k]-Y_prev[-1].reshape(1,self.ndim),np.transpose(yploc[k]-Y_prev[-1].reshape(1,self.ndim)))
 #                    dw[k] = np.linalg.norm(circstats.difference(yploc[k],Y_prev))

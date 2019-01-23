@@ -8,8 +8,12 @@ class TestTrajectory():
         
         self.trajectory = trajectory
         self.robot = robot
-        self.xtest = trajectory.xtest 
-        self.ytest = robot.inkin(self.xtest)
+        if np.size(trajectory.xtest,1) < robot.dim:
+            self.xtest = np.column_stack((trajectory.xtest, np.zeros(np.size(trajectory.xtest,0))))
+        else:     
+            self.xtest = trajectory.xtest
+
+        #self.ytest = robot.inkin(self.xtest)
    
     
     

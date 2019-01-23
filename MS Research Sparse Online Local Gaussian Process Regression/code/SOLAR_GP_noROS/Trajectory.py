@@ -161,3 +161,41 @@ class Star2D():
         return X_test
     
     
+class PointPath():
+    
+    def __init__(self,num_points, Points, loop = True, *args):
+        
+        self.num_points = num_points
+        self.Points = Points
+        self.loop = loop
+        self.xtest = self._createXtest()
+        
+        
+    def _createXtest(self):
+        N = len(self.Points)
+        X = np.empty([0, 1])
+        Y = np.empty([0, 1])
+        Z = np.empty([0, 1])
+        
+        for i in range(0,N-1):
+            X = np.vstack((X, np.linspace(self.Points[i][0], self.Points[i+1][0], self.num_points).reshape(self.num_points,1)))
+            Y = np.vstack((Y, np.linspace(self.Points[i][1], self.Points[i+1][1], self.num_points).reshape(self.num_points,1)))
+            Z = np.vstack((Z, np.linspace(self.Points[i][2], self.Points[i+1][2], self.num_points).reshape(self.num_points,1)))
+        if self.loop:
+            X = np.vstack((X, np.linspace(self.Points[-1][0], self.Points[0][0], self.num_points).reshape(self.num_points,1)))
+            Y = np.vstack((Y, np.linspace(self.Points[-1][1], self.Points[0][1], self.num_points).reshape(self.num_points,1)))
+            Z = np.vstack((Z, np.linspace(self.Points[-1][2], self.Points[0][2], self.num_points).reshape(self.num_points,1)))            
+        Path = np.column_stack((X,Y,Z))
+        return Path
+    
+class customPath():
+    
+    def __init__(self,Points, *args):
+        
+        self.Points = Points
+        self.xtest = self._createXtest()
+        
+        
+    def _createXtest(self):
+        X_test = self.Points
+        return X_test    
