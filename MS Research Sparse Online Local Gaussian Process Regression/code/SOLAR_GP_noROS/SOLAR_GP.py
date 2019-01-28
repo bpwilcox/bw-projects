@@ -42,12 +42,8 @@ class SOLAR_GP():
         pl.show(block=True)
     
         #pl.cla()        
-
-    def encode_ang(q):
-        encoding = np.hstack((np.sin(q),np.cos(q))).reshape(np.size(q,0), np.size(q,1)*2)
-        return encoding 
     
-    def decode_ang(q):
+    def decode_ang(self, q):
         d = int(np.size(q,1)/2)
         decoding = np.arctan2(q[:,:d], q[:,d:]).reshape(np.size(q,0),d)
         return decoding
@@ -69,11 +65,13 @@ class SOLAR_GP():
         "Timing"
         tc = np.zeros([len(X_test)-1,1])
 
-
-        Yexp = self.robot.currentY
+        if self.encode_angles:
+            Yexp = self.model.encode_ang(self.robot.currentY)
+        else:
+            Yexp = self.robot.currentY
         i = 0 
         Error = np.empty([])
-        keep = len(X_test)
+        keep = len(X_test) + njit
         
         "Main Loop"
         while i < len(X_test):  

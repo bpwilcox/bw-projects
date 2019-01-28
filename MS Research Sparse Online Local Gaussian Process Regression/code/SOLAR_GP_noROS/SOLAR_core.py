@@ -29,7 +29,7 @@ class LocalModels():
         self.encode = False
 
 
-    def encode_ang(q):
+    def encode_ang(self, q):
         encoding = np.hstack((np.sin(q),np.cos(q))).reshape(np.size(q,0), np.size(q,1)*2)
         return encoding
 
@@ -38,10 +38,10 @@ class LocalModels():
         self.xdim = self.robot.dim
         self.ndim = np.size(start,1)
         [XI,YI] = self.robot_jitter(njit,start)
-        
+
         if encode:
             self.encode = True
-            YI =self.encode_ang(YI)
+            YI = self.encode_ang(YI)
             self.ndim = np.size(YI,1)
         else:
             YI = np.unwrap(YI,axis = 0)
@@ -96,8 +96,8 @@ class LocalModels():
 
                 else:
                      print("Add New Model")
-#                     m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.Models[j-1], self.num_inducing, fixTheta = False, driftZ = False,use_old_Z=True)
-                     m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.mdrift, self.num_inducing, fixTheta = False, driftZ = False,use_old_Z=True)
+                     m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.Models[j-1], self.num_inducing, fixTheta = False, driftZ = False,use_old_Z=True)
+                     #m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.mdrift, self.num_inducing, fixTheta = False, driftZ = False,use_old_Z=True)
 
                      self.Models.append(m)
                      self.LocalData[j][4] = True
@@ -150,6 +150,7 @@ class LocalModels():
 
 
                 if useJointdist:
+                #if self.encode:
                     wv = w*np.exp(-0.5*dcw)
                 else:
                     wv = w
@@ -330,7 +331,7 @@ class LocalModels():
             else:
                 h = 1
             
-            s = 10
+            s = 50
             wv = w*np.exp(-s*dw)/var
             wv =np.nan_to_num(wv)
             wv = wv.reshape(self.M,)
@@ -338,6 +339,8 @@ class LocalModels():
 #            wv = wv/np.sum(wv)            
             thresh = 0 # 0 uses all models
             
+            self.w = wv
+            self.var = var            
             "Select for best models"
             if np.max(wv) < thresh:
                 ind = wv ==np.max(wv)
@@ -358,7 +361,8 @@ class LocalModels():
 #            print("dc:" + str(dc))
 #            print("var:" + str(var))
 #            print("dcw:" + str(dcw))
-#            print("yploc:" + str(yploc))
+            #print("yploc:" + str(yploc))
+            #print("ypred:" + str(ypred))
 
 
         return ypred, varmin
