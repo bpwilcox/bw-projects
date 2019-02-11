@@ -5,7 +5,7 @@ import circstats
 class LocalModels():
 
 
-    def __init__(self, num_inducing = 15, wgen = 0.975,  W = [], LocalData = [], Models = [], drift = 1, mdrift = [], robot = [], xdim = [], ndim = []):
+    def __init__(self, num_inducing = 15, wgen = 0.975,  W = [], drift = 1, mdrift = [], robot = [], xdim = [], ndim = []):
 
         """
         wgen
@@ -16,23 +16,29 @@ class LocalModels():
 
         self.wgen = wgen # threshold for partitioning
         self.W = W # width hyperparameters from drift GP
-        self.Models = Models #Local GP Models
-        self.LocalData = LocalData # Local model partition data
+        self.Models = [] #Local GP Models
+        self.LocalData = [] # Local model partition data
         self.M = len(self.LocalData) #number of models
         self.num_inducing = num_inducing # number of inducing support points
         self.Z = [] # Support points
-        self.drift = drift 
+        self.drift = drift
         self.mdrift = mdrift # drifting GP
         self.robot= robot # robot model
         self.xdim = xdim
         self.ndim = ndim
         self.encode = False
-
+        self.var = np.array(0)
+        self.Ws = []
 
     def encode_ang(self, q):
         encoding = np.hstack((np.sin(q),np.cos(q))).reshape(np.size(q,0), np.size(q,1)*2)
         return encoding
-
+    
+    def decode(self, q):
+        d = int(np.size(q,1)/2)
+        decoding = np.arctan2(q[:,:d], q[:,d:]).reshape(np.size(q,0),d)
+        return decoding
+    
     def initialize(self, njit, start, encode = False):
         "Initialize Local Models: jitter -> partition -> model "
         self.xdim = self.robot.dim
@@ -52,14 +58,46 @@ class LocalModels():
         # convert features to sin(angle), cos(angle)
         m = self.train_init(XI,YI,self.num_inducing)
         self.mdrift = m
-        
+
         mkl = []
         for i in range(0, self.xdim):
             mkl.append(1/(m.kern.lengthscale[i]**2))
         W = np.diag(mkl)
-        
+
         self.Z.append(m.Z)
         self.W = W
+        self.Ws.append(W)
+        self.Models.append(m)
+
+        X_loc = []
+        X_loc.append(1) # counter for number of local points partitioned
+        X_loc.append(1) # redundant, same as above
+        X_loc.append(XI[0].reshape(1,self.xdim)) # input model center (i.e. [xc,yc])
+        X_loc.append(YI[0].reshape(1,self.ndim)) #output model center (i.e. [q1, q2, q3,...])
+        X_loc.append(True) # flag for whether model has been updated with latest partition
+        self.LocalData.append(X_loc)
+
+        self.M = len(self.LocalData)
+        self.UpdateX = [None] * self.M # holds partitioned points for updating models
+        self.UpdateY = [None] * self.M
+
+        self.partition(XI[1:],YI[1:])
+        self.train()
+
+    def initializeF(self, XI, YI, encode = True):
+        "Initialize Local Models: jitter -> partition -> model "
+        m = self.train_init(XI,YI,self.num_inducing)
+        self.encode = encode
+        self.mdrift = m
+
+        mkl = []
+        for i in range(0, self.xdim):
+            mkl.append(1/(m.kern.lengthscale[i]**2))
+        W = np.diag(mkl)
+
+        self.Z.append(m.Z)
+        self.W = W
+        self.Ws.append(W)
         self.Models.append(m)
 
         X_loc = []
@@ -71,7 +109,7 @@ class LocalModels():
         self.LocalData.append(X_loc)
         self.M = len(self.LocalData)
         self.UpdateX = [None] * self.M # holds partitioned points for updating models
-        self.UpdateY = [None] * self.M 
+        self.UpdateY = [None] * self.M
 
         self.partition(XI[1:],YI[1:])
         self.train()
@@ -83,38 +121,53 @@ class LocalModels():
                     if np.any(self.UpdateX[j]==None):
                         continue
                     else:
-                         m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.Models[j], self.num_inducing, fixTheta = True,use_old_Z=True)
+                        m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.Models[j], self.num_inducing, fixTheta = False,use_old_Z=True)
 
-                         m.likelihood.variance = self.mdrift.likelihood.variance
-                         m.kern.variance =  self.mdrift.kern.variance
-                         m.kern.lengthscale =  self.mdrift.kern.lengthscale
-                         self.Models[j]  = m
-                         self.Z[j] = m.Z
-                         self.UpdateX[j] = None
-                         self.UpdateY[j] = None
+                         #m.likelihood.variance = self.mdrift.likelihood.variance
+                         #m.kern.variance =  self.mdrift.kern.variance
+                         #m.kern.lengthscale =  self.mdrift.kern.lengthscale
+                        self.Models[j]  = m
+                        self.Z[j] = m.Z
+                        self.UpdateX[j] = None
+                        self.UpdateY[j] = None
 
 
                 else:
-                     print("Add New Model")
-                     m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.Models[j-1], self.num_inducing, fixTheta = False, driftZ = False,use_old_Z=True)
-                     #m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.mdrift, self.num_inducing, fixTheta = False, driftZ = False,use_old_Z=True)
+                    print("Add New Model")
+                    m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.Models[j-1], self.num_inducing, fixTheta = False, driftZ = False,use_old_Z=True)
+                    #m = self.doOSGPR(self.UpdateX[j],self.UpdateY[j],self.mdrift, self.num_inducing, fixTheta = False, driftZ = False,use_old_Z=True)
 
-                     self.Models.append(m)
-                     self.LocalData[j][4] = True
-                     self.Z.append(m.Z)
-                     self.UpdateX[j] = None
-                     self.UpdateY[j] = None
+                    self.Models.append(m)
+                    self.LocalData[j][4] = True
+                    self.Z.append(m.Z)
+                    self.UpdateX[j] = None
+                    self.UpdateY[j] = None
 
 
     def robot_jitter(self,n,Y_init):
         # interpolate to the various points?
-        deg = 5
+        deg = 7
         max_rough=0.0174533
         pert = deg*max_rough * np.random.uniform(-1.,1.,(n,self.ndim))
         Y_start = Y_init + pert
         X_start = np.empty((n,self.robot.dim))
         for i in range(0,n):
             X_start[i,:], _ = self.robot.fkin(Y_start[i,:].reshape(1,self.ndim))
+        return X_start,Y_start
+
+    def fake_jitter(self,n,Y_init, X_prev):
+        # interpolate to the various points?
+        deg = 1
+        max_rough=0.0174533
+        pert = deg*max_rough * np.random.uniform(-1.,1.,(n,int(self.xdim/2)))
+        Y_start = Y_init + pert
+        Y_start = self.encode_ang(Y_start)
+        X_start, _ = self.prediction(Y_start, Y_prev = X_prev)
+# =============================================================================
+#         X_start = np.empty((n,self.ndim))
+#         for i in range(0,n):
+#             X_start[i,:], _ = self.prediction(Y_start[i,:].reshape(1,self.xdim), Y_prev = X_prev)
+# =============================================================================
         return X_start,Y_start
 
     def train_init(self,X, Y, num_inducing):
@@ -138,7 +191,7 @@ class LocalModels():
 
             for n in range(0,np.shape(xnew)[0],1):
                 w = np.empty([M,1]) # metric for distance between model center and query point
-                dcw = np.empty([self.M, 1]) #metric for distance between model joint center  and previous query joint 
+                #dcw = np.empty([self.M, 1]) #metric for distance between model joint center  and previous query joint
 
                 for k in range(0,M,1):
                     c = M_loc[k][2] #1x2
@@ -146,19 +199,20 @@ class LocalModels():
 
                     xW = np.dot((xnew[n]-c),W) # 1x2 X 2x2
                     w[k] = np.exp(-0.5*np.dot(xW,np.transpose((xnew[n]-c))))
-                    dcw[k] = np.dot(d-ynew[n],np.transpose(d-ynew[n])) 
+                    #dcw[k] = np.dot(d-ynew[n],np.transpose(d-ynew[n]))
 
 
                 if useJointdist:
                 #if self.encode:
-                    wv = w*np.exp(-0.5*dcw)
+                    #wv = w*np.exp(-0.5*dcw)
+                    wv = w
                 else:
                     wv = w
-                wnear = np.max(wv) 
+                wnear = np.max(wv)
                 near = np.argmax(wv)
 
                 if wnear > self.wgen:
-                    
+
                     if np.any(UpdateX[near]==None):
 
                         UpdateX[near] = xnew[n].reshape(1,self.xdim)
@@ -219,7 +273,7 @@ class LocalModels():
                 old_Z = cur_Z[M_new:,:]
                 new_Z = new_X[np.random.permutation(new_X.shape[0])[0:M_new], :]
                 Z = np.vstack((old_Z, new_Z))
-                
+
         elif M < num_inducing:
             M_new = num_inducing - M
             old_Z = cur_Z[np.random.permutation(M), :]
@@ -235,7 +289,7 @@ class LocalModels():
 
         else:
             M = cur_Z.shape[0]
-#            M_old = int(0.7 * M)
+            #M_old = int(0.7 * M)
             M_old = M - len(new_X)
             M_new = M - M_old
             old_Z = cur_Z[np.random.permutation(M)[0:M_old], :]
@@ -287,6 +341,14 @@ class LocalModels():
         mean = np.arctan2(y,x)
         return mean
 
+    def ang_mean(self,weights,angles):
+        x = y = 0
+        for angle, weight in zip(angles,weights):
+            x += np.cos(angle)*weight
+            y += np.sin(angle)*weight
+
+        mean = np.arctan2(y,x)
+        return mean
 
     def prediction(self,xtest, weighted = True, bestm = 2, Y_prev = []):
         ypred = np.empty([np.shape(xtest)[0], self.ndim])
@@ -297,6 +359,7 @@ class LocalModels():
             dcw = np.empty([self.M, 1])
 
             yploc = np.empty([self.M,self.ndim])
+            #xploc = np.empty([self.M,self.xdim])
 
             var = np.empty([self.M,1])
             for k in range(0, self.M, 1):
@@ -307,19 +370,23 @@ class LocalModels():
                     d = self.LocalData[k][3]
 
                     xW = np.dot((xtest[n]-c),self.W) # 1x2 X 2x2
+                    #print(xW)
                     w[k] = np.exp(-0.5*np.dot(xW,np.transpose((xtest[n]-c))))
+                    #print(w[k])
                     yploc[k], var[k] = self.Models[k].predict(xtest[n].reshape(1,self.xdim))
-
-                    dw[k] = np.dot(yploc[k]-Y_prev[-1].reshape(1,self.ndim),np.transpose(yploc[k]-Y_prev[-1].reshape(1,self.ndim)))
+                    #print(yploc[k])
+                    #xploc[k], _ = self.robot.fkin(self.decode(yploc[k].reshape(1,self.ndim)))
+                    
+#                    dw[k] = np.dot(yploc[k]-Y_prev[-1].reshape(1,self.ndim),np.transpose(yploc[k]-Y_prev[-1].reshape(1,self.ndim)))
 #                    dw[k] = np.linalg.norm(circstats.difference(yploc[k],Y_prev))
 #                    dc[k] = np.dot(yploc[k]-d,np.transpose(yploc[k]-d))
-#                    dcw[k] = np.dot(d-Y_prev,np.transpose(d-Y_prev))
+                    dcw[k] = np.dot(d-Y_prev[-1].reshape(1,self.ndim),np.transpose(d-Y_prev[-1].reshape(1,self.ndim)))
                 except:
-                    
+
                     w[k] = 0
                     dw[k] = float("inf")
                     dc[k] = float("inf")
-#                    dcw[k] = float("inf")
+                    dcw[k] = float("inf")
 #                    var[k] = float("inf")
                     pass
 
@@ -330,38 +397,47 @@ class LocalModels():
                     h = bestm
             else:
                 h = 1
-            
+
+            self.w = w
             s = 50
-            wv = w*np.exp(-s*dw)/var
+            #wv = w*np.exp(-s*dcw)/var
+            #wv = w
+            wv = w*np.exp(-s*dcw*var)
+            #wv = w*np.exp(-var)
+            #wv = w/var
             wv =np.nan_to_num(wv)
             wv = wv.reshape(self.M,)
             varmin = np.min(var) # minimum variance of local predictions
-#            wv = wv/np.sum(wv)            
+#            wv = wv/np.sum(wv)
             thresh = 0 # 0 uses all models
-            
-            self.w = wv
-            self.var = var            
+
+            self.wv = wv
+            self.var = var
             "Select for best models"
             if np.max(wv) < thresh:
                 ind = wv ==np.max(wv)
             else:
                 ind = wv > thresh
- 
-            if self.encode:           
+            #print(ind)
+            if self.encode:
                 "Normal Weighted mean"
-                ypred[n] = np.dot(np.transpose(wv[ind]), yploc[ind]) / np.sum(wv[ind])   
+                ypred[n] = np.dot(np.transpose(wv[ind]), yploc[ind]) / np.sum(wv[ind])
             else:
                 "Weighted circular mean of predictions"
                 ypred[n] = circstats.mean(yploc,axis = 0,w = wv.reshape(len(wv),1))
-            
+
             "Debug Prints"
-#            print("wv:" + str(wv))
-#            print("w:" + str(w))
+            #print("wv:" + str(wv))
+            #print("w:" + str(w))
 #            print("dw:" + str(dw))
 #            print("dc:" + str(dc))
-#            print("var:" + str(var))
-#            print("dcw:" + str(dcw))
-            #print("yploc:" + str(yploc))
+            #print("var:" + str(var))
+            #print("dcw:" + str(dcw))
+            #print("d:" + str(d))
+            #print("Yprev:" + str(Y_prev[-1].reshape(1,self.ndim)))
+#            print("yploc:" + str(yploc))
+            #print("xploc:" + str(xploc))
+
             #print("ypred:" + str(ypred))
 
 

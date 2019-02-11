@@ -212,7 +212,9 @@ class OSGPR_VFE(GP):
         Kbs = self.kern.K(self.Z, Xnew)
         (Kbf, Kba, Kaa, Kaa_cur, La, Kbb, Lb, D, LD,
             Lbinv_Kba, LDinv_Lbinv_c, err, Qff) = self._build_common_terms()
-
+        #print(np.linalg.cond(Lb))
+        #print(np.linalg.cond(LD))
+        
         Lbinv_Kbs = sp.linalg.solve_triangular(Lb, Kbs, lower=True)
         LDinv_Lbinv_Kbs = sp.linalg.solve_triangular(LD, Lbinv_Kbs, lower=True)
         mean = np.matmul(np.transpose(LDinv_Lbinv_Kbs), LDinv_Lbinv_c)
@@ -231,6 +233,25 @@ class OSGPR_VFE(GP):
 
         return mean, var
 
+    def inspect_terms(self, Xnew):
+        """
+        Compute the mean and variance of the latent function at some new points
+        Xnew. 
+        """
+
+        # a is old inducing points, b is new
+        # f is training points
+        # s is test points
+        Kbs = self.kern.K(self.Z, Xnew)
+        (Kbf, Kba, Kaa, Kaa_cur, La, Kbb, Lb, D, LD,
+            Lbinv_Kba, LDinv_Lbinv_c, err, Qff) = self._build_common_terms()
+        
+        Lbinv_Kbs = sp.linalg.solve_triangular(Lb, Kbs, lower=True)
+        LDinv_Lbinv_Kbs = sp.linalg.solve_triangular(LD, Lbinv_Kbs, lower=True)
+
+        return Kbs, Lb, LD, Lbinv_Kbs, LDinv_Lbinv_Kbs, LDinv_Lbinv_c
+    
+    
     def parameters_changed(self):
         self.posterior, self._log_marginal_likelihood, self.grad_dict = \
         self.inference_method.inference(self.kern, self.X, self.Z, self.likelihood,

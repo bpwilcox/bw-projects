@@ -9,7 +9,7 @@ import time
 
 
 rootdir = os.getcwd()
-imdir = os.path.join(rootdir, 'Figures')
+imdir = os.path.join(rootdir, 'Plots')
 
 #dir_path = imdir   
 #data = (os.path.join(dir_path, fn) for fn in os.listdir(dir_path))
@@ -43,7 +43,7 @@ def create_gif(imdir, duration):
     imageio.mimsave(output_file, images, duration=duration)
 #    return images
 
-images = create_gif(imdir,0.0001)
+images = create_gif(imdir,0.15)
 
 #if __name__ == "__main__":
 #    script = sys.argv.pop(0)
