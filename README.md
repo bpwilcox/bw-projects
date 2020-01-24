@@ -1,7 +1,7 @@
 # bw-projects
 
 ## About me
-My name is Brian Wilcox. I am currently in my second year of an MS program at UC San Diego in Electrical & Computer Engineering with a focus in Intelligent Systems, Robotics, and Control. Previously, I graduated from MIT in 2016 with a BS in Mechanical Engineering where I focused on control theory and biomechanics. I hope one day to combine my passions for robotics-topics and medical devices to help grow the future of medical robotics.  
+My name is Brian Wilcox. I am currently a professional in the robotics industry. I graduated from the MS program at UC San Diego in Electrical & Computer Engineering with a focus in Intelligent Systems, Robotics, and Control. Previously, I graduated from MIT in 2016 with a BS in Mechanical Engineering where I focused on control theory and biomechanics. I hope one day to combine my passions for robotics-topics and medical devices to help grow the future of medical robotics.  
 
 ## About this repository
 This repository is a collection of robotics, control, and machine learning relevant projects over the past few years. It is meant to provide an overview of many (though not all) of the technical methods that I have implemented in code. Projects included range in scale from class assignments to course projects to significant research efforts. Please note that not all code is fully-implementable due to the omission of training data in this repo (limited space for large datasets). Most projects contain a report, paper, or presentation describing the methods and results in further detail. 
