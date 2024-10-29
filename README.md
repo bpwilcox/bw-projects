@@ -139,7 +139,7 @@ This was the beginning of my current MS research project where I began by trying
 [see project files](https://github.com/bpwilcox/bw-projects/tree/master/MS%20Research%20Sparse%20Online%20Local%20Gaussian%20Process%20Regression)
 ### Description:
 
-EDIT: The final project can be found [here](https://ieeexplore.ieee.org/document/9000569). The work was [published](https://ieeexplore.ieee.org/document/9000569) in IEEE RA-L.
+EDIT: The final project can be found [here](https://github.com/ucsdarclab/SOLAR-GP). The work was [published](https://ieeexplore.ieee.org/document/9000569) in IEEE RA-L.
 
 This project is a work-in-progress for my MS Thesis work in the ARClab at UC San Diego. This work aims to achieve the goal of online model-learning and control for a teleoperation task by using Sparse Online Locally Adaptive (Gaussian Process) Regression (SOLAR) to infer a local function mapping of robot sensor states to joint states and perform a prediction of the teleoperation command for joint control. This work represents a novel combination of recent frameworks for Gaussian Process Regression, where  Local Gaussian process models are learned online and sparsified via Online Variational Inference, with partitioning and prediction biased by a "drifting" online sparse Gaussian process.
 
